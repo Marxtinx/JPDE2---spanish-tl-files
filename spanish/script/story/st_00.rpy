@@ -158,49 +158,49 @@ translate spanish s00_birth_of_the_red_fang_598a2d86:
 translate spanish s00_birth_of_the_red_fang_33cf14cf:
 
     # adt sun amused "Such a small vision, {b}Sienna{/b}.{w=0.3} It just needed to stand for something better than picketing, or pitting humans against their own greed."
-    adt sun amused ""
+    adt sun amused "Una visión tan corta {b}Sienna{/b}.{w=0.3} Solo necesitan estar a favor de algo mejor que un piquete, o hundir a los humanos contra su propia codicia."
 
 # game/script/story/st_00.rpy:104
 translate spanish s00_birth_of_the_red_fang_20902a39:
 
     # sk sun neutral "And what would that be?"
-    sk sun neutral ""
+    sk sun neutral "Y que sería eso?"
 
 # game/script/story/st_00.rpy:106
 translate spanish s00_birth_of_the_red_fang_d3ca0875:
 
     # adt sun neutral "Revolution."
-    adt sun neutral ""
+    adt sun neutral "Una revolución"
 
 # game/script/story/st_00.rpy:108
 translate spanish s00_birth_of_the_red_fang_fb51f3e1:
 
     # sk sun tsk "You mean genocide!{w=0.3} Do you seriously intend to drag us into open conflict with humans?!"
-    sk sun tsk ""
+    sk sun tsk "You mean genocide!{w=0.3} En serio pretendes arrastrarnos en un conflicto con los humanos?!"
 
 # game/script/story/st_00.rpy:110
 translate spanish s00_birth_of_the_red_fang_3f22406f:
 
     # adt sun amused "Drag us?{w=0.3} Don't take me for a tyrant, Sienna. All I'm going to do is...{w=0.5} Take away any other choice."
-    adt sun amused ""
+    adt sun amused "Arrastrarnos?{w=0.3} No me tomes por un tirano, Sienna. Lo que voy a hacer es...{w=0.5} Eliminar la otra opción."
 
 # game/script/story/st_00.rpy:113
 translate spanish s00_birth_of_the_red_fang_8fce9e0d:
 
     # sk sun angry "This isn't a war we can win, Adam!"
-    sk sun angry ""
+    sk sun angry "Esta no es una guerra que podamos ganar, Adam!"
 
 # game/script/story/st_00.rpy:116
 translate spanish s00_birth_of_the_red_fang_4339f9ba:
 
     # adt sun frown "Just like {b}Vale{/b} was untouchable.{w=0.3} We all know how that ended...{w=0.5} You are meek and short-sighted, Sienna."
-    adt sun frown ""
+    adt sun frown "Justo como {b}Vale{/b} era intocable.{w=0.3} Todos sabemos como termino eso...{w=0.5} Eres mansa y de vista corta, Sienna"
 
 # game/script/story/st_00.rpy:117
 translate spanish s00_birth_of_the_red_fang_1371ab12:
 
     # adt sun neutral "You had the right idea, when you took the Fang over from the Belladonnas.{w=0.3} You just lack the resolution and vision to go further."
-    adt sun neutral ""
+    adt sun neutral "Tenías la idea correcta, cuando tomaste el Fang de los Belladonna.{w=0.3} Solo te falta la resolución y visión para ir mas lejos."
 
 # game/script/story/st_00.rpy:118
 translate spanish s00_birth_of_the_red_fang_bc140428:

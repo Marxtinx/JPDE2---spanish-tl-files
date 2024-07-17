@@ -4,7 +4,7 @@ translate spanish strings:
 
     # game/screens/dialogue_screens.rpy:96
     old "Back"
-    new ""
+    new "Atras"
 
     # game/screens/dialogue_screens.rpy:97
     old "History"

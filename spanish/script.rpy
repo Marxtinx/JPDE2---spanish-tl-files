@@ -8,7 +8,7 @@ translate spanish strings:
 
     # game/script.rpy:13
     old "Voice from the Past"
-    new "Voz del pasado"
+    new "Voz del Pasado"
 
     # game/script.rpy:15
     old "Everyone Else"

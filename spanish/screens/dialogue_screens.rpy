@@ -8,21 +8,21 @@ translate spanish strings:
 
     # game/screens/dialogue_screens.rpy:97
     old "History"
-    new ""
+    new "historial"
 
     # game/screens/dialogue_screens.rpy:98
     old "Skip"
-    new ""
+    new "saltar"
 
     # game/screens/dialogue_screens.rpy:99
     old "Auto"
-    new ""
+    new "automatico"
 
     # game/screens/dialogue_screens.rpy:100
     old "Save"
-    new ""
+    new "guardar"
 
     # game/screens/dialogue_screens.rpy:101
     old "Settings"
-    new ""
+    new "configuracion"
 

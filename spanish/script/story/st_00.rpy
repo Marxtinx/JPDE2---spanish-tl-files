@@ -584,25 +584,25 @@ translate spanish s00_birth_of_the_red_fang_0120510c:
 translate spanish s00_birth_of_the_red_fang_4d904715:
 
     # d sun neutral "My name is {b}[p_n] di Kabegis{/b}.{w=0.5} I'm a {b}Hunter{/b}."
-    d sun neutral "Mi nombre es {b}[p_n] di Kabegis{/b}.{w=0.5} Soy un {b}Hunter{/b}."
+    d sun neutral "Mi nombre es {b}[p_n] di Kabegis{/b}.{w=0.5} Soy un {b}Cazador{/b}."
 
 # game/script/story/st_00.rpy:332
 translate spanish s00_birth_of_the_red_fang_3bd1474c:
 
     # sk sun shock "...!{w=0.5} A Hunter?!"
-    sk sun shock "...!{w=0.5} Un Hunter?!"
+    sk sun shock "...!{w=0.5} Un Cazador?!"
 
 # game/script/story/st_00.rpy:344
 translate spanish s00_birth_of_the_red_fang_8d463dc1:
 
     # rf_1 sun "A Hunter?!"
-    rf_1 sun "Un Hunter?!"
+    rf_1 sun "Un Cazador?!"
 
 # game/script/story/st_00.rpy:345
 translate spanish s00_birth_of_the_red_fang_f94275e5:
 
     # rf_2 sun "What is a Hunter doing here?!"
-    rf_2 sun "Que hace un Hunter aquí?"
+    rf_2 sun "Que hace un Cazador aquí?"
 
 # game/script/story/st_00.rpy:346
 translate spanish s00_birth_of_the_red_fang_7886b48b:

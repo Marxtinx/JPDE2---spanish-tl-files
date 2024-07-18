@@ -4,5 +4,5 @@ translate spanish strings:
 
     # game/options.rpy:17
     old "JPDE2: Adagio of Darkness - EP06"
-    new ""
+    new "JPDE2: adagio de las sombras - EP06"
 

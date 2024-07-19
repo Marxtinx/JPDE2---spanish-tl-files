@@ -4,43 +4,43 @@
 translate spanish s02_the_waterway_5f9b2433:
 
     # sk surprise "This is...{w=0.5} Significantly bigger than I expected."
-    sk surprise ""
+    sk surprise "Esto es...{w=0.5} Más grande de lo que esperaba."
 
 # game/script/story/st_02.rpy:22
 translate spanish s02_the_waterway_d2528f27:
 
     # d surprise "That makes two of us.{w=0.3} There's so much light, too...{w=0.5} What is all this?!"
-    d surprise ""
+    d surprise "Eso nos hace dos.{w=0.3} Hay demasiada luz, también...{w=0.5} Qué es está cosa?!"
 
 # game/script/story/st_02.rpy:30
 translate spanish s02_the_waterway_6f3dddd8:
 
     # sk nulla "Bioluminiscent moss...{w=0.5} And these tunnels must have been escavated by the river over the centuries."
-    sk nulla ""
+    sk nulla "Musgo bioluminicente...{w=0.5} T esos túneles deben haber sido escavados por la corriente del agua durante siglos."
 
 # game/script/story/st_02.rpy:33
 translate spanish s02_the_waterway_dba6985b:
 
     # sk nulla "This must be the water source that supposedly dried up and forced Vacuo to abandon the Red Cliffs fortress, centuries ago."
-    sk nulla ""
+    sk nulla "Esta debe ser la fuente de agua que supuestamente se secó y forzí a Vacuo a abandoar la fortaleza de los Cañones Rojos, siglos atrás."
 
 # game/script/story/st_02.rpy:34
 translate spanish s02_the_waterway_d05bbc3b:
 
     # d nulla "Oh...{w=0.5} Yeah, that tracks.{w=0.3} I guess it just got diverted, then."
-    d nulla ""
+    d nulla "Oh...{w=0.5} Si, eso concuerda.{w=0.3} Creo que solo se desvío, entonces."
 
 # game/script/story/st_02.rpy:37
 translate spanish s02_the_waterway_be13bd22:
 
     # sk nulla "Somehow.{w=0.3} Brothers only know what goes on this deep underg-"
-    sk nulla ""
+    sk nulla "De alguna manera.{w=0.5} Quien sabe que hay en este profundo subte-"
 
 # game/script/story/st_02.rpy:48
 translate spanish s02_the_ants_09ba9a23:
 
     # d "Watch out!"
-    d ""
+    d "Cuidado!"
 
 # game/script/story/st_02.rpy:62
 translate spanish s02_the_ants_25aaf278:
@@ -48,7 +48,7 @@ translate spanish s02_the_ants_25aaf278:
     # voice "audio/vo/narrator/012.ogg"
     # na "Three years after the Fall of Beacon, the wheels of fate set in motion again.{w=0.3} [p_n] di Kabegis, now a full fledged Hunter, is on a mission to extract Sienna Khan, deposed leader of the White Fang."
     voice "audio/vo/narrator/012.ogg"
-    na ""
+    na "Tres años desúes de la Caída de Beacon, las ruedas del destino se ponen en marcha una vez mas.{w=0.3} [p_n] di Kabegis, ahora un Cazador en pleno derecho, esta en una misión para rescatar a Sienna Khan, la ahora derrocada líder del White Fang"
 
 # game/script/story/st_02.rpy:64
 translate spanish s02_the_ants_0fb1e18e:
@@ -56,7 +56,7 @@ translate spanish s02_the_ants_0fb1e18e:
     # voice "audio/vo/narrator/013.ogg"
     # na "Will the duo be able to escape their pursuers?{w=0.3} What dangers lurk in the Red Cliffs Waterway?"
     voice "audio/vo/narrator/013.ogg"
-    na ""
+    na "Podrá el duo escapar de sus perseguidores?{w=0.3} Que peligros acechan en las aguas de los Cañones rojos?"
 
 # game/script/story/st_02.rpy:66
 translate spanish s02_the_ants_7ffa5954:
@@ -64,943 +64,943 @@ translate spanish s02_the_ants_7ffa5954:
     # voice "audio/vo/narrator/014.ogg"
     # na "Find out in the next chittering episode of {b}JPDE2: Adagio of Darkness{/b}!"
     voice "audio/vo/narrator/014.ogg"
-    na ""
+    na "Descubrelo en el chirriante episodio de {b}JPDE2: Adagio of Darkness{/b}"
 
 # game/script/story/st_02.rpy:132
 translate spanish s02_the_nest_431325e9:
 
     # d nulla "So the Red Cliffs are home to a nest of Grimm.{w=0.3} Cool.{w=0.3} Cooooooooool cool cool cool coolcoolcool."
-    d nulla ""
+    d nulla "Así que los Cañones Rojos son el hogar de un nido de Grimm.{w=0.3} Genial.{w=0.3} Geniaaaal genial genial genialgenialgenial."
 
 # game/script/story/st_02.rpy:133
 translate spanish s02_the_nest_e357f304:
 
     # sk nulla "{b}Kataglyphs{/b}...{w=0.5} They're scavengers, pretty common in the vacuosi cold desert."
-    sk nulla ""
+    sk nulla "{b}Kataglyphs{/b}...{w=0.5} Son carroñeros, muy comunes en frío desierto vacuosiano."
 
 # game/script/story/st_02.rpy:135
 translate spanish s02_the_nest_863fba33:
 
     # d nulla "I think we covered them in Grimm Studies...{w=0.5} They should only go after already dead prey, then."
-    d nulla ""
+    d nulla "Creo que los vimos en estudios de Grimm...{w=0.5} Ellos deberían ir solo por presa muerta, entonces."
 
 # game/script/story/st_02.rpy:136
 translate spanish s02_the_nest_494b1cb0:
 
     # sk nulla "Yes but, considering they got the home advantage, I wouldn't push my luck."
-    sk nulla ""
+    sk nulla "Si pero, considerando que tienen la ventaja de estar en casa, no tentaría mi suerte."
 
 # game/script/story/st_02.rpy:143
 translate spanish s02_the_nest_1c34cc37:
 
     # d nulla "Alright, screw it.{w=0.3} {b}I'm turning all the functions of my arm back on again{/b}."
-    d nulla ""
+    d nulla "Muy bien, al diablo.{w=0.3} {b}Voy a encender todas las funciones de mi brazo{/b}."
 
 # game/script/story/st_02.rpy:145
 translate spanish s02_the_nest_27029fe4:
 
     # sk nulla "You had some off?"
-    sk nulla ""
+    sk nulla "Tenías algunas apagadas?"
 
 # game/script/story/st_02.rpy:146
 translate spanish s02_the_nest_ac1fcb14:
 
     # d nulla "Yeah.{w=0.3} They consume energy and I was told the rock of the cliffs would render most of them unreliable but:{w=0.15} the more help we can get the better, here."
-    d nulla ""
+    d nulla "Si.{w=0.3} Consumen energia y me dijeron que las rocas de los cañones dejarían la mayoría de ellas en un estado poco confiable, pero:{w=0.15} mientras mas ayuda podamos tener mejor, aquí."
 
 # game/script/story/st_02.rpy:149
 translate spanish s02_the_nest_0fd4adc3:
 
     # d nulla "I didn't go through all the trouble to save you just so we could become a Grimm's dinner...{w=0.5} There, awful static but there should be a way up if we keep going north."
-    d nulla ""
+    d nulla "No fui por todos esos problemas para salvarte solo para que podamos convertirnos en cena de Grimm...{w=0.5} Por allí, una horrible estatica pero debería haber un camino hacia arriba si seguimos yendo al norte."
 
 # game/script/story/st_02.rpy:152
 translate spanish s02_the_nest_e8625c94:
 
     # sk nulla "A weapon, a flashlight, a mapping system...{w=0.5} Anything else?"
-    sk nulla ""
+    sk nulla "Un arma, una linterna, un sistema de mapeo...{w=0.5} Algo mas?"
 
 # game/script/story/st_02.rpy:154
 translate spanish s02_the_nest_be5f493f:
 
     # d nulla "It also serves as my Scroll.{w=0.3} And I can exercise a pressure of 1950 kilograms per square centimeter."
-    d nulla ""
+    d nulla "También sirve como mi Scroll.{w=0.3} Y puedo ejercer una presión de 1950 kilogramos por centimetro cuadrado."
 
 # game/script/story/st_02.rpy:160
 translate spanish s02_the_nest_12c32139:
 
     # sk nulla "This kind of technology...{w=0.5} Did you also get your arm installed 'back home'?"
-    sk nulla ""
+    sk nulla "Este tipo de tecnología...{w=0.5} También conseguiste que te instalen tu brazo 'en casa'?"
 
 # game/script/story/st_02.rpy:162
 translate spanish s02_the_nest_8a471145:
 
     # d nulla "You know it.{w=0.3} Let's go, now."
-    d nulla ""
+    d nulla "Ya lo sabes.{w=0.3} Vamonos, ahora."
 
 # game/script/story/st_02.rpy:180
 translate spanish expo_st_03_01_b26fecb9:
 
     # sk pain ".{w=0.3}.{w=0.3}.{w=0.5}oh, no..."
-    sk pain ""
+    sk pain ".{w=0.3}.{w=0.3}.{w=0.5}oh, no..."
 
 # game/script/story/st_02.rpy:181
 translate spanish expo_st_03_01_eea48b9d:
 
     # d smile "Afraid of heights?"
-    d smile ""
+    d smile "Asustada de las alturas?"
 
 # game/script/story/st_02.rpy:189
 translate spanish expo_st_03_01_dfbba528:
 
     # sk nulla "Not so much the height bothering me but the fact that you can't see the bottom and the relative tightness of our slippery water-escavated ledge."
-    sk nulla ""
+    sk nulla "No es tanto la altura lo que me molesta sino el hecho de que no podemos ver el fondo y el grosor relativo de nuestro resbalozo pasaje escavado por el agua."
 
 # game/script/story/st_02.rpy:190
 translate spanish expo_st_03_01_50627439:
 
     # d nulla "Fair enough.{w=0.3} Definitely would be the second worst fall I've ever had."
-    d nulla ""
+    d nulla "Bastante justo.{w=0.3} Definitivamente sería la segunda peor caída que tendría."
 
 # game/script/story/st_02.rpy:193
 translate spanish expo_st_03_01_9931f5ca:
 
     # sk nulla "Oh brothers, you're serious."
-    sk nulla ""
+    sk nulla "Oh por los hermanos, estás hablando en serio."
 
 # game/script/story/st_02.rpy:194
 translate spanish expo_st_03_01_9a86d27f:
 
     # d nulla "And you're much more skittish than I thought.{w=0.3} I figured the head of a terrorist organization would be more at ease with darkness."
-    d nulla ""
+    d nulla "Y tu eres mucho mas asustadiza de lo que pensaba.{w=0.3} Pensé que la cabeza de una organización terrorista estaría mas en calma en la oscuridad."
 
 # game/script/story/st_02.rpy:196
 translate spanish expo_st_03_01_bb93426f:
 
     # sk nulla "Which shows just how much you know of the Fang...{w=0.5} And me."
-    sk nulla ""
+    sk nulla "Lo que demuestra lo mucho que conoces sobre el Fang...{w=0.5} Y de mi."
 
 # game/script/story/st_02.rpy:201
 translate spanish expo_st_03_01_4e820f70:
 
     # d nulla "Watch your step."
-    d nulla ""
+    d nulla "Cuidado donde pisas."
 
 # game/script/story/st_02.rpy:202
 translate spanish expo_st_03_01_c1f67da1:
 
     # sk angry "I most certainly will!"
-    sk angry ""
+    sk angry "Definitivamente lo haré"
 
 # game/script/story/st_02.rpy:214
 translate spanish expo_st_03_02_dd3d7be8:
 
     # d neutral "Fork in the road...{w=0.5} But north would probably be the shortest way to where my mapper is pointing."
-    d neutral ""
+    d neutral "Bifurcación en el camino...{w=0.5} Pero el norte problablemente sea el camino mas corto hacia donde mi mapa está apuntando."
 
 # game/script/story/st_02.rpy:215
 translate spanish expo_st_03_02_cb07a54d:
 
     # sk smile "Also the path which sticks to a wall the most, thankf-"
-    sk smile ""
+    sk smile "También el camino que mas se apega a una pared, Gracias a-"
 
 # game/script/story/st_02.rpy:217
 translate spanish expo_st_03_02_49619b4c:
 
     # sk surprise "STOP!"
-    sk surprise ""
+    sk surprise "ALTO!"
 
 # game/script/story/st_02.rpy:218
 translate spanish expo_st_03_02_fbb09037:
 
     # d surprise "Wha-?!"
-    d surprise ""
+    d surprise "Qu-?!"
 
 # game/script/story/st_02.rpy:225
 translate spanish expo_st_03_02_107f0bff:
 
     # d "What's gotten into you?!"
-    d ""
+    d "Qué pasa contigo?!"
 
 # game/script/story/st_02.rpy:226
 translate spanish expo_st_03_02_778c7662:
 
     # sk "The floor around here looks different than-"
-    sk ""
+    sk "El piso alrededor de aquí se ve diferente al-"
 
 # game/script/story/st_02.rpy:242
 translate spanish expo_st_03_02_62cfd0a0:
 
     # sk surprise sweat "Are you alright...?"
-    sk surprise sweat ""
+    sk surprise sweat "Estás bien...?"
 
 # game/script/story/st_02.rpy:243
 translate spanish expo_st_03_02_cfe00023:
 
     # d surprise sweat "Yeah...{w=0.5} Thanks."
-    d surprise sweat ""
+    d surprise sweat "Si...{w=0.5} Gracias."
 
 # game/script/story/st_02.rpy:250
 translate spanish expo_st_03_02_070b8010:
 
     # d nulla "That is {i}not{/i} a test of my reflexes I would've undergone gladly."
-    d nulla ""
+    d nulla "Eso {i}no{/i} es una prueba de reflejos que haría voluntariamente."
 
 # game/script/story/st_02.rpy:251
 translate spanish expo_st_03_02_62c2761f:
 
     # sk nulla "We'd best be careful from now on...{w=0.5} The rock is thinner in certain spots."
-    sk nulla ""
+    sk nulla "Será mejor que seamos cuidadosos de ahora en adelante...{w=0.5} La roca es mas delgada en algunos puntos."
 
 # game/script/story/st_02.rpy:256
 translate spanish expo_st_03_02_ee1e66a1:
 
     # d nulla "I'd say.{w=0.3} How did you even notice?"
-    d nulla ""
+    d nulla "Ni que lo digas.{w=0.3} Cómo siquiera te diste cuenta?"
 
 # game/script/story/st_02.rpy:257
 translate spanish expo_st_03_02_9af0cf8d:
 
     # sk nulla "I told you, the rock looked different in that spot...{w=0.5} And I can see in the darkness."
-    sk nulla ""
+    sk nulla "Te lo dije, la roca se ve diferente en ese punto...{w=0.5} Y puedo ver en la oscuridad."
 
 # game/script/story/st_02.rpy:261
 translate spanish expo_st_03_02_1a5d599a:
 
     # d "Oh...{w=0.5} So when earlier you said you couldn't see the bottom...{w=0.5} Damn."
-    d ""
+    d "Oh...{w=0.5} Así que mas temprano cuando dijiste que no podías ver el fondo...{w=0.5} Demonios."
 
 # game/script/story/st_02.rpy:263
 translate spanish expo_st_03_02_cb4a16e5:
 
     # d nulla "Pretty useful.{w=0.5} Honestly, I figured you had a second animal trait, but I thought it was the stripes."
-    d nulla ""
+    d nulla "Bastante útil.{w=0.5} Honestamente, había asumido que tenías un segundo rasgo animal, pero pensé que eran las rayas."
 
 # game/script/story/st_02.rpy:264
 translate spanish expo_st_03_02_1c9d619b:
 
     # sk nulla "Those are tattoos."
-    sk nulla ""
+    sk nulla "Esos son tatuajes."
 
 # game/script/story/st_02.rpy:270
 translate spanish expo_st_03_02_11f6cf63:
 
     # sk nulla "Alright, I should have probably kept that to myself, but {i}please{/i} get your mind out of the gutter...?"
-    sk nulla ""
+    sk nulla "Muy bien, debería probablemente dejarme eso para mi misma, pero {i}por favor{/i} puedes sacar tu mente de mi...?"
 
 # game/script/story/st_02.rpy:272
 translate spanish expo_st_03_02_9262a0f7:
 
     # d nulla "I-{w=0.15}I'm sorry.{w=0.3} I will.{w=0.3} Promise."
-    d nulla ""
+    d nulla "Yo-{w=0.15}Lo siento.{w=0.3} Lo haré.{w=0.3} Lo prometo."
 
 # game/script/story/st_02.rpy:273
 translate spanish expo_st_03_02_016648c1:
 
     # sk nulla "*sigh*{w=0.5}Southern path, then."
-    sk nulla ""
+    sk nulla "*sigh*{w=0.5}Camino al Sur, entonces."
 
 # game/script/story/st_02.rpy:277
 translate spanish expo_st_03_02_139efa66:
 
     # d_i "(That...{w=0.5} Felt so...{w=0.5} I've been in situations like that before but it's been...{w=0.5} Years.)"
-    d_i ""
+    d_i "(Eso...{w=0.5} Se sintió tan...{w=0.5} He estado en situaciones como esas antes pero han sido...{w=0.5} Años.)"
 
 # game/script/story/st_02.rpy:281
 translate spanish expo_st_03_02_c5c47114:
 
     # d_i "(Three years and then some...{w=0.5} It was another [p_n], another life.{w=0.3} Stop reminiscing.)"
-    d_i ""
+    d_i "(Tres años y entonces algunos...{w=0.5} Era otra [p_n], otra vida.{w=0.3} Para de recordar.)"
 
 # game/script/story/st_02.rpy:295
 translate spanish expo_st_03_03_d733a2bc:
 
     # d neutral "Map is getting a bit clearer...{w=0.5} I guess that the more we stay around here, the more enviromental data it successfully collects."
-    d neutral ""
+    d neutral "El mapa se está aclarando...{w=0.5} Supongo que mientras mas nos quedemos por aquí, mas información medioambiental es recolecta correctamente."
 
 # game/script/story/st_02.rpy:296
 translate spanish expo_st_03_03_158b2dae:
 
     # sk neutral ".{w=0.3}.{w=0.3}.{w=0.5}so, are you going to tell me who you rep, already?"
-    sk neutral ""
+    sk neutral ".{w=0.3}.{w=0.3}.{w=0.5} asi que, vas a contarme a quien representas, de una vez?"
 
 # game/script/story/st_02.rpy:303
 translate spanish expo_st_03_03_ed638313:
 
     # d nulla "Still on about that?"
-    d nulla ""
+    d nulla "Sigues con eso?"
 
 # game/script/story/st_02.rpy:304
 translate spanish expo_st_03_03_eda44b33:
 
     # sk nulla "I never stopped being on about that, I was only side-tracked.{w=0.3} Don't get me wrong, I'm grateful for the save..."
-    sk nulla ""
+    sk nulla "Nunca deje de estarlo, solo lo deje en paralelo.{w=0.3} No me malinterpretes, estoy agradecida por salvarme..."
 
 # game/script/story/st_02.rpy:306
 translate spanish expo_st_03_03_6e449af3:
 
     # sk nulla "But you took a considerable risk and you're now in even more danger.{w=0.3} You're a Hunter, so you're on a mission...{w=0.5} I'd like to know on whose behalf and why."
-    sk nulla ""
+    sk nulla "Pero tomaste un riegos considerable y ahora estás en una posición incluso mas peligrosa.{w=0.3} Eres un Cazador, y estás en una misión...{w=0.5} Me gustaría saber en representación de quién y por qué."
 
 # game/script/story/st_02.rpy:308
 translate spanish expo_st_03_03_65cc57d0:
 
     # d nulla "Sorry, I'm not authorized to tell you anything..."
-    d nulla ""
+    d nulla "Perdón, no estoy autorizado de contarte nada..."
 
 # game/script/story/st_02.rpy:310
 translate spanish expo_st_03_03_930e22cc:
 
     # d nulla "But honestly?{w=0.3} You already have enough hints to guess which organization I represent without me telling you."
-    d nulla ""
+    d nulla "Pero honestamente?{w=0.3} Ya tiens mas que suficientes pistas para adivinar a que organización represento sin que tenga que contartelo."
 
 # game/script/story/st_02.rpy:312
 translate spanish expo_st_03_03_c451ae8e:
 
     # sk nulla "Do I, now?{w=0.3} Let's see."
-    sk nulla ""
+    sk nulla "Lo hago, ahora?{w=0.3} Dejame ver."
 
 # game/script/story/st_02.rpy:314
 translate spanish expo_st_03_03_05915da9:
 
     # sk nulla "Your clothes look too warm for Vacuo and your technology is too advanced for Vale.{w=0.3} You made a comment earlier about Atlas wishing they had someone like...{w=0.5} The 'professor'."
-    sk nulla ""
+    sk nulla "Tus ropas se ven demasiado calientes para Vacuo y tu tecnología es demasiado avanzada para Vale.{w=0.3} Hiciste un comentario antes sobre Atlas deseando tener alguien como...{w=0.5} el 'profesor'."
 
 # game/script/story/st_02.rpy:315
 translate spanish expo_st_03_03_d85556c0:
 
     # d nulla "That I did."
-    d nulla ""
+    d nulla "Eso dije."
 
 # game/script/story/st_02.rpy:317
 translate spanish expo_st_03_03_7c94be52:
 
     # sk nulla "You obviously can't be from Mistral, considering all their Hunters are...{w=0.5} Occupied, so that only leaves..."
-    sk nulla ""
+    sk nulla "Obviamente no puedes ser de Mistral, considerando que todos sus Cazadores están...{w=0.5} Ocupados, así que eso solo nos deja..."
 
 # game/script/story/st_02.rpy:323
 translate spanish expo_st_03_03_e7a308eb:
 
     # sk nulla "You're from...?{w=0.5} But why...?"
-    sk nulla ""
+    sk nulla "Eres de...?{w=0.5} Pero por qué...?"
 
 # game/script/story/st_02.rpy:339
 translate spanish expo_st_03_04_fb2372b4:
 
     # d smile "The way up, finally."
-    d smile ""
+    d smile "El camino hacia arriba, finalmente."
 
 # game/script/story/st_02.rpy:340
 translate spanish expo_st_03_04_6204fb60:
 
     # sk frown "Indeed...{w=0.5} But."
-    sk frown ""
+    sk frown "Tienes razón...{w=0.5} Pero."
 
 # game/script/story/st_02.rpy:350
 translate spanish expo_st_03_04_a69af364:
 
     # sk nulla "Looks like the locals aren't ready to give up on a meal just yet."
-    sk nulla ""
+    sk nulla "Parece que los locales no están dispuestos a renunciar a una comida aún."
 
 # game/script/story/st_02.rpy:409
 translate spanish s02_the_ants_round2_end_a392736c:
 
     # d nulla "You're getting better."
-    d nulla ""
+    d nulla "Estás mejorando."
 
 # game/script/story/st_02.rpy:410
 translate spanish s02_the_ants_round2_end_fdaecbfc:
 
     # sk nulla "I beg your pardon?"
-    sk nulla ""
+    sk nulla "Disculpa?"
 
 # game/script/story/st_02.rpy:411
 translate spanish s02_the_ants_round2_end_1ff1ce47:
 
     # d nulla "Your form and aura control are getting better...{w=0.5} Or maybe I should say that you're rediscovering them."
-    d nulla ""
+    d nulla "Tu estado y control del aura están mejorando...{w=0.5} O quizás debería decir que los estás redescubriendo."
 
 # game/script/story/st_02.rpy:413
 translate spanish s02_the_ants_round2_end_0bcbf32c:
 
     # sk nulla ".{w=0.3}.{w=0.3}.{w=0.5}I guess I am.{w=0.3} It's been a while since I've done this much fighting in so little time."
-    sk nulla ""
+    sk nulla ".{w=0.3}.{w=0.3}.{w=0.5}Creo que lo estoy haciendo.{w=0.5} Ha sido un tiempo desde que he peleado tanto en un lapso tan corto."
 
 # game/script/story/st_02.rpy:415
 translate spanish s02_the_ants_round2_end_926eef51:
 
     # sk nulla "I went through hell to master my whip to begin with, my body won't forget anytime soon.{w=0.3} And I was sure to keep up my {b}daily meditation{/b}."
-    sk nulla ""
+    sk nulla "He pasado un infierno para dominar mi latigo para empezar, mi cuerpo no lo olvidará pronto.{w=0.3} Y me aseguré de mantener mi {b}meditación diaria{/b}."
 
 # game/script/story/st_02.rpy:419
 translate spanish s02_the_ants_round2_end_68a8c78a:
 
     # d nulla "Huh?{w=0.3} Meditation?{w=0.3} What does that have to do with anything?"
-    d nulla ""
+    d nulla "Huh?{w=0.3} Meditación?{w=0.3} Qué tiene eso que ver?"
 
 # game/script/story/st_02.rpy:421
 translate spanish s02_the_ants_round2_end_7da51261:
 
     # sk nulla "Huuu, everything?{w=0.3} Didn't they t-"
-    sk nulla ""
+    sk nulla "Huuu, todo?{w=0.3} No dicen q-"
 
 # game/script/story/st_02.rpy:425
 translate spanish s02_the_ants_round2_end_bef3db7e:
 
     # sk nulla "Ooooh, of course.{w=0.3} You went to Beacon, after all, and after that...{w=0.5} Yeah, that tracks."
-    sk nulla ""
+    sk nulla "Ooooh, por supuesto.{w=0.3} Tu fuiste a Beacon, despúes de todo, y luego de eso...{w=0.5} Si, eso lo explica."
 
 # game/script/story/st_02.rpy:427
 translate spanish s02_the_ants_round2_end_bca5c87c:
 
     # sk nulla "Ooooh, of course.{w=0.3} You went to a big fancy Hunter academy, after all...{w=0.5} Yeah, that tracks."
-    sk nulla ""
+    sk nulla "Ooooh, por supuesto.{w=0.3} Tu fuiste a una gran prestigiosa academia de Cazadors, despúes de todo...{w=0.5} Si, eso lo explica}"
 
 # game/script/story/st_02.rpy:428
 translate spanish s02_the_ants_round2_end_421f8cef:
 
     # d nulla "Now {i}I{/i} beg your pardon?{w=0.3} What's that about?"
-    d nulla ""
+    d nulla "Ahora {i}Yo{/i} Disculpa?{w=0.3} De que va esto?"
 
 # game/script/story/st_02.rpy:430
 translate spanish s02_the_ants_round2_end_bf15b3d6:
 
     # sk nulla "Yes, yes, that makes sense...{w=0.5} I pity you, really."
-    sk nulla ""
+    sk nulla "Si, si, Eso tiene sentido...{w=0.5} Es una lástima, de verdad."
 
 # game/script/story/st_02.rpy:433
 translate spanish s02_the_ants_round2_end_f89a348c:
 
     # d nulla "You pi-{w=0.15}what do you mean?!{w=0.3} Hey!{w=0.3} Come back here!"
-    d nulla ""
+    d nulla "Es una la-{w=0.15}A que te refieres?!{w=0.3} Hey!{w=0.3} Vuelve aquí!"
 
 # game/script/story/st_02.rpy:434
 translate spanish s02_the_ants_round2_end_286716f8:
 
     # sk amused "How about you follow, instead?{w=0.3} We're still on the run."
-    sk amused ""
+    sk amused "Que tal si tu me sigues, en lugar de eso?{w=0.3} Seguimos intentando escapar."
 
 # game/script/story/st_02.rpy:436
 translate spanish s02_the_ants_round2_end_72642330:
 
     # d nulla "Freaking...!"
-    d nulla ""
+    d nulla "Maldita...!"
 
 # game/script/story/st_02.rpy:437
 translate spanish s02_the_ants_round2_end_0eb54d38:
 
     # d_i "(What is she on about?)"
-    d_i ""
+    d_i "(Que le pasa a ella?)"
 
 # game/script/story/st_02.rpy:463
 translate spanish expo_st_03_05_e9620fb0:
 
     # sk surprise "Tighter tunnels...{w=0.5} But the air is fresher.{w=0.3} I think I even feel a draft!"
-    sk surprise ""
+    sk surprise "Tuneles mas estrechos...{w=0.5} Pero el aire es mas fresco.{w=0.3} Creo que incluso puedo sentir un flujo de aire!"
 
 # game/script/story/st_02.rpy:464
 translate spanish expo_st_03_05_2dd87ce0:
 
     # d smile "There must be an opening, then.{w=0.3} Hopefully it's big enough for us to go through."
-    d smile ""
+    d smile "Debe haber un claro, entonces.{w=0.3} Esperemos y sea lo suficientemente grande para que podamos pasar."
 
 # game/script/story/st_02.rpy:465
 translate spanish expo_st_03_05_8ec43ac0:
 
     # sk surprise "So...{w=0.5} We're almost out.{w=0.3} Your colleagues are probably waiting outside..."
-    sk surprise ""
+    sk surprise "Así que...{w=0.5} Ya casi salimos.{w=0.3} Tus colegas están probablemente esperando afuera..."
 
 # game/script/story/st_02.rpy:466
 translate spanish expo_st_03_05_cd9025ef:
 
     # d surprise "Uhm...{w=0.5} Well, yeah?"
-    d surprise ""
+    d surprise "Uhm...{w=0.5} Pues, si?"
 
 # game/script/story/st_02.rpy:474
 translate spanish expo_st_03_05_3115f629:
 
     # d nulla "Uhm, hello?{w=0.3} Are you alright?"
-    d nulla ""
+    d nulla "Uhm, hola?{w=0.3} Estás bien?"
 
 # game/script/story/st_02.rpy:475
 translate spanish expo_st_03_05_7a6c3d4a:
 
     # sk nulla "I'm...{w=0.5} Fine, yeah.{w=0.3} I just..."
-    sk nulla ""
+    sk nulla "Estoy...{w=0.3} Bien, si.{w=0.3} Yo solo..."
 
 # game/script/story/st_02.rpy:478
 translate spanish expo_st_03_05_fa57668c:
 
     # sk nulla "Nevermind.{w=0.5} It's nothing."
-    sk nulla ""
+    sk nulla "Olvidalo.{w=0.5} No es nada."
 
 # game/script/story/st_02.rpy:481
 translate spanish expo_st_03_05_44b820e7:
 
     # d_i nulla "(Nothing my ass.{w=0.3} Something's clearly eating her...{w=0.5} Something new.)"
-    d_i nulla ""
+    d_i nulla "(Nada mi trasero.{w=0.3} Obviamente algo la está carcomiendo...{w=0.5} Algo nuevo.)"
 
 # game/script/story/st_02.rpy:484
 translate spanish expo_st_03_05_3386bdbe:
 
     # d_i nulla "(Even so, what do I care?{w=0.3} I don't care.)"
-    d_i nulla ""
+    d_i nulla "(Incluso así, que me importa?{w=0.3} No me importa.)"
 
 # game/script/story/st_02.rpy:486
 translate spanish expo_st_03_05_8aede3cc:
 
     # d_i nulla "(Focus on the mission, focus on getting out of here alive and getting back to {b}them{/b}.{w=0.3} That's all that matters.)"
-    d_i nulla ""
+    d_i nulla "(Concentrate en la misión, concentrate en salir de aquí vivo y volver con {b}ellas{/b}.{w=0.3} Eso es lo único que importa.)"
 
 # game/script/story/st_02.rpy:489
 translate spanish expo_st_03_05_c9e80d81:
 
     # d_i frown "(That's...{w=0.5} All that matters.)"
-    d_i frown ""
+    d_i frown "(Eso es...{w=0.5} Lo único que importa.)"
 
 # game/script/story/st_02.rpy:501
 translate spanish expo_st_03_06_d23ab93d:
 
     # sk neutral "Fork in the road.{w=0.3} Where do we go?"
-    sk neutral ""
+    sk neutral "Bifurcación en el camino.{w=0.3} A dónde vamos?"
 
 # game/script/story/st_02.rpy:502
 translate spanish expo_st_03_06_1ae3d3d8:
 
     # d neutral "Left...{w=0.5} My arm tells me the connection signal gets stronger in that direction, so that's where the opening will be."
-    d neutral ""
+    d neutral "Izquierda...{w=0.5} Mi brazo me dice que la conexión con la señal se hace mas fuerte en esa dirección, así que allí es donde el claro estará."
 
 # game/script/story/st_02.rpy:503
 translate spanish expo_st_03_06_07cdd643:
 
     # sk neutral "I see."
-    sk neutral ""
+    sk neutral "Ya veo."
 
 # game/script/story/st_02.rpy:505
 translate spanish expo_st_03_06_447dde3b:
 
     # d_i frown "(What the fuck are you doing...?)"
-    d_i frown ""
+    d_i frown "(Que demonios estás haciendo...?)"
 
 # game/script/story/st_02.rpy:506
 translate spanish expo_st_03_06_8391bb7c:
 
     # d neutral "So, uhm...{w=0.5} I give up."
-    d neutral ""
+    d neutral "Eh, Uhm...{w=0.5} Me rindo."
 
 # game/script/story/st_02.rpy:508
 translate spanish expo_st_03_06_d36fb96f:
 
     # sk surprise "What...?"
-    sk surprise ""
+    sk surprise "Qué...?"
 
 # game/script/story/st_02.rpy:515
 translate spanish expo_st_03_06_ff099a36:
 
     # d nulla "That...{w=0.5} Stuff you were talking about.{w=0.3} Meditation...{w=0.5} I give up.{w=0.3} I must know.{w=0.3} Please?"
-    d nulla ""
+    d nulla "Esa...{w=0.5} Cosa de la que estabas hablando.{w=0.3} Meditación...{w=0.5} me rindo.{w=0.3} quiero saber.{w=0.3} Por favor?"
 
 # game/script/story/st_02.rpy:518
 translate spanish expo_st_03_06_53a3a9ed:
 
     # sk nulla "Heh, I see...{w=0.5} You don't do well with teasing, do you?"
-    sk nulla ""
+    sk nulla "Heh, ya veo...{w=0.5} No eres bueno con las provocaciones, no?"
 
 # game/script/story/st_02.rpy:519
 translate spanish expo_st_03_06_0e5f6bf2:
 
     # d_i nulla "(Nope.)"
-    d_i nulla ""
+    d_i nulla "(No.)"
 
 # game/script/story/st_02.rpy:520
 translate spanish expo_st_03_06_94067747:
 
     # d nulla "Not the point, I'm...{w=0.5} I'm just curious, okay?{w=0.3} We're walking, let's also talk.{w=0.3} Walk and talk."
-    d nulla ""
+    d nulla "No es el punto, yo...{w=0.5} Solo me dió curiosidad, okay?{w=0.3} Estamos caminando, hablemos también.{w=0.3} Caminar y hablar."
 
 # game/script/story/st_02.rpy:522
 translate spanish expo_st_03_06_3f9e14c6:
 
     # sk nulla "Sure...{w=0.5} Well, think about it like this.{w=0.3} Do you think Aura was mastered overnight?"
-    sk nulla ""
+    sk nulla "Claro...{w=0.5} Bueno, piensa sobre ello como esto.{w=0.3} Crees que el Aura se domino en una noche?"
 
 # game/script/story/st_02.rpy:525
 translate spanish expo_st_03_06_83616a6b:
 
     # d nulla "You mean...{w=0.5} Like, historically?{w=0.3} Of course not."
-    d nulla ""
+    d nulla "Te refieres...{w=0.5} Como, historicamente?{w=0.3} Claro que no."
 
 # game/script/story/st_02.rpy:526
 translate spanish expo_st_03_06_23b4affd:
 
     # sk nulla "Good.{w=0.3} Now, like every discipline, there are different schools to it, born in different places and influenced by different circumstances..."
-    sk nulla ""
+    sk nulla "Bien.{w=0.3} Ahora, como cada disciplina, hay diferentes sobre ella, nacidas en diferentes lugares y influenciadas por diferentes circunstancias..."
 
 # game/script/story/st_02.rpy:528
 translate spanish expo_st_03_06_6cf436a0:
 
     # sk nulla "Generally, theories on Aura can be divided into two major schools of thought:{w=0.3} the {b}Martialist{/b} school and the {b}Spiritualist{/b} school."
-    sk nulla ""
+    sk nulla "Generalmente, las teorías sobre el Aura pueden ser divididas en dos grandes escuelas del pensamiento:{w=0.3} la escuela {b}Marcialista{/b} y la escuela {b}Espiritualista{/b}."
 
 # game/script/story/st_02.rpy:532
 translate spanish expo_st_03_06_4089304f:
 
     # sk neutral "The Martialist school of Aura focuses on the relationship between body and Aura."
-    sk neutral ""
+    sk neutral "La escuela Marcialista de Aura se enfoca en la relación entre el cuerpo y el Aura."
 
 # game/script/story/st_02.rpy:536
 translate spanish expo_st_03_06_1dfc40d5:
 
     # sk neutral "By continuosly strenghtening the body and training it to accept increasing levels of Aura, you also train its engine, increasing the overall endurance."
-    sk neutral ""
+    sk neutral "Entrenando el cuerpo constantemente y entrenandolo para aceptar niveles superiores de Aura, tambipen entrenas su motor, incrementando la resistencia general."
 
 # game/script/story/st_02.rpy:537
 translate spanish expo_st_03_06_488e4bf1:
 
     # d neutral "Yeah, that's...{w=0.5} Pretty much how I've been trained to use Aura so far.{w=0.3} But you say there's another method?"
-    d neutral ""
+    d neutral "Si, eso es...{w=0.5} Basicamente como he estado entrenando para usar el Aura hasta ahora.{w=0.3} Pero dijiste que hay otro metodo?"
 
 # game/script/story/st_02.rpy:538
 translate spanish expo_st_03_06_1ef22283:
 
     # sk smile "Yes.{w=0.3} Training the body is important, it is after all an Aura user's main tool.{w=0.3} But what about the soul?"
-    sk smile ""
+    sk smile "Si.{w=0.3} Entrenar el cuerpo es importante, despúes de todo es la herramienta principal de un usuario de Aura.{w=0.3} Pero que hay del alma?"
 
 # game/script/story/st_02.rpy:543
 translate spanish expo_st_03_06_138c47eb:
 
     # sk neutral "Aura is after all as intertwined to the soul as it is to the body.{w=0.3} It is the reason why humans can use Aura as they can at all, and it informs our Semblances."
-    sk neutral ""
+    sk neutral "El Aura despúes de todo esta tan entrelazada al alma como lo es al cuerpo.{w=0.3} Es la razón del porque los humanos pueden usar el Aura como lo hacen despúes de todo, y forma a nuestras Semblanzas."
 
 # game/script/story/st_02.rpy:544
 translate spanish expo_st_03_06_d02adcd4:
 
     # d surprise "I was taught those are based on personality."
-    d surprise ""
+    d surprise "Se me enseño que esas están basadas en la personalidad."
 
 # game/script/story/st_02.rpy:545
 translate spanish expo_st_03_06_a156984a:
 
     # sk frown "The Spiritualist school considers personality but an expression of the soul...{w=0.5} And they posit that only the strongest of souls can generate a Semblance."
-    sk frown ""
+    sk frown "La escuela del Espiritualismo considera la personalidad una expresión del alma...{w=0.5} Y ellos dicen que solo las mas fuertes de las almas pueden generar una Semblanza."
 
 # game/script/story/st_02.rpy:546
 translate spanish expo_st_03_06_60a91fb1:
 
     # sk neutral "After all, everyone with a soul possesses a personality but not everyone with a personality possesses a Semblance.{w=0.3} The theory is that only mature, strong souls are able to produce one."
-    sk neutral ""
+    sk neutral "Despúes de todo, todos con un alma poseen una personalidad pero no todos los que tienen personalidad poseen una Semblanza.{w=0.3} La teoría es que solo las almas naturalmente fuertes son capaces de producir una."
 
 # game/script/story/st_02.rpy:547
 translate spanish expo_st_03_06_d47690c7:
 
     # d surprise "Hmmm...{w=0.5} And the way to strengthen a soul is through meditation?"
-    d surprise ""
+    d surprise "Hmmm...{w=0.5} Y la manera de fortalecer el alma es a traves de la meditación?"
 
 # game/script/story/st_02.rpy:558
 translate spanish expo_st_03_06_c7eadafe:
 
     # sk nulla "For some, yes, but others...{w=0.5} I may have teased earlier, but there's a reason why the Martialist school is the standard:{w=0.3} it gives the more consistent results."
-    sk nulla ""
+    sk nulla "Para algunos, si, pero para otros...{w=0.5} Puede que te haya provocado antes, pero hay una razón por la que la escuela del Marcialismo es el estandar:{w=0.3} Da resultados mas consistentes."
 
 # game/script/story/st_02.rpy:559
 translate spanish expo_st_03_06_8a7ccbce:
 
     # d nulla "The Spiritualist doesn't work for everyone?"
-    d nulla ""
+    d nulla "El Espiritualismo no funciona para todos?"
 
 # game/script/story/st_02.rpy:561
 translate spanish expo_st_03_06_866daaaf:
 
     # sk nulla "Unfortunately.{w=0.3} Martialist training can turn anyone into an acceptable fighter, which is what people mostly need from Hunters.{w=0.3} Soldiers who are good enough to do their job."
-    sk nulla ""
+    sk nulla "Desafortunadamente.{w=0.3} El entrenamiento Marcialista puede convertir a cualquier en un luchador aceptable, lo cúal la mayoria de gente necesita de los Cazadores.{w=0.3} Soldados que son lo suficientemente buenos para hacer su trabajo."
 
 # game/script/story/st_02.rpy:563
 translate spanish expo_st_03_06_93e95d31:
 
     # sk nulla "Spiritualist training instead is an all or nothing...{w=0.5} You either get the highest peaks of Aura users or it just plainly doesn't work.{w=0.3} And there are hundreds of sub-schools, each one with their own methods..."
-    sk nulla ""
+    sk nulla "El entrenamiento Espiritualista en cambio es todo o nada...{w=0.5} Puedes o convertirte en el mejor de los usuarios de Aura o llanamente no funciona.{w=0.3} Y hay cientos de subescuelas, cada una con sus propios métodos..."
 
 # game/script/story/st_02.rpy:565
 translate spanish expo_st_03_06_e5a62fa7:
 
     # d nulla "I see...{w=0.5} Still, it's definitely worth a look at if you've managed to sustain your Aura in a period of inactivity through meditation alone."
-    d nulla ""
+    d nulla "Ya veo...{w=0.5} Sin embargo, definitivamente vale la pena si tu has sido capaz de mantener tu Aura en un periodo de inacticidad a traves de únicamente la meditación"
 
 # game/script/story/st_02.rpy:567
 translate spanish expo_st_03_06_f046b84a:
 
     # sk nulla "True but, again, meditation may not work for you.{w=0.3} No one has managed to find a common thread yet...{w=0.5} And the Martialist school has also produced people just as strong."
-    sk nulla ""
+    sk nulla "Es cierto pero, de nuevo, la meditación podría no funcionar para ti.{w=0.3} Nadie ha logrado encontrar un método común aún...{w=0.5} Y los Marcialistas también han producido personas igual de fuertes."
 
 # game/script/story/st_02.rpy:572
 translate spanish expo_st_03_06_114c5aec:
 
     # d nulla "I just realized.{w=0.3} Is Adam by any chance...?"
-    d nulla ""
+    d nulla "Eso me recuerda.{w=0.3} Es Adam por algún casual...?"
 
 # game/script/story/st_02.rpy:575
 translate spanish expo_st_03_06_19b88590:
 
     # sk nulla "Yeah...{w=0.5} A Spiritualist.{w=0.3} A prodigy, who moved his first steps in the White Fang training program I devised.{w=0.3} Yet another mistake..."
-    sk nulla ""
+    sk nulla "Correcto...{w=0.5} Un Espiritualista.{w=0.3} Un prodigio, que dió sus primeros pasos en el programa de entrenamiento del White Fang que yo cree.{w=0.3} Otro error que cometí..."
 
 # game/script/story/st_02.rpy:576
 translate spanish expo_st_03_06_6ad23710:
 
     # d nulla ".{w=0.3}.{w=0.3}.{w=0.5}the signal is strongest past that arc.{w=0.3} Let's go see if there's an opening."
-    d nulla ""
+    d nulla ".{w=0.3}.{w=0.3}.{w=0.5}La señal es mas fuerte pasado ese arco.{w=0.3} Vayamos a ver si hay un claro."
 
 # game/script/story/st_02.rpy:578
 translate spanish expo_st_03_06_8518aadb:
 
     # d nulla "And thanks for indulging me.{w=0.3} That was actually very interesting."
-    d nulla ""
+    d nulla "Y gracias por darme el gusto.{w=0.3} Fue realmente interesante."
 
 # game/script/story/st_02.rpy:581
 translate spanish expo_st_03_06_c846577b:
 
     # sk nulla "You're welcome."
-    sk nulla ""
+    sk nulla "De nada."
 
 # game/script/story/st_02.rpy:603
 translate spanish expo_st_03_07_010d063f:
 
     # sk neutral "That is definitely an opening, but..."
-    sk neutral ""
+    sk neutral "Eso definitivamente es un claro, pero..."
 
 # game/script/story/st_02.rpy:604
 translate spanish expo_st_03_07_da3d0dcd:
 
     # d neutral "Not one we can reach...{w=0.5} Well."
-    d neutral ""
+    d neutral "No uno al que podamos llegar...{w=0.5} Bueno."
 
 # game/script/story/st_02.rpy:605
 translate spanish expo_st_03_07_106db6c4:
 
     # d smile "We got the second best thing, though."
-    d smile ""
+    d smile "Tenemos la segunda mejor opción, sin embargo."
 
 # game/script/story/st_02.rpy:606
 translate spanish expo_st_03_07_3940d082:
 
     # sk surprise "And that is...?"
-    sk surprise ""
+    sk surprise "Y eso es...?"
 
 # game/script/story/st_02.rpy:613
 translate spanish expo_st_03_07_e4a0ce02:
 
     # d nulla "A strong signal with very little interferences.{w=0.3} Looks like we're in an area with a relatively low concentration of those minerals."
-    d nulla ""
+    d nulla "Una señal fuerte con muy poca interferencia.{w=0.3} Parece que estamos en un area con una concentración relativamente baja de esos animales."
 
 # game/script/story/st_02.rpy:614
 translate spanish expo_st_03_07_16bc1166:
 
     # sk nulla "And that helps us how...?"
-    sk nulla ""
+    sk nulla "Y eso cómo nos ayuda...?"
 
 # game/script/story/st_02.rpy:616
 translate spanish expo_st_03_07_be062eb9:
 
     # g_x darko neutral glitch "...tw0.{w=0.3} C@me in, G#m-tw8."
-    g_x darko neutral glitch ""
+    g_x darko neutral glitch "...D0s.{w=0.3} V$n, G#m-d0s."
 
 # game/script/story/st_02.rpy:621
 translate spanish expo_st_03_07_da763856:
 
     # d nulla "You'll see.{w=0.3} I bet that directly under the light...{w=0.5} {b}Gemma{/b}, can you hear me?"
-    d nulla ""
+    d nulla "Ya verás{w=0.3} Apuesto que directamente debajo de la luz...{w=0.5} {b}Gemma{/b}, puede oirme?"
 
 # game/script/story/st_02.rpy:623
 translate spanish expo_st_03_07_3e2a455e:
 
     # g_st darko neutral glitch "...his is Gem-One.{w=0.3} Come in, G$m-Two."
-    g_st darko neutral glitch ""
+    g_st darko neutral glitch "...ste es Gem-Uno.{w=0.3} Vamos, G$m-Dos."
 
 # game/script/story/st_02.rpy:624
 translate spanish expo_st_03_07_90edc3f6:
 
     # d nulla "Hey, Gemma!{w=0.3} I can you hear loud and clear, now!{w=0.3} Glad to be in contact again!"
-    d nulla ""
+    d nulla "Hey, Gemma!{w=0.3} Puedo oirte fuerte y claro, ahora!{w=0.3} Encantado de estar en contacto de nuevo!"
 
 # game/script/story/st_02.rpy:627
 translate spanish expo_st_03_07_6f0b8f78:
 
     # g_st -darko frown glitch "No."
-    g_st -darko frown glitch ""
+    g_st -darko frown glitch "No."
 
 # game/script/story/st_02.rpy:635
 translate spanish expo_st_03_07_0cc7316c:
 
     # d nulla "No?{w=0.3} What do you mean 'no'?"
-    d nulla ""
+    d nulla "No?{w=0.3} A que te refieres con 'no'?"
 
 # game/script/story/st_02.rpy:637
 translate spanish expo_st_03_07_e5735706:
 
     # g_st frown "We're on a mission.{w=0.3} You are to address me according to protocol, Hunter examinee di Kabegis.{w=0.3} Or I'll dock you points."
-    g_st frown ""
+    g_st frown "Estamos en una misión.{w=0.3} Tienes que referirte a mi de acuerdo al protocolo, Cazador en examinación di Kabegis.{w=0.3} O descontaré tus puntos."
 
 # game/script/story/st_02.rpy:638
 translate spanish expo_st_03_07_836f3305:
 
     # d nulla "You cannot be serious!"
-    d nulla ""
+    d nulla "No puedes hablar en serio!"
 
 # game/script/story/st_02.rpy:640
 translate spanish expo_st_03_07_3d8ff6c1:
 
     # sk nulla "Examin-{w=0.15}WAIT, YOU'RE STILL A STUDENT?!"
-    sk nulla ""
+    sk nulla "Examin.{w=0.15}ESPERA, TODAVIA ERES UN ESTUDIANTE?!"
 
 # game/script/story/st_02.rpy:642
 translate spanish expo_st_03_07_caba3e3a:
 
     # d nulla "No!{w=0.3} Yes?!{w=0.3} This is my final exam, technically, aaaaaah-!!!"
-    d nulla ""
+    d nulla "No!{w=0.3} Si?!{w=0.3} Este es mi examen final, tecnicamente, aaaaaah-!!!"
 
 # game/script/story/st_02.rpy:645
 translate spanish expo_st_03_07_81c518da:
 
     # d nulla "*ah-rumph*{w=0.5} Gem-Two from Gem-One.{w=0.3} Come in, Gem-One."
-    d nulla ""
+    d nulla "*ah-rumph*{w=0.5} Gem-Dos a Gem-Uno.{w=0.3} Vamos, Gem-Uno."
 
 # game/script/story/st_02.rpy:647
 translate spanish expo_st_03_07_2a9ef265:
 
     # g_st smile "Gem-One here.{w=0.3} Glad to hear back from you, Gem-Two."
-    g_st smile ""
+    g_st smile "Gem-Uno aquí.{w=0.3} Encantada de escucharte, Gem-Dos."
 
 # game/script/story/st_02.rpy:649
 translate spanish expo_st_03_07_13e9410c:
 
     # g_st surprise "And I guess the voice earlier was miss Khan?"
-    g_st surprise ""
+    g_st surprise "Y supongo que la voz de antes era la señorita Khan?"
 
 # game/script/story/st_02.rpy:652
 translate spanish expo_st_03_07_b6edf0ff:
 
     # d nulla "A-{w=0.15}Affirmative.{w=0.3} Good job with the laser aim, we managed to escape the Fangs."
-    d nulla ""
+    d nulla "A-{w=0.15}Afirmativo.{w=0.3} Buen trabajo con la trayectoria del laser, nos las arreglamos para escapar de los Fang."
 
 # game/script/story/st_02.rpy:654
 translate spanish expo_st_03_07_34432874:
 
     # d nulla "But now we have another problem.{w=0.3} The set of natural caves we found is home to a nest of Kataglyph Grimm."
-    d nulla ""
+    d nulla "Pero ahora tenemos otro problema.{w=0.3} El juego de cuevas naturales que encontramos es el hogar de un nido de Kataglyph Grimm."
 
 # game/script/story/st_02.rpy:655
 translate spanish expo_st_03_07_c220ed88:
 
     # g_st "Goodness...!{w=0.3} Have you managed to find an exit?"
-    g_st ""
+    g_st "Oh dios mio...!{w=0.3} Has sido capaz de encontrar una salida?"
 
 # game/script/story/st_02.rpy:656
 translate spanish expo_st_03_07_d0c6ea11:
 
     # d nulla "Not yet.{w=0.3} We're in contact with you because we found an opening in a good spot, but it's unreachable to us."
-    d nulla ""
+    d nulla "No aún.{w=0.3} Estamos en contacto contigo porque encontramos un claro en un buen punto, pero es inalcanzable para nosotros."
 
 # game/script/story/st_02.rpy:658
 translate spanish expo_st_03_07_09c6a0ce:
 
     # g_st "I see..."
-    g_st ""
+    g_st "Ya veo..."
 
 # game/script/story/st_02.rpy:659
 translate spanish expo_st_03_07_570c9f01:
 
     # g_st frown "In that case, please upload all the data you've collected so far about the inside of the cave system.{w=0.3} Combined with the data from the outside, I should be able to extrapolate a map and find you a way out."
-    g_st frown ""
+    g_st frown "En ese caso, por favor transmite todo la información que has obtenido hasta ahora del interior del sistema de cuevas.{w=0.3} Combinada con la informaciónde afuera, debería ser capaz de extrapolar un mapa y encontrarles una salida."
 
 # game/script/story/st_02.rpy:661
 translate spanish expo_st_03_07_535b2793:
 
     # d nulla "Please do.{w=0.3} Transmitting now."
-    d nulla ""
+    d nulla "Por favor hazlo.{w=0.3} Transmitiendo ahora."
 
 # game/script/story/st_02.rpy:664
 translate spanish expo_st_03_07_11dda82a:
 
     # sk nulla "She sounds...{w=0.5} Quite young."
-    sk nulla ""
+    sk nulla "Ella suena...{w=0.5} Bastante joven."
 
 # game/script/story/st_02.rpy:665
 translate spanish expo_st_03_07_a02ab549:
 
     # d nulla "It's a long story.{w=0.3} But if anyone can find us a way out, it's her."
-    d nulla ""
+    d nulla "Es una larga historia.{w=0.3} Pero si alguien puede encontrarnos una salida, es ella."
 
 # game/script/story/st_02.rpy:669
 translate spanish expo_st_03_07_169cdf89:
 
     # g_st neutral "Done.{w=0.3} I'm uploading it to your arm's memory banks.{w=0.3} You only need go up a little more."
-    g_st neutral ""
+    g_st neutral "Hecho.{w=0.3} Estoy subiendolo al banco de memoria de tu brazo.{w=0.3} Solo necesitas ir hacia arriba un poco mas."
 
 # game/script/story/st_02.rpy:670
 translate spanish expo_st_03_07_59685fb9:
 
     # d nulla "Wonderful!{w=0.3} Will you be waiting for us?"
-    d nulla ""
+    d nulla "Maravilloso!{w=0.3} Vas a estar esperando por nosotros?"
 
 # game/script/story/st_02.rpy:671
 translate spanish expo_st_03_07_33e6e486:
 
     # g_st frown "We'll be maneuvering soon.{w=0.3} But, Gem-Two, we've detected some humanoid activity in the vicinity of the exit."
-    g_st frown ""
+    g_st frown "Estaremos maniobrando pronto.{w=0.3} Pero, Gem-Dos, hemos detectado algo de actividad humanoide en las cercanias de la salida."
 
 # game/script/story/st_02.rpy:674
 translate spanish expo_st_03_07_c0cc7a9f:
 
     # sk nulla "More Fangs...{w=0.5} They must have known."
-    sk nulla ""
+    sk nulla "Mas Fangs...{w=0.5} Deben haberlo sabido."
 
 # game/script/story/st_02.rpy:676
 translate spanish expo_st_03_07_3bd4c953:
 
     # g_st frown "We won't be able to support you like we did in the temple, or we risk collapsing the caves.{w=0.3} You'll have to fight your way through."
-    g_st frown ""
+    g_st frown "No seremos capaces de apoyarte como lo hicimos en el templo, nos arriesgariamos a colapsar las cuevas.{w=0.3} Tendrán que abrirse paso luchando."
 
 # game/script/story/st_02.rpy:677
 translate spanish expo_st_03_07_ae83f96c:
 
     # d nulla "And this time they won't be sending just goons...{w=0.5} Or they'll be in much greater number."
-    d nulla ""
+    d nulla "Y esta vez ellos no estarán enviando solo secuaces...{w=0.5} O serán muchos mas."
 
 # game/script/story/st_02.rpy:679
 translate spanish expo_st_03_07_74978dc8:
 
     # d nulla "No matter.{w=0.3} We'll take care of it.{w=0.3} Thanks, Gem-Two.{w=0.3} We should go, now."
-    d nulla ""
+    d nulla "No importa.{w=0.3} Nos encargaremos de ellos.{w=0.3} Gracias, Gem-Dos.{w=0.3} Deberíamos irnos, ahora."
 
 # game/script/story/st_02.rpy:680
 translate spanish expo_st_03_07_b83a1fcf:
 
     # g_st neutral "You're welcome, Gem-One...{w=0.5} And, uhm, [p_n]?"
-    g_st neutral ""
+    g_st neutral "De nada, Gem-Uno...{w=0.5} And, uhm, [p_n]?"
 
 # game/script/story/st_02.rpy:683
 translate spanish expo_st_03_07_ae42fc0f:
 
     # d nulla "Yes?{w=0.3} What is it?"
-    d nulla ""
+    d nulla "Yes?{w=0.3} Qué sucede?"
 
 # game/script/story/st_02.rpy:686
 translate spanish expo_st_03_07_164efd0e:
 
     # g_st sad "Please be careful."
-    g_st sad ""
+    g_st sad "Por favor ten cuidado."
 
 # game/script/story/st_02.rpy:689
 translate spanish expo_st_03_07_2ad5dcf4:
 
     # d nulla "Always.{w=0.3} Don't worry, Gemma, I'm almost back."
-    d nulla ""
+    d nulla "Siempre.{w=0.3} No te preocupes Gemma, casi estoy de regreso."
 
 # game/script/story/st_02.rpy:692
 translate spanish expo_st_03_07_97a93819:
 
     # sk nulla "Are you two close?"
-    sk nulla ""
+    sk nulla "Son ustedes cercanos?"
 
 # game/script/story/st_02.rpy:693
 translate spanish expo_st_03_07_45594d61:

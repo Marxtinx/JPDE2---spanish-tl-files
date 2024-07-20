@@ -34,7 +34,7 @@ translate spanish s02_the_waterway_d05bbc3b:
 translate spanish s02_the_waterway_be13bd22:
 
     # sk nulla "Somehow.{w=0.3} Brothers only know what goes on this deep underg-"
-    sk nulla "De alguna manera.{w=0.5} Quien sabe que hay en este profundo subte-"
+    sk nulla "De alguna manera.{w=0.5} Solo los Hermanos saben que hay en este profundo subte-"
 
 # game/script/story/st_02.rpy:48
 translate spanish s02_the_ants_09ba9a23:
@@ -1006,1015 +1006,1015 @@ translate spanish expo_st_03_07_97a93819:
 translate spanish expo_st_03_07_45594d61:
 
     # d nulla "Kind of.{w=0.3} She's the little sister of my g-"
-    d nulla ""
+    d nulla "Mas o menos.{w=0.3} Es la hermana menor de mi n-"
 
 # game/script/story/st_02.rpy:697
 translate spanish expo_st_03_07_fe7f393a:
 
     # d nulla "Well, rather...{w=0.5} Of someone I really care about."
-    d nulla ""
+    d nulla "Bueno, quiero decir...{w=0.5} De alguien que realmente me importa."
 
 # game/script/story/st_02.rpy:701
 translate spanish expo_st_03_07_308eb590:
 
     # sk nulla "Is it...{w=0.5} Someone you lost in the Fall?"
-    sk nulla ""
+    sk nulla "Es ella...{w=0.5} Alguien que perdiste en la Caída?"
 
 # game/script/story/st_02.rpy:705
 translate spanish expo_st_03_07_5352bd84:
 
     # d nulla "It...{w=0.5} Doesn't matter.{w=0.3} Come on, let's get out of here.{w=0.3} We should prepare for a fight."
-    d nulla ""
+    d nulla "Es...{w=0.5} No importa.{w=0.3} Vamos, salgamos de este lugar.{w=0.5} Tenemos que prepararnos para una pelea."
 
 # game/script/story/st_02.rpy:739
 translate spanish s02_the_abyss_1e48f9a5:
 
     # d neutral "This is the darkest this place has been yet...{w=0.5} My arm can barely make a dent in the darkness."
-    d neutral ""
+    d neutral "Este es el lugar mas oscuro hasta el momento...{w=0.5} Mi brazo apenas y puede hacer mella a la oscuridad."
 
 # game/script/story/st_02.rpy:740
 translate spanish s02_the_abyss_f9b5e42a:
 
     # sk neutral "Don't worry about that.{w=0.3} I will guide you to the exit."
-    sk neutral ""
+    sk neutral "No te preocupes por eso.{w=0.3} Yo te guíare a la salida."
 
 # game/script/story/st_02.rpy:742
 translate spanish s02_the_abyss_172b5f48:
 
     # d surprise "Uhm...{w=0.5} Of course.{w=0.3} Please, I'm counting on you."
-    d surprise ""
+    d surprise "Uhm...{w=0.5} Claro.{w=0.3} Por favor, cuento contigo."
 
 # game/script/story/st_02.rpy:750
 translate spanish expo_st_03_08_1722b1df:
 
     # sk neutral ".{w=0.3}.{w=0.3}.{w=0.5}why did they send you?"
-    sk neutral ""
+    sk neutral ".{w=0.3}.{w=0.3}.{w=0.5} Por qué te enviaron a ti?"
 
 # game/script/story/st_02.rpy:751
 translate spanish expo_st_03_08_2ed9e9b7:
 
     # d neutral ".{w=0.3}.{w=0.3}.{w=0.5}I don't know."
-    d neutral ""
+    d neutral ".{w=0.3}.{w=0.3}.{w=0.5} No lo sé."
 
 # game/script/story/st_02.rpy:758
 translate spanish expo_st_03_08_a6dda31d:
 
     # d nulla "They didn't give me a specific reason but...{w=0.5} Apparently, they think I'm the only one able to complete this mission."
-    d nulla ""
+    d nulla "Ellos no me dieron una razón en especifico pero...{w=0.5} Aparentemente, ellos creen que soy el único capaz de completar esta misión."
 
 # game/script/story/st_02.rpy:759
 translate spanish expo_st_03_08_75921b35:
 
     # sk nulla "Why?{w=0.3} Is there something special about you?{w=0.3} Something...{w=0.5} Different?"
-    sk nulla ""
+    sk nulla "Por qué?{w=0.3} Hay algo especial acerca de tí?{w=0.3} Algo...{w=0.5} Diferente?"
 
 # game/script/story/st_02.rpy:761
 translate spanish expo_st_03_08_f56e9021:
 
     # d nulla "Oh, a few things.{w=0.3} Nothing I can think of to make sense of it, though.{w=0.3} If you ask me, they were just short on personnel."
-    d nulla ""
+    d nulla "Oh, un par de cosas.{w=0.3} Nada que pueda darle sentido, sin embargo.{w=0.3} Si me lo preguntas, ellos solo están cortos en personal."
 
 # game/script/story/st_02.rpy:762
 translate spanish expo_st_03_08_2c219431:
 
     # sk nulla ".{w=0.3}.{w=0.3}.{w=0.5}I see."
-    sk nulla ""
+    sk nulla ".{w=0.3}.{w=0.3}.{w=0.5}Ya veo."
 
 # game/script/story/st_02.rpy:774
 translate spanish expo_st_03_09_c830455c:
 
     # d neutral "We're going to need to fight more Fangs to get out of here."
-    d neutral ""
+    d neutral "Vamos a necesitar pelear con mas Fangs para salir de aquí."
 
 # game/script/story/st_02.rpy:775
 translate spanish expo_st_03_09_0bd351b8:
 
     # sk neutral "Yeah."
-    sk neutral ""
+    sk neutral "Si."
 
 # game/script/story/st_02.rpy:777
 translate spanish expo_st_03_09_68d330f1:
 
     # d neutral "How do you feel about that?"
-    d neutral ""
+    d neutral "Como te sientes acerca de eso?"
 
 # game/script/story/st_02.rpy:778
 translate spanish expo_st_03_09_60a77540:
 
     # sk frown "It doesn't matter."
-    sk frown ""
+    sk frown "Ya no importa."
 
 # game/script/story/st_02.rpy:779
 translate spanish expo_st_03_09_0974fbac:
 
     # d_i surprise "(Doesn't...?)"
-    d_i surprise ""
+    d_i surprise "(NO lo hace...?)"
 
 # game/script/story/st_02.rpy:780
 translate spanish expo_st_03_09_238fa4ed:
 
     # d surprise "Sienna, what's wrong?"
-    d surprise ""
+    d surprise "Sienna, cúal es el problema?"
 
 # game/script/story/st_02.rpy:781
 translate spanish expo_st_03_09_f6e814d4:
 
     # sk frown sweat "Doesn't matter...{w=0.5} We're almost there."
-    sk frown sweat ""
+    sk frown sweat "No importa...{w=0.5} Ya casi estamos allí."
 
 # game/script/story/st_02.rpy:792
 translate spanish expo_st_03_10_09d95d43:
 
     # d surprise "Is that...{w=0.5} Yes, natural light!{w=0.3} That's the exit!"
-    d surprise ""
+    d surprise "Es eso...{w=0.5} Si, luz natural!{w=0.3} Esa es la salida!"
 
 # game/script/story/st_02.rpy:793
 translate spanish expo_st_03_10_cae78a03:
 
     # sk neutral "I told you I would guide you to the exit..."
-    sk neutral ""
+    sk neutral "Te dije que te guíaria a la salida..."
 
 # game/script/story/st_02.rpy:796
 translate spanish expo_st_03_10_a6681956:
 
     # d neutral "Indeed...{w=0.5} You did say so.{w=0.3} Now, Sienna..."
-    d neutral ""
+    d neutral "Es cierto...{w=0.5} Tú dijiste eso.{w=0.3} Ahora, Sienna..."
 
 # game/script/story/st_02.rpy:804
 translate spanish expo_st_03_10_d8eadead:
 
     # d nulla "I'm gonna need you to step away from the edge."
-    d nulla ""
+    d nulla "Voy a necesecitar que te alejes del borde."
 
 # game/script/story/st_02.rpy:805
 translate spanish expo_st_03_10_5f8e132f:
 
     # sk nulla ".{w=0.3}.{w=0.3}.{w=0.5}you'd rather do it yourself, then?"
-    sk nulla ""
+    sk nulla ".{w=0.3}.{w=0.3}.{w=0.5}Preferirías hacerlo tu mismo, entonces?"
 
 # game/script/story/st_02.rpy:810
 translate spanish expo_st_03_10_25ebaba1:
 
     # sk nulla "I'd prefer it, truth tell...{w=0.5} So, please.{w=0.3} Be quick, you don't have much time."
-    sk nulla ""
+    sk nulla "Lo prefiero, en verdad...{w=0.5} Así que, por favor.{w=0.3} Sé rápido, no tienes mucho tiempo."
 
 # game/script/story/st_02.rpy:811
 translate spanish expo_st_03_10_1a393b23:
 
     # d nulla "I'm not going to kill you, Sienna."
-    d nulla ""
+    d nulla "No voy a matarte, Sienna."
 
 # game/script/story/st_02.rpy:813
 translate spanish expo_st_03_10_d20c8ff1:
 
     # sk nulla "Then I'll jump.{w=0.3} Or we can struggle for it and you can wait with me until the Kataglyphs arrive and they force you to go!{w=0.3} Either way, I'm not leaving this place!"
-    sk nulla ""
+    sk nulla "Entonces voy a saltar.{w=0.3} O podemos forcejear y tú puedes esperar conmigo hasta que los Kataglyphs lleguen y te fuercen a irte!{w=0.3} De cualquier manera, yo no dejaré este lugar!"
 
 # game/script/story/st_02.rpy:816
 translate spanish expo_st_03_10_d497a20d:
 
     # d nulla "Tell me why."
-    d nulla ""
+    d nulla "Dime por qué."
 
 # game/script/story/st_02.rpy:817
 translate spanish expo_st_03_10_d9b7c954:
 
     # sk nulla "What does it matter...?"
-    sk nulla ""
+    sk nulla "Que importa eso...?"
 
 # game/script/story/st_02.rpy:819
 translate spanish expo_st_03_10_78b3eb9f:
 
     # d nulla "Tell me why and I'll consider it.{w=0.3} I swear on my honour."
-    d nulla ""
+    d nulla "Dime por qué y lo consideraré.{w=0.3} Lo juro por mi honor."
 
 # game/script/story/st_02.rpy:823
 translate spanish expo_st_03_10_ce984111:
 
     # sk nulla "I won't fail them...{w=0.5} Not again."
-    sk nulla ""
+    sk nulla "No les fallaré...{w=0.5} No de nuevo."
 
 # game/script/story/st_02.rpy:824
 translate spanish expo_st_03_10_df73a0c8:
 
     # d nulla "Who?"
-    d nulla ""
+    d nulla "A quién?"
 
 # game/script/story/st_02.rpy:825
 translate spanish expo_st_03_10_d9068e0b:
 
     # sk nulla "The Fangs...{w=0.5} Our people.{w=0.3} {i}My{/i} people.{w=0.3} I won't let you..."
-    sk nulla ""
+    sk nulla "Los Fangs...{w=0.5} Nuestra gente.{w=0.3} {i}Mi{/i} gente.{w=0.3} No te dejaré..."
 
 # game/script/story/st_02.rpy:828
 translate spanish expo_st_03_10_842a9467:
 
     # sk nulla "No, you have nothing to do with it...{w=0.5} For better or worse, you're genuine...{w=0.5} Your hate, and your concern too.{w=0.3} That's what made you the best pick for this mission."
-    sk nulla ""
+    sk nulla "No, no tienes nada que ver con ello...{w=0.5} Para bien o para mal, eres genuino...{w=0.5} Tu odio, y tu preocupación también.{w=0.3} Eso es lo que te hizo la mejor opción para esta misión."
 
 # game/script/story/st_02.rpy:830
 translate spanish expo_st_03_10_60a09a80:
 
     # sk nulla "They sent you because they knew.{w=0.3} They knew that, despite what the Fang has taken from you, what I've enabled with my mistakes...{w=0.5} You would care enough.{w=0.3} About the mission and...{w=0.5} About me."
-    sk nulla ""
+    sk nulla "Ellos te enviaron porque sabían.{w=0.3} Sabían que, a pesar de lo que el Fang te arrebató, lo que permití con mis errores...{w=0.5} Te importaría lo suficiente.{w=0.3} Acerca de la misión y...{w=0.5} Acerca de mí."
 
 # game/script/story/st_02.rpy:833
 translate spanish expo_st_03_10_fdb3416d:
 
     # d nulla "Those cheeky...!"
-    d nulla ""
+    d nulla "Esos descarados...!"
 
 # game/script/story/st_02.rpy:834
 translate spanish expo_st_03_10_3516e1ef:
 
     # sk nulla "If they had sent anyone else, if they had sent a team, even if they managed to get me away from Adam...{w=0.5} I would've never made it this far."
-    sk nulla ""
+    sk nulla "Si ellos hubieran enviado a cualquier otro, si hubieran enviado un equipo, incluso si se las hubieran arreglado para alejarme de Adam...{w=0.5} Nunca habría tan lejos."
 
 # game/script/story/st_02.rpy:836
 translate spanish expo_st_03_10_8de8f9a3:
 
     # sk nulla "I would have done this earlier...{w=0.5} Instead, I fell in your pace."
-    sk nulla ""
+    sk nulla "Habría hecho esto antes...{w=0.5} En cambio, caí en tu ritmo."
 
 # game/script/story/st_02.rpy:838
 translate spanish expo_st_03_10_99335eda:
 
     # sk nulla "But that's still not enough...{w=0.5} It's the end of the road for me, [p_n]."
-    sk nulla ""
+    sk nulla "Pero eso sigue sin ser suficiente...{w=0.5} Es el final del camino para mí, [p_n]."
 
 # game/script/story/st_02.rpy:840
 translate spanish expo_st_03_10_e952b146:
 
     # d nulla "You still haven't told me why."
-    d nulla ""
+    d nulla "Todavía no me dijiste por qué."
 
 # game/script/story/st_02.rpy:841
 translate spanish expo_st_03_10_abb2a1bf:
 
     # sk nulla "There's only one reason why any of the nations of Remnant would want to get their hands on the leader of the White Fang, after the Fall of Beacon...{w=0.5} Especially the {b}Royal Duchy of Peak{/b}."
-    sk nulla ""
+    sk nulla "Solo hay una razón porque alguna de las naciones de Remnant querría tener sus manos en la líder del White Fang, despúes de la Caída de Beacon...{w=0.5} Especialmente el {b}El Ducado Real de Peak{/b}."
 
 # game/script/story/st_02.rpy:843
 translate spanish expo_st_03_10_2b8f5afc:
 
     # sk nulla "I know about the issues you're encountering with recognition.{w=0.3} You got nothing to offer Atlas and Vale, you only have Vacuo in your corner, Mistral is a non-entity...{w=0.5} So, you need a bargaining chip."
-    sk nulla ""
+    sk nulla "See de los problemas que están teniendo con el reconocimiento.{w=0.3} No tienen nada que ofrecer a Atlas y Vale, solo tienen a Vacuo en la esquina, Mistral es una entidad inexistente...{w=0.5} Así que, necesitan una moneda de cambio."
 
 # game/script/story/st_02.rpy:844
 translate spanish expo_st_03_10_21dbaa1e:
 
     # d nulla "You think they want to offer you to Atlas in exchange?"
-    d nulla ""
+    d nulla "Crees que te quieren ofrecer a Atlas en intercambio?"
 
 # game/script/story/st_02.rpy:845
 translate spanish expo_st_03_10_6853e660:
 
     # sk nulla "There's literally no other value I offer.{w=0.3} A source of information to be tortured and paraded around before being publicly executed...{w=0.5} A show of power."
-    sk nulla ""
+    sk nulla "No hay literalmente otro valor que pueda ofrecer.{w=0.3} Una fuente de información para ser torturada y desfilada alrededor antes de ser públicamente ejecutada...{w=0.5} Una muestra de poder."
 
 # game/script/story/st_02.rpy:847
 translate spanish expo_st_03_10_f82a16e4:
 
     # sk nulla "Which will make things {i}even worse{/i} for fauni-human relationship.{w=0.3} It will fan the flames of conflict and hate...{w=0.5} Playing right in Adam's hands.{w=0.3} I will never let you do that!"
-    sk nulla ""
+    sk nulla "Lo que haría las cosas {i}incluso peor{/i} para las relaciones fauno-humano.{w=0.3} Será lo que avive las flamas del conflicto y el odio...{w=0.5} Jugando justo en las manos de Adam.{w=0.3} Nunca dejaré que hagan eso!"
 
 # game/script/story/st_02.rpy:848
 translate spanish expo_st_03_10_e86eee82:
 
     # d nulla "Wasn't seeking conflict the entire reason you took over the Fang?"
-    d nulla ""
+    d nulla "No era el buscar conflicto la razón por la que tomaste el Fang?"
 
 # game/script/story/st_02.rpy:850
 translate spanish expo_st_03_10_848a00d5:
 
     # sk nulla "Widespread racial bloodshed was {b}never{/b} the plan!{w=0.3} There were things, people doing active harm which we could never reach by working within the system!"
-    sk nulla ""
+    sk nulla "El derramamiento de sangre racial generalizado {b}nunca{/b} fue el plan!{w=0.3} Había cosas, personas activamente haciendo daño que nunca podríamos alcanzar dentro del sistema!"
 
 # game/script/story/st_02.rpy:853
 translate spanish expo_st_03_10_147caf29:
 
     # d nulla "So you decided to go around it?{w=0.3} Why you?{w=0.3} What made you think you could?!{w=0.3} What made you think you should have become the Leader and change the Fang?!"
-    d nulla ""
+    d nulla "Así que decidiste rodearlo?{w=0.3} Por qué tú?{w=0.3} Que te hizo pensar que podrías?!{w=0.3} Que te hizo pensar que deberías convertirte en la líder y cambiar el Fang?!"
 
 # game/script/story/st_02.rpy:856
 translate spanish expo_st_03_10_b9ec4006:
 
     # sk nulla "Because no one else would!{w=0.3} The Fang needed to change!{w=0.3} Our adversaries had wisened up, adapted, we needed to do the same!"
-    sk nulla ""
+    sk nulla "Porque nadie mas lo haría!{w=0.3} El Fang necesitaba cambiar!{w=0.3} Nuestros adversarios se dieron cuenta, se adaptaron, necesitabamos hacer lo mismo!"
 
 # game/script/story/st_02.rpy:858
 translate spanish expo_st_03_10_ec61db26:
 
     # d nulla "Even if it meant violence?{w=0.3} Innocent casualties?{w=0.3} You would take the responsibilites and guilt upon yourself?"
-    d nulla ""
+    d nulla "Incluso si eso significaba violencia?{w=0.3} Casualidades de inocentes?{w=0.3} Tomarías las responsabilidades y culpa sobre tí?"
 
 # game/script/story/st_02.rpy:859
 translate spanish expo_st_03_10_b2037c81:
 
     # sk nulla "Yes!{w=0.3} A thousand times yes!{w=0.3} The good of the fauni people was much bigger than my need to be able to look at myself in the mirror!"
-    sk nulla ""
+    sk nulla "Si!{w=0.3} Mil veces si!{w=0.3} El bien de la gente fauno era mucho mas grande que mi necesidad de verme a mí misma en el espejo!"
 
 # game/script/story/st_02.rpy:863
 translate spanish expo_st_03_10_29ebf71b:
 
     # sk nulla "And in the end it was all for nothing.{w=0.3} I failed, I failed at everything in life...{w=0.5} But at least in death, I {b}will{/b} protect my people."
-    sk nulla ""
+    sk nulla "Y al final fue todo para nada.{w=0.3} Fallé, fallé en todo en la vida...{w=0.5} Pero por lo menos en la muerte, yo {b}voy{/b} a proteger a mi gente."
 
 # game/script/story/st_02.rpy:867
 translate spanish expo_st_03_10_22448daa:
 
     # vopa "You're telling me you almost-{w=0.15}did you even consider, for a {b}moment{/b}, what this was going to do to your team-mates?!{w=0.3} 'Oh, hey, {b}Evelyn{/b}, [p_n] killed himself to save your life!'"
-    vopa ""
+    vopa "Me estás diciendo que tú casi-{w=0.15}acaso tú siquiera consideraste, por un {b}momento{/b}, lo que esto iba a hacerle a tus compañeros de equipo?!{w=0.3} 'Oh, hey, {b}Evelyn{/b}, [p_n] killed himself to save your life!'"
 
 # game/script/story/st_02.rpy:871
 translate spanish expo_st_03_10_78ff58eb:
 
     # vopa "...LEAVE ME!{w=0.3} PLEASE DON'T LEAVE ME!!!"
-    vopa ""
+    vopa "...DEJAME!{w=0.3} POR FAVOR NO ME DEJES!!!"
 
 # game/script/story/st_02.rpy:872
 translate spanish expo_st_03_10_8c8e56e7:
 
     # vopa "Can you imagine how absolutely DESTROYED the people around you would have been, how destroyed THEIR RELATIONSHIPS WITH EACH OTHER WOULD HAVE BEEN?!"
-    vopa ""
+    vopa "Puedes imaginar lo increiblemente DEVASTADA estaría la gente a tu alrededor, que tan destruidas SUS RELACIONES ENTRE ELLOS HABRÏAN ESTADO?!"
 
 # game/script/story/st_02.rpy:873
 translate spanish expo_st_03_10_9380ea6a:
 
     # vopa "Y-{w=0.15}YOU'RE GOING TO BE ALRIGHT! I-I-{w=0.15}*sniff*{w=0.15}I SWEAR!{w=0.3} I-{w=0.15}I CAUTERIZED THE WOUNDS A-{w=0.15}A-{w=0.15}AAAAAAAAAAH!!!"
-    vopa ""
+    vopa "V-{w=0.15}VAS A ESTAR BIEN! YO-YO-{w=0.15}*sniff*{w=0.15}LO JURO!{w=0.3} YO-{w=0.15}YO HE CAUTERIZADO LAS HERIDAS A-{w=0.15}A-{w=0.15}AAAAAAAAAH!!!"
 
 # game/script/story/st_02.rpy:874
 translate spanish expo_st_03_10_75722973:
 
     # vopa "And what you were going to do to the one you {i}oh so heroically{/i} were going to sacrifice yourself for?!{w=0.3} The kind of guilt she would have had to carry for the rest of her life?!"
-    vopa ""
+    vopa "Y que piensas hacer por aquel por el que tú {i}oh tan heroicamente{/i} ibas a sacrificarte?!{w=0.3} El tipo de culpa que ella tendría que cargar por el resto de su vida?!"
 
 # game/script/story/st_02.rpy:875
 translate spanish expo_st_03_10_3c6fbc33:
 
     # vopa "[p_n]...!{w=0.3} Please!{w=0.3} LOOK AT ME!{w=0.3} TALK TO ME!!!"
-    vopa ""
+    vopa "[p_n]...!{w=0.3} Por favor!{w=0.3} MIRAME!{w=0.3} HABLAME!!!"
 
 # game/script/story/st_02.rpy:876
 translate spanish expo_st_03_10_e9825f2e:
 
     # vopa "You...{w=0.5} Stupid, impulsive, selfish...!"
-    vopa ""
+    vopa "Tú...{w=0.5} Estúpido, impulsivo, egoísta...!"
 
 # game/script/story/st_02.rpy:878
 translate spanish expo_st_03_10_6367757d:
 
     # d nulla "It's not that easy."
-    d nulla ""
+    d nulla "No es tan fácil."
 
 # game/script/story/st_02.rpy:888
 translate spanish expo_st_03_10_877f1140:
 
     # sk nulla "I know I'm asking a lot of you, but-"
-    sk nulla ""
+    sk nulla "Sé que te estoy pidiendo mucho, pero-"
 
 # game/script/story/st_02.rpy:889
 translate spanish expo_st_03_10_9a96478f:
 
     # d nulla "I'm not talking about taking your life.{w=0.3} I'm talking about sacrifice.{w=0.3} It's not as easy and clean cut as you think."
-    d nulla ""
+    d nulla "No estoy hablando de tomar tu vida.{w=0.3} Estoy hablando sobre el sacrificio.{w=0.3} Es no tan fácil y pulcro como crees."
 
 # game/script/story/st_02.rpy:892
 translate spanish expo_st_03_10_fc738743:
 
     # sk nulla "What are you...?"
-    sk nulla ""
+    sk nulla "Qué estás...?"
 
 # game/script/story/st_02.rpy:893
 translate spanish expo_st_03_10_2f7fb1f7:
 
     # d nulla "If you want to die because you can't bear to walk Remnant anymore, then fine.{w=0.3} I will end your life right now."
-    d nulla ""
+    d nulla "Si quieres morir porque no puedes caminar en Remnant mas, está bien.{w=0.3} Voy a terminar con tu vida justo ahora."
 
 # game/script/story/st_02.rpy:895
 translate spanish expo_st_03_10_e6c96664:
 
     # d nulla "But if you're doing it to keep your people safe, that's not going to work.{w=0.3} You might prevent Atlas taking advantage of your execution, but what do you think will happen when word gets around that Adam killed you?"
-    d nulla ""
+    d nulla "Pero si lo hacer para mantener a tu gente a salvo, eso no va a funcionar.{w=0.3} Podrías impedir que Atlas tome ventaja de tu ejecución, pero que crees que pasará cuando la palabra se extienda de que Adam te mató?"
 
 # game/script/story/st_02.rpy:897
 translate spanish expo_st_03_10_25f1e207:
 
     # d nulla "Because that's how he's going to sell it."
-    d nulla ""
+    d nulla "Porque así es como él va a venderlo."
 
 # game/script/story/st_02.rpy:901
 translate spanish expo_st_03_10_3789e8fe:
 
     # sk nulla "I...{w=0.5} They wouldn't..."
-    sk nulla ""
+    sk nulla "Yo...{w=0.5} Ellos no lo harían..."
 
 # game/script/story/st_02.rpy:902
 translate spanish expo_st_03_10_3a44700f:
 
     # d nulla "It's a world-wide organization, Sienna.{w=0.3} You may have chosen the role and responsibility of leadership, but people followed you willingly.{w=0.3} They respected you, many still do."
-    d nulla ""
+    d nulla "Es una organización a nivel global, Sienna.{w=0.3} Puedes haber elegido el rol y la responsabilidad del liderazgo, pero lo gente te siguió voluntariamente.{w=0.3} Te respetaban, muchos aún lo hacen."
 
 # game/script/story/st_02.rpy:904
 translate spanish expo_st_03_10_579b83ff:
 
     # d nulla "Both inside and outside of the Fang...{w=0.5} You said that at this point, being the disgraced second head of the White Fang is all the value you offer."
-    d nulla ""
+    d nulla "Ambos dentro y fuera del Fang...{w=0.5} Tu dijiste que a este punto, ser la deshonrosa segunda cabeza del White Fang es todo el valor que puedes ofrecer."
 
 # game/script/story/st_02.rpy:906
 translate spanish expo_st_03_10_c92a98b4:
 
     # d nulla "{b}Ghira Belladonna{/b} disagrees.{w=0.3} Your safety and survival were the conditions he put down {b}for Menagerie's recognition of the Duchy of Peak as an indipendent nation{/b}."
-    d nulla ""
+    d nulla "{b}Ghira Belladonna{/b} no está de acuerdo.{w=0.3} Tu seguridad y supervivencia fueron las condiciones que puso {b}Por el reconocimiento de Menagerie hacia el Ducado de Peak como una nacion independiente{/b}."
 
 # game/script/story/st_02.rpy:911
 translate spanish expo_st_03_10_5e8ec361:
 
     # sk nulla "G-{w=0.15}Ghira?{w=0.3} Menagerie?!{w=0.3} You...{w=0.5} That's impossible!{w=0.3} You're lying!"
-    sk nulla ""
+    sk nulla "G-{w=0.15}Ghira?{w=0.3} Menagerie?!{w=0.3} Tú...{w=0.5} Eso es imposible!{w=0.3} Estás mintiendo!"
 
 # game/script/story/st_02.rpy:912
 translate spanish expo_st_03_10_ff64a69b:
 
     # d nulla "Why?"
-    d nulla ""
+    d nulla "Por qué?"
 
 # game/script/story/st_02.rpy:913
 translate spanish expo_st_03_10_6b885a1b:
 
     # sk nulla "Their neutrality is what protects them...!{w=0.3} They would not!{w=0.3} They would not break it, not for...{w=0.5} For...!"
-    sk nulla ""
+    sk nulla "Su neutralidad es lo que los protege...!{w=0.3} Ellos no!{w=0.3} Ellos no la romperían, no por...{w=0.5} Por...!"
 
 # game/script/story/st_02.rpy:914
 translate spanish expo_st_03_10_d569a35c:
 
     # d nulla "For you?"
-    d nulla ""
+    d nulla "Por tí?"
 
 # game/script/story/st_02.rpy:918
 translate spanish expo_st_03_10_eb9d6cb2:
 
     # d nulla "Do you trust Ghira Belladonna?"
-    d nulla ""
+    d nulla "Confías en Ghira Belladonna?"
 
 # game/script/story/st_02.rpy:919
 translate spanish expo_st_03_10_b1d24dda:
 
     # sk nulla "With my life."
-    sk nulla ""
+    sk nulla "Con mi vida."
 
 # game/script/story/st_02.rpy:921
 translate spanish expo_st_03_10_0cf7e38f:
 
     # d nulla "Then maybe you should continue doing so, don't you think?"
-    d nulla ""
+    d nulla "Entonces tal vez deberías seguir haciendolo, no crees?"
 
 # game/script/story/st_02.rpy:924
 translate spanish expo_st_03_10_b84e9c77:
 
     # sk nulla "You could still be lying..."
-    sk nulla ""
+    sk nulla "Podrías estar mintiendo..."
 
 # game/script/story/st_02.rpy:926
 translate spanish expo_st_03_10_581c0f35:
 
     # d nulla "I could, true...{w=0.5} But the point is, Sienna:{w=0.3} your death would do more harm than good to your people and those who don't want full out war with humans.{w=0.3} The very fact that Adam tried to kill you proves that."
-    d nulla ""
+    d nulla "Podría, es verdad...{w=0.5} Pero el punto es, Sienna:{w=0.3} tu muerte podría hacer mucho mas daño que bien a tu gente y aquellos que no quieren una guerra total con los humanos.{w=0.3} El mismo hecho de que Adam intentó matarte lo prueba."
 
 # game/script/story/st_02.rpy:928
 translate spanish expo_st_03_10_0ca5540a:
 
     # d nulla "I myself would die for my loved ones...{w=0.5} I've done it.{w=0.3} But {b}living for your loved ones{/b} is much more impactful.{w=0.3} Although I know very well how hard it can be."
-    d nulla ""
+    d nulla "Yo mismo moriría por los que amo...{w=0.5} Lo he hecho.{w=0.3} Pero {b}vivir por los que amas{/b} es mas impactante.{w=0.3} Aunque yo sé que tan díficil puede ser."
 
 # game/script/story/st_02.rpy:930
 translate spanish expo_st_03_10_2b4b2fbb:
 
     # d nulla "So...{w=0.5} Live, Sienna.{w=0.3} And for what it's worth, I give you my word that I will never allow them to extradite you to Atlas or Vale.{w=0.3} Even if we {i}weren't{/i} at odds with them."
-    d nulla ""
+    d nulla "Así que...{w=0.5} Vive, Sienna.{w=0.3} Y por lo que vale, te daré mi palabra de que nunca permitiré que ellos te extradite a Atlas o Vale.{w=0.3} Incluso si nosotros {i}no estuvieramos{/i} en conflicto con ellos."
 
 # game/script/story/st_02.rpy:931
 translate spanish expo_st_03_10_e02a7d01:
 
     # sk nulla "You would go against your superiors just like that...?"
-    sk nulla ""
+    sk nulla "Irías en contra de tus superiores solo así...?"
 
 # game/script/story/st_02.rpy:933
 translate spanish expo_st_03_10_2dea732e:
 
     # d nulla "Wouldn't be the first time."
-    d nulla ""
+    d nulla "No sería la primera vez."
 
 # game/script/story/st_02.rpy:939
 translate spanish expo_st_03_10_9852a676:
 
     # sk nulla "You're very kind, you know that?"
-    sk nulla ""
+    sk nulla "Eres muy amable, lo sabías?"
 
 # game/script/story/st_02.rpy:941
 translate spanish expo_st_03_10_fb129687:
 
     # d nulla "No, I'm not.{w=0.3} I don't just...{w=0.5} Empathize with whoever I spend more than five minutes in close proximity with."
-    d nulla ""
+    d nulla "No, no lo soy.{w=0.3} Yo no solo...{w=0.5} Empatizo con quien quiera paso mas de cinco minutos cerca."
 
 # game/script/story/st_02.rpy:942
 translate spanish expo_st_03_10_2d95fd9c:
 
     # sk nulla "You literally just did that."
-    sk nulla ""
+    sk nulla "Literalmente hiciste eso."
 
 # game/script/story/st_02.rpy:943
 translate spanish expo_st_03_10_0a62cdee:
 
     # d nulla "The context and sheer curiosity forced me to.{w=0.3} You're just lucky that, beneath all the mistakes and weakness, you're a good person."
-    d nulla ""
+    d nulla "El contexto y mi pura curiosidad me forzaron a ello.{w=0.3} Solo tienes suerte que, detrás todos los errores y debilidades, eres una buena persona."
 
 # game/script/story/st_02.rpy:944
 translate spanish expo_st_03_10_bc82b0ac:
 
     # sk nulla "Most people wouldn't have given me a chance, especially if they had lost what you have...{w=0.5} You did."
-    sk nulla ""
+    sk nulla "La mayoría de personas no me habrían dado una oportunidad, especialmente si ellos hubieran perdidod lo que...{w=0.5} Tú perdiste."
 
 # game/script/story/st_02.rpy:946
 translate spanish expo_st_03_10_2f5c1a7a:
 
     # sk nulla "I think that's why they thought you were the only person able to successfully complete this mission..."
-    sk nulla ""
+    sk nulla "Creo que esa es la razón por la que pensaron que eras la única persona capaz de completar esta misión exitosamente..."
 
 # game/script/story/st_02.rpy:950
 translate spanish expo_st_03_10_baa5a6b3:
 
     # d nulla "*whisper*But I don't want to be that person anymore..."
-    d nulla ""
+    d nulla "*susurro*Pero no quiero ser esa persona nunca mas..."
 
 # game/script/story/st_02.rpy:952
 translate spanish expo_st_03_10_c7174779:
 
     # sk nulla "I'm sorry?"
-    sk nulla ""
+    sk nulla "Lo siento?"
 
 # game/script/story/st_02.rpy:953
 translate spanish expo_st_03_10_73c29f1d:
 
     # d nulla "It's nothing...{w=0.5} We have one last hurdle to cover, anyway."
-    d nulla ""
+    d nulla "No es nada...{w=0.5} Tenemos un último problema que resolver, de todos modos."
 
 # game/script/story/st_02.rpy:955
 translate spanish expo_st_03_10_3c476d44:
 
     # d nulla "Let's go give them hell.{w=0.3} You watch my back, I watch yours?"
-    d nulla ""
+    d nulla "Vamos a darles un infierno.{w=0.3} Tú cuidas mi espalda, yo cuido la tuya?"
 
 # game/script/story/st_02.rpy:958
 translate spanish expo_st_03_10_b49f8b49:
 
     # sk nulla "Deal."
-    sk nulla ""
+    sk nulla "Trato."
 
 # game/script/story/st_02.rpy:978
 translate spanish s02_the_exit_7cf2b4d8:
 
     # sk smile "The exit!{w=0.3} We made it!"
-    sk smile ""
+    sk smile "La salida!{w=0.3} Lo logramos!"
 
 # game/script/story/st_02.rpy:979
 translate spanish s02_the_exit_6193785e:
 
     # d smile "Aaaah, fresh air and natural light!{w=0.3} Never knew how much I needed them until I got-"
-    d smile ""
+    d smile "Aaaah, aire fresco y luz natural!{w=0.3} Nunca supe cúanto lo necesitaba hasta que me hizo-"
 
 # game/script/story/st_02.rpy:982
 translate spanish s02_the_exit_f6050081:
 
     # d shock "-deprived..."
-    d shock ""
+    d shock "-falta..."
 
 # game/script/story/st_02.rpy:983
 translate spanish s02_the_exit_935d401a:
 
     # d frown "*sigh*{w=0.5}Too bad about the welcoming party."
-    d frown ""
+    d frown "*sigh*{w=0.5}Que lástima que hay un grupo de bienvenida."
 
 # game/script/story/st_02.rpy:985
 translate spanish s02_the_exit_c30262e9:
 
     # sco_x "The Leader of the White Fang...{w=0.3} Saved by a human."
-    sco_x ""
+    sco_x "La Líder del White Fang...{w=0.3} Salvada por un humano."
 
 # game/script/story/st_02.rpy:1000
 translate spanish s02_the_exit_3a7e4090:
 
     # sco "How much more shame will you bring to the cause, Sienna?"
-    sco ""
+    sco "Cúanta vergüenza seguirás trayendo a la causa, Sienna?"
 
 # game/script/story/st_02.rpy:1001
 translate spanish s02_the_exit_f958d72d:
 
     # sk angry "{b}Scourge{/b}...{w=0.5} Coming all the way up here for me?{w=0.3} You shouldn't have."
-    sk angry ""
+    sk angry "{b}Scourge{/b}...{w=0.5} Viniendo todo el camino hasta aquí por mí?{w=0.3} No deberías haberlo hecho."
 
 # game/script/story/st_02.rpy:1002
 translate spanish s02_the_exit_e595eb23:
 
     # d surprise "Scourge?{w=0.5} Is that his real name?"
-    d surprise ""
+    d surprise "Scourge?{w=0.5} Es su nombre real?"
 
 # game/script/story/st_02.rpy:1003
 translate spanish s02_the_exit_8c6a1963:
 
     # sk frown "Might as well be.{w=0.3} That's what everybody calls him."
-    sk frown ""
+    sk frown "Bien podría serlo.{w=0.3} Es como todo el mundo lo llama."
 
 # game/script/story/st_02.rpy:1004
 translate spanish s02_the_exit_633c56f4:
 
     # sco "It's not a name, it's the role I took upon myself.{w=0.3} To be the scourge of humans and traitors alike."
-    sco ""
+    sco "No es un nombre, es el rol que tomé yo mismo.{w=0.3} Ser el Azote de los humanos y traidores por igual."
 
 # game/script/story/st_02.rpy:1006
 translate spanish s02_the_exit_854b1020:
 
     # sk angry "Traitor...{w=0.5} Is that really what you think?"
-    sk angry ""
+    sk angry "Traidor...{w=0.5} Es eso lo que realmente piensas?"
 
 # game/script/story/st_02.rpy:1007
 translate spanish s02_the_exit_b7cfdff1:
 
     # sk fury "You conspired behind my back!{w=0.3} Scaled up operations in Vale to a level I would have never approved of, tried to assassinate me to wrestle control of the Fang and {b}I'm{/b} the traitor?!"
-    sk fury ""
+    sk fury "Conspiraron a mis espaldas!{w=0.3} Dejaron que las operaciones en Vale se salieran de proporción a un nivel que yo nunca habría aprobado, intentaron asesinarme"
 
 # game/script/story/st_02.rpy:1008
 translate spanish s02_the_exit_c9af0359:
 
     # sco "Your leadership was a detriment to the cause.{w=0.3} And now, so is your very existence.{w=0.3} We've tried to make you see the truth many times, Sienna...{w=0.5} To no avail."
-    sco ""
+    sco "Tu liderazgo era un detrimento a la causa.{w=0.3} Y ahora, tu mera existencia lo es.{w=0.3} Intentamos hacerte ver la verdad muchas veces, Sienna...{w=0.5} todo en vano."
 
 # game/script/story/st_02.rpy:1009
 translate spanish s02_the_exit_9fdbcc34:
 
     # d_i fury "(...scaled up operations in Vale?)"
-    d_i fury ""
+    d_i fury "(...aumentar las proporciones de las operaciones en Vale?)"
 
 # game/script/story/st_02.rpy:1010
 translate spanish s02_the_exit_e9e1aff2:
 
     # d_i surprise "(Wait a second!)"
-    d_i surprise ""
+    d_i surprise "(Espera un segundo!)"
 
 # game/script/story/st_02.rpy:1011
 translate spanish s02_the_exit_e3b6b7d7:
 
     # sco "I pity your blindness...{w=0.3} But it's time to pay for your failings."
-    sco ""
+    sco "Siento lástima por tu cegüera...{w=0.3} Pero es tiempo de pagar por tus errores."
 
 # game/script/story/st_02.rpy:1012
 translate spanish s02_the_exit_2c3ef40d:
 
     # sk angry "My biggest failing was not extirpating people like you from the Fang when I had the chance, Scourge."
-    sk angry ""
+    sk angry "Mi mayor error fue no extirpar gente como tú del Fang cuando tuve la oportunidad, Scourge."
 
 # game/script/story/st_02.rpy:1013
 translate spanish s02_the_exit_52a0bc19:
 
     # sco "Heh...{w=0.5} Maybe so.{w=0.3} Time to d-"
-    sco ""
+    sco "Heh...{w=0.5} Tal vez.{w=0.3} Es hora de que m-"
 
 # game/script/story/st_02.rpy:1015
 translate spanish s02_the_exit_9d9bad9f:
 
     # d surprise "Uhm, time out, actually!{w=0.3} Time out."
-    d surprise ""
+    d surprise "Uhm, tiempo fuera, en realidad!{w=0.3} Tiempo fuera."
 
 # game/script/story/st_02.rpy:1018
 translate spanish s02_the_exit_000b3f18:
 
     # sco "Hmmm?"
-    sco ""
+    sco "Hmmm?"
 
 # game/script/story/st_02.rpy:1020
 translate spanish s02_the_exit_d36fb96f:
 
     # sk surprise "What...?"
-    sk surprise ""
+    sk surprise "Qué...?"
 
 # game/script/story/st_02.rpy:1021
 translate spanish s02_the_exit_ceb54854:
 
     # d fury "Sorry to cut in but, I was wondering...{w=0.5} Chainsaw, large build, serpentine Grimm mask..."
-    d fury ""
+    d fury "Perdón por interrumpir, pero estaba pensando...{w=0.5} Motosierra, complexión grande, mascara de Grimm serpiente..."
 
 # game/script/story/st_02.rpy:1022
 translate spanish s02_the_exit_0535db32:
 
     # d smile "You wouldn't happen to be the guy who got his tendons done in by {b}Sierra Taipan{/b}, would you?{w=0.3} Snake faunus, tanned skin, curved blades?"
-    d smile ""
+    d smile "No serás el tipo al que {b}Sierra Taipan{/b} le cortó los tendones, lo eres?{w=0.3} Fauna serpiente, piel bronceada, espadas curvas?"
 
 # game/script/story/st_02.rpy:1025
 translate spanish s02_the_exit_6ce1ab38:
 
     # sco "Snake...!!!"
-    sco ""
+    sco "Serpiente...!!!"
 
 # game/script/story/st_02.rpy:1026
 translate spanish s02_the_exit_1d5b3b94:
 
     # sk shock sweat "Tendons...!!!{w=0.5} Wait, you mean you know the person who...?!"
-    sk shock sweat ""
+    sk shock sweat "Tendones...!!!{w=0.5} Espera, estás diciendo que conoces a la persona que...?!"
 
 # game/script/story/st_02.rpy:1027
 translate spanish s02_the_exit_841e010a:
 
     # sco "You...{w=0.5} That woman...!!!"
-    sco ""
+    sco "Tú...{w=0.5} Esa mujer...!!!"
 
 # game/script/story/st_02.rpy:1032
 translate spanish s02_the_exit_f58f8700:
 
     # d smile "Hah!{w=0.3} Oh wow, with the way you were posturing I thought we were dealing with someone important...{w=0.5} You're just {b}Team THND{/b}'s sloppy seconds, aren't you?"
-    d smile ""
+    d smile "Hah!{w=0.3} Oh wow, con la manera en la que te estabas presentando pensé que estabamos tratando con alguein importante...{w=0.5} Solo eres los segundos húmedos de el {b}Equipo THND{/b}, o no?"
 
 # game/script/story/st_02.rpy:1033
 translate spanish s02_the_exit_42d14b90:
 
     # sk pain blush -sweat "Oh, ew.{w=0.3} Can we not?"
-    sk pain blush -sweat ""
+    sk pain blush -sweat "Oh, ew.{w=0.3} Podríamos no?"
 
 # game/script/story/st_02.rpy:1034
 translate spanish s02_the_exit_5d5d7ce7:
 
     # sco "I WILL PAINT THIS CAVE WITH YOUR ENTRAILS, HUMAN!"
-    sco ""
+    sco "VOY A PINTAR ESTA CUEVA CON TUS ENTRAÑAS, HUMANO!"
 
 # game/script/story/st_02.rpy:1035
 translate spanish s02_the_exit_3f7bed6d:
 
     # d amused "You can try, Scorgie...{w=0.3} But honestly, I should thank you."
-    d amused ""
+    d amused "Puedes intentar, Scorgie...{w=0.3} Pero honestamente, debería agradecertelo."
 
 # game/script/story/st_02.rpy:1037
 translate spanish s02_the_exit_0e252365:
 
     # d neutral "I've been wanting to vent my frustrations on someone directly involved with the Fall for a loooooong time."
-    d neutral ""
+    d neutral "He estado queriendo deshacerme de mi frustración con alguien directamente envuelto en la Caída de Beacon por un laaaaaaargo tiempo."
 
 # game/script/story/st_02.rpy:1097
 translate spanish s02_scourge_battle_a_5199caa7:
 
     # rf_3 neutral "Ugh...!"
-    rf_3 neutral ""
+    rf_3 neutral "Ugh...!"
 
 # game/script/story/st_02.rpy:1100
 translate spanish s02_scourge_battle_a_4f788152:
 
     # sco "You would slay your brothers and sisters to save your own hide, coward?!{w=0.3} Have you forgotten why you became a Fang in the first place?!"
-    sco ""
+    sco "Matarías a tus propios hermanos y hermanas para salvar tu propia piel, cobarde?!{w=0.3} Has olvidado porque te convertiste en un Fang en primer lugar?!"
 
 # game/script/story/st_02.rpy:1101
 translate spanish s02_scourge_battle_a_1493dfdf:
 
     # sk tsk sweat ".{w=0.3}.{w=0.3}.{w=0.5}I remember..."
-    sk tsk sweat ""
+    sk tsk sweat ".{w=0.3}.{w=0.3}.{w=0.5}Lo recuerdo..."
 
 # game/script/story/st_02.rpy:1102
 translate spanish s02_scourge_battle_a_7f6f613f:
 
     # d_i neutral "(Sienna...)"
-    d_i neutral ""
+    d_i neutral "(Sienna...)"
 
 # game/script/story/st_02.rpy:1103
 translate spanish s02_scourge_battle_a_0f46c515:
 
     # sk fury "I remember it like it was yesterday...{w=0.5} And that is why I can't give up yet!"
-    sk fury ""
+    sk fury "Lo recuerdo como si fuera ayer...{w=0.5} Y es por eso que no puedo rendirme aún!"
 
 # game/script/story/st_02.rpy:1104
 translate spanish s02_scourge_battle_a_6dfa8dda:
 
     # sk angry -sweat "Prisoner, free, with fauni or human allies...!{w=0.3} As long as I draw breath, no matter what needs to be done!{w=0.3} I will never stop fighting for my people!"
-    sk angry -sweat ""
+    sk angry -sweat "Prisionera, libre, con aliados faunos o humanos...!{w=0.3} Mientras siga respirando, no importa lo que tenga que hacer!{w=0.3} Nunca dejaré de luchar por mi gente!"
 
 # game/script/story/st_02.rpy:1105
 translate spanish s02_scourge_battle_a_1904dd54:
 
     # sk fury "I will protect them from humans!{w=0.3} I will protect them from Grimm!{w=0.3} And I will protect them from YOU!"
-    sk fury ""
+    sk fury "Voy a protegerlos de los humanos!{w=0.3} Voy a protegerlos de los Grimm!{w=0.3} Y voy a protegerlos de TI!"
 
 # game/script/story/st_02.rpy:1106
 translate spanish s02_scourge_battle_a_16bc8500:
 
     # d smile "Heh...{w=0.5} Well said!"
-    d smile ""
+    d smile "Heh...{w=0.5} Bien dicho!"
 
 # game/script/story/st_02.rpy:1107
 translate spanish s02_scourge_battle_a_f0ee838a:
 
     # sco "Hah!{w=0.3} Let's do something about that breath, then, shall we!"
-    sco ""
+    sco "Hah!{w=0.3} HAgamos algo acerca de ti respirando, entonce, deberíamos!"
 
 # game/script/story/st_02.rpy:1151
 translate spanish s02_scourge_battle_b_7799021d:
 
     # rf_2 neutral "Argh!!!"
-    rf_2 neutral ""
+    rf_2 neutral "Argh!!!"
 
 # game/script/story/st_02.rpy:1154
 translate spanish s02_scourge_battle_b_b756d473:
 
     # d pain sweat "Ugh...{w=0.5} Ready to turn tail yet, assholes?!"
-    d pain sweat ""
+    d pain sweat "Ugh...{w=0.5} Listo para huir ya, imbéciles?!"
 
 # game/script/story/st_02.rpy:1155
 translate spanish s02_scourge_battle_b_0ac1ae01:
 
     # sco "Talk tough all you want, human..."
-    sco ""
+    sco "Hazte el duro todo lo que quieras, humano..."
 
 # game/script/story/st_02.rpy:1170
 translate spanish s02_scourge_battle_b_54f262ea:
 
     # sco "I can see how tired you are."
-    sco ""
+    sco "Puedo ver cúan cansado estás"
 
 # game/script/story/st_02.rpy:1171
 translate spanish s02_scourge_battle_b_08c8e900:
 
     # sk pain sweat "Damn it all..."
-    sk pain sweat ""
+    sk pain sweat "Malditos sean..."
 
 # game/script/story/st_02.rpy:1172
 translate spanish s02_scourge_battle_b_61b8ccbe:
 
     # d pain "Ugh, this would have been so much easier if we hadn't been forced to fight-"
-    d pain ""
+    d pain "Ugh, esto habría sido mucho mas fácil si no nos hubieran forzado a pelear-"
 
 # game/script/story/st_02.rpy:1175
 translate spanish s02_scourge_battle_b_921ddcd9:
 
     # d surprise "...!{w=0.3} The Kataglyphs?!"
-    d surprise ""
+    d surprise "...!{w=0.3} Los Kataglyps?!"
 
 # game/script/story/st_02.rpy:1176
 translate spanish s02_scourge_battle_b_fd85981e:
 
     # rf_1 neutral "S-{w=0.15}Sir!{w=0.3} Grimm!"
-    rf_1 neutral ""
+    rf_1 neutral "S-{w=0.15}Señor!{w=0.3} Grimm!"
 
 # game/script/story/st_02.rpy:1177
 translate spanish s02_scourge_battle_b_374e52ed:
 
     # sco "What's this...?!"
-    sco ""
+    sco "Qué es esto...?"
 
 # game/script/story/st_02.rpy:1178
 translate spanish s02_scourge_battle_b_63c6f252:
 
     # rf_2 neutral "A-{w=0.15}AAAH!!!"
-    rf_2 neutral ""
+    rf_2 neutral "A-{w=0.15}AAAH!!!"
 
 # game/script/story/st_02.rpy:1187
 translate spanish s02_scourge_battle_b_84a15d86:
 
     # rf_3 neutral "AAAAAAAAAAAAAAAAH!!!"
-    rf_3 neutral ""
+    rf_3 neutral "AAAAAAAAAAAAAAH!!!"
 
 # game/script/story/st_02.rpy:1188
 translate spanish s02_scourge_battle_b_57ec6526:
 
     # sk tsk "Ugh...!{w=0.3} They're going after people without Aura first."
-    sk tsk ""
+    sk tsk "Ugh...!{w=0.3} Están yendo por las personas sin Aura primero."
 
 # game/script/story/st_02.rpy:1189
 translate spanish s02_scourge_battle_b_033466fe:
 
     # d neutral "Then this is our chance!{w=0.3} Let's-"
-    d neutral ""
+    d neutral "Entonces esta es nuestra oportunidad!{w=0.3}Vam-"
 
 # game/script/story/st_02.rpy:1191
 translate spanish s02_scourge_battle_b_db852ab9:
 
     # sco "NO!!!"
-    sco ""
+    sco "NO!!!"
 
 # game/script/story/st_02.rpy:1192
 translate spanish s02_scourge_battle_b_b3b1bb4c:
 
     # d shock "...!{w=0.3} Are you SERIOUS?!"
-    d shock ""
+    d shock "...!{w=0.3} Estás hablando EN SERIO?!"
 
 # game/script/story/st_02.rpy:1193
 translate spanish s02_scourge_battle_b_75bd0a13:
 
     # sk fury "You should be helping your subordinates, Scourge!!!"
-    sk fury ""
+    sk fury "Deberías estar ayudando a tus subordinados, Scourge!!!"
 
 # game/script/story/st_02.rpy:1194
 translate spanish s02_scourge_battle_b_f3d96a11:
 
     # sco "I WON'T BE DENIED MY PREY!{w=0.3} NOT AGAIN, BY A HUMAN AND A TRAITOR!!!"
-    sco ""
+    sco "NO ME NEGARAN MI PRESA!{w=0.3} NO DE NUEVO, A MANOS DE UN HUMANO Y UN TRAIDOR!!!"
 
 # game/script/story/st_02.rpy:1195
 translate spanish s02_scourge_battle_b_2f61aec7:
 
     # d pain "You crazy bastard...!{w=0.3} Come on, Sienna!"
-    d pain ""
+    d pain "Bastardo loco...!{w=0.3} Vamos, Sienna!"
 
 # game/script/story/st_02.rpy:1196
 translate spanish s02_scourge_battle_b_b7df1297:
 
     # sk angry "One last push...!"
-    sk angry ""
+    sk angry "Un último empujon"
 
 # game/script/story/st_02.rpy:1247
 translate spanish s02_scourge_battle_end_b3a82e19:
 
     # sco "No...{w=0.5} I won't fail...!{w=0.3} THE RED FANG WILL...!!!"
-    sco ""
+    sco "No...{w=0.5} No fallaré...!{w=0.3} EL RED FANG SERÄ...!!!"
 
 # game/script/story/st_02.rpy:1248
 translate spanish s02_scourge_battle_end_72987e10:
 
     # d shock sweat "SIENNA, NOW!"
-    d shock sweat ""
+    d shock sweat "SIENNA, AHORA!"
 
 # game/script/story/st_02.rpy:1249
 translate spanish s02_scourge_battle_end_3f2b36e2:
 
     # sk angry sweat "EVERYTHING YOU'VE GOT!"
-    sk angry sweat ""
+    sk angry sweat "CON TODO LO QUE TENGAS!"
 
 # game/script/story/st_02.rpy:1265
 translate spanish s02_scourge_battle_end_d35ba1f0:
 
     # sco "My...{w=0.5} My prey...{w=0.5} My mission...!"
-    sco ""
+    sco "Mi...{w=0.5} Mi presa...{w=0.5} mi misión...!"
 
 # game/script/story/st_02.rpy:1266
 translate spanish s02_scourge_battle_end_4fd3917c:
 
     # d nulla "Fuck...{w=0.5} How is he still alive?!"
-    d nulla ""
+    d nulla "Mierda...{w=0.5} Cómo sigue vivo?!"
 
 # game/script/story/st_02.rpy:1267
 translate spanish s02_scourge_battle_end_2a780271:
 
     # sk nulla "It's his Semblance...{w=0.5} He...!"
-    sk nulla ""
+    sk nulla "Es su semblanza...{w=0.5} Él...!"
 
 # game/script/story/st_02.rpy:1272
 translate spanish s02_scourge_battle_end_1b09a260:
 
     # sk nulla "I'll tell you later!{w=0.3} LET'S JUST GO!"
-    sk nulla ""
+    sk nulla "Te lo diré mas tarde!{w=0.3} SOLO VAMONOS!"
 
 # game/script/story/st_02.rpy:1273
 translate spanish s02_scourge_battle_end_09098795:
 
     # d nulla "Hoofing it, ma'am!"
-    d nulla ""
+    d nulla "Corriendo, señora!"
 
 # game/script/story/st_02.rpy:1274
 translate spanish s02_scourge_battle_end_27939d62:
 
     # sco "You...{w=0.5} Dare...?!{w=0.3} YOU DARE?!"
-    sco ""
+    sco "Tú...{w=0.5} Te atreves...?!{w=0.3} TE ATREVES?!"
 
 # game/script/story/st_02.rpy:1281
 translate spanish s02_scourge_battle_end_76c5826c:
 
     # sco "RAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH!!!"
-    sco ""
+    sco "RAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH!!!"
 
 # game/script/story/st_02.rpy:1282
 translate spanish s02_scourge_battle_end_699e4c7b:
 
     # d pain sweat "Insane bastard...!"
-    d pain sweat ""
+    d pain sweat "Bastardo loco...!"
 
 # game/script/story/st_02.rpy:1283
 translate spanish s02_scourge_battle_end_92991980:
 
     # sk angry sweat "You don't know the half of it...!"
-    sk angry sweat ""
+    sk angry sweat "No sabes ni la mitad de ello...!"
 
 # game/script/story/st_02.rpy:1284
 translate spanish s02_scourge_battle_end_53556626:
 
     # sk surprise sweat "Is...{w=0.5} Is that...?"
-    sk surprise sweat ""
+    sk surprise sweat "Es...{w=0.5} Es eso...?"
 
 # game/script/story/st_02.rpy:1285
 translate spanish s02_scourge_battle_end_bf36bd3f:
 
     # d smile sweat "Our ride.{w=0.3} And I can already see a transport coming our way.{w=0.3} Sienna Khan..."
-    d smile sweat ""
+    d smile sweat "Nuetro transporte.{w=0.3} Y ya puedo verlo venir en camino.{w=0.3} Sienna Khan..."
 
 # game/script/story/st_02.rpy:1289
 translate spanish s02_scourge_battle_end_2522e577:
 
     # d smile sweat "May I introduce the Royal Flagship: {b}the Red Shark{/b}."
-    d smile sweat ""
+    d smile sweat "Dejame introducirte a la Flota Real: {b}el Tiburón Rojo{/b}."
 
 # game/script/story/st_02.rpy:1297
 translate spanish s02_scourge_battle_end_3b9fbf92:
@@ -2022,7 +2022,7 @@ translate spanish s02_scourge_battle_end_3b9fbf92:
     # voice "audio/vo/narrator/015.ogg"
     # na "Fighting their way through darkness, both ephemeral and given shape, [p_n] di Kabegis and Sienna Khan have escaped the Red Cliffs Waterway."
     voice "audio/vo/narrator/015.ogg"
-    na ""
+    na "Peleando su camino a traves de la oscuridad, los dos efímeros dados forma, [p_n] di Kabegis y Sienna Khan han escapado del Súbterraneo de los Cañones Rojos."
 
 # game/script/story/st_02.rpy:1299
 translate spanish s02_scourge_battle_end_6f111fb0:
@@ -2030,7 +2030,7 @@ translate spanish s02_scourge_battle_end_6f111fb0:
     # voice "audio/vo/narrator/016.ogg"
     # na "Allies are on their way, to whisk them to safety.{w=0.3} Is the mission finally over?{w=0.3} And is Sienna Khan actually safe in the hands of the Royal Duchy of Peak?"
     voice "audio/vo/narrator/016.ogg"
-    na ""
+    na "Los aliados están en camino, para llevarlos a la seguridad.{w=0.3} Se acabó finalmente esta misión?{w=0.3} Y está Sienna Khan realmente segura en las manos del Ducado Real de Peak?"
 
 # game/script/story/st_02.rpy:1301
 translate spanish s02_scourge_battle_end_a473640a:
@@ -2038,5 +2038,5 @@ translate spanish s02_scourge_battle_end_a473640a:
     # voice "audio/vo/narrator/017.ogg"
     # na "Find out in the next sky-high episode of {b}JPDE2: Adagio of Darkness{/b}!"
     voice "audio/vo/narrator/017.ogg"
-    na ""
+    na "Descubrelo en el próximo episodio en las nubes de {b}JPDE2: Adagio of Darkness{/b}!"
 

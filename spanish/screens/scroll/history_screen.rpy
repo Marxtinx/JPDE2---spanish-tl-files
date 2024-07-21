@@ -4,5 +4,5 @@ translate spanish strings:
 
     # game/screens/scroll/history_screen.rpy:55
     old "The dialogue history is empty."
-    new ""
+    new "El historial de dialogo está vacío."
 

@@ -4,17 +4,17 @@ translate spanish strings:
 
     # game/screens/preferences.rpy:13
     old "Preferences"
-    new ""
+    new "Prefencias"
 
     # game/screens/preferences.rpy:86
     old "Unseen Text"
-    new ""
+    new "Texto no visto"
 
     # game/screens/preferences.rpy:87
     old "After Choices"
-    new ""
+    new "Luego de Decisiones"
 
     # game/screens/preferences.rpy:88
     old "Transitions"
-    new ""
+    new "Transiciones"
 

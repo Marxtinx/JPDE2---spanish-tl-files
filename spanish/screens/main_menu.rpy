@@ -4,5 +4,5 @@ translate spanish strings:
 
     # game/screens/main_menu.rpy:25
     old "Start Game"
-    new ""
+    new "Empezar juego"
 

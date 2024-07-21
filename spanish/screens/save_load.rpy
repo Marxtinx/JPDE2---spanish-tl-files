@@ -4,25 +4,25 @@ translate spanish strings:
 
     # game/screens/save_load.rpy:27
     old "Load"
-    new ""
+    new "Cargar"
 
     # game/screens/save_load.rpy:83
     old "{#file_time}%a, %B \n%d. %Y, %H:%M"
-    new ""
+    new "{#file_time}%a, %B \n%d. %Y, %H:%M"
 
     # game/screens/save_load.rpy:83
     old "Empty Slot"
-    new ""
+    new "Espacio vacío"
 
     # game/screens/save_load.rpy:93
     old "<"
-    new ""
+    new "<"
 
     # game/screens/save_load.rpy:96
     old "{#auto_page}A"
-    new ""
+    new "{#auto_page}A"
 
     # game/screens/save_load.rpy:102
     old ">"
-    new ""
+    new ">"
 

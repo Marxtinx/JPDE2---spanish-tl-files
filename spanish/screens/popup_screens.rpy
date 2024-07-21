@@ -4,9 +4,9 @@ translate spanish strings:
 
     # game/screens/popup_screens.rpy:28
     old "Confirm"
-    new ""
+    new "Confirmar"
 
     # game/screens/popup_screens.rpy:84
     old "Skipping"
-    new ""
+    new "Saltando"
 

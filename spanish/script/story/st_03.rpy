@@ -4,1003 +4,1003 @@
 translate spanish the_red_shark_7632b9ec:
 
     # d nulla "Well, it's actually the only ship in the fleet right now...{w=0.3} But it would still be the flagship."
-    d nulla ""
+    d nulla "Bueno, en realidad es la única aeronave por ahora...{w=0.3} Pero seguiría siendo la nave insignia."
 
 # game/script/story/st_03.rpy:15
 translate spanish the_red_shark_37eef1b6:
 
     # sk nulla "The size...!{w=0.5} How did Peak manage to build this without anyone noticing?"
-    sk nulla ""
+    sk nulla "El tamaño...!{w=0.5} Cómo se las arregló Peak para construir esto sin que nadie se de cuenta?"
 
 # game/script/story/st_03.rpy:17
 translate spanish the_red_shark_3b8b2388:
 
     # d nulla "Long story.{w=0.3} Most of the material actually came from-"
-    d nulla ""
+    d nulla "Larga historoa en corto.{w=0.3} La mayoría del material en realidad vino de-"
 
 # game/script/story/st_03.rpy:22
 translate spanish the_red_shark_6d7859e4:
 
     # d nulla "Huh.{w=0.3} I wasn't expecting a welcoming party."
-    d nulla ""
+    d nulla "Huh.{w=0.3} No esperaba un grupo de bienvenida."
 
 # game/script/story/st_03.rpy:24
 translate spanish the_red_shark_5e832ad2:
 
     # ma_1 "Hunter Di Kabegis.{w=0.3} Good job, out there."
-    ma_1 ""
+    ma_1 "Cazador Di Kabegis.{w=0.3} Buen trabajo, alla afuera."
 
 # game/script/story/st_03.rpy:25
 translate spanish the_red_shark_bf2f2359:
 
     # ma_2 "Thanks for your efforts, sir!"
-    ma_2 ""
+    ma_2 "Gracias por sus esfuerzos, señor!"
 
 # game/script/story/st_03.rpy:27
 translate spanish the_red_shark_92d5b0f5:
 
     # d nulla "Not a Hunter yet but, you're welcome.{w=0.3} What can I do for you?"
-    d nulla ""
+    d nulla "No soy un Cazador aún, pero gracias.{w=0.3} Qué puedo hacer por ustedes?"
 
 # game/script/story/st_03.rpy:28
 translate spanish the_red_shark_5274e28b:
 
     # ma_1 "We're here to escort miss Khan to the brig."
-    ma_1 ""
+    ma_1 "Estamos aquí para escoltar a la señorita Khan hasta el calabozo."
 
 # game/script/story/st_03.rpy:32
 translate spanish the_red_shark_4f9650a0:
 
     # d nulla "I thought she was supposed to be a guest?"
-    d nulla ""
+    d nulla "Pensé que se suponía que sería una invitada?"
 
 # game/script/story/st_03.rpy:33
 translate spanish the_red_shark_6b924f60:
 
     # ma_2 "Commander's orders, sir.{w=0.3} We're to make her undergo a full security check."
-    ma_2 ""
+    ma_2 "Ordenes del Comandante, señor.{w=0.3} Estamos aquí para hacerle un chequeo de seguridad completo."
 
 # game/script/story/st_03.rpy:35
 translate spanish the_red_shark_2b384147:
 
     # d nulla "A full-?!{w=0.3} Hey, I believe I'd notice if she was packing or something!"
-    d nulla ""
+    d nulla "Completo-?!{w=0.3} Hey, creo que notaría si ella tuviera algo encima!"
 
 # game/script/story/st_03.rpy:36
 translate spanish the_red_shark_c62f6f3b:
 
     # ma_2 "In case you said that, the Commander wanted us to tell you:{w=0.3} 'I've got a few years of experience on you, mister Bestie'.{w=0.3} He'd also like you to report to him in person."
-    ma_2 ""
+    ma_2 "En caso de que dijeras eso, el Comandante nos dijo que te dijeramos:{w=0.3} 'Tengo unos cuantos años mas de experiencia que tú, señor Bestie'.{w=0.3} También nos gustaría que le dieras el reporte en persona."
 
 # game/script/story/st_03.rpy:37
 translate spanish the_red_shark_c8fe1aca:
 
     # sk nulla "[p_n], it's okay.{w=0.3} I'll go."
-    sk nulla ""
+    sk nulla "[p_n], esta bien.{w=0.3} voy a ir."
 
 # game/script/story/st_03.rpy:39
 translate spanish the_red_shark_6b1e2628:
 
     # d nulla "Sienna..."
-    d nulla ""
+    d nulla "Sienna..."
 
 # game/script/story/st_03.rpy:41
 translate spanish the_red_shark_6dd09dc7:
 
     # sk nulla "I was expecting something like this...{w=0.5} And honestly, I wouldn't trust you guys with my safety otherwise."
-    sk nulla ""
+    sk nulla "Estaba esperando algo como esto...{w=0.5} Y honestamente, no les confíaria a ustedes mi seguridad de otro modo."
 
 # game/script/story/st_03.rpy:42
 translate spanish the_red_shark_a430a789:
 
     # ma_1 "Much obliged, Miss Khan."
-    ma_1 ""
+    ma_1 "Encantados, Señorita Khan."
 
 # game/script/story/st_03.rpy:43
 translate spanish the_red_shark_6e4b38a9:
 
     # ma_2 "On behalf of the Commander and Duchess Glynda, we welcome you aboard."
-    ma_2 ""
+    ma_2 "En nombre del Comandante y la Duquesa Glynda, le damos la bienvenida a bordo."
 
 # game/script/story/st_03.rpy:47
 translate spanish the_red_shark_6fb9bfec:
 
     # d nulla "Fine.{w=0.3} I'll see you later, then."
-    d nulla ""
+    d nulla "Bien.{w=0.3} Te veré mas tarde, entonces."
 
 # game/script/story/st_03.rpy:49
 translate spanish the_red_shark_c85cc408:
 
     # sk nulla "Of course...{w=0.5} And, [p_n]?"
-    sk nulla ""
+    sk nulla "Por supuesto...{w=0.5} Y, [p_n]?"
 
 # game/script/story/st_03.rpy:53
 translate spanish the_red_shark_c123b1c6:
 
     # sk nulla "Thank you."
-    sk nulla ""
+    sk nulla "Gracias."
 
 # game/script/story/st_03.rpy:61
 translate spanish the_red_shark_e0b0adb2:
 
     # d_n nulla "*sigh*{w=1.0}\"Stupid, stupid, stupid...\""
-    d_n nulla ""
+    d_n nulla "*sigh*\"Stupid, stupid, stupid...\""
 
 # game/script/story/st_03.rpy:62
 translate spanish the_red_shark_ac8e52cc:
 
     # g c_mili "I don't believe your IQ is that low, [p_n]."
-    g c_mili ""
+    g c_mili "No creo que tu IQ sea tan bajo, [p_n]."
 
 # game/script/story/st_03.rpy:69
 translate spanish the_red_shark_d8e8efd9:
 
     # g nulla "According to your academy records, you tended to test quite highly in written exams.{w=0.3} Your psychological evaluation shows an aptitude for structural thinking but also a penchant for improvisation."
-    g nulla ""
+    g nulla "De acuerdo a tu historial academico, tenías la tendencia a terminar bastante alto en los examenes escritos.{w=0.3} Tu evaluación psicologica muestra una aptitud para el pensamiento estructurado pero también una tendencia por la improvisación."
 
 # game/script/story/st_03.rpy:72
 translate spanish the_red_shark_8fe9443e:
 
     # d nulla "Gemma...{w=0.5} Have you been going through people's personal files again?"
-    d nulla ""
+    d nulla "Gemma...{w=0.5} Has estado revisando los archivos personales de la gente de nuevo?"
 
 # game/script/story/st_03.rpy:76
 translate spanish the_red_shark_db8e929c:
 
     # g nulla "Maaaaaybe...?"
-    g nulla ""
+    g nulla "Taaaaaaaal vez...?"
 
 # game/script/story/st_03.rpy:77
 translate spanish the_red_shark_4b662346:
 
     # d nulla "And what did we say about that?"
-    d nulla ""
+    d nulla "Y qué hablamos sobre eso?"
 
 # game/script/story/st_03.rpy:79
 translate spanish the_red_shark_c3350eef:
 
     # g nulla "Not to...{w=0.5} Moooooou~"
-    g nulla ""
+    g nulla "No hacerlo...{w=0.5} Mooooou~"
 
 # game/script/story/st_03.rpy:81
 translate spanish the_red_shark_4a7df1c2:
 
     # d nulla "Honestly...{w=0.5} What am I gonna do with you?"
-    d nulla ""
+    d nulla "Honestamente...{w=0.5} Qué voy a hacer contigo?"
 
 # game/script/story/st_03.rpy:83
 translate spanish the_red_shark_af71d161:
 
     # g nulla "Well, you could begin by greeting me properly..."
-    g nulla ""
+    g nulla "Bueno, podrías empezar por saludarme apropiadamente...."
 
 # game/script/story/st_03.rpy:85
 translate spanish the_red_shark_7781bd62:
 
     # d nulla "Hmmm, I guess I could give it a try..."
-    d nulla ""
+    d nulla "Hmmm, supongo que puedo hacer el intento..."
 
 # game/script/story/st_03.rpy:87
 translate spanish the_red_shark_438682e3:
 
     # d nulla "I'm back, Gemma.{w=0.3} Thanks for your help and for coming to see me."
-    d nulla ""
+    d nulla "Regresé, Gemma.{w=0.3} Gracias por tu ayuda y venir a verme."
 
 # game/script/story/st_03.rpy:91
 translate spanish the_red_shark_53716e5a:
 
     # g nulla "Welcome back.{w=0.3} I'm glad to see you safe and sound."
-    g nulla ""
+    g nulla "Bienvenido.{w=0.5} Me alegro de verte sano y salvo."
 
 # game/script/story/st_03.rpy:93
 translate spanish the_red_shark_eab800be:
 
     # g nulla "If a bit scraped up.{w=0.5} What transpired since our last transmission?"
-    g nulla ""
+    g nulla "Es solo un rasguño.{w=0.5} Qué sucedió desde nuestra ultima transmisión?"
 
 # game/script/story/st_03.rpy:94
 translate spanish the_red_shark_c805c3f4:
 
     # d nulla "I'll tell you while we walk.{w=0.3} I should freshen up a little, since our fearless Commander wants a report directly from me."
-    d nulla ""
+    d nulla "Te lo diré mientras caminamos.{w=0.3} Yo debería prepararme un poco, ya que nuestro intrépido Comandante quiere un reporte directamente de mí."
 
 # game/script/story/st_03.rpy:96
 translate spanish the_red_shark_690cb933:
 
     # g nulla "Oh.{w=0.3} I didn't think you respected him that much."
-    g nulla ""
+    g nulla "Oh.{w=0.3} No pensaba que lo respetabas tanto."
 
 # game/script/story/st_03.rpy:98
 translate spanish the_red_shark_2cf4c216:
 
     # d nulla "I don't.{w=0.3} But I'd feel bad for people having to clean up what I've been stepping into."
-    d nulla ""
+    d nulla "No lo hago.{w=0.3} Pero me siento mal por la gente teniendo que limpiar las cosas en las que he estado pisando."
 
 # game/script/story/st_03.rpy:103
 translate spanish the_red_shark_e196d740:
 
     # g_i nulla "(Actually the cleaning is mostly automated, but he doesn't need to know that.)"
-    g_i nulla ""
+    g_i nulla "(En realidad la limpieza esta mayormente automatizada, pero el no necesita saber eso.)"
 
 # game/script/story/st_03.rpy:113
 translate spanish the_red_shark_75e39add:
 
     # g c_mili surprise "My goodness...{w=0.5} Quite the engagement."
-    g c_mili surprise ""
+    g c_mili surprise "Dios mío....{w=0.5} Menudo combate."
 
 # game/script/story/st_03.rpy:114
 translate spanish the_red_shark_ba89b3ce:
 
     # d neutral "You know it.{w=0.3} I don't think I could've made it without Sienna's help."
-    d neutral ""
+    d neutral "Ya te imaginas.{w=0.3} No creo poderlo haber hecho sin la ayuda de Sienna,"
 
 # game/script/story/st_03.rpy:115
 translate spanish the_red_shark_d20a4025:
 
     # g c_mili smile "I see.{w=0.3} I'm glad you made a new friend, [p_n]."
-    g c_mili smile ""
+    g c_mili smile "Ya veo.{w=0.3} Me alegro de que hayas hecho una nueva amiga, [p_n]."
 
 # game/script/story/st_03.rpy:118
 translate spanish the_red_shark_c432387c:
 
     # d surprise "A new-{w=0.15}we're not friends!{w=0.3} I just feel a bit sorry for her!"
-    d surprise ""
+    d surprise "Una nueva-{w=0.15}No somos amigos!{w=0.3} Solo siento un poco de lastima por ella!"
 
 # game/script/story/st_03.rpy:119
 translate spanish the_red_shark_4f8b994a:
 
     # d frown "And we fought together because it was the only way to get out of there alive.{w=0.3} Totally utilitarian, nothing more."
-    d frown ""
+    d frown "Y peleamos juntos porque era la unica manera de salir de allí vivos.{w=0.3} Totalmente utilitario, nada mas."
 
 # game/script/story/st_03.rpy:120
 translate spanish the_red_shark_1551d137:
 
     # g c_mili surprise "Oh...{w=0.5} That's a shame."
-    g c_mili surprise ""
+    g c_mili surprise "Oh...{w=0.5} Eso es una pena."
 
 # game/script/story/st_03.rpy:121
 translate spanish the_red_shark_ebc47710:
 
     # d neutral "No, it's not.{w=0.3} I already have enough friends.{w=0.3} I don't need any more friends."
-    d neutral ""
+    d neutral "No, no lo es.{w=0.3} Ya tengo suficientes amigos.{w=0.3} No necesito ningún amigo mas."
 
 # game/script/story/st_03.rpy:127
 translate spanish the_red_shark_541567ca:
 
     # d frown "Hello.{w=0.3} I'm here to see the Commander.{w=0.3} Please let it be known to him that I'm kind of hostile."
-    d frown ""
+    d frown "Hola.{w=0.3} Estoy aquí para ver al Comandante.{w=0.3} Por favor dejenle saber que soy hostil hacia el."
 
 # game/script/story/st_03.rpy:128
 translate spanish the_red_shark_6bb68a11:
 
     # ma_3 "Sir di Kabegis, welcome to the bridge.{w=0.3} Your visit and hostility were expected."
-    ma_3 ""
+    ma_3 "Señor di Kabegis, bienvenido al puente de mando.{w=0.3} Tu visita y hostilidad estaban previstos."
 
 # game/script/story/st_03.rpy:129
 translate spanish the_red_shark_372b7b7b:
 
     # d surprise "They...{w=0.5} What?"
-    d surprise ""
+    d surprise "Estaban...{w=0.5} Qué?"
 
 # game/script/story/st_03.rpy:130
 translate spanish the_red_shark_c378e82e:
 
     # g c_mili laugh "Pffft..."
-    g c_mili laugh ""
+    g c_mili laugh "Pffft..."
 
 # game/script/story/st_03.rpy:131
 translate spanish the_red_shark_b6a5df67:
 
     # ma_3 "He's at the control station, right now.{w=0.3} You can't miss him."
-    ma_3 ""
+    ma_3 "Él está en la estación de control, en este momento.{w=0.3} No puedes no verlo."
 
 # game/script/story/st_03.rpy:132
 translate spanish the_red_shark_bed87217:
 
     # d frown blush "That son of a...{w=0.5} Thanks."
-    d frown blush ""
+    d frown blush "Ese hijo de....{w=0.5} Gracias."
 
 # game/script/story/st_03.rpy:137
 translate spanish the_red_shark_9d6643ec:
 
     # ma_ma "Course adjusted, sir.{w=0.3} The area of turbulence has been avoided."
-    ma_ma ""
+    ma_ma "Curso ajustado, Señor.{w=0.3} El area de turbulencia ha sido evitada."
 
 # game/script/story/st_03.rpy:138
 translate spanish the_red_shark_3647ea8f:
 
     # ma_mi "Increasing cruise speed to compensate for deviation..."
-    ma_mi ""
+    ma_mi "Incrementando la velocidad de vuelo para compensar la desviación..."
 
 # game/script/story/st_03.rpy:139
 translate spanish the_red_shark_bf8795f9:
 
     # tc_x nulla "No.{w=0.3} Leave it as it is."
-    tc_x nulla ""
+    tc_x nulla "No.{w=0.3} Dejala como esta."
 
 # game/script/story/st_03.rpy:140
 translate spanish the_red_shark_904b881a:
 
     # ma_mi "Sir?"
-    ma_mi ""
+    ma_mi "Señor?"
 
 # game/script/story/st_03.rpy:141
 translate spanish the_red_shark_92da6075:
 
     # tc_x nulla "The mission is successful and word has already reached Peak.{w=0.3} There's no pressing need to try and respect the schedule."
-    tc_x nulla ""
+    tc_x nulla "La misión fue exitosa y la el hecho ya ha llegado a Peak.{w=0.3} No hay una necesidad urgente de respetar la agenda."
 
 # game/script/story/st_03.rpy:143
 translate spanish the_red_shark_d62b84ae:
 
     # tc_x nulla "We avoided turbulence to not activate the shields.{w=0.3} If we increase cruise speed, we'll spend more fuel to get there.{w=0.3} No sense in exchanging one resource for another."
-    tc_x nulla ""
+    tc_x nulla "Evitamos la turbulencia para evitar activar los escudos.{w=0.3} Si incrementamos la velocidad de vuelo, gastaremos mas combustible para llegar.{w=0.3} No hay sentido en intercambiar un recurso por el otro."
 
 # game/script/story/st_03.rpy:144
 translate spanish the_red_shark_d0d204ee:
 
     # ma_ma "If I may, sir...{w=0.5} The engines run on ambient Aura."
-    ma_ma ""
+    ma_ma "Si me disculpa, señor...{w=0.5} Los motores se alimentan con el Aura ambiental."
 
 # game/script/story/st_03.rpy:146
 translate spanish the_red_shark_983022aa:
 
     # tc_x nulla "Oh, I know.{w=0.3} {b}Our resident witches{/b}, though, taught us that it takes time for an area to replenish itself."
-    tc_x nulla ""
+    tc_x nulla "Oh, lo spe.{w=0.3} {b}Nuestras residentes brujas{/b}, sin embargo, nos enseñaron que toma un tiempo para que un area se reabastezca asi misma."
 
 # game/script/story/st_03.rpy:148
 translate spanish the_red_shark_636bfe70:
 
     # tc_x nulla "No unnecessary waste or consumption, helmsman.{w=0.3} Keep it in mind when planning future routes."
-    tc_x nulla ""
+    tc_x nulla "Sin gastos o consumos innecesarios, timonel.{w=0.3} Mantengalo en mente al planear rutas en el futuro."
 
 # game/script/story/st_03.rpy:149
 translate spanish the_red_shark_d1925f75:
 
     # ma_ma "Sir.{w=0.3} Yes sir."
-    ma_ma ""
+    ma_ma "Señor.{w=0.3} Si señor."
 
 # game/script/story/st_03.rpy:150
 translate spanish the_red_shark_4fba21e5:
 
     # ma_mi "Should we start a permanent database of routes taken, sir?"
-    ma_mi ""
+    ma_mi "Deberíamos emperzar a hacer una base de datos permanente de las rutas tomadas, señor?"
 
 # game/script/story/st_03.rpy:151
 translate spanish the_red_shark_0fec617a:
 
     # tc_x nulla "Please.{w=0.3} And be sure to share it with intelligence.{w=0.3} Now..."
-    tc_x nulla ""
+    tc_x nulla "Por favor.{w=0.3} Y asegurense de compartirlo con la rama de inteligencia.{w=0.3} Ahora..."
 
 # game/script/story/st_03.rpy:159
 translate spanish the_red_shark_1af0f1f2:
 
     # tc_x nulla "Mister Bestie!{w=0.3} Welcome to my bridge.{w=0.3} And hello, Gemma."
-    tc_x nulla ""
+    tc_x nulla "Señor Bestie!{w=0.3} Bienvenido a mi Puente de Mando.{w=0.3} Y hola, Gemma."
 
 # game/script/story/st_03.rpy:161
 translate spanish the_red_shark_b06a132d:
 
     # g nulla "Good afternoon, sir."
-    g nulla ""
+    g nulla "Buenas tardes, señor."
 
 # game/script/story/st_03.rpy:162
 translate spanish the_red_shark_ec7ed035:
 
     # d nulla "{b}Torchwick{/b}, you bastard.{w=0.3} A little warning would've been appreciated."
-    d nulla ""
+    d nulla "{b}Torchwick{/b}, Bastardo.{w=0.3} Una pequeña advertencia hubiera sido apreciada."
 
 # game/script/story/st_03.rpy:164
 translate spanish the_red_shark_dccf97b6:
 
     # tc nulla "Really?{w=0.3} You needed a warning about us taking a terrorist to a holding facility?"
-    tc nulla ""
+    tc nulla "En serio?{w=0.3} Necesitas una advertencia sobre nosostros llevando a una terrorista a una instalación de retención?"
 
 # game/script/story/st_03.rpy:166
 translate spanish the_red_shark_ff9eca27:
 
     # d nulla "Think of our history and take a wild guess."
-    d nulla ""
+    d nulla "Piensa en nuestra historia y has tu conjetura."
 
 # game/script/story/st_03.rpy:168
 translate spanish the_red_shark_8cea8ded:
 
     # tc nulla "Hah!{w=0.3} Point taken.{w=0.3} Still, those were deals done in the shadows.{w=0.3} There's a reason you hid your ties with me and {b}Neo{/b}, back then."
-    tc nulla ""
+    tc nulla "Hah!{w=0.3} Buen punto.{w=0.3} Sin embargo, esoe eran tratos hechos en las sombras.{w=0.3} Hay una razón por la que ocultaste tus lazos entre mi y {b}Neo{/b}, en ese momento."
 
 # game/script/story/st_03.rpy:170
 translate spanish the_red_shark_7e3b6f83:
 
     # tc nulla "And we've come a long way since, haven't we?"
-    tc nulla ""
+    tc nulla "Y hemos pasado por mucho desde entonces, o no?"
 
 # game/script/story/st_03.rpy:173
 translate spanish the_red_shark_3754218f:
 
     # d nulla "Yeah.{w=0.3} I guess we have."
-    d nulla ""
+    d nulla "Si.{w=0.3} Supongo que lo hicimos."
 
 # game/script/story/st_03.rpy:175
 translate spanish the_red_shark_bb8aa0e8:
 
     # d nulla "May I give my report, sir?"
-    d nulla ""
+    d nulla "Podría dar mi reporte, señor?"
 
 # game/script/story/st_03.rpy:178
 translate spanish the_red_shark_eb8b8679:
 
     # tc nulla "Please.{w=0.3} What transpired down there?"
-    tc nulla ""
+    tc nulla "Por favor.{w=0.3} Qué pasó allí abajo?"
 
 # game/script/story/st_03.rpy:194
 translate spanish the_red_shark_b04573ab:
 
     # tc nulla "Adam Taurus...{w=0.5} The new supreme leader of the White Fang."
-    tc nulla ""
+    tc nulla "Adam Taurus...{w=0.5} El nuevo lider supremo del White Fang."
 
 # game/script/story/st_03.rpy:195
 translate spanish the_red_shark_0de418cb:
 
     # d nulla "Unless that barrage you sent down managed to take him out...{w=0.5} But I doubt it."
-    d nulla ""
+    d nulla "A menos que lluvia de disparos que enviaste abajo se las arreglara para deshacerse de el...{w=0.5} Pero lo dudo."
 
 # game/script/story/st_03.rpy:196
 translate spanish the_red_shark_eab02836:
 
     # tc nulla "Bad news...{w=0.5} Terrible news."
-    tc nulla ""
+    tc nulla "Malas noticias...{w=0.5} Terribles noticias."
 
 # game/script/story/st_03.rpy:200
 translate spanish the_red_shark_025e3c1f:
 
     # tc nulla "But also good news, in a way."
-    tc nulla ""
+    tc nulla "Pero también buenas noticias, en un sentido."
 
 # game/script/story/st_03.rpy:205
 translate spanish the_red_shark_1b8cf0d6:
 
     # d nulla "How could that {b}possibly{/b} ever be good news?!"
-    d nulla ""
+    d nulla "Cómo podría eso {b}posiblemente{/b} alguna vez ser buenas noticias?!"
 
 # game/script/story/st_03.rpy:207
 translate spanish the_red_shark_61e3a8f1:
 
     # g nulla "I believe the commander is thinking of the {b}Security Conference{/b}."
-    g nulla ""
+    g nulla "Creo que el Comandate está pensando en la {b}Conferencia de Seguridad{/b}."
 
 # game/script/story/st_03.rpy:209
 translate spanish the_red_shark_d410cf5d:
 
     # tc nulla "Right in one, Gemma.{w=0.3} If Adam has already come this far, Atlas and company have something quite urgent to think of."
-    tc nulla ""
+    tc nulla "Exactamente, Gemma.{w=0.3} Si Adam ya ha llegado tan lejos, Atlas y comapañia tendrpan algo bastante urgente para pensar."
 
 # game/script/story/st_03.rpy:211
 translate spanish the_red_shark_970e55b7:
 
     # tc nulla "Could take the pressure off our little city state, don't you think?"
-    tc nulla ""
+    tc nulla "Podría quitarle algo de presión a nuestra pequeña ciudad-país, no lo crees?"
 
 # game/script/story/st_03.rpy:213
 translate spanish the_red_shark_62f00f7d:
 
     # d nulla "A lot of innocent people could die, though?"
-    d nulla ""
+    d nulla "Un montón de gente inocente podría morir, sin embargo?"
 
 # game/script/story/st_03.rpy:215
 translate spanish the_red_shark_25867a18:
 
     # tc nulla "If Adam is of that mind they will, anyway.{w=0.3} As I said, terrible news...{w=0.5} With a silver lining."
-    tc nulla ""
+    tc nulla "Si Adam piensa de esa manera lo harán, de todos modos.{w=0.3} Como dije, terribles noticias...{w=0.5} con un rayo de esperanza."
 
 # game/script/story/st_03.rpy:218
 translate spanish the_red_shark_60d26e87:
 
     # d nulla "Tsk."
-    d nulla ""
+    d nulla "Tsk."
 
 # game/script/story/st_03.rpy:220
 translate spanish the_red_shark_d5fbe1cd:
 
     # tc nulla "On less somber matters:{w=0.3} do your records corroborate the account of mister di Kabegis, Gemma?"
-    tc nulla ""
+    tc nulla "En asuntos menos sombríos:{w=0.3} tus grabaciones corroboran el reporte del señor di Kabegis, Gemma?"
 
 # game/script/story/st_03.rpy:222
 translate spanish the_red_shark_08512866:
 
     # g nulla "Yes, Sir.{w=0.3} There were some omitted details concerning personal discussions with miss Khan, but they're of no pertinence to the evaluation."
-    g nulla ""
+    g nulla "Si, Señor.{w=0.3} Hay algunos detalles que fueron omitidos acerca de discusiones personales con la señorita Khan, pero no son de ninguna importancia para la evaluación."
 
 # game/script/story/st_03.rpy:223
 translate spanish the_red_shark_7eb72587:
 
     # tc nulla "Good.{w=0.3} Then, in the authority bestowed upon me by {b}Duchess Glynda Goodwitch the First{/b} and the {b}Headmistress of the Royal Academy of Peak, Violet Peach{/b}..."
-    tc nulla ""
+    tc nulla "Bien.{w=0.3} Entonces, con la autoridad que me fue dada por la {b}Duquesa Glynda Goodwitch la Primera{/b} y la {b}Directora de la Academia Real de Peak, Violet Peach{/b}..."
 
 # game/script/story/st_03.rpy:225
 translate spanish the_red_shark_e687a922:
 
     # tc nulla "It is my pleasure to acknowledge mission completion and give you a passing grade, mister Bestie.{w=0.3} {b}You're now a full fledged Hunter{/b}."
-    tc nulla ""
+    tc nulla "Esta en mi placer reconocer la misión como completada y darte una calificación aprobatoria, señor Bestie.{w=0.3} {b}Ahora eres un Cazador de pleno derecho{/b}."
 
 # game/script/story/st_03.rpy:233
 translate spanish the_red_shark_a660f71b:
 
     # g nulla "Congratulations, [p_n]!"
-    g nulla ""
+    g nulla "Felicidades, [p_n]!"
 
 # game/script/story/st_03.rpy:243
 translate spanish the_red_shark_b22b420c:
 
     # d nulla "This feels so weird..."
-    d nulla ""
+    d nulla "Esto se siente tan raro..."
 
 # game/script/story/st_03.rpy:249
 translate spanish the_red_shark_740ef811:
 
     # tc nulla "Well, I wasn't exactly expecting hooting but...{w=0.5} Weird how?"
-    tc nulla ""
+    tc nulla "Bueno, no estaba esperando clamores pero...{w=0.5} Raro en que sentido?"
 
 # game/script/story/st_03.rpy:251
 translate spanish the_red_shark_4ca7a354:
 
     # d nulla "I...{w=0.5} always thought I'd hear this announcement together with my team."
-    d nulla ""
+    d nulla "Yo...{w=0.5} siempre pensé que oiría este anuncio junto a mi equipo."
 
 # game/script/story/st_03.rpy:257
 translate spanish the_red_shark_2a1f8b03:
 
     # tc nulla "I see.{w=0.3} Sadly, I don't have news to share on that front."
-    tc nulla ""
+    tc nulla "Ya veo.{w=0.3} Lastimosamente, no tengo noticias que compartirte sobre ese asunto."
 
 # game/script/story/st_03.rpy:258
 translate spanish the_red_shark_73012bb5:
 
     # d nulla "I didn't expect you to, it's just...{w=0.5} Ugh, it's fine, I don't even know why I said that."
-    d nulla ""
+    d nulla "No esperaba que lo hicieras, es solo...{w=0.5} Ugh, esta bien, no sé siquiera por qué dije eso."
 
 # game/script/story/st_03.rpy:260
 translate spanish the_red_shark_23ba9f61:
 
     # d nulla "Thank you, sir, it is a honour to become a Royal Hunter.{w=0.3} Am I dismissed?"
-    d nulla ""
+    d nulla "Gracias, señor, es un honor convertirme en un Cazador Real.{w=0.3} Puedo retirarme?"
 
 # game/script/story/st_03.rpy:262
 translate spanish the_red_shark_b550f090:
 
     # tc nulla "You can go.{w=0.3} But do try and give my daughter a phone-call {i}before{/i} we land."
-    tc nulla ""
+    tc nulla "Puedes irte.{w=0.3} Pero intenta darle a mi hija una llamada {i}antes{/i} de que aterricemos."
 
 # game/script/story/st_03.rpy:264
 translate spanish the_red_shark_9032518c:
 
     # d nulla "O-{w=0.15}Of course!{w=0.3} Of course."
-    d nulla ""
+    d nulla "P-{w=0.15}Por supuesto!{w=0.3} Por supuesto."
 
 # game/script/story/st_03.rpy:269
 translate spanish the_red_shark_643f1298:
 
     # g nulla "Are you worried about the others?"
-    g nulla ""
+    g nulla "Estás preocupado por los demas?"
 
 # game/script/story/st_03.rpy:272
 translate spanish the_red_shark_7423645b:
 
     # d nulla "A bit...{w=0.5} Mostly about {b}Penny{/b}, to be honest.{w=0.3} Her examination was...{w=0.5} Well, you know.{w=0.3} I just hope she's alright."
-    d nulla ""
+    d nulla "Un poco...{w=0.5} Principalmete sobre {b}Penny{/b}, para ser honesto.{w=0.3} Su prueba era....{w=0.5} Bueno, tu sabes.{w=0.3} Solo espero que ella se encuentre bien."
 
 # game/script/story/st_03.rpy:277
 translate spanish the_red_shark_c8294b81:
 
     # g nulla "Uhm, you...{w=0.5} You're probably hungry, aren't you?"
-    g nulla ""
+    g nulla "Uhm, tu...{w=0.5} Probablemente tienes hambre, o no?"
 
 # game/script/story/st_03.rpy:280
 translate spanish the_red_shark_05ade9d9:
 
     # d nulla "A bit.{w=0.3} It's been a long day..."
-    d nulla ""
+    d nulla "Un poco.{w=0.3} Ha sido un largo día..."
 
 # game/script/story/st_03.rpy:281
 translate spanish the_red_shark_75113e59:
 
     # g nulla "Let's go to the {b}View Deck{/b}, then."
-    g nulla ""
+    g nulla "Vayamos a la {b}Cubierta de Observación{/b}, entonces"
 
 # game/script/story/st_03.rpy:283
 translate spanish the_red_shark_fdf82431:
 
     # d nulla "The View...{w=0.5} I didn't think it was operational yet?"
-    d nulla ""
+    d nulla "De Observación...{w=0.5} Pensaba que aún no estaba en funcionamiento?"
 
 # game/script/story/st_03.rpy:285
 translate spanish the_red_shark_c03eb967:
 
     # g nulla "It's not.{w=0.3} But I can hook you up."
-    g nulla ""
+    g nulla "No lo está.{w=0.3} Pero yo puedo llevarte hasta allí."
 
 # game/script/story/st_03.rpy:288
 translate spanish the_red_shark_8ded53ad:
 
     # d nulla "Alright, then.{w=0.3} Thanks."
-    d nulla ""
+    d nulla "Muy bien, entonces.{w=0.3} Gracias."
 
 # game/script/story/st_03.rpy:310
 translate spanish view_deck_dinner_68ea0c54:
 
     # d smile "Pretty cool...{w=0.3} But there's no one around?"
-    d smile ""
+    d smile "Bastante genial...{w=0.3} Pero no hay nadie aquí?"
 
 # game/script/story/st_03.rpy:311
 translate spanish view_deck_dinner_4b828505:
 
     # g c_mili "The facilities are operational but they haven't been officially opened yet, either."
-    g c_mili ""
+    g c_mili "Las instalaciones están funcionando pero oficialmente no han abierto aún."
 
 # game/script/story/st_03.rpy:312
 translate spanish view_deck_dinner_c8240a01:
 
     # d surprise "How do {i}you{/i} have access, then?"
-    d surprise ""
+    d surprise "Cómo {i}tú{/i} tienes acceso, entonces?"
 
 # game/script/story/st_03.rpy:313
 translate spanish view_deck_dinner_7e8f2f81:
 
     # g c_mili smile "It's due to my duties on-board.{w=0.3} Anyway, there's only one meal available so far due to the stock of ingredients."
-    g c_mili smile ""
+    g c_mili smile "Es debido a mis deberes a bordo.{w=0.3} De todas formas, solo hay un platillo disponible hasta ahora debido al stock de ingredientes."
 
 # game/script/story/st_03.rpy:314
 translate spanish view_deck_dinner_c41524b6:
 
     # d surprise "Whatever is fine.{w=0.3} But if it isn't open yet, who's cooking...?"
-    d surprise ""
+    d surprise "Cualquier cosa esta bien.{w=0.3} Pero si no está abierto aún, quién cocinará...?"
 
 # game/script/story/st_03.rpy:315
 translate spanish view_deck_dinner_df432d22:
 
     # g c_mili smile "Let me deal with that.{w=0.3} Just take a seat."
-    g c_mili smile ""
+    g c_mili smile "Dejame encargarme de eso.{w=0.3} Solo toma asiento."
 
 # game/script/story/st_03.rpy:316
 translate spanish view_deck_dinner_17be2e21:
 
     # d surprise "I wouldn't want to be a bother..."
-    d surprise ""
+    d surprise "No quiero ser una molestia..."
 
 # game/script/story/st_03.rpy:317
 translate spanish view_deck_dinner_6fd8faaa:
 
     # g c_mili laugh "There shall be no bother at all, believe me.{w=0.3} You just need to wait a little."
-    g c_mili laugh ""
+    g c_mili laugh "No eres ninguna molestia, creeme.{w=0.3} Solo necesitas esperar un poco."
 
 # game/script/story/st_03.rpy:320
 translate spanish view_deck_dinner_5e31d9f7:
 
     # d smile "Hmmm...{w=0.5} Alright, I'll just take a seat, then.{w=0.3} Thanks, Gemma."
-    d smile ""
+    d smile "Hmmm...{w=0.5} Muy bien, voy a sentarme, entonces.{w=0.3} Gracias, Gemma."
 
 # game/script/story/st_03.rpy:330
 translate spanish view_deck_dinner_ca720d90:
 
     # g_xx c_wait darko "Sorry for the wait, sir.{w=0.3} Your meal's ready."
-    g_xx c_wait darko ""
+    g_xx c_wait darko "Perdón por la espera, señor.{w=0.3} Su comida está lista."
 
 # game/script/story/st_03.rpy:331
 translate spanish view_deck_dinner_104a0280:
 
     # d nulla "Oh, great!{w=0.3} Thank you, miss-"
-    d nulla ""
+    d nulla "Oh, genial!{w=0.3} Gracias, señorita-"
 
 # game/script/story/st_03.rpy:339
 translate spanish view_deck_dinner_746f76ad:
 
     # d nulla "Gemma...{w=0.5} What are you wearing?"
-    d nulla ""
+    d nulla "Gemma...{w=0.5} Qué estás vistiendo?"
 
 # game/script/story/st_03.rpy:340
 translate spanish view_deck_dinner_117c2c81:
 
     # g nulla "I told you.{w=0.3} I have access here because of my duties."
-    g nulla ""
+    g nulla "Te lo dije.{w=0.3} Tengo acceso aquí debido a mis deberes."
 
 # game/script/story/st_03.rpy:341
 translate spanish view_deck_dinner_d162db5a:
 
     # d nulla "I thought your duties were being operative support for units on the ground?"
-    d nulla ""
+    d nulla "Pensé que tus deberes eran ser un agente de soporte para las unidades en tierra?"
 
 # game/script/story/st_03.rpy:342
 translate spanish view_deck_dinner_bc9b0dda:
 
     # g nulla "That's my main directive, yes.{w=0.3} But I was able to acquire the skills and knowledge required to perform a variety of other tasks on board."
-    g nulla ""
+    g nulla "Esa es mi directiva principal, si.{w=0.3} Pero fui capaz de adquirir las habilidades y conocimiento para realizar una variedad de tareas a bordo."
 
 # game/script/story/st_03.rpy:344
 translate spanish view_deck_dinner_0f33415d:
 
     # g nulla "Also, I don't need sleep.{w=0.3} Which means I can always be of help in case of an emergency."
-    g nulla ""
+    g nulla "Ademas, no necesito dormir.{w=0.3} Lo que significa que siempre puedo ser de ayuda en caso de emergencia."
 
 # game/script/story/st_03.rpy:347
 translate spanish view_deck_dinner_d6ff0e9d:
 
     # d nulla "I see...{w=0.3} But still, I doubt that's the{w=0.15}-ahem-{w=0.3}regular uniform for people working in here?"
-    d nulla ""
+    d nulla "Ya veo...{w=0.3} Pero aun así, dudo que ese sea el{w=0.15}-ahem-{w=0.3}uniforme regular para la gente trabajando aquí?"
 
 # game/script/story/st_03.rpy:351
 translate spanish view_deck_dinner_e2177306:
 
     # g nulla "This one is cuter."
-    g nulla ""
+    g nulla "Este es mas lindo."
 
 # game/script/story/st_03.rpy:355
 translate spanish view_deck_dinner_8aada5ab:
 
     # g nulla "Anyway, aren't you going to eat?"
-    g nulla ""
+    g nulla "De todas formas, no vas a comer?"
 
 # game/script/story/st_03.rpy:357
 translate spanish view_deck_dinner_831cded1:
 
     # d nulla "Of course.{w=0.3} Thanks for the meal."
-    d nulla ""
+    d nulla "Por supuesto.{w=0.3} Gracias por la comida."
 
 # game/script/story/st_03.rpy:372
 translate spanish view_deck_dinner_2ba4b009:
 
     # d nulla "That was pretty good!{w=0.3} Simple, but good."
-    d nulla ""
+    d nulla "Eso estuvo bastante bueno!{w=0.3} Simple, pero bueno."
 
 # game/script/story/st_03.rpy:373
 translate spanish view_deck_dinner_799d46a5:
 
     # g nulla "I'm glad.{w=0.3} Truth be told, there's not exactly an extensive list of recipes in the ship's database."
-    g nulla ""
+    g nulla "Me alegro.{w=0.3} Para serte sincera, no hay una lista exactamente extensiva de recetas en los datos de la nave."
 
 # game/script/story/st_03.rpy:375
 translate spanish view_deck_dinner_74dfac81:
 
     # g nulla "What dishes there are focus more on what ingredients are available than any particular kind of cuisine."
-    g nulla ""
+    g nulla "Los platos allí están mas enfocados en que ingredientes hay disponibles mas que en algun tipo de gastronomia."
 
 # game/script/story/st_03.rpy:377
 translate spanish view_deck_dinner_6396841d:
 
     # d nulla "Bummer...{w=0.5} Hopefully things turn around soon."
-    d nulla ""
+    d nulla "Que mal...{w=0.5} Esperemos que las cosas cambien pronto."
 
 # game/script/story/st_03.rpy:379
 translate spanish view_deck_dinner_d6884598:
 
     # g nulla "I'm sure they will.{w=0.3} And if you ever {b}happen to sample any particularly delicious recipes, be sure to tell me{/b}.{w=0.3} I'll try and integrate them in the menu."
-    g nulla ""
+    g nulla "Estoy segura de que lo haran.{w=0.3} Y si tu alguna vez {b}llegaras a probar cualquier receta particularmente deliciosa, asegurate de contarmela{/b}.{w=0.3} Intentaré integrarlas en el menu."
 
 # game/script/story/st_03.rpy:381
 translate spanish view_deck_dinner_a13e583a:
 
     # d nulla "Hmmm...{w=0.5} I will keep that in mind.{w=0.3} But are you sure you want to rely on my personal taste?"
-    d nulla ""
+    d nulla "Hmmm....{w=0.5} Intentaré tenerlo en cuenta.{w=0.3} Pero estás segura que quieres confiar en mi gusto personal?"
 
 # game/script/story/st_03.rpy:382
 translate spanish view_deck_dinner_87246e7f:
 
     # g nulla "No one has been assigned that particular task, so we might as well.{w=0.3} I'm sure {b}the crew will greatly appreciate it{/b}."
-    g nulla ""
+    g nulla "A nadie se le ha asignado esa tarea en particular, asi que bien podríamos.{w=0.3} Estoy segura {b}que la tripulación lo apreciará mucho{/b}."
 
 # game/script/story/st_03.rpy:383
 translate spanish view_deck_dinner_90e0f87a:
 
     # d nulla "Heh.{w=0.5} Gotcha..."
-    d nulla ""
+    d nulla "Heh.{w=0.5} Lo tengo..."
 
 # game/script/story/st_03.rpy:385
 translate spanish view_deck_dinner_8444bf6e:
 
     # d nulla "And speaking of appreciating, I should follow Torchwick's tip and give Neo a call before turning in.{w=0.3} When I came on board, you mentioned something about my {b}personal quarters{/b}?"
-    d nulla ""
+    d nulla "Y hablando de apreciar, debería seguir el consejo de Torchwick y llamar a Neo antes de irme a dormir.{w=0.3} Cuando subi a bordo, mencionaste algo acerca de mi {b}cuarto personal{/b}?"
 
 # game/script/story/st_03.rpy:386
 translate spanish view_deck_dinner_78e177c1:
 
     # g nulla "Indeed.{w=0.3} They're on the {b}Living Quarters{/b} bridge.{w=0.3} It's a short elevator ride."
-    g nulla ""
+    g nulla "En efecto.{w=0.3} Está en el puente del {b}Sector de Descanso{/b}.{w=0.3} Es un viaje corto en el elevador."
 
 # game/script/story/st_03.rpy:388
 translate spanish view_deck_dinner_0b89d8b1:
 
     # d nulla "Good...{w=0.5} Now that I'm relaxed, I'm starting to feel the tiredness."
-    d nulla ""
+    d nulla "Bien...{w=0.5} Ahora que estoy relajado, estoy empezando a sentir la fatiga."
 
 # game/script/story/st_03.rpy:413
 translate spanish turning_in_03dd1ab0:
 
     # d nulla "Spotless!{w=0.3} Everything looks brand new!"
-    d nulla ""
+    d nulla "Impecable!{w=0.3} Todo parece como si fuera nuevo!"
 
 # game/script/story/st_03.rpy:414
 translate spanish turning_in_25efca8e:
 
     # g nulla "It is new.{w=0.3} Let me remind you that this is the Shark's maiden voyage."
-    g nulla ""
+    g nulla "Es nuevo.{w=0.3} Dejame recordarte que este es el viaje inaugural del Shark."
 
 # game/script/story/st_03.rpy:416
 translate spanish turning_in_e4aadcbe:
 
     # d nulla "Oh, of course!{w=0.3} Duh!{w=0.3} The whole ship is new or refurbished."
-    d nulla ""
+    d nulla "Oh, por supuesto!{w=0.3} Duh!{w=0.3} Toda la nave es nueva o remodelada."
 
 # game/script/story/st_03.rpy:418
 translate spanish turning_in_a51a5672:
 
     # d nulla "Still, it's nice.{w=0.3} Reminds me a little of my room in Beacon, what with the bunk beds..."
-    d nulla ""
+    d nulla "Aún asi, es lindo.{w=0.3} Me recuerda un poco a mi cuarto en Beacon, que pasa con las literas..."
 
 # game/script/story/st_03.rpy:421
 translate spanish turning_in_8b48d31c:
 
     # g nulla "Speaking of studies, [p_n]...{w=0.3} Have you decided on your specialization yet?"
-    g nulla ""
+    g nulla "Hablando de estudios, [p_n]...{w=0.3} has decidido tu especialización ya?"
 
 # game/script/story/st_03.rpy:424
 translate spanish turning_in_1e239df3:
 
     # d nulla "No.{w=0.3} I have some ideas but I wanted to discuss it with {b}Jack{/b} and the others.{w=0.3} See what's more useful for what comes next."
-    d nulla ""
+    d nulla "No.{w=0.3} Tengo algunas ideas pero quiero discutirlas con {b}Jack{/b} y las demas.{w=0.3} Ver que es mas útil para lo que sigue."
 
 # game/script/story/st_03.rpy:428
 translate spanish turning_in_4960e22d:
 
     # g nulla "And...{w=0.5} what is it that comes next?"
-    g nulla ""
+    g nulla "Y...{w=0.5} que es lo que sigue?"
 
 # game/script/story/st_03.rpy:432
 translate spanish turning_in_a784acef:
 
     # d nulla "We're Hunters, no?{w=0.3} We'll go hunting."
-    d nulla ""
+    d nulla "Somos Cazadores, no?{w=0.3} Iremos a cazar."
 
 # game/script/story/st_03.rpy:434
 translate spanish turning_in_4d796602:
 
     # g nulla "The {b}Fire God{/b}.{w=0.3} You're going after him."
-    g nulla ""
+    g nulla "Al {b}Dios del Fuego{/b}.{w=0.3} Vas a ir a buscarlo."
 
 # game/script/story/st_03.rpy:435
 translate spanish turning_in_ca8c4052:
 
     # d nulla ".{w=0.3}.{w=0.3}.{w=0.5}yeah."
-    d nulla ""
+    d nulla ".{w=0.3}.{w=0.3}.{w=0.5}Exacto."
 
 # game/script/story/st_03.rpy:438
 translate spanish turning_in_af2ddaf2:
 
     # g nulla "It's...{w=0.5} going to take us a few hours to get back to Peak."
-    g nulla ""
+    g nulla "Va....{w=0.5} a tomarnos un par de horas volver a Peak."
 
 # game/script/story/st_03.rpy:440
 translate spanish turning_in_e41693b4:
 
     # g nulla "I don't know if you'll be able to get a full night of sleep, so...{w=0.5} I suggest taking the chance to rest."
-    g nulla ""
+    g nulla "No sé si podrás tener una noche completa de descanso, asi que...{w=0.5} Te sugiero que aproveches la oportunidad para descansar."
 
 # game/script/story/st_03.rpy:442
 translate spanish turning_in_8ef0ac0d:
 
     # d nulla "Oh, I intend to.{w=0.3} A shower to get off all the sweat, blood and Grimm gunk, a text chain and then...{w=0.5} Is there a communal space for showers, by the way?"
-    d nulla ""
+    d nulla "Oh, eso planeo.{w=0.3} Una ducha para quitarme el sudor, sangre y pegote de Grimm, un intencambio de mensakes y entonces...{w=0.5} Hay un espacio comunal para las duchas, de paso?"
 
 # game/script/story/st_03.rpy:443
 translate spanish turning_in_f889dfea:
 
     # g nulla "Yes, on this same deck.{w=0.3} Have a good night, [p_n]."
-    g nulla ""
+    g nulla "Si, en esta misa cubierta.{w=0.3} Ten una buena noche, [p_n]."
 
 # game/script/story/st_03.rpy:448
 translate spanish turning_in_bac790ab:
 
     # d nulla "Hey, Gemma?"
-    d nulla ""
+    d nulla "Hey, Gemma?"
 
 # game/script/story/st_03.rpy:450
 translate spanish turning_in_1809124b:
 
     # g nulla "Yes?"
-    g nulla ""
+    g nulla "Si?"
 
 # game/script/story/st_03.rpy:453
 translate spanish turning_in_711ad590:
 
     # d nulla "Thank you for worrying...{w=0.5} And caring.{w=0.3} We'll be alright, I swear."
-    d nulla ""
+    d nulla "Gracias por preocuparte...{w=0.5} Y por demostrarlo.{w=0.3} Vamos a estar bien, lo juro."
 
 # game/script/story/st_03.rpy:457
 translate spanish turning_in_96ba64a3:
 
     # g nulla "You'd better.{w=0.3} I've asked dad for tear-ducts, at the last upgrade."
-    g nulla ""
+    g nulla "Será mejor que lo hagas.{w=0.3} Le pedí a papá unos canales de lagrimas, para la proxima mejora."
 
 # game/script/story/st_03.rpy:471
 translate spanish turning_in_6bad00f5:
 
     # d c_pants darko "It's too quiet in here...{w=0.5} Can I put on some music from this panel?"
-    d c_pants darko ""
+    d c_pants darko "Este lugar es muy silencioso...{w=0.5} Puedo poner algo de música con este panel?"
 
 # game/script/story/st_03.rpy:482
 translate spanish turning_in_d0285440:
 
     # d_st nulla "Hey.{w=0.3} I lived."
-    d_st nulla ""
+    d_st nulla "Hey.{w=0.3} Estoy vivo."
 
 # game/script/story/st_03.rpy:497
 translate spanish turning_in_22e2d802:
 
     # n_st nulla "Pah, easy mode.{w=0.3} If you had died, I would've killed you.{w=0.3} More importantly, did you pass?"
-    n_st nulla ""
+    n_st nulla "Pah, modo facil.{w=0.3} Si hubieras muerto, te mataría.{w=0.5} Mas importante, lograste aprobar?"
 
 # game/script/story/st_03.rpy:499
 translate spanish turning_in_b1b31a45:
 
     # d_st nulla "Yuuuup...{w=0.5} His gingerness in command gave me the green-light when I came back on board."
-    d_st nulla ""
+    d_st nulla "Yuuuup...{w=0.5} Su alteza pelirroja en comando me dió la luz verde cuando llegué a bordo."
 
 # game/script/story/st_03.rpy:501
 translate spanish turning_in_0e6b7b45:
 
     # n_st nulla "There we go.{w=0.3} Congratulations and welcome to the world of adults.{w=0.3} What's next?"
-    n_st nulla ""
+    n_st nulla "Aquí vamos.{w=0.3} Felicitaciones y bienvenido al mundo de los adultos.{w=0.3} Qué sigue?"
 
 # game/script/story/st_03.rpy:502
 translate spanish turning_in_f2759c0a:
 
     # d_st nulla "Well, I'll be waiting to see if the others have passed too.{w=0.3} After that...{w=0.3} I guess a small celebration?"
-    d_st nulla ""
+    d_st nulla "Bueno, estaré esperando para ver si las demas aprobaron también.{w=0.3} Luego de eso...{w=0.3} Supongo que una pequeña celebración?"
 
 # game/script/story/st_03.rpy:504
 translate spanish turning_in_f1d4c481:
 
     # n_st nulla "Cool, cool, but I was referring more to the grand scheme of things.{w=0.3} Your spasmodic need for revenge and all?"
-    n_st nulla ""
+    n_st nulla "Genial, genial, pero me estaba refiriendo mas al gran esquema de las cosas.{w=0.3} Tu intermitente necesidad de venganza y todo eso?"
 
 # game/script/story/st_03.rpy:506
 translate spanish turning_in_a27c82c0:
 
     # d_st nulla "First of all, I don't want revenge on anyone.{w=0.3} Second, even if I wanted to, it wouldn't be a spasmodic need...{w=0.5} Who even taught you that word?"
-    d_st nulla ""
+    d_st nulla "Primero que anda, no quiero vengarme de nadie.{w=0.3} Segundo, incluso si quisiero, no sería una necesidad intermitente...{w=0.5} Quien siquiera te enseñó esa palabra?"
 
 # game/script/story/st_03.rpy:508
 translate spanish turning_in_42675263:
 
     # n_st nulla "Hey, I'm a professor now!{w=0.3} I needed to upgrade my vocabulary!"
-    n_st nulla ""
+    n_st nulla "Hey, Soy una profesora ahora!{w=0.3} Necesitaba mejorar mi vocabulario!"
 
 # game/script/story/st_03.rpy:509
 translate spanish turning_in_53f2b211:
 
     # d_st nulla "You're a {b}combat{/b} instructor.{w=0.3} A position which you share.{w=0.3} And you're mute."
-    d_st nulla ""
+    d_st nulla "Eres una instructora de {b}combate{/b}.{w=0.3} Una posición que compartes.{w=0.3} Y eres muda."
 
 # game/script/story/st_03.rpy:511
 translate spanish turning_in_b2a48aa2:
 
     # n_st nulla "That's exactly my point!{w=0.3} I couldn't understand what {b}she{/b} was saying half the time! >:( {w=0.3} Anyway, don't change the subject!{w=0.3} Whatcha wanna do now that you're a Hunter?"
-    n_st nulla ""
+    n_st nulla "Ese es exactamente mi punto!{w=0.3} No podía entender lo que {b}ella{/b} estba diciendo la mitad del tiempo! >:( {w=0.3} De todos modos, no cambies el tema!{w=0.3} Qué quieres hacer ahora que eres un Cazador?"
 
 # game/script/story/st_03.rpy:516
 translate spanish turning_in_15756a01:
 
     # d_st nulla "What I want may be different from what we may end up doing...{w=0.5} Especially because of the lack of intel.{w=0.3} It's like {b}Weser's group{/b} has disappeared off the face of Remnant."
-    d_st nulla ""
+    d_st nulla "Lo que quiero puede ser diferente de lo que terminemos haciendo...{w=0.5} Especialmente por la falta de información.{w=0.3} Es coomo si {b}El grupo de Weser{/b} hubiera desaparecido de la faz de Remnant."
 
 # game/script/story/st_03.rpy:518
 translate spanish turning_in_cf302242:
 
     # d_st nulla "But I still think they should be our number one priority."
-    d_st nulla ""
+    d_st nulla "Pero aún creo que deberían ser nuestra prioridad número uno."
 
 # game/script/story/st_03.rpy:520
 translate spanish turning_in_7a14eaeb:
 
     # n_st nulla "I find it pretty unlikely they're gonna let u go on a wild goose chase."
-    n_st nulla ""
+    n_st nulla "Encuentro muy improbable que te dejen ir en una busqueda sin sentido."
 
 # game/script/story/st_03.rpy:522
 translate spanish turning_in_b40374ca:

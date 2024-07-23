@@ -2022,7 +2022,7 @@ translate spanish s02_scourge_battle_end_3b9fbf92:
     # voice "audio/vo/narrator/015.ogg"
     # na "Fighting their way through darkness, both ephemeral and given shape, [p_n] di Kabegis and Sienna Khan have escaped the Red Cliffs Waterway."
     voice "audio/vo/narrator/015.ogg"
-    na "Peleando su camino a traves de la oscuridad, los dos efímeros dados forma, [p_n] di Kabegis y Sienna Khan han escapado del Súbterraneo de los Cañones Rojos."
+    na "Peleando su camino a traves de la oscuridad, los dos efímeros dados forma, [p_n] di Kabegis y Sienna Khan han escapado de la Vía Súbterranea de los Cañones Rojos."
 
 # game/script/story/st_02.rpy:1299
 translate spanish s02_scourge_battle_end_6f111fb0:

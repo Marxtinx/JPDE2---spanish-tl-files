@@ -2008,1003 +2008,1003 @@ translate spanish homecoming_090da03d:
 translate spanish homecoming_ac7be215:
 
     # ja nulla "That'd be your fault, miss Tae.{w=0.3} I can't resist the first batch."
-    ja nulla ""
+    ja nulla "Eso sería su culpa, señortia Tae.{w=0.3} No puedo resistirme a la primera tanda."
 
 # game/script/story/st_03.rpy:960
 translate spanish homecoming_dfa65278:
 
     # tae "Never seen a kid out and about so early with no school...{w=0.5} The usual three?"
-    tae ""
+    tae "Nunca vi a una niña afuera y tan temprano en la mañana sin que sea para ir a la escuela...{w=0.5} Los usuales tres?"
 
 # game/script/story/st_03.rpy:961
 translate spanish homecoming_f386a6f8:
 
     # ja nulla "Yes, plea-"
-    ja nulla ""
+    ja nulla "Si, Por fa-"
 
 # game/script/story/st_03.rpy:968
 translate spanish homecoming_fcfc319a:
 
     # ja nulla "Actually, make that six."
-    ja nulla ""
+    ja nulla "Mejor, hagalos seis."
 
 # game/script/story/st_03.rpy:978
 translate spanish homecoming_d81677be:
 
     # ti_x nulla "Yeah, that was definitely the Red Shark."
-    ti_x nulla ""
+    ti_x nulla "Si, ese era definitivamente el Red Shark."
 
 # game/script/story/st_03.rpy:980
 translate spanish homecoming_712e2787:
 
     # ja smile "Had it been any other airship that size, it would have been bad news."
-    ja smile ""
+    ja smile "Si hubiera sido cualquier otra aeronave de ese tamaño, sería un problema."
 
 # game/script/story/st_03.rpy:985
 translate spanish homecoming_658b2637:
 
     # ja nulla "Here you go, still warm."
-    ja nulla ""
+    ja nulla "Aquí tienes, aún calientes."
 
 # game/script/story/st_03.rpy:987
 translate spanish homecoming_d1657bb9:
 
     # ti_x "Thank you, sis.{w=0.3} And where are you rushing off to, now?"
-    ti_x ""
+    ti_x "Gracias, hermanita.{w=0.3} Y hacia donde estás corriendo, ahora?"
 
 # game/script/story/st_03.rpy:989
 translate spanish homecoming_788c57b1:
 
     # ja nulla "Meeting them at the exit.{w=0.3} I bet they haven't had breakfast yet."
-    ja nulla ""
+    ja nulla "A encontrarlos en la salida.{w=0.3} Apuesto a que no han desayunado aún."
 
 # game/script/story/st_03.rpy:991
 translate spanish homecoming_283ca314:
 
     # ja smile "Have a good day at work, {b}Titania{/b}!"
-    ja smile ""
+    ja smile "Ten un buen día en el trabajo, {b}Titania{/b}!"
 
 # game/script/story/st_03.rpy:993
 translate spanish homecoming_13ad99ba:
 
     # ti nulla "Thanks, pipsqueak.{w=0.3} Say hi to the jeeps for me!"
-    ti nulla ""
+    ti nulla "Gracias, renacuaja.{w=0.3} Saluda a los jeeps de mi parte!"
 
 # game/script/story/st_03.rpy:1007
 translate spanish homecoming_cf2f764e:
 
     # ja surprise "Penny, what are you doing?"
-    ja surprise ""
+    ja surprise "Penny, qué estas haciendo?"
 
 # game/script/story/st_03.rpy:1009
 translate spanish homecoming_36f73ac2:
 
     # p nulla "Oh, Janara!{w=0.3} Good morning!"
-    p nulla ""
+    p nulla "Oh, Janara!{w=0.3} Buenos dias!"
 
 # game/script/story/st_03.rpy:1013
 translate spanish homecoming_36bdc120:
 
     # ja nulla "Morning.{w=0.3} You're waiting for the others too?{w=0.3} And congratulations on passing."
-    ja nulla ""
+    ja nulla "Dias.{w=0.3} Estás esperando a los demás también?{w=0.3} Y felicidades por aprobar."
 
 # game/script/story/st_03.rpy:1015
 translate spanish homecoming_5e1797f4:
 
     # p nulla "Thanks!{w=0.3} And y-{w=0.15}yes, of course, I was just...{w=0.5} Psyching myself up."
-    p nulla ""
+    p nulla "Gracias!{w=0.3} Y s-{w=0.15}si, por supuesto, solo estaba...{w=0.5} Preparandome mentalmente."
 
 # game/script/story/st_03.rpy:1016
 translate spanish homecoming_13b1829b:
 
     # ja nulla "For what?"
-    ja nulla ""
+    ja nulla "Para qué?"
 
 # game/script/story/st_03.rpy:1020
 translate spanish homecoming_df66b460:
 
     # p nulla "I want to try and...{w=0.5} Touch [p_n]."
-    p nulla ""
+    p nulla "Yo quiero intentar...{w=0.5} Tocar a [p_n]."
 
 # game/script/story/st_03.rpy:1024
 translate spanish homecoming_5a44d3e6:
 
     # ja nulla "I see.{w=0.3} Good luck."
-    ja nulla ""
+    ja nulla "Ya veo.{w=0.3} Buena suerte."
 
 # game/script/story/st_03.rpy:1026
 translate spanish homecoming_a5950f38:
 
     # p nulla "Thanks.{w=0.3} I'll try my best."
-    p nulla ""
+    p nulla "Gracias.{w=0.3} Haré mi mejor esfuerzo."
 
 # game/script/story/st_03.rpy:1042
 translate spanish homecoming_2e53f469:
 
     # d nulla "Haaaaa...{w=0.5} Feels good to be home."
-    d nulla ""
+    d nulla "Haaaaa...{w=0.5} Se siente bien estar en casa."
 
 # game/script/story/st_03.rpy:1043
 translate spanish homecoming_b5588751:
 
     # e nulla "I know, right?{w=0.3} Breathe in that..."
-    e nulla ""
+    e nulla "Lo sé, verdad?{w=0.3} Respira ese..."
 
 # game/script/story/st_03.rpy:1048
 translate spanish homecoming_20c74942:
 
     # e nulla "Ehm...{w=0.5} Stale underground bunker air, I guess?"
-    e nulla ""
+    e nulla "Ehm...{w=0.5} Aire estancado de bunker subterraneo, supongo?"
 
 # game/script/story/st_03.rpy:1049
 translate spanish homecoming_c33f21e1:
 
     # j nulla "Eeeeeeh, pass.{w=0.3} I'll save my lungs for the actual fresh air."
-    j nulla ""
+    j nulla "Eeeeeeh, paso.{w=0.3} Guardaré mis pulmonos para el verdadero aire fresco."
 
 # game/script/story/st_03.rpy:1051
 translate spanish homecoming_f61b2db2:
 
     # j nulla "And on the subject of freshness, I'm feeling like pastries."
-    j nulla ""
+    j nulla "Y en el tema de la frescura, me están dando ganas de pasteles."
 
 # game/script/story/st_03.rpy:1053
 translate spanish homecoming_f6859351:
 
     # e nulla "Oooh, let's go to Kang's, then!{w=0.3} Hopefully they haven't run out of the walnut and honey ones yet!"
-    e nulla ""
+    e nulla "Oooh, Vayamos a lo de Kang, entonces!{w=0.3} Con suerte no se les habrá terminado las de nueces con miel aún!"
 
 # game/script/story/st_03.rpy:1055
 translate spanish homecoming_0b11f295:
 
     # d nulla "Well, considering it's past seven, I wouldn't count on-"
-    d nulla ""
+    d nulla "Bueno, considerando que es pasado las sieta, no contaría con-"
 
 # game/script/story/st_03.rpy:1062
 translate spanish homecoming_9a4e958e:
 
     # e nulla "LESS TALKING, MORE RUNNING THEN!"
-    e nulla ""
+    e nulla "MENOS HABLAR, MAS CORRER ENTONCES!"
 
 # game/script/story/st_03.rpy:1064
 translate spanish homecoming_f06c49a6:
 
     # j nulla "Carrots, you can't make the transports run faster!{w=0.3} The next cart arrives in 10 minutes!"
-    j nulla ""
+    j nulla "Zanahorias, no puedes hacer los transportes ir mas rápido!{w=0.3} El próximo tren llega en 10 minutos!"
 
 # game/script/story/st_03.rpy:1065
 translate spanish homecoming_ae6e6cca:
 
     # e angry "I'm willing to BRAVE THE TRACKS!"
-    e angry ""
+    e angry "Estoy dispuesta a CORRER POR LOS RAILES"
 
 # game/script/story/st_03.rpy:1069
 translate spanish homecoming_1be72b49:
 
     # d_n "*sigh*{w=0.5}\"I guess your exam didn't give you any headaches?"
-    d_n ""
+    d_n "*sigh*{w=0.5}\"Supongo que tú examen no te dió ninguna tipo de jaqueca?"
 
 # game/script/story/st_03.rpy:1071
 translate spanish homecoming_d64992b3:
 
     # j nulla "Pretty standard Grimm removal and information retrieval...{w=0.5} Although covertly."
-    j nulla ""
+    j nulla "Eliminación de Grimm bastante estandar y recuperación de información...{w=0.5} Aunque en sigilo."
 
 # game/script/story/st_03.rpy:1073
 translate spanish homecoming_3ba7edf8:
 
     # j nulla "We met a local Hunter.{w=0.3} Technically with the atlovalesian chapter but...{w=0.5} Collaborative.{w=0.3} He confirmed the professor's theory."
-    j nulla ""
+    j nulla "Conocimos a un Cazador local.{w=0.3} Técnicamente afiliado a la section atlovalesiana pero...{w=0.5} Colaborativo.{w=0.3} Nos confirmó la teoría del profesor."
 
 # game/script/story/st_03.rpy:1076
 translate spanish homecoming_cbfcea7f:
 
     # d nulla "Of course he did.{w=0.3} That man seems incapable of being wrong."
-    d nulla ""
+    d nulla "Por supuesto que lo hizo.{w=0.3} Ese hombre parece incapaz de equivocarse."
 
 # game/script/story/st_03.rpy:1079
 translate spanish homecoming_4a5fad26:
 
     # d neutral "So the number of Grimm and frequency of their appearances have been going down since the Fall?"
-    d neutral ""
+    d neutral "Así que el número de Grimm y su frecuencia de apariciando han estado disminuyendo desde la Caída?"
 
 # game/script/story/st_03.rpy:1080
 translate spanish homecoming_9f7fab89:
 
     # j surprise "Yes, all over the territory of Vale.{w=0.5} But, he told us something else, as well."
-    j surprise ""
+    j surprise "Si, en todo el territorio de Vale.{w=0.5} Pero, el nos contó algo mas, también."
 
 # game/script/story/st_03.rpy:1081
 translate spanish homecoming_aa8d2791:
 
     # j frown "On average, what Grimm appear have been stronger.{w=0.3} And the species have increasingly been native to other regions or completely new."
-    j frown ""
+    j frown "En promedio. los Grimm que han aparecido han sido mas fuertes.{w=0.3} Y las especias han sido incrementalmente nativas de otras naciones o completamente nuevas."
 
 # game/script/story/st_03.rpy:1082
 translate spanish homecoming_f93e5afb:
 
     # d amused "Hmmm...{w=0.5} Guess we messed up the ecosystem real good when we smashed {b}that overgrown lizard{/b}."
-    d amused ""
+    d amused "Hmmm...{w=0.5} Creo que arruinamos bastante el ecosistema cuando destruimos {b}esa lagartija superdesarrollada{/b}."
 
 # game/script/story/st_03.rpy:1085
 translate spanish homecoming_836f4788:
 
     # j smile "Makes you wonder what would happen if more disappeared, hm?"
-    j smile ""
+    j smile "Te hace pensar que pasaría si mas desaparecieran, hm?"
 
 # game/script/story/st_03.rpy:1086
 translate spanish homecoming_b795fbbe:
 
     # d amused "Something to keep in mind for the future."
-    d amused ""
+    d amused "Algo que tener en mente en el futuro."
 
 # game/script/story/st_03.rpy:1102
 translate spanish homecoming_e22a7811:
 
     # j nulla "Aaaah...{w=0.5} Now, {i}that's{/i} air worthy of breathing!"
-    j nulla ""
+    j nulla "Aaaah...{w=0.5} Ahora, {i}ese es{/i aire digno de respirar!"
 
 # game/script/story/st_03.rpy:1103
 translate spanish homecoming_82d39213:
 
     # e nulla "Yeah, I agree, air good, smell like flowers, now FOOD!{w=0.3} I want my sweets!"
-    e nulla ""
+    e nulla "Si, concuerdo, buen aire, huele como flores, ahora COMIDA!{w=0.3} Quiero mis dulces!"
 
 # game/script/story/st_03.rpy:1104
 translate spanish homecoming_fe619abe:
 
     # ja smile "Sorry but the honey pastries are already finished."
-    ja smile ""
+    ja smile "Lo siento pero los pasteles de miel ya se han acabado."
 
 # game/script/story/st_03.rpy:1114
 translate spanish homecoming_d6d11cf9:
 
     # ja nulla "I got chestnut scones, though?"
-    ja nulla ""
+    ja nulla "Conseguí scones de castañas, sin embargo?"
 
 # game/script/story/st_03.rpy:1118
 translate spanish homecoming_58afcab4:
 
     # e nulla "AAAAH, A MIRACLE!{w=0.3} JANARA, I COULD JUST KISS YOU!"
-    e nulla ""
+    e nulla "AAAAH, UN MILAGRO!{w=0.3} JANARA, PODRÏA BESARTE!"
 
 # game/script/story/st_03.rpy:1120
 translate spanish homecoming_6ba7c283:
 
     # ja nulla "Your funeral."
-    ja nulla ""
+    ja nulla "Tu funeral."
 
 # game/script/story/st_03.rpy:1122
 translate spanish homecoming_ae222a6b:
 
     # p nulla "Welcome back, everyone...{w=0.3} Congratulations on passing!"
-    p nulla ""
+    p nulla "Bienvenidos, a todos...{w=0.3} Felicidades por aprobar!"
 
 # game/script/story/st_03.rpy:1128
 translate spanish homecoming_1117bc38:
 
     # j nulla "Thanks, Penny.{w=0.3} To you too."
-    j nulla ""
+    j nulla "Gracias, Penny.{w=0.3} A ti también."
 
 # game/script/story/st_03.rpy:1129
 translate spanish homecoming_b17cdd7b:
 
     # d nulla "Yeah, that...{w=0.5} Must have been tough."
-    d nulla ""
+    d nulla "Si, eso...{w=0.5} Debe haber sido duro."
 
 # game/script/story/st_03.rpy:1131
 translate spanish homecoming_9de49f50:
 
     # p nulla "A little, but...{w=0.5} I handled it.{w=0.3} I promised I would."
-    p nulla ""
+    p nulla "Un poco, pero...{w=0.5} Pude manejarlo.{w=0.3} Prometí que lo haría."
 
 # game/script/story/st_03.rpy:1133
 translate spanish homecoming_8b32ca6c:
 
     # e nulla "Oh, you want to talk about tough?{w=0.3} Wait until you hear-"
-    e nulla ""
+    e nulla "Oh, quieres hablar acerca de duro?{w=0.3} Espera hasta que escuches-"
 
 # game/script/story/st_03.rpy:1136
 translate spanish homecoming_8a1bb114:
 
     # j nulla "UHM, EVELYN!{w=0.3} LET'S GET US SOME TEA WITH THE SCONES AT KANG'S, YES?!"
-    j nulla ""
+    j nulla "UHM, EVELYN!{w=0.3} TOMEMOS UN POCO DE TE CON LOS SCONES EN LO DE KANG, SI?!"
 
 # game/script/story/st_03.rpy:1142
 translate spanish homecoming_64892a10:
 
     # e nulla "Jeez, loud!"
-    e nulla ""
+    e nulla "Jeez, chillona!"
 
 # game/script/story/st_03.rpy:1144
 translate spanish homecoming_7f98e2dc:
 
     # j nulla "Yeah, I {i}really{/i} feel like tea.{w=0.3} So come on."
-    j nulla ""
+    j nulla "Si, me siento {i}realmente{/i} con animos para el té.{w=0.3} Así que vamos."
 
 # game/script/story/st_03.rpy:1147
 translate spanish homecoming_41ca7b61:
 
     # e_n surprise "*whisper*\"What are you on about?!"
-    e_n surprise ""
+    e_n surprise "*Susurro*\"Qué te pasa ahora?!"
 
 # game/script/story/st_03.rpy:1148
 translate spanish homecoming_af123c01:
 
     # j_n frown "*whisper*\"I know you're tired but turn down the share-hole to 0 when it comes to [p_n]'s 'excesses'!"
-    j_n frown ""
+    j_n frown "*Susurro*\"Se que estás cansada pero pon tu boca en 0 en cuanto se refiere a los 'excesos' de [p_n]!"
 
 # game/script/story/st_03.rpy:1150
 translate spanish homecoming_39180683:
 
     # e_n shock "*whisper*\"...!{w=0.3} Shit, you're right."
-    e_n shock ""
+    e_n shock "*Susurros*\"...!{w=0.3} Mierda, tienes razón."
 
 # game/script/story/st_03.rpy:1151
 translate spanish homecoming_90cf396b:
 
     # ja nulla "Well, that was weird."
-    ja nulla ""
+    ja nulla "Bueno, eso fue raro."
 
 # game/script/story/st_03.rpy:1152
 translate spanish homecoming_a04953e0:
 
     # d nulla "Yeah...{w=0.5} Anyway."
-    d nulla ""
+    d nulla "Si...{w=0.5} De todas maneras."
 
 # game/script/story/st_03.rpy:1154
 translate spanish homecoming_86f9cdd4:
 
     # d nulla "Thanks for coming to see us and the food, Janara."
-    d nulla ""
+    d nulla "Gracias por venir a vernos y la comida, Janara."
 
 # game/script/story/st_03.rpy:1156
 translate spanish homecoming_57bda36f:
 
     # ja nulla "You're welcome.{w=0.3} I hope you kicked butt."
-    ja nulla ""
+    ja nulla "De nada.{w=0.3} Espero que hayas pateado traseros."
 
 # game/script/story/st_03.rpy:1158
 translate spanish homecoming_a6e902b9:
 
     # p nulla "Are you going to join us?"
-    p nulla ""
+    p nulla "Vas a unirtenos?"
 
 # game/script/story/st_03.rpy:1162
 translate spanish homecoming_f5d37bb4:
 
     # ja_n nulla "*sigh*{w=0.5}\"I promised mother I would attend orientation at the academy, this morning."
-    ja_n nulla ""
+    ja_n nulla "*sigh*{w=0.5}\"Le prometí a madre que atendería a la orientación en la academia, esta mañana."
 
 # game/script/story/st_03.rpy:1165
 translate spanish homecoming_d401f0b8:
 
     # p nulla "Wait, you mean you're going to start the academy in the fall?"
-    p nulla ""
+    p nulla "Espera, estás diciendo que vas a empezar la academia en el otoño?"
 
 # game/script/story/st_03.rpy:1166
 translate spanish homecoming_52dde773:
 
     # ja nulla "Yeah..."
-    ja nulla ""
+    ja nulla "Yeah..."
 
 # game/script/story/st_03.rpy:1169
 translate spanish homecoming_570d3490:
 
     # d nulla "Cool.{w=0.3} I'm sure you'll kick butt."
-    d nulla ""
+    d nulla "Genial.{w=0.3} Estoy seguro que patearas traseros."
 
 # game/script/story/st_03.rpy:1171
 translate spanish homecoming_b5d1720e:
 
     # ja nulla "Not cool.{w=0.3} Waste of my time.{w=0.3} Blah."
-    ja nulla ""
+    ja nulla "Nada genial.{w=0.3} Una pérdida de mi tiempo.{w=0.3} Blah."
 
 # game/script/story/st_03.rpy:1172
 translate spanish homecoming_ac2bcc02:
 
     # p nulla "Don't be like that.{w=0.3} Think of all the new friends you'll be making."
-    p nulla ""
+    p nulla "No seas así.{w=0.3} Piensa en todos los nuevos amigos que harás."
 
 # game/script/story/st_03.rpy:1173
 translate spanish homecoming_37792f66:
 
     # ja nulla "I have enough friends."
-    ja nulla ""
+    ja nulla "Tengo suficientes amigos."
 
 # game/script/story/st_03.rpy:1174
 translate spanish homecoming_25d1150c:
 
     # d nulla "And how many of them are your age?"
-    d nulla ""
+    d nulla "Y cúantos de ellos tienen tu edad?"
 
 # game/script/story/st_03.rpy:1185
 translate spanish homecoming_1e47a1ee:
 
     # d nulla "OUCH!{w=0.5} Hey, what the hell?!{w=0.3} That hurts!"
-    d nulla ""
+    d nulla "OUCH!{w=0.5} Hey, qué demonios?!{w=0.3} Eso duele!"
 
 # game/script/story/st_03.rpy:1186
 translate spanish homecoming_7f472c6b:
 
     # ja nulla "Stupid blonde.{w=0.3} Hypocrite.{w=0.3} Go eat your scone.{w=0.3} Then die."
-    ja nulla ""
+    ja nulla "Estúpido rubio.{w=0.3} Hipócrita.{w=0.3} Ve a comer tu scone.{w=0.3} muerete luego."
 
 # game/script/story/st_03.rpy:1190
 translate spanish homecoming_69029aa9:
 
     # p nulla "I'm glad professor Peach convinced her.{w=0.3} With us going on missions, Titania working and {b}Amber{/b} gone, she'll need someone else to hang out with."
-    p nulla ""
+    p nulla "Estoy contenta de que la profesora Peach la convenciera.{w=0.3} Con nosotros en misones, Titania trabajando y {b}Amber{/b} desaparecida, ella necesitará alguien mas con quien salir."
 
 # game/script/story/st_03.rpy:1191
 translate spanish homecoming_8906cfdf:
 
     # d nulla "Wish she could accept defeat more graciously, though!{w=0.3} One more kick like that and I'll need a mechanical shin to go with the arm!{w=0.3} YEESH!"
-    d nulla ""
+    d nulla "Desearía que ella pudiera aceptar la derrota mas gracilmente, sin embargo!{w=0.3} Una patada mas como esa y voy a necesitar una espinilla mecánica para que haga juego con el brazo!{w=0.3} YEESH!"
 
 # game/script/story/st_03.rpy:1199
 translate spanish homecoming_82ea7333:
 
     # d nulla "Shit, my fucking mouth!{w=0.3} Penny, I'm sorry, you're not-"
-    d nulla ""
+    d nulla "Mierda, mi maldita boca!{w=0.3} Penny, lo siento, tú no eres-"
 
 # game/script/story/st_03.rpy:1200
 translate spanish homecoming_29a408a5:
 
     # p nulla "It's...{w=0.5} It's not that.{w=0.3} I mean, a little, but mainly...{w=0.3} She had a point."
-    p nulla ""
+    p nulla "Es...{w=0.5} No es eso.{w=0.3} Quiero decir, un poco, pero principalmente...{w=0.3} Ella tenía un punto."
 
 # game/script/story/st_03.rpy:1201
 translate spanish homecoming_b65d72c8:
 
     # d nulla "About what?"
-    d nulla ""
+    d nulla "Acerca de qué?"
 
 # game/script/story/st_03.rpy:1204
 translate spanish homecoming_7006602e:
 
     # p nulla "About you being a hypocrite."
-    p nulla ""
+    p nulla "Acerca de ti siendo un hipócrita."
 
 # game/script/story/st_03.rpy:1207
 translate spanish homecoming_6910232f:
 
     # d nulla "You really are better, aren't you?"
-    d nulla ""
+    d nulla "Tu de verdad estás mejor, no?"
 
 # game/script/story/st_03.rpy:1213
 translate spanish homecoming_e2fd7f62:
 
     # p nulla "Just a little...{w=0.5} Not as much as I'd like to be."
-    p nulla ""
+    p nulla "Solo un poco...{w=0.5} No tanto como me gustaría estar."
 
 # game/script/story/st_03.rpy:1216
 translate spanish homecoming_090d246a:
 
     # d nulla "Up until an year ago, even the thought of being so harsh with me would have caused you to break down."
-    d nulla ""
+    d nulla "Hace un año atrás, incluso el pensamiento de ser tan dura conmigo te habría hecho tener una crisis."
 
 # game/script/story/st_03.rpy:1217
 translate spanish homecoming_3ed54b1e:
 
     # p nulla "I know.{w=0.3} And I appreciate all the progress I've made, I'm happy that we will be able to still be a team, but..."
-    p nulla ""
+    p nulla "Lo sé.{w=0.3} Y aprecio todo el progreso que he hecho, estoy feliz de que podamos seguir siendo un equipo, pero..."
 
 # game/script/story/st_03.rpy:1219
 translate spanish homecoming_fe7551c0:
 
     # p nulla "I was trying to...{w=0.5} Waiting for you, I wanted...{w=0.5} I want to hold your hand."
-    p nulla ""
+    p nulla "Estaba intentando...{w=0.5} Esperando por ti, yo quería...{w=0.5} Yo quiero sostener tu mano."
 
 # game/script/story/st_03.rpy:1222
 translate spanish homecoming_26aedd63:
 
     # p nulla "And I was absolutely 100 percent positive I was going to do it, but the moment I laid eyes on you I..."
-    p nulla ""
+    p nulla "Y estoy absolutamente 100 por ciento segura que iba a hacerlo, pero en el momento que puse mis ojos sobre ti yo..."
 
 # game/script/story/st_03.rpy:1232
 translate spanish homecoming_e1ee0d50:
 
     # d nulla "I'll gladly be a hypocrite."
-    d nulla ""
+    d nulla "Con gusto seré un hipócrita."
 
 # game/script/story/st_03.rpy:1234
 translate spanish homecoming_3ff27724:
 
     # p nulla "Huh?"
-    p nulla ""
+    p nulla "Huh?"
 
 # game/script/story/st_03.rpy:1235
 translate spanish homecoming_75ebd2d9:
 
     # d nulla "What happened to you, to me, to us...{w=0.5} No matter what, I'll never let it come to that again."
-    d nulla ""
+    d nulla "Lo que te pasó a ti, a mi, a nosotros...{w=0.5} No importa que, nunca dejaré que llegue a eso otra vez."
 
 # game/script/story/st_03.rpy:1237
 translate spanish homecoming_37a1f119:
 
     # d nulla "I don't care about making new friends.{w=0.3} All I wanna do is keep the ones I already have.{w=0.3} We've already lost enough in the Fall of Beacon."
-    d nulla ""
+    d nulla "No me importa el hacer nuevos amigos.{w=0.3} Todo lo que quiero es conservar los que ya tengo.{w=0.3} Ya hemos perdido suficiente en la Caída de Beacon."
 
 # game/script/story/st_03.rpy:1239
 translate spanish homecoming_e81cc453:
 
     # p nulla "[p_n]..."
-    p nulla ""
+    p nulla "[p_n]..."
 
 # game/script/story/st_03.rpy:1241
 translate spanish homecoming_34952744:
 
     # d nulla "I...{w=0.5} If we hadn't been forced to split our focus that much...{w=0.5} If we could've just tackled one thing at the time..."
-    d nulla ""
+    d nulla "Yo...{w=0.5} Si no nos hubieran forzado a dividir nuestras prioridades tanto...{w=0.5} Si tan solo hubieramos podido encargarnos de una cosa a la vez..."
 
 # game/script/story/st_03.rpy:1245
 translate spanish homecoming_5beef9e2:
 
     # d nulla "I don't care if the rest of the world comes to hate me.{w=0.3} Keeping us safe is my only focus, from now on.{w=0.3} No matter what it takes."
-    d nulla ""
+    d nulla "No me importa si el resto del mundo termina odiandome.{w=0.3} Mantenernos a salvo es mi única prioridad, de ahora en adelante.{w=0.3} No importa lo que cueste."
 
 # game/script/story/st_03.rpy:1259
 translate spanish future_planning_bb691223:
 
     # j smile ".{w=0.3}.{w=0.3}.{w=0.5}so."
-    j smile ""
+    j smile ".{w=0.3}.{w=0.3}.{w=0.5} Así que."
 
 # game/script/story/st_03.rpy:1272
 translate spanish future_planning_5fefe09c:
 
     # j nulla "What now?"
-    j nulla ""
+    j nulla "Qué hacemos ahora?"
 
 # game/script/story/st_03.rpy:1273
 translate spanish future_planning_e69ca98f:
 
     # e_n nulla "*YAAAAAAAAAAAWN*{w=1.0}\"I need a naaaaaaaaaaaaap~"
-    e_n nulla ""
+    e_n nulla "*YAAAAAAAAAAAWN*{w=1.0}\"Necesito una sieeeeeeeeeeeesta~"
 
 # game/script/story/st_03.rpy:1275
 translate spanish future_planning_9ea1b150:
 
     # p nulla "You can use my lap if you want, Evelyn."
-    p nulla ""
+    p nulla "Puedes usar mi regazo si quieres, Evelyn."
 
 # game/script/story/st_03.rpy:1277
 translate spanish future_planning_b99b649f:
 
     # e nulla "That sounds amazing~"
-    e nulla ""
+    e nulla "Eso suena asombroso~"
 
 # game/script/story/st_03.rpy:1279
 translate spanish future_planning_892d410f:
 
     # e nulla "But then I'd have to get up later...{w=0.5} I need an actual bed."
-    e nulla ""
+    e nulla "Pero entonces tendría que levantarme mas tarde...{w=0.5} Necesiito una cama de verdad."
 
 # game/script/story/st_03.rpy:1281
 translate spanish future_planning_00701e02:
 
     # d nulla "Weak bunny.{w=0.3} I'm full of energy."
-    d nulla ""
+    d nulla "Coneja débil.{w=0.3} Yo estoy lleno de energia."
 
 # game/script/story/st_03.rpy:1283
 translate spanish future_planning_ab0fd119:
 
     # j nulla "Because you weren't up all night hunting a Grimm and then meeting with an informant..."
-    j nulla ""
+    j nulla "Porque tú no estuviste todo la noche despierto cazando Grimm y luego encontrandote con un informante..."
 
 # game/script/story/st_03.rpy:1285
 translate spanish future_planning_1a38312a:
 
     # j nulla "But I was talking about the future.{w=0.3} Specializations and what-not."
-    j nulla ""
+    j nulla "Pero estaba hablando acerca del futuro.{w=0.3} Espcialización y que no hacer."
 
 # game/script/story/st_03.rpy:1287
 translate spanish future_planning_fca170e4:
 
     # j nulla "First of all:{w=0.3} team assignment, yes?"
-    j nulla ""
+    j nulla "Primero que nada:{w=0.3} Asignacion como grupo, si?"
 
 # game/script/story/st_03.rpy:1289
 translate spanish future_planning_2a2b991a:
 
     # d nulla "Absolutely."
-    d nulla ""
+    d nulla "Absolutamente."
 
 # game/script/story/st_03.rpy:1291
 translate spanish future_planning_df5bdd4d:
 
     # p nulla "Of course."
-    p nulla ""
+    p nulla "Por supuesto."
 
 # game/script/story/st_03.rpy:1293
 translate spanish future_planning_35218b33:
 
     # e nulla "Not getting rid of me that easy."
-    e nulla ""
+    e nulla "No se van a deshacer de mi tan fácil."
 
 # game/script/story/st_03.rpy:1294
 translate spanish future_planning_77bd3e80:
 
     # j nulla "We're in agreement, then.{w=0.3} Now..."
-    j nulla ""
+    j nulla "Estamos de acuerdo, entonces.{w=0.3} Ahora..."
 
 # game/script/story/st_03.rpy:1296
 translate spanish future_planning_dd3a6c1f:
 
     # j nulla "What kind of assignment are we talking about, here?{w=0.3} What's the priority?"
-    j nulla ""
+    j nulla "Sobre qué tipo de asignación estamos hablando, en este momento?{w=0.3} Cúal es la prioridad?"
 
 # game/script/story/st_03.rpy:1299
 translate spanish future_planning_ce495448:
 
     # d nulla "The Fire God and his group."
-    d nulla ""
+    d nulla "El Dios del Fuego y su grupo."
 
 # game/script/story/st_03.rpy:1302
 translate spanish future_planning_804ecbd0:
 
     # e_i nulla "({b}Andrea{/b}...)"
-    e_i nulla ""
+    e_i nulla "({b}Andrea{/b}...)"
 
 # game/script/story/st_03.rpy:1303
 translate spanish future_planning_0fe2d9d2:
 
     # j nulla "Yeah...{w=0.5} Penny, be the devil's advocate for me, here.{w=0.3} Would miss Goodwitch authorize it?"
-    j nulla ""
+    j nulla "Claro...{w=0.5} Penny, sé el defensor del diablo para mí, aquí{w=0.3} Lo autorizaría la señorita Goodwitch?"
 
 # game/script/story/st_03.rpy:1305
 translate spanish future_planning_9b048275:
 
     # p nulla "No.{w=0.3} We have zero intel about their whereabouts.{w=0.3} No reports, no incidents, no rumor, nothing."
-    p nulla ""
+    p nulla "No.{w=0.3} Tenemos cero inteligencia acerca de sus paraderos.{w=0.3} No hay reportes, ni incidentes, ni rumores, nada."
 
 # game/script/story/st_03.rpy:1307
 translate spanish future_planning_845fa576:
 
     # p nulla "Authorizing us to go on what amounts to a wild goose hunt...{w=0.5} I can't see miss Goodwitch doing that."
-    p nulla ""
+    p nulla "Autorizarnos en lo que parece un búsqueda fútil...{w=0.5} No puedo imaginar a la señorita Goodwitch haciendo eso."
 
 # game/script/story/st_03.rpy:1309
 translate spanish future_planning_f7beddc4:
 
     # e nulla "Bummer.{w=0.3} Well, I've heard good things about guard duty..."
-    e nulla ""
+    e nulla "Aguafiestas.{w=0.3} Bueno, he escuchado algunas cosas buenas acerca de el deber de guardia..."
 
 # game/script/story/st_03.rpy:1311
 translate spanish future_planning_78946ed9:
 
     # j nulla "What about we try and get there in steps, then?{w=0.3} Let's break it down."
-    j nulla ""
+    j nulla "Qué hay acerca de conseguirlo en pasos, entonces?{w=0.3} Recapítulemos."
 
 # game/script/story/st_03.rpy:1312
 translate spanish future_planning_c9af4059:
 
     # d nulla "If we have no intel, we gotta get some.{w=0.3} There's only one person I can think of that would be able to tell us where on Remnant they went..."
-    d nulla ""
+    d nulla "Si no tenemos información, tenemos que conseguirla.{w=0.3} Solo hay una persona en la que puedo pensar hacia donde en Remnant fueron..."
 
 # game/script/story/st_03.rpy:1315
 translate spanish future_planning_98b74ff5:
 
     # d nulla "And that's {b}Summer Rose{/b}."
-    d nulla ""
+    d nulla "Y esa es {b}Summer Rose{/b}."
 
 # game/script/story/st_03.rpy:1318
 translate spanish future_planning_71fed905:
 
     # p nulla "{b}Ruby's{/b} mom..."
-    p nulla ""
+    p nulla "La máma de {b}Ruby{/b}..."
 
 # game/script/story/st_03.rpy:1319
 translate spanish future_planning_0492e047:
 
     # d nulla "From the conversation me and Roobes had with her, back in that mine-shaft, it sounded like she had been observing all of us for a long time...{w=0.5} Up to and including the Fire God.{w=0.3} I'm sure she's still keeping tabs on everything, wherever she is."
-    d nulla ""
+    d nulla "Por la conversación que yo y Roobes tuvimos con ella, en aquella mina, sonaba como si nos hubiera estado observando a todos nosotros por un largo tiempo...{w=0.5} hasta y incluso al Dios del Fuego.{w=0.3} Estoy seguro de que ella aún está al tanto de todo, dondequiera que esté."
 
 # game/script/story/st_03.rpy:1321
 translate spanish future_planning_ef7c1c9e:
 
     # j nulla "Makes sense.{w=0.3} Also, by her own admission, she's one of the few people able to do something about the Fire God...{w=0.5} How do we go about finding her?"
-    j nulla ""
+    j nulla "Tiene sentido.{w=0.3} También, como ella misma admitió, es una de las pocas personas que puede hacer algo acerca del Dios del Fuego...{w=0.5} Cómo la encontramos?"
 
 # game/script/story/st_03.rpy:1323
 translate spanish future_planning_dfc506ab:
 
     # d nulla "Well, we know someone who has been trying to find her for the last three years, no?"
-    d nulla ""
+    d nulla "Bueno, sabemos de alguien que ha estado intentando encontrarla por los últimos tres años, no?"
 
 # game/script/story/st_03.rpy:1329
 translate spanish future_planning_dc913f10:
 
     # j nulla "You mean my sister!"
-    j nulla ""
+    j nulla "Te refieres a mi hermana!"
 
 # game/script/story/st_03.rpy:1330
 translate spanish future_planning_9fbfe3a0:
 
     # p nulla "{b}Bella{/b} and {b}Thilla{/b}!{w=0.3} Of course, they could at least help us narrow it down, by now!{w=0.3} And it would be so nice to see them again!"
-    p nulla ""
+    p nulla "{b}Bella{/b} y {b}Thilla{/b}!{w=0.3} Por supuesto, ellas podrían ayudarnas a al menos a reducir las opciones, por ahora!{w=0.3} Y sería tan bueno volver a verlas!"
 
 # game/script/story/st_03.rpy:1332
 translate spanish future_planning_1f8bae3d:
 
     # p nulla "Except, uhm, we don't know where they are either?{w=0.3} We haven't heard from them in a while."
-    p nulla ""
+    p nulla "Excepto, uhm, que no sabemos dónde están tampoco?{w=0.3} No hemos escuchado de ellas en un buen rato."
 
 # game/script/story/st_03.rpy:1335
 translate spanish future_planning_87d1695b:
 
     # d nulla "Yeah, contact with them has always been sporadic because of their travelling...{w=0.5} But."
-    d nulla ""
+    d nulla "Exacto, el contacto con ellas siempre a sido esporadico a causa del su viaje...{w=0.5} Pero."
 
 # game/script/story/st_03.rpy:1338
 translate spanish future_planning_c9587834:
 
     # d nulla "I remember they were also keeping in touch with Ruby.{w=0.3} Maybe she has more recent information about them?"
-    d nulla ""
+    d nulla "Recuerdo que estaban manteniendose en contacto con Ruby.{w=0.3} Quizás ella tiene información mas reciente acerca de ellas?"
 
 # game/script/story/st_03.rpy:1340
 translate spanish future_planning_69df981d:
 
     # j nulla "And we're now back to square one, since we have no idea where Ruby is, either."
-    j nulla ""
+    j nulla "Y volvemos al paso número uno, desde que no tenemos idea dónde está Ruby, tampoco."
 
 # game/script/story/st_03.rpy:1342
 translate spanish future_planning_5e05a744:
 
     # d nulla "Well, no, but, she's probably going to be easier to find.{w=0.3} On account of, ya know, all her roobyisms?"
-    d nulla ""
+    d nulla "Bueno, no, pero, ella es probablemente mas fácil de encontrar.{w=0.3} Teniendo en cuenta, ya saben, todos sus roobysmos?"
 
 # game/script/story/st_03.rpy:1345
 translate spanish future_planning_2f9460e0:
 
     # e nulla "Well, better than nothing.{w=0.3} We take what missions we can to travel abroad and keep an eye out for rumours, then?"
-    e nulla ""
+    e nulla "Bueno, es mejor que nada,{w=0.3} Tomaremos todas las misiones para viajar hacia afuera y estaremos atentos a los rumores, entonces?"
 
 # game/script/story/st_03.rpy:1351
 translate spanish future_planning_82c2ec9d:
 
     # p nulla "Wait...{w=0.5} I got it!"
-    p nulla ""
+    p nulla "Esperen...{w=0.5} Lo tengo!"
 
 # game/script/story/st_03.rpy:1356
 translate spanish future_planning_a3ad94cb:
 
     # p nulla "We're going to have miss Goodwitch assign us a {b}mission to find Ruby{/b}!"
-    p nulla ""
+    p nulla "Haremos que la señorita Goodwitch nos asigne una {b}misión para encontrar a Ruby{/b}!"
 
 # game/script/story/st_03.rpy:1357
 translate spanish future_planning_4b44bde6:
 
     # d nulla "Excuse me?"
-    d nulla ""
+    d nulla "Disculpa?"
 
 # game/script/story/st_03.rpy:1358
 translate spanish future_planning_a757aa5d:
 
     # j nulla "Uhm, why would she do that?{w=0.3} As strapped for people as we are..."
-    j nulla ""
+    j nulla "Uhm, por qué haría ella eso?{w=0.3} Sin importar lo cortos de gente que estemos..."
 
 # game/script/story/st_03.rpy:1363
 translate spanish future_planning_e13415df:
 
     # e nulla "Maybe exactly because of that?{w=0.3} As a recruitment scheme!"
-    e nulla ""
+    e nulla "Quizás exactamente por eso?{w=0.3} Como un esquema de reclutamiento!"
 
 # game/script/story/st_03.rpy:1366
 translate spanish future_planning_f6bf0ad8:
 
     # e nulla "Well, we don't have any assurance of what kind of person Ruby has become...{w=0.5} Let alone what kind of Hunter."
-    e nulla ""
+    e nulla "Bueno, no tenemos ningún seguro de en que tipo de persona se ha convertido Ruby...{w=0.5} Ni hablemos de que tipo de Cazadora."
 
 # game/script/story/st_03.rpy:1369
 translate spanish future_planning_771c6523:
 
     # p nulla "Indeed.{w=0.3} But the same can't be said for her {b}prospective teacher{/b}, right?"
-    p nulla ""
+    p nulla "Exacto.{w=0.3} Pero lo mismo no puede decirse de su {b}potencial maestra{/b}, verdad?"
 
 # game/script/story/st_03.rpy:1375
 translate spanish future_planning_c71b4ea1:
 
     # j nulla "{b}Maria Calavera{/b}..."
-    j nulla ""
+    j nulla "{b}Maria Calavera{/b}..."
 
 # game/script/story/st_03.rpy:1377
 translate spanish future_planning_bb7a11c8:
 
     # p nulla "Exactly.{w=0.3} The legendary {b}Grimm Reaper{/b}."
-    p nulla ""
+    p nulla "Exactamente.{w=0.3} La legendaria {b}Segadora de Grimm{/b}."
 
 # game/script/story/st_03.rpy:1381
 translate spanish future_planning_391a8afa:
 
     # p angry "A Hunter of immaculate skill, with the most recorded kills of Gargantuan Grimm in history.{w=0.3} Beholden to no one, travelling alone from place to place without ever sticking around too much..."
-    p angry ""
+    p angry "Una Cazadora de habilidad inmaculada, con la mayor cantidad de muertes de Gargantuan Grimm registradas en la historia.{w=0.3} Atada a ningún lugar, viajando sola de un lugar a otro sin quedarse alrededor mucho tiempo..."
 
 # game/script/story/st_03.rpy:1386
 translate spanish future_planning_2a59d0ae:
 
     # p surprise "And yet, according to Ruby, she had not only managed to find the legend but convinced it to {b}train her{/b}.{w=0.3} Could she then be persuaded to train others?{w=0.3} What secret has Ruby stumbled on?{w=0.3} What wealth of knowledge could Maria impart?"
-    p surprise ""
+    p surprise "Y aun así, según Ruby, ella no solo se las arregló para encontrar a la leyendo sino que la convenció de {b}entrenarla{/b}.{w=0.3} Podría entonces ella entonces ser presuadida de entrenar a otros?{w=0.3} Con qué secretos se ha encontrado Ruby?{w=0.3} Qué valiso conocimiento podría Maria transferir?"
 
 # game/script/story/st_03.rpy:1387
 translate spanish future_planning_d0bfe733:
 
     # j shock "I get it...!{w=0.3} Yes, that would definitely be worth the effort in miss Goodwitch's eyes!"
-    j shock ""
+    j shock "Lo tengo...!{w=0.3} Si, eso valdría definiticamente el esfuerzo en los ojos de la señorita Goodwitch!"
 
 # game/script/story/st_03.rpy:1388
 translate spanish future_planning_33294e75:
 
     # e smile "And a lot of browny points!{w=0.3} Win-win-win!"
-    e smile ""
+    e smile "Y un montón de méritos!{w=0.3} Ganar-ganar-ganar!"
 
 # game/script/story/st_03.rpy:1389
 translate spanish future_planning_a928cf27:
 
     # d surprise "Okay, I see what you're getting at, but..."
-    d surprise ""
+    d surprise "Okay, sé donde esta el punto, pero"
 
 # game/script/story/st_03.rpy:1405
 translate spanish future_planning_98c38a3f:
 
     # d nulla "What happens if we...?"
-    d nulla ""
+    d nulla "Qué pasa si nosotros...?"
 
 # game/script/story/st_03.rpy:1411
 translate spanish future_planning_ff160ab7:
 
     # j nulla "If we...{w=0.5} What?"
-    j nulla ""
+    j nulla "Si nosotros...{w=0.5} Qué?"
 
 # game/script/story/st_03.rpy:1416
 translate spanish future_planning_5ced1e12:
 
     # d nulla "Nothing, it doesn't matter...{w=0.5} This is our best shot."
-    d nulla ""
+    d nulla "No es nada, no importa...{w=0.5} Está es nuestra mejor opción."
 
 # game/script/story/st_03.rpy:1418
 translate spanish future_planning_f1763eee:
 
     # d nulla "Good thinking, Penny.{w=0.3} I agree with this plan."
-    d nulla ""
+    d nulla "Bien pensado, Penny.{w=0.3} Estoy deacuerdo con este plan."
 
 # game/script/story/st_03.rpy:1422
 translate spanish future_planning_4498e0fe:
 
     # p nulla ".{w=0.3}.{w=0.3}.{w=0.5}I'm glad you do."
-    p nulla ""
+    p nulla ".{w=0.3}.{w=0.3}.{w=0.5}Estoy feliz de que lo estes."
 
 # game/script/story/st_03.rpy:1423
 translate spanish future_planning_0cecb66b:
 
     # e nulla "I do too."
-    e nulla ""
+    e nulla "Yo también lo estoy."
 
 # game/script/story/st_03.rpy:1424
 translate spanish future_planning_36bf3f35:
 
     # j nulla "Me three.{w=0.3} That's settled, then.{w=0.3} Next we should talk sp-"
-    j nulla ""
+    j nulla "Conmigo tres.{w=0.3} Esta decidido, de acuerdo.{w=0.3} Lo siguiente que deberíamos hablar-"
 
 # game/script/story/st_03.rpy:1427
 translate spanish future_planning_8d7ab42a:
 
     # j nulla "*yaaaaaaaAAAAAAWN*{w=0.5}\"Uhm...{w=0.5} You know what, screw it, Evelyn is right.{w=0.3} We both need a nap."
-    j nulla ""
+    j nulla "*yaaaaaaaAAAAAAWN*{w=0.5}\"Uhm...{w=0.5} Sabes qué, al diablo, Evelyn tiene razón.{w=0.3} Las dos necesitamos una siesta."
 
 # game/script/story/st_03.rpy:1429
 translate spanish future_planning_3e373795:
 
     # e nulla "I'm always right!"
-    e nulla ""
+    e nulla "Siemrpe tengo razón!"
 
 # game/script/story/st_03.rpy:1433
 translate spanish future_planning_fb83db9f:
 
     # p nulla "Let's get the two of you home, then.{w=0.3} And I can start preparing for tonight."
-    p nulla ""
+    p nulla "Llevemoslas a casa a ustedes dos, entonces.{w=0.3} Y yo puedo empezar a preparar lo de esta noche."
 
 # game/script/story/st_03.rpy:1434
 translate spanish future_planning_fdc29e0e:
 
     # d nulla "Don't you mean we?{w=0.3} I'm not letting you do all the work."
-    d nulla ""
+    d nulla "No quieres decir nosostros?{w=0.3} No voy a dejarte hacer todo el trabajo."
 
 # game/script/story/st_03.rpy:1436
 translate spanish future_planning_99381fd8:
 
     # p nulla "I'm glad to hear that.{w=0.3} Then you wouldn't mind {b}inviting everyone{/b}?"
-    p nulla ""
+    p nulla "Estoy feliz de escuchar eso.{w=0.3} Entonces no te importaría {b}invitar a todos{/b}?"
 
 # game/script/story/st_03.rpy:1440
 translate spanish future_planning_bf527502:
 
     # d nulla "Oh...{w=0.5} Uhm, I mean, if it's just that, can't we just send them a message?"
-    d nulla ""
+    d nulla "Oh...{w=0.5} Uhm, quiero decir, si es solo eso, no podemos simplemente mandarles un mensaje?"
 
 # game/script/story/st_03.rpy:1442
 translate spanish future_planning_9cdd6956:
 
     # p nulla "I'd also need you to buy some ingredients for the food, actually.{w=0.3} Since you're going to do the rounds anyway, I think it'd be nicer."
-    p nulla ""
+    p nulla "También necesito que compres algunos ingredientes para la comida, en realidad.{w=0.3} Ya que vas a estar afuera de todos modos, creo que sería mejor."
 
 # game/script/story/st_03.rpy:1448
 translate spanish future_planning_c1bc0cdc:
 
     # d nulla "Hmmm...{w=0.5} Can't argue with that logic, can I?"
-    d nulla ""
+    d nulla "Hmmm...{w=0.5} No puedo argumentar contra esa lógica, o no?"
 
 # game/script/story/st_03.rpy:1449
 translate spanish future_planning_786f5014:
 
     # j nulla "You got enough money on you?"
-    j nulla ""
+    j nulla "Tienes suficiente dinero contigo?"
 
 # game/script/story/st_03.rpy:1454
 translate spanish future_planning_6ca45da5:
 
     # d nulla "Yeah, I got it.{w=0.3} So who do I invite?"
-    d nulla ""
+    d nulla "Si, lo tengo.{w=0.3} A quién debo invitar?"
 
 # game/script/story/st_03.rpy:1456
 translate spanish future_planning_e1a4337c:
 
     # p nulla "{b}Team CFVY{/b} are still on a mission.{w=0.3} I don't know about {b}team ARSN{/b} but you can ask Zi-Yan!{w=0.3} I'll contact my sister."
-    p nulla ""
+    p nulla "{b}El equipo CFVY{/b} aún está en una misión.{w=0.3} No sé acerca del {b}equipo ARSN{/b} pero puedes preguntarle a Zi-Yan!{w=0.3} Yo contactaré a mi hermana."
 
 # game/script/story/st_03.rpy:1458
 translate spanish future_planning_ee2b8a29:
 
     # d_i nulla "(Hmmm, I guess I could also take advantage of the situation and see if she has time to check my hair.)"
-    d_i nulla ""
+    d_i nulla "(Hmmm, supongo que podría aprovechar la sutuación y ver si ella tiene tiempo de revisar mi cabello.)"
 
 # game/script/story/st_03.rpy:1460
 translate spanish future_planning_260a3e1e:
 
     # e nulla "Should we invite professor Peach?{w=0.3} What about miss Goodwitch?"
-    e nulla ""
+    e nulla "Debería invitar a la profesora Peach?{w=0.3} Qué hay acerca de la señorita Goodwitch?"
 
 # game/script/story/st_03.rpy:1462
 translate spanish future_planning_636c2d57:
 
     # j nulla "Yes and yes, although I doubt the Duchess will accept...{w=0.5} You can drop off the invite to Titania, since Janara is at orientation."
-    j nulla ""
+    j nulla "Si y si, aunque dudo que la Duquesa vaya a aceptar...{w=0.5} Puedes dejar la invitación a Titania, ya que Janara está en la orientación."
 
 # game/script/story/st_03.rpy:1464
 translate spanish future_planning_8596d0f7:
 
     # p nulla "Indeed!{w=0.3} I'm going to need some herbs from her shop, too!"
-    p nulla ""
+    p nulla "De acuerdo!{w=0.3} Voy a necesitar algunas hierbas de su tienda, también!"
 
 # game/script/story/st_03.rpy:1466
 translate spanish future_planning_6415c40d:
 
     # e nulla "Also, swing around by the academy and go invite Neo and {b}Pyrrha{/b}!"
-    e nulla ""
+    e nulla "También, ve por la academia y invita a Neo y {b}Pyrrha{/b}!"
 
 # game/script/story/st_03.rpy:1469
 translate spanish future_planning_c7c2dd59:
 
     # d nulla "I already sent her a message yesterday, I'll make sure she tells Pyrrha as well...{w=0.5} But I'll have to pass through to invite {b}Aqua{/b} and {b}Enrico{/b}, too."
-    d nulla ""
+    d nulla "Ya le envié un mensaje ayer, me aseguraré que se lo cuente a Pyrrha también...{w=0.5} Pero tendré que ir y invitar a b}Aqua{/b} y {b}Enrico{/b}, también."
 
 # game/script/story/st_03.rpy:1471
 translate spanish future_planning_abba5df4:
 
     # d nulla "I need to return my {b}Dust Suit{/b}, anyway."
-    d nulla ""
+    d nulla "Necesito regresar mi {b}Traje de Dust{/b}, de todos modos."
 
 # game/script/story/st_03.rpy:1473
 translate spanish future_planning_cc683b50:
 
     # j nulla "Oh, right!{w=0.3} I almost forgot to ask:{w=0.15} how did that work?{w=0.3} Is it everything he said it would be?"
-    j nulla ""
+    j nulla "Oh, cierto!{w=0.3} Casi me olvido de preguntar:{w=0.15} como funciona eso?{w=0.3} Es todo lo que el dijo que sería?"
 
 # game/script/story/st_03.rpy:1475
 translate spanish future_planning_b34a4ffe:
 
     # d nulla "Honestly?{w=0.5} Not really.{w=0.3} I mean, it's good to have an extra layer of protection and all, and I almost can't feel it under my clothes, but it's nowhere near the breakthrough he promised."
-    d nulla ""
+    d nulla "Honestamente?{w=0.5} No realmente.{w=0.3} Quiero decir, es bueno tener una capa extra de protección y todo, y casi no puedo sentirlo debajo de mis ropas, pero no está ni cerca de avance qué prometió."
 
 # game/script/story/st_03.rpy:1477
 translate spanish future_planning_20ac5e3c:

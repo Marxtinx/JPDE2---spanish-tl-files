@@ -3010,631 +3010,631 @@ translate spanish future_planning_b34a4ffe:
 translate spanish future_planning_20ac5e3c:
 
     # p nulla "Hmmm~"
-    p nulla ""
+    p nulla "Hmmm~"
 
 # game/script/story/st_03.rpy:1479
 translate spanish future_planning_baa4e552:
 
     # e nulla "Ooooh, you know something, don't you, love?"
-    e nulla ""
+    e nulla "Ooooh, Sabes algo, no es así, amor?"
 
 # game/script/story/st_03.rpy:1481
 translate spanish future_planning_fbff461c:
 
     # p nulla "Something!{w=0.3} But I'll let papa explain..."
-    p nulla ""
+    p nulla "Algo!{w=0.3} Pero dejaré que pápa lo explique..."
 
 # game/script/story/st_03.rpy:1483
 translate spanish future_planning_4c9d14df:
 
     # p nulla "Well, you got your list of tasks, [p_n].{w=0.3} I'll see you {b}back at our house{/b} when you're done."
-    p nulla ""
+    p nulla "Bien, tienes tu lista de tareas,[p_n].{w=0.3} Te veré {b}en nuestra casa{/b} cuando las termines."
 
 # game/script/story/st_03.rpy:1485
 translate spanish future_planning_e252997b:
 
     # j nulla "Me and carrots will see you when we wake up..."
-    j nulla ""
+    j nulla "Yo y zanahorias te veremos cuando nos despertemos..."
 
 # game/script/story/st_03.rpy:1487
 translate spanish future_planning_b4628ff2:
 
     # e nulla "See you later, babe!{w=0.3} Love you!"
-    e nulla ""
+    e nulla "Nos vemos luego, bébe!{w=0.3} Te amo!"
 
 # game/script/story/st_03.rpy:1488
 translate spanish future_planning_641b5908:
 
     # d nulla "Love you too.{w=0.3} Later, girls."
-    d nulla ""
+    d nulla "Yo también te amo.{w=0.3} Hasta luego, chicas."
 
 # game/script/story/st_03.rpy:1496
 translate spanish future_planning_a213ac34:
 
     # d nulla "Well, then."
-    d nulla ""
+    d nulla "Bien, entonces."
 
 # game/script/story/st_03.rpy:1499
 translate spanish future_planning_802e5b09:
 
     # d surprise "Where do I start?"
-    d surprise ""
+    d surprise "Por dónde empiezo?"
 
 # game/script/story/st_03.rpy:1513
 translate spanish peak_tut_park_d1e30f41:
 
     # d_i neutral "(Summer Rose...{w=0.5} Everything comes down to finding you.)"
-    d_i neutral ""
+    d_i neutral "(Summer ROse....{w=0.5} Todo depende de encontrarte.)"
 
 # game/script/story/st_03.rpy:1518
 translate spanish peak_tut_park_7f3c197b:
 
     # d_i nulla "(You told Ruby that you would need her to rescue you, eventually...{w=0.5} From what, though?{w=0.3} What are you doing, right now?{w=0.3} And how are you connected to the Gods and the Will of Remnant?)"
-    d_i nulla ""
+    d_i nulla "(Le dijiste a Ruby que necesitarías que ella te rescate, eventualmente...{w=0.5} De qué, sin embargo?{w=0.3} Qué estás haciendo, justo ahora?{w=0.3} Y cómo estás conectada a los Dioses y la Voluntad de Remnant?)"
 
 # game/script/story/st_03.rpy:1520
 translate spanish peak_tut_park_d6cbf6ad:
 
     # d_i nulla "(I know you said we had a few years but...{w=0.5} The Fire God is not the only danger we have to contend with.)"
-    d_i nulla ""
+    d_i nulla "(Sé que dijiste que teníamos un par de años pero...{w=0.5} El Dios del Fuego no es el único peligro contra el que tenemos que competir.)"
 
 # game/script/story/st_03.rpy:1522
 translate spanish peak_tut_park_87307f80:
 
     # d_i nulla "(It is the most potentially dangerous, though.{w=0.3} We have to take care of him before he reaches his full strength...)"
-    d_i nulla ""
+    d_i nulla "No es el potencialmente mas peligroso, aunque.{w=0.3} Tenemos que encargarnos de él antes de que alcance fuerza máxima."
 
 # game/script/story/st_03.rpy:1524
 translate spanish peak_tut_park_ef68f439:
 
     # d_i nulla "(And...{w=0.5} Hopefully, it's not too late to help {b}him{/b}, too...)"
-    d_i nulla ""
+    d_i nulla "(Y...{w=0.5} Con algo de suerte, no será demasiado tarde para ayudarlo a {b}él{/b}, también...)"
 
 # game/script/story/st_03.rpy:1536
 translate spanish peak_tut_square_e963626e:
 
     # d_i surprise "(Huh...{w=0.5} Is it me or is there more stuff coming in, recently?)"
-    d_i surprise ""
+    d_i surprise "(Huh...{w=0.5} Soy yo o hay mas cosas llegando adentro, recientemente?)"
 
 # game/script/story/st_03.rpy:1540
 translate spanish peak_tut_square_b1b1694d:
 
     # d_i nulla "(There's still of course the usual throng of people wanting to move in but...{w=0.5} Now there seems to actually be more things than people arriving each week.)"
-    d_i nulla ""
+    d_i nulla "(Aún está la multitud usual de personas quieriendo mudarse por supuesto pero...{w=0.5} Ahora parece que en realidad llegan más cosas que personas cada semana.)"
 
 # game/script/story/st_03.rpy:1542
 translate spanish peak_tut_square_507b25cf:
 
     # d_i nulla "(Last I checked, Vale was still 'strongly discouraging' their businesses from trading with us...{w=0.5} So where is this stuff coming in from?)"
-    d_i nulla ""
+    d_i nulla "(La última que averigué, Vale aún estaba 'desalentando fuertemente' a los negocias de comerciar con nosotros...{w=0.5} Así que de dónde están viniendo estas cosas?)"
 
 # game/script/story/st_03.rpy:1544
 translate spanish peak_tut_square_7901572e:
 
     # d_i nulla "(I should ask Titania.{w=0.3} Maybe she heard something juicy from professor Peach.)"
-    d_i nulla ""
+    d_i nulla "(Debería preguntarle a Titania.{w=0.3} Quizás ella haya escuchado algo jugoso de la profesora Peach.)"
 
 # game/script/story/st_03.rpy:1548
 translate spanish peak_tut_square_0f1f3183:
 
     # cus "Welcome to the Duchy of Peak."
-    cus ""
+    cus "Bienvenida al Ducado de Peak."
 
 # game/script/story/st_03.rpy:1553
 translate spanish peak_tut_square_7526643e:
 
     # cus "Please state your name and number of application."
-    cus ""
+    cus "Por favor declara tu nombre y número de solicitud."
 
 # game/script/story/st_03.rpy:1554
 translate spanish peak_tut_square_49d029f9:
 
     # ph nulla "I'm called {b}Philo{/b}.{w=0.3} Application number is D-102-439."
-    ph nulla ""
+    ph nulla "Me llamo {b}Philo{/b}.{w=0.3} El número de la solicitud es D-102-439."
 
 # game/script/story/st_03.rpy:1555
 translate spanish peak_tut_square_b14a2506:
 
     # cus "Thank you kindly...{w=0.3} Family name?"
-    cus ""
+    cus "Gracias muy amable...{w=0.3} Nombre familiar?"
 
 # game/script/story/st_03.rpy:1557
 translate spanish peak_tut_square_1b221e6b:
 
     # ph nulla "Family name...?"
-    ph nulla ""
+    ph nulla "Nombre familiar...?"
 
 # game/script/story/st_03.rpy:1558
 translate spanish peak_tut_square_835142ce:
 
     # cus "Uhm, your...{w=0.5} Surname?{w=0.3} They're synonyms."
-    cus ""
+    cus "Uhm, tu...{w=0.5} Apellido?{w=0.3} Son sinónimos."
 
 # game/script/story/st_03.rpy:1559
 translate spanish peak_tut_square_43cd0a57:
 
     # ph nulla "Oh, that...{w=0.5} Right.{w=0.3} Sorry."
-    ph nulla ""
+    ph nulla "Oh, eso...{w=0.5} Cierto.{w=0.3} Disculpe."
 
 # game/script/story/st_03.rpy:1560
 translate spanish peak_tut_square_eda0f76f:
 
     # cus "Think nothing of it, valesian is not the first language for many people here...{w=0.5} So?"
-    cus ""
+    cus "No te preocupes, el valesiano no es el primer idioma de muchas personas aquí...{w=0.5} Y?"
 
 # game/script/story/st_03.rpy:1562
 translate spanish peak_tut_square_4bad83ff:
 
     # ph nulla "Hmm...{w=1.0} {b}Tiogonia{/b}."
-    ph nulla ""
+    ph nulla "Hmm...{w=1.0} {b}Tiogonia{/b}."
 
 # game/script/story/st_03.rpy:1564
 translate spanish peak_tut_square_f44973a1:
 
     # ph nulla "Philo Tiogonia."
-    ph nulla ""
+    ph nulla "Philo Tiogonia."
 
 # game/script/story/st_03.rpy:1565
 translate spanish peak_tut_square_b3affd8c:
 
     # cus "Thank you very much...{w=1.0} Oh, you forgot to put your last name in your application as well, I see."
-    cus ""
+    cus "Muchisimas gracias...{w=1.0} Oh, olvidaste colocar tu apellido en la solicitud también, ya veo."
 
 # game/script/story/st_03.rpy:1567
 translate spanish peak_tut_square_22cb5fe9:
 
     # ph nulla "Language barriers, am I right?"
-    ph nulla ""
+    ph nulla "Barreras de idioma, tengo razón?"
 
 # game/script/story/st_03.rpy:1568
 translate spanish peak_tut_square_1fd02689:
 
     # cus "Heh, indeed...{w=0.5} Everything else seems to be in order.{w=0.3} Let us just correct this oversight."
-    cus ""
+    cus "Heh, correcto...{w=0.5} Todo lo demás parece estar en orden.{w=0.3} Solo dejanos corregir este error."
 
 # game/script/story/st_03.rpy:1588
 translate spanish peak_tut_hair_468ce104:
 
     # z nulla "Good morning.{w=0.3} Welcome to-"
-    z nulla ""
+    z nulla "Buenos días.{w=0.3} Bienvenido a-"
 
 # game/script/story/st_03.rpy:1592
 translate spanish peak_tut_hair_0e20f758:
 
     # z nulla "[p_n]!{w=0.3} You're back!"
-    z nulla ""
+    z nulla "[p_n]!{w=0.3} Has regresado!"
 
 # game/script/story/st_03.rpy:1596
 translate spanish peak_tut_hair_9113d342:
 
     # d nulla "Hi, Zi-Yan.{w=0.3} Yeah, we all came back.{w=0.3} And we all passed."
-    d nulla ""
+    d nulla "Hola, Zi-Yan.{w=0.3} Si, todos regresamos.{w=0.3} Y todos aprobamos."
 
 # game/script/story/st_03.rpy:1599
 translate spanish peak_tut_hair_20e5c1f9:
 
     # z nulla "Penny too?!"
-    z nulla ""
+    z nulla "Penny también?"
 
 # game/script/story/st_03.rpy:1600
 translate spanish peak_tut_hair_9d246452:
 
     # d nulla "Penny too.{w=0.3} Couldn't have done it without your help, so...{w=0.5} You have my personal thanks."
-    d nulla ""
+    d nulla "Penny también.{w=0.3} No lo podríamos haber logrado sin tu ayuda, asi que...{w=0.5} Tienes mis agradecimientos personales."
 
 # game/script/story/st_03.rpy:1602
 translate spanish peak_tut_hair_68414f38:
 
     # z nulla "Oh brothers, I'm SO glad!{w=0.3} That is fantastic news!"
-    z nulla ""
+    z nulla "Oh por los hermanos, estoy TAN contenta!{w=0.3} Esas son fantasticas noticias!"
 
 # game/script/story/st_03.rpy:1604
 translate spanish peak_tut_hair_e9b77853:
 
     # z nulla "You're going to be able to stay as a team, then!{w=0.3} I'm so happy for you guys!{w=0.3} Congratulations!"
-    z nulla ""
+    z nulla "Serán capaces de permanecer coomo un equipo, entonces!{w=0.3} Estoy tan feliz por ustedes!{w=0.3} Felicidades!"
 
 # game/script/story/st_03.rpy:1605
 translate spanish peak_tut_hair_d11adb31:
 
     # d nulla "Thanks.{w=0.3} We're also going to throw a party to celebrate, tonight, and I'm here to invite you."
-    d nulla ""
+    d nulla "Gracias.{w=0.3} También vamos a hacer una fiesta para celebrar, esta noche, y estoy aquí para invitarte."
 
 # game/script/story/st_03.rpy:1607
 translate spanish peak_tut_hair_6c69affd:
 
     # d nulla "Also, I was wondering if you had time for an appointment, today?{w=0.3} I've used quite a bit of Aura during the mission."
-    d nulla ""
+    d nulla "También, estaba pensando si tienes tiempo para un cita, hoy?{w=0.3} He usado un poco demasiada  Aura durante la misión. "
 
 # game/script/story/st_03.rpy:1609
 translate spanish peak_tut_hair_a0b791b6:
 
     # z nulla "Oh!{w=0.5} Well, I actually do have some time before the next appointment."
-    z nulla ""
+    z nulla "Oh!w=0.5}  Bueno, en realidad tengo tiempo antes de la próxima cita."
 
 # game/script/story/st_03.rpy:1611
 translate spanish peak_tut_hair_d31ed551:
 
     # z nulla "Please, take a seat."
-    z nulla ""
+    z nulla "Por favor, toma asiento."
 
 # game/script/story/st_03.rpy:1613
 translate spanish peak_tut_hair_d237923a:
 
     # d nulla "Much obliged."
-    d nulla ""
+    d nulla "Con gusto."
 
 # game/script/story/st_03.rpy:1620
 translate spanish peak_tut_hair_1f445dfd:
 
     # d smile "So {b}Jaune{/b} and his team passed too.{w=0.3} Great."
-    d smile ""
+    d smile "Asi qué {b}Jaune{/b} y su equipo aprobó también.{w=0.3} Genial."
 
 # game/script/story/st_03.rpy:1621
 translate spanish peak_tut_hair_ff8b9896:
 
     # z frown "Of course they passed, and with flying colours.{w=0.3} Did you have any doubts?{w=0.3} My Jaune's amazing."
-    z frown ""
+    z frown "Por supuesto que aprobaron, y con excelentes notas.{w=0.3} Tenías alguna duda?{w=0.3} Mi Jaune es increible."
 
 # game/script/story/st_03.rpy:1622
 translate spanish peak_tut_hair_8e2b31b9:
 
     # d laugh "Hmmm, I guess he is...{w=0.3} And his team-mates aren't half bad either, wouldn't you say?"
-    d laugh ""
+    d laugh "Hmmm, Supongo que lo es...{w=0.3} Y sus compañeros no son tna malos tampoco, no esás de acuerdo?"
 
 # game/script/story/st_03.rpy:1623
 translate spanish peak_tut_hair_ceb5f7eb:
 
     # z smile "Hehe, yes...{w=0.3} Not half bad."
-    z smile ""
+    z smile "Hehe, si...{w=0.3} No tan malos."
 
 # game/script/story/st_03.rpy:1624
 translate spanish peak_tut_hair_5e34965b:
 
     # z neutral "They won't be back in time for the party, though."
-    z neutral ""
+    z neutral "No llegaran a tiempo para la fiesta, sin embargo."
 
 # game/script/story/st_03.rpy:1625
 translate spanish peak_tut_hair_b23d8ea9:
 
     # d surprise "Did their assignment take them that far?"
-    d surprise ""
+    d surprise "Su misión los llevó tan lejos?"
 
 # game/script/story/st_03.rpy:1626
 translate spanish peak_tut_hair_3663bdee:
 
     # z smile "Actually, it's because it took them near Jaune's family home."
-    z smile ""
+    z smile "En realidad, es porque es porque los llevó cerca la casa de la familia de Jaune."
 
 # game/script/story/st_03.rpy:1627
 translate spanish peak_tut_hair_4b0fb408:
 
     # d surprise "Oh...{w=0.3} I see."
-    d surprise ""
+    d surprise "Oh...{w=0.3} Ya veo."
 
 # game/script/story/st_03.rpy:1628
 translate spanish peak_tut_hair_a1e52440:
 
     # z laugh "He called me and was feeling so guilty to even ask.{w=0.3} We had planned to celebrate together but he hadn't seen his family in years..."
-    z laugh ""
+    z laugh "Me llamó y sonaba tan lleno de culpa para siquiera preguntar.{w=0.3} Estabamos planeando celebrarlo juntos pero el no ha visto a su familiar en años..."
 
 # game/script/story/st_03.rpy:1629
 translate spanish peak_tut_hair_eec508a6:
 
     # z smile "So I told him that if he didn't take the opportunity, I would break up with him.{w=0.3} Or cry.{w=0.3} Or dye his hair green."
-    z smile ""
+    z smile "Así que le dije que si no tomaba la oportunidad, terminaría con él.{w=0.3} O lloraría.{w=0.3} O pintaría su cabello de verde."
 
 # game/script/story/st_03.rpy:1630
 translate spanish peak_tut_hair_1ecc18b0:
 
     # d smile "You're a great influence on him.{w=0.3} Anyone ever told you that?"
-    d smile ""
+    d smile "Eres una buena influencia en él.{w=0.3} Alguna vez alguien te lo dijo?"
 
 # game/script/story/st_03.rpy:1632
 translate spanish peak_tut_hair_f8658591:
 
     # z laugh "A couple people...{w=0.5} By the way, is the story about the nickname true?"
-    z laugh ""
+    z laugh "Un par de personas...{w=0.5} De todos modos, es la historia sobre el apodo verdad?"
 
 # game/script/story/st_03.rpy:1633
 translate spanish peak_tut_hair_416da1de:
 
     # d surprise "Nickname?{w=0.3} What nickname?"
-    d surprise ""
+    d surprise "Apodo?{w=0.3} Qué apodo?"
 
 # game/script/story/st_03.rpy:1634
 translate spanish peak_tut_hair_a843212c:
 
     # z smile "Well, I had an appointment with another student.{w=0.3} Had to fix one awful self-bleach job, so it took a while.{w=0.3} We got to talk..."
-    z smile ""
+    z smile "Bien, atendí a una estudiante.{w=0.3} Tuve que arreglar un terrible trabajo de decolorado hecho por si misma, así que tomó un tiempo.{w=0.3} Hablamos un rato..."
 
 # game/script/story/st_03.rpy:1635
 translate spanish peak_tut_hair_fbc30fd1:
 
     # z surprise "And when Jaune came up, she mentioned that he's gotten a nickname around the Academy, now."
-    z surprise ""
+    z surprise "Y cuando Jaune salió en la conversación, ella mencionó que él obtuvo un apodo alrededor de la Acadamia, ahora."
 
 # game/script/story/st_03.rpy:1636
 translate spanish peak_tut_hair_1b45f25f:
 
     # d surprise "Hmmm, I didn't really follow the rumour mill, during my time there...{w=0.5} What nickname?"
-    d surprise ""
+    d surprise "Hmmm, No seguí realmente los rumores, durante mi tiempo allí...{w=0.5} Qué apodo?"
 
 # game/script/story/st_03.rpy:1637
 translate spanish peak_tut_hair_933c29da:
 
     # z neutral "She told me they call him the {b}Shield of the Duchy{/b}...{w=0.5} Alright, I'm done."
-    z neutral ""
+    z neutral "Ella me dijo que lo llama él {b}Escudo del Ducado{/b}...{w=0.5} Muy bien, terminé."
 
 # game/script/story/st_03.rpy:1644
 translate spanish peak_tut_hair_de80d436:
 
     # d nulla "So?"
-    d nulla ""
+    d nulla "Y?"
 
 # game/script/story/st_03.rpy:1645
 translate spanish peak_tut_hair_82d01027:
 
     # z nulla "No progress at all.{w=0.3} The roots are still in the same state as before your mission.{w=0.3} No shifts in shade at all."
-    z nulla ""
+    z nulla "Sin ningún progreso.{w=0.3} Las raices están en el mismo estado que antes de tu misiión.{w=0.3} Sin cambios de tono en particular."
 
 # game/script/story/st_03.rpy:1647
 translate spanish peak_tut_hair_e8d66ee6:
 
     # z nulla "One way or the other...{w=0.5} Sorry."
-    z nulla ""
+    z nulla "De un modo u otro....{w=0.5} Perdón."
 
 # game/script/story/st_03.rpy:1649
 translate spanish peak_tut_hair_6c41cab8:
 
     # d nulla "So as long as I don't use anyone's Aura but mine, I won't change any further, no matter the effort...{w=0.5} But it doesn't make it regress, either."
-    d nulla ""
+    d nulla "Así que mientras no use el Aura de nadie excepto la mía, no voy a cambiar más, sin importar el esfuerzo...{w=0.5} Pero tampoco lo hace regresar, tampoco."
 
 # game/script/story/st_03.rpy:1654
 translate spanish peak_tut_hair_efc2522a:
 
     # z nulla "So...{w=0.5} I'll see you at the party, then."
-    z nulla ""
+    z nulla "Asi que...{w=0.5} Te veré en la fiesta, entonces."
 
 # game/script/story/st_03.rpy:1657
 translate spanish peak_tut_hair_151109b9:
 
     # d nulla "Yup.{w=0.3} Thank you, Zi-Yan."
-    d nulla ""
+    d nulla "Yup.{w=0.3} Gracias, Zi-Yan."
 
 # game/script/story/st_03.rpy:1659
 translate spanish peak_tut_hair_cd50f180:
 
     # z nulla "You can pass by Hsin-Yi for the payment, as usual.{w=0.3} Thank you for your patronage~"
-    z nulla ""
+    z nulla "Puedes pasar por Hsin-Yi por el pago, como siempre.{w=0.3} Gracias por tu patrocinio."
 
 # game/script/story/st_03.rpy:1680
 translate spanish peak_tut_herb_ac326efd:
 
     # ti nulla "Well, look what the airship dragged in.{w=0.3} Congratulations, Hunter."
-    ti nulla ""
+    ti nulla "Bueno, mira lo que trajo la aeronave.{w=0.3} Felicidades, Cazador."
 
 # game/script/story/st_03.rpy:1684
 translate spanish peak_tut_herb_9a1eed94:
 
     # d nulla "Hey, Titania.{w=0.3} Thanks, we all-"
-    d nulla ""
+    d nulla "Hey, Titania.{w=0.3} Gracias, todos noso-"
 
 # game/script/story/st_03.rpy:1686
 translate spanish peak_tut_herb_3a0cc8b4:
 
     # d nulla "Wait, how do you know I passed?"
-    d nulla ""
+    d nulla "Espera, cómo sabías que aprobé?"
 
 # game/script/story/st_03.rpy:1688
 translate spanish peak_tut_herb_88b1aa0b:
 
     # ti nulla "A little shin-kicking birdie sent me a Scroll message~{w=0.5} She was pretty miffed at you."
-    ti nulla ""
+    ti nulla "Una pequeña ave patea-espinillas me envío un mensaje a mi Scroll~{w=0.5} Ella estaba bastante molesta contigo."
 
 # game/script/story/st_03.rpy:1690
 translate spanish peak_tut_herb_6ecc4111:
 
     # d nulla "Ehm, right, right...{w=0.5} And how goes the apprenticeship?"
-    d nulla ""
+    d nulla "Ehm, claro, claro...{w=0.5} Y cómo van las prácticas?"
 
 # game/script/story/st_03.rpy:1692
 translate spanish peak_tut_herb_34640e6f:
 
     # ti nulla "Pretty good, thanks!{w=0.3} And we're actually starting to get more varieties!"
-    ti nulla ""
+    ti nulla "Bastante bien, gracias!{w=0.3} Y en realidad estamos empezando a recibir mas variedades!"
 
 # game/script/story/st_03.rpy:1695
 translate spanish peak_tut_herb_295f7710:
 
     # ti nulla "Nothing rare, but mister Zhi-Rou says we should now be able to recreate a few more of the herbal mixtures from Mistral."
-    ti nulla ""
+    ti nulla "Nada raro, pero el señor Zhi-Rou dice que deberías ser capaces de recrear unos pocas de las mezclas herbales de Mistral."
 
 # game/script/story/st_03.rpy:1697
 translate spanish peak_tut_herb_fb96da41:
 
     # d nulla "Oh, that's nice.{w=0.3} Any you'd suggest?{w=0.3} Maybe I can find one to weane Jack off coffee."
-    d nulla ""
+    d nulla "Oh, eso es bueno.{w=0.3} Alguna que puedas sugerir?{w=0.3} Tal vez pueda encontrar una para acostumbrar a Jack a dejar el café."
 
 # game/script/story/st_03.rpy:1699
 translate spanish peak_tut_herb_718aa0cb:
 
     # ti nulla "No tea in the world can work {i}that{/i} miracle, but I have a couple that'd interest a Hunter.{w=0.3} You ask him, some of the mixtures can actually affect your body and soul, and through that your Aura."
-    ti nulla ""
+    ti nulla "Ningún té en el mundo puede realizar {i}ese{/i} milagro, pero tengo un par que pueden interesar a un Cazador.{w=0.3} Si le preguntas, algunas de las mezclas pueden en realidad afectar tu cuerpo y alma, y a través de ellos tu Aura."
 
 # game/script/story/st_03.rpy:1702
 translate spanish peak_tut_herb_a13eb4f6:
 
     # ti nulla "According to him, they were actually developed by a mystical warrior clan of some kind to help in their training...{w=0.5} Can you believe that?"
-    ti nulla ""
+    ti nulla "Según él, eran en realidad desarrolladas por un mítico clan guerrero de alguna clase para ayudar en su entrenamiento...{w=0.5} Puede creerlo?"
 
 # game/script/story/st_03.rpy:1703
 translate spanish peak_tut_herb_4d2ea28a:
 
     # d nulla ".{w=0.3}.{w=0.3}.{w=0.5}actually, I do."
-    d nulla ""
+    d nulla ".{w=0.3}.{w=0.3}.{w=0.5} En realidad, lo hago."
 
 # game/script/story/st_03.rpy:1705
 translate spanish peak_tut_herb_a927b613:
 
     # ti nulla "Hm.{w=0.3} You're more open-minded than I am."
-    ti nulla ""
+    ti nulla "Hm.{w=0.3} Eres de mente mas abierta que yo."
 
 # game/script/story/st_03.rpy:1707
 translate spanish peak_tut_herb_61615640:
 
     # d nulla "Hmm, let's just say I've had an interesting conversation about Aura, recently."
-    d nulla ""
+    d nulla "Hmm, solo digamos que tuve una conversación interesante sobre el Aura, recientemente."
 
 # game/script/story/st_03.rpy:1709
 translate spanish peak_tut_herb_cb6201a3:
 
     # d nulla "Anyway, I've come by to invite the whole family over.{w=0.3} We're having a little celebration tonight...{w=0.3} And on that note, I also need some herbs."
-    d nulla ""
+    d nulla "De todos modos, he venido a invitar a todo la familia.{w=0.3} Estamos teniendo una pequeña celebración esta noche...{w=0.3} En esa nota, necesito algunas hierbas también."
 
 # game/script/story/st_03.rpy:1711
 translate spanish peak_tut_herb_72487913:
 
     # ti nulla "Music to my ears!{w=0.3} Let me see the list."
-    ti nulla ""
+    ti nulla "Música para mis oídos!{w=0.3} Dejame ver la lista."
 
 # game/script/story/st_03.rpy:1718
 translate spanish peak_tut_herb_fb8291a6:
 
     # d smile "Thank you kindly...{w=0.5} Prices have gone down, I see."
-    d smile ""
+    d smile "Muchas gracias...{w=0.5} Los precios han bajado, por lo que veo."
 
 # game/script/story/st_03.rpy:1719
 translate spanish peak_tut_herb_231c3f23:
 
     # ti apron laugh "We got the first batch from the greenhouses.{w=0.3} We're no longer dependent on import alone, now!"
-    ti apron laugh ""
+    ti apron laugh "Obtuvimos el primer lote de los invernaderos.{w=0.3} Ya no somos dependientes de la importación, ahora!"
 
 # game/script/story/st_03.rpy:1727
 translate spanish peak_tut_herb_2f7383f6:
 
     # ti nulla "Those things are hella efficient.{w=0.3} Heck, mister Zhi-Rou has half a mind to start exporting luxury goods."
-    ti nulla ""
+    ti nulla "Esas cosas son malditamente eficientes.{w=0.3} Demonis, el señor Zhi-Rou tiene la intención de empzar a exportar bienes de lujo."
 
 # game/script/story/st_03.rpy:1729
 translate spanish peak_tut_herb_9aed5041:
 
     # d nulla "Luxury goods...?{w=0.3} How does that work for plants and herbs?"
-    d nulla ""
+    d nulla "Bienes de lujo...?{w=0.3} Cómo funciona eso para las plantas y hierbas?"
 
 # game/script/story/st_03.rpy:1731
 translate spanish peak_tut_herb_c8c20998:
 
     # ti nulla "Those greenhouses can literally grow anything, simulate any climate.{w=0.3} If we could manage to {b}get our hands on some rare plants or seeds{/b}, we start growing them and bam!{w=0.3} Instant seller."
-    ti nulla ""
+    ti nulla "Esos invernaderos pueden literalmente hacer crecer cualquier cosa, simular cualquier clima.{w=0.3} Si pudieramos arreglarnosla para {b}poner nuestras manos en algunas plantas raras o semillas{/b}, empezamos a plantarlas y bam!{w=0.3} éxito instantaneo."
 
 # game/script/story/st_03.rpy:1732
 translate spanish peak_tut_herb_17f11668:
 
     # d nulla "I see...{w=0.5} I could keep an eye out for anything similar, I guess."
-    d nulla ""
+    d nulla "Ya veo...{w=0.5} Puedo mantener los ojos abierto para cualquier cosa similar, supongo."
 
 # game/script/story/st_03.rpy:1734
 translate spanish peak_tut_herb_853c7d57:
 
     # d nulla "Speaking of export, I wanted to ask:{w=0.3} is it me or are more shipments coming through now?"
-    d nulla ""
+    d nulla "Hablando de exportaciones, quería preguntar:{w=0.3} soy yo o hay mas cargamentos llegando ahora?"
 
 # game/script/story/st_03.rpy:1736
 translate spanish peak_tut_herb_960ef106:
 
     # ti nulla "You noticed too, yeah?{w=0.3} Before you ask, mom hasn't really let any details slip..."
-    ti nulla ""
+    ti nulla "Lo notaste también, si?{w=0.3} Antes de que preguntes, a máma no se le ha escapado ningún detalle..."
 
 # game/script/story/st_03.rpy:1738
 translate spanish peak_tut_herb_3b1b4024:
 
     # ti nulla "I can tell you, though, that the situation in Vale is unchanged.{w=0.3} We heard as such from the newest arrivals."
-    ti nulla ""
+    ti nulla "Puedo decirte, sin embargo, que la situación en Vale no ha cambiado.{w=0.3} Lo escuchamos de lo recién llegados."
 
 # game/script/story/st_03.rpy:1740
 translate spanish peak_tut_herb_bb44abca:
 
     # ti nulla "So whoever's trading with us now, it's someone new."
-    ti nulla ""
+    ti nulla "Así quien sea que este comerciando con nostros ahora, es alguien nuevo."
 
 # game/script/story/st_03.rpy:1742
 translate spanish peak_tut_herb_7a28be64:
 
     # d nulla "I see...{w=0.3} Well, it doesn't matter, I was just curious."
-    d nulla ""
+    d nulla "YA veo...{w=0.3} Bueno, realmente no importa, solo estaba curioso."
 
 # game/script/story/st_03.rpy:1744
 translate spanish peak_tut_herb_3ced8a58:
 
     # d nulla "Anyway, you coming tonight?"
-    d nulla ""
+    d nulla "De todos modos, vas a venir a lo de esta noche?"
 
 # game/script/story/st_03.rpy:1746
 translate spanish peak_tut_herb_c05f7c1c:
 
     # ti nulla "Count me in!{w=0.3} I'm sure Janara will be joining too.{w=0.3} Don't know about mom, though."
-    ti nulla ""
+    ti nulla "Cuentame adentro!{w=0.3} Estoy segura que Janara se unirá también.{w=0.3} No sé acerca de máma, sin embargo."
 
 # game/script/story/st_03.rpy:1748
 translate spanish peak_tut_herb_fd5ec4b5:
 
     # ti nulla "She was up late with Glynda, yesterday.{w=0.3} This morning she barely scarfed something down before rushing to the Academy.{w=0.3} Something about being late for a meeting with the professor."
-    ti nulla ""
+    ti nulla "Ella estuvo hasta tarde con Glynda, ayer.{w=0.3} Está mañana apenas comió algo antes de salir corriendo a la Academia.{w=0.3} Algo acerca de llegar tarde para un encuentro con el profesor."
 
 # game/script/story/st_03.rpy:1750
 translate spanish peak_tut_herb_f34f8c67:
 
     # d nulla "Maybe I will run into her, then.{w=0.3} I'm headed up there as well, gotta deliver the invite and this thing I'm wearing."
-    d nulla ""
+    d nulla "Tal vez me la encuentre, entonces.{w=0.3} Me dirijo hasta allí también, tengo que entregar la invitación y esta cosa que estoy vistiendo."
 
 # game/script/story/st_03.rpy:1752
 translate spanish peak_tut_herb_589326e6:
 
     # ti nulla "Aaah, tube subject time...{w=0.5} Takes me back.{w=0.3} Have fun."
-    ti nulla ""
+    ti nulla "Aaah, tiempo de sujeto de pruebas...{w=0.5} Me trae recuerdos.{w=0.3} Diviertete."
 
 # game/script/story/st_03.rpy:1754
 translate spanish peak_tut_herb_e34ee42e:
 
     # d nulla "Heh, I'll try!{w=0.3} Have a good day."
-    d nulla ""
+    d nulla "Heh, voiy a intentarlo!{w=0.3} Ten un buen día."
 
 # game/script/story/st_03.rpy:1767
 translate spanish peak_tut_academy_08680502:
 
     # d_i neutral "(Alright, now I gotta get to the basement 1 level, which means accreditation...{w=0.5} Bothersome.)"
-    d_i neutral ""
+    d_i neutral "(Muy bien, ahora tengo que ir al subterraneo del nivel 1, lo que significa acreditación...{w=0.5} que molesto.)"
 
 # game/script/story/st_03.rpy:1771
 translate spanish peak_tut_academy_9ea41c0a:
 
     # d_i nulla "(Or maybe now that I'm a Hunter and no longer a student I can come and go as I please?{w=0.3} I should ask-)"
-    d_i nulla ""
+    d_i nulla "(O quizás ahora que soy un Cazador y no un estudiante ahora pueda ir y venir a placer?{w=0.3} Debería preguntar-)"
 
 # game/script/story/st_03.rpy:1776
 translate spanish peak_tut_academy_45156711:
 
     # aq_xn darko angry "*grumblemumble*\"Gods damn retrogade, backward, conservative tenured fossil.{w=0.3} Inefficient allocation my arse..."
-    aq_xn darko angry ""
+    aq_xn darko angry "*mururarmurmurar*\"Dios maldito retrogrado, atrasado, titular fósil conservativo.{w=0.3} Asignación ineficiente mi trasero..."
 
 # game/script/story/st_03.rpy:1781
 translate spanish peak_tut_academy_cce1aeb8:
 
     # aq_x nulla "He opens his mouth again I'm going to shove a spanner so far up his ass he's going to taste met-"
-    aq_x nulla ""
+    aq_x nulla "Si abre su boca de nuevo voy a meter una llave tan dentro en su trasero que el va a probrar-"
 
 # game/script/story/st_03.rpy:1786
 translate spanish peak_tut_academy_72d600b0:
 
     # aq_x nulla "Oh!{w=0.3} Well, uhm, hello [p_n]!{w=0.3} Didn't see you there!{w=0.3} What a fine morning, wouldn't you say?!"
-    aq_x nulla ""
+    aq_x nulla "Oh!{w=0.3} Bueno, uhm, hola [p_n]!{w=0.3} No te había visto allí!{w=0.3} que mañana tan bonit, no crees?!"
 
 # game/script/story/st_03.rpy:1791
 translate spanish peak_tut_academy_b6ed2cb7:
 
     # d "I kind of gathered, yeah.{w=0.3} Good morning to you, {b}Aqua{/b}.{w=0.3} Hard day at work?"
-    d ""
+    d "Creo que me enteré, si.{w=0.3} Buena mañana para ti, {b}Aqua{/b}.{w=0.3} Día duro en el trabajo?"
 
 # game/script/story/st_03.rpy:1793
 translate spanish peak_tut_academy_0dccfb8f:

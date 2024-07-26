@@ -520,7 +520,7 @@ translate spanish hear_hear_5ea5391e:
 translate spanish hear_hear_51c40cd0:
 
     # g nulla "Hello.{w=0.3} My name is Gemma and I'm a gynoid."
-    g nulla "Hola.{w=0.3} Mi nombre es Gemma y soy una gynoid."
+    g nulla "Hola.{w=0.3} Mi nombre es Gemma y soy una gynoide."
 
 # game/script/story/st_04.rpy:260
 translate spanish hear_hear_5c3964fa:
@@ -550,7 +550,7 @@ translate spanish hear_hear_e1afd887:
 translate spanish hear_hear_7e49d77c:
 
     # g nulla "Not exactly.{w=0.3} But you can call me a gynoid, because my body is shaped after a humanoid female.{w=0.3} It's a bit more advanced than your average robot."
-    g nulla "No exactamente.{w=0.3} Pero puedes decirme gynoid, porque mi cuerpo está hecho con forma de una humanoide femenina.{w=0.3} Es un poco mas avanzado que tu robot promedio."
+    g nulla "No exactamente.{w=0.3} Pero puedes decirme gynoide, porque mi cuerpo está hecho con forma de una humanoide femenina.{w=0.3} Es un poco mas avanzado que tu robot promedio."
 
 # game/script/story/st_04.rpy:269
 translate spanish hear_hear_94a009fd:

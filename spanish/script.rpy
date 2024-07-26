@@ -208,7 +208,7 @@ translate spanish strings:
 
     # game/script.rpy:186
     old "Menagerian Dustmonger"
-    new "Tradicante de Dust Menagerian"
+    new "Vendedora de Dust Menageriana"
 
     # game/script.rpy:187
     old "Menagerian Driver"
@@ -236,53 +236,53 @@ translate spanish strings:
 
     # game/script.rpy:93
     old "Pythia Nikos"
-    new ""
+    new "Pythia Nikos"
 
     # game/script.rpy:209
     old "Captain"
-    new ""
+    new "Capitán"
 
     # game/script.rpy:210
     old "Chief Engineer"
-    new ""
+    new "Ingeniero en Jefe"
 
     # game/script.rpy:211
     old "Navigator"
-    new ""
+    new "Navegante"
 
     # game/script.rpy:230
     old "May Zedong"
-    new ""
+    new "May Zedong"
 
     # game/script.rpy:238
     old "Server"
-    new ""
+    new "Mesero"
 
     # game/script.rpy:261
     old "Weser van Goethe"
-    new ""
+    new "Weser van Goethe"
 
     # game/script.rpy:269
     old "Pop Pop"
-    new ""
+    new "Pop Pop"
 
     # game/script.rpy:270
     old "Gran Gran"
-    new ""
+    new "Gran Gran"
 
     # game/script.rpy:271
     old "Fishmonger"
-    new ""
+    new "Vendedor de pescado"
 
     # game/script.rpy:275
     old "Cinder Fall"
-    new ""
+    new "Cinder Fall"
 
     # game/script.rpy:284
     old "Medea Kallas"
-    new ""
+    new "Medea Kallas"
 
     # game/script.rpy:293
     old "Morgan Braeburn"
-    new ""
+    new "Morgan Braeburn"
 

@@ -4,661 +4,661 @@
 translate spanish party_started_2965e4c4:
 
     # ja surprise "We're here!{w=0.3} Sorry for the delay!"
-    ja surprise ""
+    ja surprise "Ya llegamos!{w=0.3} Perdón por la tardanza!"
 
 # game/script/story/st_04.rpy:23
 translate spanish party_started_ff094d0e:
 
     # ja nulla "I got us lost.{w=0.5} I've never done that particular street in the dark.{w=0.3} And to think I used to run this place..."
-    ja nulla ""
+    ja nulla "Nos perdimos.{w=0.5} Nunca fui por esa calle en la oscuridad antes.{w=0.3} Y pensar que yo solía cuidar de este lugar..."
 
 # game/script/story/st_04.rpy:25
 translate spanish party_started_daab942c:
 
     # p nulla "It's quite alright.{w=0.3} You're actually only the second group to arrive."
-    p nulla ""
+    p nulla "Está bien.{w=0.3} En realidad son el segundo grupo en llegar."
 
 # game/script/story/st_04.rpy:26
 translate spanish party_started_64029a63:
 
     # d nulla "And I guess this is your friend."
-    d nulla ""
+    d nulla "Y supongo que este es tu amigo."
 
 # game/script/story/st_04.rpy:34
 translate spanish party_started_5e25c357:
 
     # d nulla "I'm [p_n] and this is Penny.{w=0.3} Welcome to our home.{w=0.3} And you are...?"
-    d nulla ""
+    d nulla "Soy [p_n] y esta es Penny.{w=0.3} Sean bienvenidos a nuestra casa.{w=0.3} Y tú eres...?"
 
 # game/script/story/st_04.rpy:35
 translate spanish party_started_37923e41:
 
     # tip_x nulla "{cps=13}Uhm, hello...{w=0.5} I...{w=0.5} I'm {b}Tip{/b}."
-    tip_x nulla ""
+    tip_x nulla "{cps=13}Uhm, hola...{w=0.5} Yo...{w=0.5} Yo soy {b}Tip{/b}."
 
 # game/script/story/st_04.rpy:40
 translate spanish party_started_723eaf26:
 
     # tip nulla "My name is {b}Tip Pines{/b}."
-    tip nulla ""
+    tip nulla "Mi nombre es {b}Tip Pines{/b}."
 
 # game/script/story/st_04.rpy:44
 translate spanish party_started_006bfdc1:
 
     # p nulla "It's so nice to meet you, Tip!{w=0.3} Janara has told us so much about you!"
-    p nulla ""
+    p nulla "Es un placer conocerte, Tip!{w=0.3} Janara nos habló bastante sobre ti!"
 
 # game/script/story/st_04.rpy:48
 translate spanish party_started_6a0617f7:
 
     # dntip nulla "She has?"
-    dntip nulla ""
+    dntip nulla "Ella lo hizo?"
 
 # game/script/story/st_04.rpy:49
 translate spanish party_started_045d5041:
 
     # ja nulla "I have literally met Tip this morning and only talked to Titania directly."
-    ja nulla ""
+    ja nulla "Conocí a Tip literalmente esta mañana y solo hablé con Titania directamente."
 
 # game/script/story/st_04.rpy:51
 translate spanish party_started_39844b53:
 
     # p nulla "Oh, uhm, right...{w=0.5} Sorry, it's just, uhm, did I already say welcome?"
-    p nulla ""
+    p nulla "Oh, uhm, cierto...{w=0.5} Lo siento, es solo, uhm, ya les dí la bienvenida?"
 
 # game/script/story/st_04.rpy:53
 translate spanish party_started_866fff0b:
 
     # d nulla "You have.{w=0.3} So why don't you show them inside?{w=0.3} I see someone else coming down the road, anyway."
-    d nulla ""
+    d nulla "Lo hiciste.{w=0.3} Asi que porque no les muestras el interior?{w=0.3} Veo a alguien mas llegando, de todos modos."
 
 # game/script/story/st_04.rpy:57
 translate spanish party_started_4fdda52e:
 
     # p nulla "O-{w=0.15}Of course!{w=0.3} Please, right this way!"
-    p nulla ""
+    p nulla "P-{w=0.15}Por supuesto!{w=0.3} Por favor, por aquí!"
 
 # game/script/story/st_04.rpy:67
 translate spanish party_started_d789b212:
 
     # py_x darko "Good evening, party people."
-    py_x darko ""
+    py_x darko "Buenas noches, gente de fiesta."
 
 # game/script/story/st_04.rpy:68
 translate spanish party_started_c97d8a5f:
 
     # d nulla "And to you, P-"
-    d nulla ""
+    d nulla "Igualmente para tí, P-"
 
 # game/script/story/st_04.rpy:70
 translate spanish party_started_27d4fa57:
 
     # d nulla "Oh, shoot, one second, let me open the-"
-    d nulla ""
+    d nulla "Oh, diablos, un segundo, dejame abrir la-"
 
 # game/script/story/st_04.rpy:71
 translate spanish party_started_d655c874:
 
     # py_x neutral darko "Oh, don't be stupid, [p_n].{w=0.3} I'm paraplegic, not helpless."
-    py_x neutral darko ""
+    py_x neutral darko "Oh, no seas estúpido, [p_n].{w=0.3} Soy paraplegica, no impotente."
 
 # game/script/story/st_04.rpy:82
 translate spanish party_started_1dbd48bb:
 
     # py_x nulla "I'm perfectly able to levitate my wheelchair over your porch, thank you very much."
-    py_x nulla ""
+    py_x nulla "Soy perfectamente capaz de levitar mi silla de ruedas sobre tu galería, muchas gracias."
 
 # game/script/story/st_04.rpy:84
 translate spanish party_started_0debaeb1:
 
     # d nulla "So you are.{w=0.3} Good evening, {b}Pyrrha{/b}.{w=0.3} Bestie, Gemma."
-    d nulla ""
+    d nulla "Asi que lo eres.{w=0.3} Buenas noches, {b}Pyrrha{/b}.{w=0.3} Bestie, Gemma."
 
 # game/script/story/st_04.rpy:86
 translate spanish party_started_fe48e7bb:
 
     # g nulla "Good evening, [p_n]..."
-    g nulla ""
+    g nulla "Buenas noches, [p_n]..."
 
 # game/script/story/st_04.rpy:88
 translate spanish party_started_3fe7bc62:
 
     # g nulla "And, uhm, that's quite the colorful choice of vocabulary, miss Neo..."
-    g nulla ""
+    g nulla "Y, uhm, ese es una pintoresca elección de vocabulario, señorita Neo..."
 
 # game/script/story/st_04.rpy:94
 translate spanish party_started_ab6c8ea4:
 
     # g nulla "Oh, uhm, right.{w=0.3} Neo.{w=0.3} Sorry.{w=0.3} I still have to get used to it..."
-    g nulla ""
+    g nulla "Oh, uhm, cierto.{w=0.3} Neo.{w=0.3} Perdón.{w=0.3} Aún tengo que acostumbrarme a eso..."
 
 # game/script/story/st_04.rpy:96
 translate spanish party_started_b851a068:
 
     # py nulla "And I still have to get used to how quickly you picked up on her language.{w=0.3} It took me two years of working with her."
-    py nulla ""
+    py nulla "Y yo aún tengo que acostumbrarme a lo rápido que aprendiste su lenguaje.{w=0.3} Me tomó dos años de trabajar junto a ella."
 
 # game/script/story/st_04.rpy:97
 translate spanish party_started_fee9e9e1:
 
     # g nulla "It's not a perfect understanding yet...{w=0.5} I have a ways to go still."
-    g nulla ""
+    g nulla "No es un entendimiento perfecto aún...{w=0.5} Tengo un largo camino por recorrer aún."
 
 # game/script/story/st_04.rpy:99
 translate spanish party_started_ec85d1bb:
 
     # d nulla "Hah, weak.{w=0.3} I picked it up in no time at all."
-    d nulla ""
+    d nulla "Hah, débiles.{w=0.3} Yo lo aprendí en nada de tiempo."
 
 # game/script/story/st_04.rpy:102
 translate spanish party_started_e3a98418:
 
     # py nulla "And sacrificed some toes in the process, from what I remember?"
-    py nulla ""
+    py nulla "Y sacrificaste algunos dedos de los pies en el proceso, por lo que recuerdo?"
 
 # game/script/story/st_04.rpy:105
 translate spanish party_started_6333f27d:
 
     # d nulla "You can {i}never{/i} just let me have a win, can you?"
-    d nulla ""
+    d nulla "Tú {i}nunca{/i} puedes dejarme ganar, verdad?"
 
 # game/script/story/st_04.rpy:109
 translate spanish party_started_678cbe4a:
 
     # py nulla "I have an undefeated streak to defend, after all...{w=0.5} Now, hush yer mouth and show me to the drinks.{w=0.3} I had a long day."
-    py nulla ""
+    py nulla "Tengo un título invencible que defender, despúes de todo...{w=0.5} Ahora, cierra tu boca y muestrame las bebidas.{w=0.3} Tuve largo día."
 
 # game/script/story/st_04.rpy:111
 translate spanish party_started_b584dccc:
 
     # g nulla "Actually, allow me, Pyrrha.{w=0.3} I sense Titania and miss Peach coming, so [p_n] still has some host duties to perform."
-    g nulla ""
+    g nulla "En realidad, permiteme, Pyrrha.{w=0.3} Puedo sentir a Titania y la señoruta Peach llegando, asi que [p_n] aún tiene algunas tareas de anfitrión que realizar."
 
 # game/script/story/st_04.rpy:115
 translate spanish party_started_1af96f40:
 
     # py nulla "Fair enough.{w=0.3} See you inside."
-    py nulla ""
+    py nulla "Bastante justo.{w=0.3} Te veré adentro."
 
 # game/script/story/st_04.rpy:120
 translate spanish party_started_39f8a44e:
 
     # d nulla "The juicy details will have to wait after everyone has a drink in their hands, so I can only tell the story once.{w=0.3} Now scram, bestie."
-    d nulla ""
+    d nulla "Los detalles jugosos tendrán que esperar hasta despúes de que todos tengan una bebida en sus manos, asi que solo puedo contar la historia una vez.{w=0.3} Ahora vete, bestie."
 
 # game/script/story/st_04.rpy:126
 translate spanish party_started_4d838084:
 
     # v mad sparkle "WHERE IS HE?!{w=0.3} WHERE IS MY FAVOURITE PUPIL?!"
-    v mad sparkle ""
+    v mad sparkle "DONDE ESTA EL?!{w=0.3} DONDE ESTA MI PUPILO FAVORITO?!"
 
 # game/script/story/st_04.rpy:130
 translate spanish party_started_4cae0ffb:
 
     # ti neutral sweatdrop "Mom, he...{w=0.3} Is literally in front of us."
-    ti neutral sweatdrop ""
+    ti neutral sweatdrop "Máma, él...{w=0.3} Está literalmente enfrente de nosotros."
 
 # game/script/story/st_04.rpy:131
 translate spanish party_started_28ff5f61:
 
     # v smile sparkle "BY THE BROTHERS, HE IS!"
-    v smile sparkle ""
+    v smile sparkle "POR LOS HERMANOS, ES CIERTO!"
 
 # game/script/story/st_04.rpy:137
 translate spanish party_started_565d190e:
 
     # v nulla "GOOD EVENING, MY BEAUTIFUL, BRILLIANT, AMAZING GRADUATE!{w=0.3} I COULD JUST KISS YOU, RIGHT NOW!"
-    v nulla ""
+    v nulla "BUENAS NOCHES, MI HERMOSO, BRILLANTE, ASOMBROSO GRADUADO!{w=0.3} PODRIA HASTA BESARTE, JUSTO AHORA!"
 
 # game/script/story/st_04.rpy:142
 translate spanish party_started_54025156:
 
     # ti nulla "Mom, for the love of..."
-    ti nulla ""
+    ti nulla "Máma, por el amor de..."
 
 # game/script/story/st_04.rpy:143
 translate spanish party_started_9499de5c:
 
     # d nulla "Uhm, miss Peach, good evening.{w=0.3} I gather you, uhm, liked my gift?"
-    d nulla ""
+    d nulla "Uhm, miss Peach, buenas noches.{w=0.3} Supongo que, uhm, le ha gustado mi regalo?"
 
 # game/script/story/st_04.rpy:145
 translate spanish party_started_a54846a4:
 
     # v nulla "Liked it?{w=0.3} Liked it?!{w=0.3} [p_n], you do NOT understand!"
-    v nulla ""
+    v nulla "Gustado?{w=0.3} Gustado?!{w=0.3} [p_n], tú NO lo entiendes!"
 
 # game/script/story/st_04.rpy:147
 translate spanish party_started_d0ceb6b8:
 
     # v nulla "Ever since that tin-dicked simpleton decided to embargo us and strong-armed Vale to follow suit, I have {i}not{/i} laid eyes on any decent Dust.{w=0.3} We have a rationing regime, for fuck's sake."
-    v nulla ""
+    v nulla "Desde que ese tonto pene de hojalata decidió imponer el embargo sobre nosotros y la armada de Vale decidió seguirlo, {i}no{/i} he podido poner mis ojos en ningún Dust decente.{w=0.3} Tenemos un regimen de racionamiento, por el amor de Dios."
 
 # game/script/story/st_04.rpy:149
 translate spanish party_started_648c0314:
 
     # ti nulla "MOM!"
-    ti nulla ""
+    ti nulla "MAMA!"
 
 # game/script/story/st_04.rpy:153
 translate spanish party_started_19e1106d:
 
     # v nulla "And that crystal you found wasn't just a step up, it's one of the PUREST Fire Dust crystals I've ever seen!{w=0.3} The fact you could recognize one as such validates me as a teacher, and the fact you made a gift of it VALIDATES ME AS A WOMAN!"
-    v nulla ""
+    v nulla "Y ese cristal que encontraste no era solo cualquier cosa, era uno de los MAS PUROS cristales de Dust de FUego que haya visto nunca!{w=0.3} El hecho de que pudieras reconocerlo me da validez como maestra, y el hecho de que me lo hays regalado ME VALIDA COMO MUJER!"
 
 # game/script/story/st_04.rpy:157
 translate spanish party_started_cc158a41:
 
     # d nulla "EHM, I THINK THAT MAY BE A BIT TOO MUCH!"
-    d nulla ""
+    d nulla "EHM, CREO QUE ESTAS EXAGERANDO!"
 
 # game/script/story/st_04.rpy:160
 translate spanish party_started_3bec9b1e:
 
     # ti nulla "I'D SAY!"
-    ti nulla ""
+    ti nulla "Y YA LO DIGO!"
 
 # game/script/story/st_04.rpy:162
 translate spanish party_started_79174381:
 
     # v nulla "My dear [p_n]...{w=0.5} I would have taken it as a marriage proposal in different circumstances."
-    v nulla ""
+    v nulla "Querido [p_n]...{w=0.5} Lo hubiera tomado como una propuesta de matrimonio en circunstancias diferentes."
 
 # game/script/story/st_04.rpy:168
 translate spanish party_started_6f96723b:
 
     # v nulla "For the time being, you'll have to make due with my thanks and the amazing item me and Enrico have prepared for you.{w=0.3} Thank you again~"
-    v nulla ""
+    v nulla "Por el momento, tendrás que apañartelas con mi agradecimiento y el maravilloso objeto que yo y Enrico hemos preparado para ti.{w=0.3} Gracias de nuevo~"
 
 # game/script/story/st_04.rpy:173
 translate spanish party_started_cf452321:
 
     # d_i nulla "(I thought {b}Weiss{/b} was her favourite student...?)"
-    d_i nulla ""
+    d_i nulla "(Pensaba que {b}Weiss{/b} era su estudiante favorita...?)"
 
 # game/script/story/st_04.rpy:175
 translate spanish party_started_3f519584:
 
     # ti nulla "Do not even THINK about it!"
-    ti nulla ""
+    ti nulla "Ni siquiera PIENSES acerca de eso!"
 
 # game/script/story/st_04.rpy:177
 translate spanish party_started_db023dc4:
 
     # d nulla "WAS NOT!"
-    d nulla ""
+    d nulla "NO LO ESTABA!"
 
 # game/script/story/st_04.rpy:178
 translate spanish party_started_acdba4d3:
 
     # ti nulla "GOOD!{w=0.3} CAUSE RETIRED OR NOT, I CAN STILL KICK YOUR ASS!"
-    ti nulla ""
+    ti nulla "BIEN!{w=0.3} PORQUE RETIRADA O NO, AUN PUEDO PATEAR TU TRASERO!"
 
 # game/script/story/st_04.rpy:183
 translate spanish party_started_6733308a:
 
     # d_n nulla "*sigh*{w=0.5}\"Well, that's the last of them...{w=0.5} Time to officially start this party, then."
-    d_n nulla ""
+    d_n nulla "*sigh*{w=0.5}\"Bueno, ese fue el último grupo...{w=0.5} Hora de empezar la fiesta oficialmente, entonces."
 
 # game/script/story/st_04.rpy:190
 translate spanish hear_hear_c4fc8c21:
 
     # j neutral "If you had told me three and a half years ago that I'd be graduating together with this lot?{w=0.3} I would've told you to get some help.{w=0.3} Because you obviously had a drinking problem."
-    j neutral ""
+    j neutral "Si me hubieras contado tres años y medio atrás que me estaría graduando junto a este equipo?{w=0.3} Te hubiera dicho que busques un médico.{w=0.3} Porque obviamente tendrías un problema con el alcohol."
 
 # game/script/story/st_04.rpy:191
 translate spanish hear_hear_9088c29a:
 
     # j angry "Like, I {b}hated{/b} Evelyn.{w=0.3} [p_n] was a complete amateur and Penny was...{w=0.5} Penny."
-    j angry ""
+    j angry "Como, yo {b}Odiaba{/b} a Evelyn.{w=0.3} [p_n] era un novato total y Penny era...{w=0.5} Penny."
 
 # game/script/story/st_04.rpy:192
 translate spanish hear_hear_387343a9:
 
     # p laugh "Always have been~"
-    p laugh ""
+    p laugh "Siempre lo fui~"
 
 # game/script/story/st_04.rpy:193
 translate spanish hear_hear_70666849:
 
     # j smile "Sweet and skilled but you were {i}so{/i} out there, sometimes.{w=0.3} Going the whole four years?"
-    j smile ""
+    j smile "Dulce y con habilidades pero tú estabas {i}tan{/i} pérdida, en algunos momentos.{w=0.3} yendo así los cuatro años completos?"
 
 # game/script/story/st_04.rpy:196
 translate spanish hear_hear_1c2ca49f:
 
     # j smile "I honestly wasn't expecting to be in Beacon that long.{w=0.3} Let alone that these weirdos would become so important, to me.{w=0.3} Relationships which I would treasure my entire life."
-    j smile ""
+    j smile "Honestamente no esperaba estar en Beacon tanto tiempo.{w=0.3} Ni hablar de que estos raros se volvieran tan importantes, para mi.{w=0.3} Relaciones que atesoraría por el resto de mi vida."
 
 # game/script/story/st_04.rpy:197
 translate spanish hear_hear_978f97a7:
 
     # e laugh "Awww, you like me!{w=0.3} You {i}really, really{/i} like me!"
-    e laugh ""
+    e laugh "Awww, tu me quieres!{w=0.3} Tú me quieres {i}mucho, mucho{/i}!"
 
 # game/script/story/st_04.rpy:198
 translate spanish hear_hear_24aaedb8:
 
     # j neutral "And yet, here we are.{w=0.3} The academy life, eventful as it was, is behind us.{w=0.3} We don't know what awaits us in the future..."
-    j neutral ""
+    j neutral "Y sin embargo, aquí estamos.{w=0.3} La vida en la academia, tan llena de acontecimientos, ha pasado.{w=0.3} No sabemos lo que nos espera en el futuro..."
 
 # game/script/story/st_04.rpy:199
 translate spanish hear_hear_8e035b16:
 
     # j laugh "All I know is:{w=0.3} we'll be facing it together.{w=0.3} And that bodes ill for any obstacle in our way!{w=0.3} To team JPDE!"
-    j laugh ""
+    j laugh "Todo lo que sé es:{w=0.3} que lo enfrentaremos juntos.{w=0.3} Y eso es un mal presagio para cualquier obstaculo en nuestro camino!{w=0.3} Por el equipo JPDE!"
 
 # game/script/story/st_04.rpy:200
 translate spanish hear_hear_3821158e:
 
     # group "To team JPDE!"
-    group ""
+    group "Por el equipo JPDE!"
 
 # game/script/story/st_04.rpy:201
 translate spanish hear_hear_48319827:
 
     # tip_i shock "(What...{w=0.5} What kind of group is this?!)"
-    tip_i shock ""
+    tip_i shock "(Qué...{w=0.5} Qué tipo de grupo es este?!)"
 
 # game/script/story/st_04.rpy:204
 translate spanish hear_hear_db0d41c5:
 
     # ti surprise "To many more years of kicking ass-{w=0.3}wait, mom, why is your mug already empty?!"
-    ti surprise ""
+    ti surprise "Por muchos mas años de patear traseros-{w=0.3}espera, máma, por qué está tu jarra vacía ya?!"
 
 # game/script/story/st_04.rpy:205
 translate spanish hear_hear_6c2d5242:
 
     # v laugh blush "It was a long speech!"
-    v laugh blush ""
+    v laugh blush "Fue una charla muy larga!"
 
 # game/script/story/st_04.rpy:206
 translate spanish hear_hear_0482c6ba:
 
     # ja surprise "No it was NOT!"
-    ja surprise ""
+    ja surprise "No NO lo fue!"
 
 # game/script/story/st_04.rpy:207
 translate spanish hear_hear_7f70b9a9:
 
     # z surprise "My goodness, Penny, this is delicious!{w=0.3} You made it yourself?!"
-    z surprise ""
+    z surprise "Por dios, penny, esto es delicioso!{w=0.3} Lo hiciste tu misma?!"
 
 # game/script/story/st_04.rpy:208
 translate spanish hear_hear_91473962:
 
     # p laugh "Yup!{w=0.3} It was pretty simple once I learned the recipe and fermentation methods!"
-    p laugh ""
+    p laugh "Yup!{w=0.3} Fue bastante simple una vez que aprendí la receta y los métodos de fermentación!"
 
 # game/script/story/st_04.rpy:209
 translate spanish hear_hear_4a571d37:
 
     # en darko "Hmmm...{w=0.3} It is maybe a tad {i}too{/i} perfect, isn't it?"
-    en darko ""
+    en darko "Hmmm...{w=0.3} Es tal vez un poco {i}demasiado{/i} perfecto, no lo crees?"
 
 # game/script/story/st_04.rpy:210
 translate spanish hear_hear_4f4b6f67:
 
     # p shock "E-{w=0.15}Eh?!"
-    p shock ""
+    p shock "E-{w=0.15}Eh?!"
 
 # game/script/story/st_04.rpy:214
 translate spanish hear_hear_74d40095:
 
     # e amused "Yeah!{w=0.3} It's almost like a machine made it, you know?{w=0.3} Hihihihi~"
-    e amused ""
+    e amused "Si!{w=0.3} Es casi como si una maquina lo hubiera hecho, sabes?{w=0.3} Hihihihi~"
 
 # game/script/story/st_04.rpy:215
 translate spanish hear_hear_3ae28f65:
 
     # aq amused "I'd say!{w=0.3} This tastes almost identical to the one they sell-"
-    aq amused ""
+    aq amused "Podría decirlo!{w=0.3} Esto sabe casi identico al que venden-"
 
 # game/script/story/st_04.rpy:217
 translate spanish hear_hear_72d69c54:
 
     # aq shock eye_up "HEY, MY MUG!"
-    aq shock eye_up ""
+    aq shock eye_up "HEY, MI JARRA!"
 
 # game/script/story/st_04.rpy:218
 translate spanish hear_hear_104f500e:
 
     # p frown blush "IF YOU'RE GONNA BULLY ME, YOU DON'T GET ANY MEAD!{w=0.3} MEANIES!"
-    p frown blush ""
+    p frown blush "SI VAS A BURLARTE DE MI, NO TENDRAN NINGUNA CERVEZA{w=0.3} GROSEROS!"
 
 # game/script/story/st_04.rpy:219
 translate spanish hear_hear_3c022080:
 
     # py shock blush "WHY MINE TOO?!{w=0.3} Come on, Penny, don't cut me off!{w=0.3} All I've drunk for the last two weeks has been coffee!"
-    py shock blush ""
+    py shock blush "PORQUE LA MIA TAMBIEN?!{w=0.3} Vamos, Penny, no me la quites!{w=0.3} Todo lo que he bebido las últimas dos semanas ha sido café!"
 
 # game/script/story/st_04.rpy:220
 translate spanish hear_hear_ffd3bfa7:
 
     # n_i frown "*audible frown*"
-    n_i frown ""
+    n_i frown "*Ceño fruncido audible*"
 
 # game/script/story/st_04.rpy:221
 translate spanish hear_hear_2b814fe6:
 
     # tip_i surprise "(Two of the teachers from the academy, plus the headmistress?!{w=0.3} And that man with the hat...{w=0.3} He looks important!)"
-    tip_i surprise ""
+    tip_i surprise "(Dos de las maestras de la academia, plus la directora?!{w=0.3} Y ese hombre con el sombrero...{w=0.3} Él luce importante!)"
 
 # game/script/story/st_04.rpy:222
 translate spanish hear_hear_fb7b35b4:
 
     # g smile c_casual "Uhm, let's see...{w=0.3} Speak...{w=0.5} For yourself?{w=0.3} I hate coffee...{w=0.5} Did I get that right?"
-    g smile c_casual ""
+    g smile c_casual "Uhm, Veamos...{w=0.3} Hablar...{w=0.5} Por ti misma?{w=0.3} Odio el café...{w=0.5} Lo dije bien?"
 
 # game/script/story/st_04.rpy:223
 translate spanish hear_hear_48399bd7:
 
     # py frown "You WHAT?{w=0.3} How the hell did ye pull all those all-nighters, then?!"
-    py frown ""
+    py frown "Tú QUE?{w=0.3} Cómo demonios consigues aguantar todas esas noches sin dormir, entonces?!"
 
 # game/script/story/st_04.rpy:224
 translate spanish hear_hear_e7bcb34f:
 
     # d laugh "Knowing her?{w=0.3} Out of pure spite for the students who would end up in her tender and loving care."
-    d laugh ""
+    d laugh "Conociendola?{w=0.3} Por el puro despecho hacia los estudiantes que terminarían en su tierno y amoroso cuidado."
 
 # game/script/story/st_04.rpy:225
 translate spanish hear_hear_f7d559dc:
 
     # tip_i neutral "(How do they even begin to all know each other...?)"
-    tip_i neutral ""
+    tip_i neutral "(Cómo si quieran comenzaron a conocerse entre ellos...?)"
 
 # game/script/story/st_04.rpy:232
 translate spanish hear_hear_9450c576:
 
     # ti surprise "You okay, there?"
-    ti surprise ""
+    ti surprise "Estás bien, allí?"
 
 # game/script/story/st_04.rpy:242
 translate spanish hear_hear_8cc5af89:
 
     # ti nulla "We didn't slip you the alcoholic version by accident, did we?"
-    ti nulla ""
+    ti nulla "No te pasamos la versión con alcohol por accidente, verdad?"
 
 # game/script/story/st_04.rpy:243
 translate spanish hear_hear_bd335c3f:
 
     # tip nulla "Oh!{w=0.3} No!{w=0.3} And yes, I'm...{w=0.5} Fine, I think?"
-    tip nulla ""
+    tip nulla "Oh!{w=0.3} No!{w=0.3} Y si, estoy...{w=0.5} Bien, creo?"
 
 # game/script/story/st_04.rpy:245
 translate spanish hear_hear_c26674df:
 
     # tip nulla "Just a bit overwhelmed...{w=0.5} It's been a while since I've been around so many people."
-    tip nulla ""
+    tip nulla "Solo un poco abrumado...{w=0.5} A sido un tiempo desde que he estado cerca de tanta gente."
 
 # game/script/story/st_04.rpy:247
 translate spanish hear_hear_5d1fc483:
 
     # ti nulla "Aaah, I see...{w=0.5} Also, we're a bunch of weirdos, aren't we?"
-    ti nulla ""
+    ti nulla "Aaah, ya veo...{w=0.5} También, somos un grupo de raros, no es así?"
 
 # game/script/story/st_04.rpy:249
 translate spanish hear_hear_d854254e:
 
     # tip nulla "Oh, no, not at all!{w=0.3} It's just...{w=0.5} Very eclectic as a group, I guess."
-    tip nulla ""
+    tip nulla "Oh, no, para nada!{w=0.3} Es solo...{w=0.5} Muy ecléctico como grupo, supongo."
 
 # game/script/story/st_04.rpy:251
 translate spanish hear_hear_d91b2d75:
 
     # ti nulla "Oh, you ain't seen nothing yet.{w=0.3} If you're a good friend to Janara, you might even learn the real depths of our weirdness, one day."
-    ti nulla ""
+    ti nulla "Oh, no has visto nada aún.{w=0.3} Si eres un buen amigo de Janara, quizás llegues a aprender la verdadera profundidad de nuestra rareza, un día."
 
 # game/script/story/st_04.rpy:253
 translate spanish hear_hear_5ea5391e:
 
     # tip nulla "Uhm, you don't...{w=0.5} Look that weird, honest."
-    tip nulla ""
+    tip nulla "Uhm, no...{w=0.5} Parecen tan raros, honestamente."
 
 # game/script/story/st_04.rpy:255
 translate spanish hear_hear_51c40cd0:
 
     # g nulla "Hello.{w=0.3} My name is Gemma and I'm a gynoid."
-    g nulla ""
+    g nulla "Hola.{w=0.3} Mi nombre es Gemma y soy una gynoid."
 
 # game/script/story/st_04.rpy:260
 translate spanish hear_hear_5c3964fa:
 
     # tip nulla "What."
-    tip nulla ""
+    tip nulla "Que."
 
 # game/script/story/st_04.rpy:262
 translate spanish hear_hear_19d66a06:
 
     # ti nulla "Hahaha!{w=0.3} Your face!"
-    ti nulla ""
+    ti nulla "Hahaha!{w=0.3} Tú cara!"
 
 # game/script/story/st_04.rpy:264
 translate spanish hear_hear_f6f0414c:
 
     # ja nulla "Hey, be nice."
-    ja nulla ""
+    ja nulla "Hey, se amable."
 
 # game/script/story/st_04.rpy:265
 translate spanish hear_hear_e1afd887:
 
     # tip nulla "You're...{w=0.3} You're a machine?"
-    tip nulla ""
+    tip nulla "Eres...{w=0.3} Eres una maquina?"
 
 # game/script/story/st_04.rpy:266
 translate spanish hear_hear_7e49d77c:
 
     # g nulla "Not exactly.{w=0.3} But you can call me a gynoid, because my body is shaped after a humanoid female.{w=0.3} It's a bit more advanced than your average robot."
-    g nulla ""
+    g nulla "No exactamente.{w=0.3} Pero puedes decirme gynoid, porque mi cuerpo está hecho con forma de una humanoide femenina.{w=0.3} Es un poco mas avanzado que tu robot promedio."
 
 # game/script/story/st_04.rpy:269
 translate spanish hear_hear_94a009fd:
 
     # tip nulla "I...{w=0.3} I see."
-    tip nulla ""
+    tip nulla "Ya...{w=0.3} Ya veo."
 
 # game/script/story/st_04.rpy:271
 translate spanish hear_hear_bf453b07:
 
     # ti nulla "Not many advanced machines back where you're from, huh?"
-    ti nulla ""
+    ti nulla "No hay muchas maquinas avanzadas de donde eres, huh?"
 
 # game/script/story/st_04.rpy:273
 translate spanish hear_hear_864d7e84:
 
     # tip nulla "Most advanced one I've laid eyes on is pop's combine harvester.{w=0.3} Hahahaha..."
-    tip nulla ""
+    tip nulla "La mas avanzada en la que he puesto mis ojos en la cosechadora de Pa.{w=0.3} Hahaha..."
 
 # game/script/story/st_04.rpy:275
 translate spanish hear_hear_ef9d9243:
 
     # ti nulla "Farmer family, huh?{w=0.3} And what made you decide to try for Peak?"
-    ti nulla ""
+    ti nulla "Familia Granjera, huh?{w=0.3} Y qué te hizo decidirte a intentarlo en Peak?"
 
 # game/script/story/st_04.rpy:279
 translate spanish hear_hear_5bfca4ae:
 
     # tip nulla "We were visited by a Hunter and he saw potential in me...{w=0.5} He activated my Aura and, well, I guess he was right."
-    tip nulla ""
+    tip nulla "Fuimos visitados por un Cazador y vió potencial en mí...{w=0.5} El activó mi Aura y, bueno, supongo que él estaba en lo cierto."
 
 # game/script/story/st_04.rpy:281
 translate spanish hear_hear_c594d21a:
 
     # ja nulla "But why Peak?{w=0.3} Why not...{w=0.5} Uhm, what's the name of the new Academy they've opened in Vale?"
-    ja nulla ""
+    ja nulla "Pero por qué Peak?{w=0.3} Por qué no...{w=0.5} Uhm, Cúal es el nombre de la nueva Academia que han abierto en Vale?"
 
 # game/script/story/st_04.rpy:282
 translate spanish hear_hear_f2d67a75:
 
     # v neutral "Alsius.{w=0.3} It was the previous name of Atlas Academy, actually."
-    v neutral ""
+    v neutral "Alsius.{w=0.3} Era el nombre previo de la Academia de Atlas, en realidad."
 
 # game/script/story/st_04.rpy:287
 translate spanish hear_hear_728a2d83:
 
     # v nulla "Kind of an insult, if you ask me.{w=0.3} Like they're giving us their sloppy seconds.{w=0.3} Bleah."
-    v nulla ""
+    v nulla "Una clase de insulto, si me la preguntas.{w=0.3} Como si nos estuvieran dando sus segundos húmedos.{w=0.3} Bleah."
 
 # game/script/story/st_04.rpy:288
 translate spanish hear_hear_da90648d:
 
     # tip nulla "H-{w=0.15}Headmistress!{w=0.3} Hello!"
-    tip nulla ""
+    tip nulla "D-{w=0.15}Directora!{w=0.3} Hola!"
 
 # game/script/story/st_04.rpy:290
 translate spanish hear_hear_59c6b2c7:
 
     # ti nulla "No need to be that formal with her, Tip.{w=0.3} Not when she's smashed."
-    ti nulla ""
+    ti nulla "No tienes la necesidad de ser tan formal con ella, Tip.{w=0.3} No cuando ella está ebria."
 
 # game/script/story/st_04.rpy:291
 translate spanish hear_hear_af845336:
 
     # v nulla "Whaaaaaaaaaaat?{w=0.3} Am not~"
-    v nulla ""
+    v nulla "Quéeeeeeee?{w=0.3} No estoy-"
 
 # game/script/story/st_04.rpy:293
 translate spanish hear_hear_f39927d5:
 
     # tip nulla "A-{w=0.15}Anyway, I did try there first but...{w=0.3} I didn't pass."
-    tip nulla ""
+    tip nulla "D-{w=0.15}De todos modos, lo intenté allí primero pero...{w=0.3} No logré aprobar."
 
 # game/script/story/st_04.rpy:294
 translate spanish hear_hear_71686192:
 
     # ja nulla "Wait, for real?!"
-    ja nulla ""
+    ja nulla "Espera, en serio?!"
 
 # game/script/story/st_04.rpy:296
 translate spanish hear_hear_28f01d71:
 
     # tip nulla "Yeah.{w=0.3} I wasn't 'what they looked for' in a candidate."
-    tip nulla ""
+    tip nulla "Si.{w=0.3} No era 'lo que estaban buscando' en un candidato."
 
 # game/script/story/st_04.rpy:297
 translate spanish hear_hear_0662ec31:
 
     # g_i nulla "(Hmmm...)"
-    g_i nulla ""
+    g_i nulla "(Hmmm...)"
 
 # game/script/story/st_04.rpy:299
 translate spanish hear_hear_57640589:
 
     # g nulla "Well, I guess since they're a subsidiary of Atlas Academy, they probably use the same guidelines when selecting hopefuls."
-    g nulla ""
+    g nulla "Bien, supongo que desde que son filiales a la Academia de Atlas, probablemente usan las mismas pautas cuando seleccionan aspirantes."
 
 # game/script/story/st_04.rpy:300
 translate spanish hear_hear_742623e4:
 
     # ja nulla "What...?"
-    ja nulla ""
+    ja nulla "Qué...?"
 
 # game/script/story/st_04.rpy:301
 translate spanish hear_hear_33e87f45:
 
     # en_x darko "The Atlas Academy is not just the source of the country's Hunters:{w=0.3} it's where the country's elites are formed."
-    en_x darko ""
+    en_x darko "La Academia de Atlas no es solo la fuente de Cazadores del país:{w=0.3} es donde las élites del país se forman."
 
 # game/script/story/st_04.rpy:310
 translate spanish hear_hear_e93bd8d8:

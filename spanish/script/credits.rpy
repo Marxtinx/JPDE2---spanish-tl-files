@@ -96,7 +96,7 @@ translate spanish strings:
 
     # game/script/credits.rpy:187
     old "SPECIAL THANKS"
-    new "AGRADECIMIENTOS ESPCIALES"
+    new "AGRADECIMIENTOS ESPECIALES"
 
 # TODO: Translation updated at 2024-07-26 12:56
 
@@ -104,5 +104,5 @@ translate spanish strings:
 
     # game/script/credits.rpy:7
     old "Episode 07 - Returns"
-    new ""
+    new "Episode 07 - Regresos"
 

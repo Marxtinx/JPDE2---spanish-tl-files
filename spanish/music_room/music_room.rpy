@@ -88,5 +88,5 @@ translate spanish strings:
 
     # game/music_room/music_room.rpy:451
     old "No song playing"
-    new ""
+    new "Ninguna canción reproduciendose"
 

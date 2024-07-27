@@ -664,349 +664,349 @@ translate spanish hear_hear_33e87f45:
 translate spanish hear_hear_e93bd8d8:
 
     # en nulla "All our Hunters are integrated in and answer to the military.{w=0.3} If you graduate from there, you're settled for life.{w=0.3} If you're particularly brilliant or particularly backed, you will end up in the higher power structures."
-    en nulla ""
+    en nulla "Todos nuestros Cazadores están ingregrados a y responden al ejercito.{w=0.3} Si te graduas allí, estarás allí de por vida.{w=0.3} Si eres particularmente brillante o respaldado, terminarás arriba en la estructura de poder."
 
 # game/script/story/st_04.rpy:312
 translate spanish hear_hear_434574c3:
 
     # en nulla "My guess is that with this Alsius nonsense, they were looking to recruit into the fold the children of important Vale families...{w=0.5} For a number of reasons."
-    en nulla ""
+    en nulla "Mi suposición sobre ese sinsentido de Alsius, están buscando reclutar niños de familias importantes de Vale...{w=0.5} Por un número de razones."
 
 # game/script/story/st_04.rpy:313
 translate spanish hear_hear_9a2b4651:
 
     # g nulla "Did you also graduate from there, papa?"
-    g nulla ""
+    g nulla "También te graduaste allí, pápa?"
 
 # game/script/story/st_04.rpy:315
 translate spanish hear_hear_a90ae308:
 
     # tip_i "(Papa?!)"
-    tip_i ""
+    tip_i "(Pápa?)"
 
 # game/script/story/st_04.rpy:319
 translate spanish hear_hear_2bd84a13:
 
     # en nulla "Indeed.{w=0.3} I never was an active Hunter, though, I immediately turned to academics."
-    en nulla ""
+    en nulla "Correcto.{w=0.3} Nunca fui un Cazador activo, sin emvarbo, me metí de inmediato en lo academico."
 
 # game/script/story/st_04.rpy:321
 translate spanish hear_hear_82fde03f:
 
     # en nulla "For a while, I even taught {b}James{/b}'s graduating class."
-    en nulla ""
+    en nulla "Por un tiempo, incluso le enseñé a la clase graduados en la que estaba {b}James{/b}."
 
 # game/script/story/st_04.rpy:323
 translate spanish hear_hear_f8389cdc:
 
     # ti nulla "James...?"
-    ti nulla ""
+    ti nulla "James...?"
 
 # game/script/story/st_04.rpy:325
 translate spanish hear_hear_c198dad3:
 
     # v nulla "He's talking about {b}general Ironwood{/b}."
-    v nulla ""
+    v nulla "Está habblando del {b}general Ironwood{/b}."
 
 # game/script/story/st_04.rpy:329
 translate spanish hear_hear_c57b6769:
 
     # tip nulla "T-{w=0.15}T-{w=0.15}THE LEADER OF THE ATLAS MILITARY?!"
-    tip nulla ""
+    tip nulla "E-{w=0.15}E-{w=0.15}El LIDER DEL EJERCITO DE ATLAS?!"
 
 # game/script/story/st_04.rpy:330
 translate spanish hear_hear_ef797775:
 
     # en nulla "And current de-facto ruler of the entire country.{w=0.3} Yes."
-    en nulla ""
+    en nulla "Y el actual de-facto lider del país entero.{w=0.3} Si."
 
 # game/script/story/st_04.rpy:332
 translate spanish hear_hear_77bbb34b:
 
     # ja nulla "Huh.{w=0.3} And how was he as a student?"
-    ja nulla ""
+    ja nulla "Huh.{w=0.3} Y cómo era el como estudiante?"
 
 # game/script/story/st_04.rpy:334
 translate spanish hear_hear_3c96e13d:
 
     # v nulla "Hopefully better than he was as a dancer!{w=0.3} When me and Glynda went to Vacuo for the Vytal Tournament, he..."
-    v nulla ""
+    v nulla "Esperemos que mejor de lo que era bailando!{w=0.3} Cuando yo y Glynda fuimos a Vacuo por el Torneo Vytal, él..."
 
 # game/script/story/st_04.rpy:338
 translate spanish hear_hear_da7d0e8b:
 
     # p shock "Sienna Khan..."
-    p shock ""
+    p shock "Sienna Khan..."
 
 # game/script/story/st_04.rpy:339
 translate spanish hear_hear_239a4849:
 
     # z shock "And Adam Taurus...!!!"
-    z shock ""
+    z shock "Y Adam Taurus...!!!"
 
 # game/script/story/st_04.rpy:352
 translate spanish hear_hear_15e5b7f7:
 
     # z nulla "Goodness, that must have been terrifying!{w=0.3} Dealing with the White Fang and a nest of Grimm, too...{w=0.5} I'm so sorry."
-    z nulla ""
+    z nulla "Por dios, eso debe haber sido terrorifico!{w=0.3} Tratar con el White Fang y un nido de Grimm, también...{w=0.5} Lo siento tanto."
 
 # game/script/story/st_04.rpy:354
 translate spanish hear_hear_4e82c49d:
 
     # d nulla "It was a bit scary, yeah, but that's what Hunters do.{w=0.3} We face those odds."
-    d nulla ""
+    d nulla "Fue un poco aterrador, si, pero eso es lo que los Cazadores hacen.{w=0.5} Nos enfrentamos a esas posibilidades."
 
 # game/script/story/st_04.rpy:355
 translate spanish hear_hear_7d89848d:
 
     # z nulla "I know...{w=0.5} I'm still sorry for you."
-    z nulla ""
+    z nulla "Lo sé...{w=0.5} Pero aún lo siento por ti."
 
 # game/script/story/st_04.rpy:357
 translate spanish hear_hear_8c78f7ca:
 
     # py nulla "And Sienna Khan is in Peak, now?{w=0.3} Are you certain?"
-    py nulla ""
+    py nulla "Y Sienna Khan está en Peak, ahora?{w=0.3} Estás seguro?"
 
 # game/script/story/st_04.rpy:359
 translate spanish hear_hear_21bd87fa:
 
     # d nulla "I don't know where but, yeah.{w=0.3} Nowhere else she could be...{w=0.5} My guess is, somewhere in the underground levels, under extremely tight security."
-    d nulla ""
+    d nulla "No sé dónde pero, si.{w=0.3} No puede estar en ningún otro lugar...{w=0.5} Mi suposición es, que está en algún lugar de los niveles subterraneos, bajo una seguridad extremadamente apretada."
 
 # game/script/story/st_04.rpy:363
 translate spanish hear_hear_64fdf246:
 
     # d nulla "I'm talking to the daughter of the Supreme Commander and two members of the Royal Faculty...{w=0.5} Yes, I think I can talk about this with you guys."
-    d nulla ""
+    d nulla "Estoy hablando a la hija del Comandante Supremo y dos nuevos miembros de la Facultad Real...{w=0.5} Si, creo que puedo hablar de esto con ustedes."
 
 # game/script/story/st_04.rpy:365
 translate spanish hear_hear_eeef6194:
 
     # p nulla "Also Zi-Yan.{w=0.3} We trust Zi-Yan."
-    p nulla ""
+    p nulla "También Zi-yan.{w=0.3} Confiamos en Zi-Yan."
 
 # game/script/story/st_04.rpy:367
 translate spanish hear_hear_8fe5f998:
 
     # d nulla "Of course we trust Zi-Yan."
-    d nulla ""
+    d nulla "Por supuesto que confiamos en Zi-Yan."
 
 # game/script/story/st_04.rpy:369
 translate spanish hear_hear_fdaff391:
 
     # py nulla "I see...{w=0.5} Too bad ye couldn't do more than punch him in the face."
-    py nulla ""
+    py nulla "Ya veo...{w=0.5} Que mal que no pudieras hacer mas que darle un puñetazo en la cara."
 
 # game/script/story/st_04.rpy:372
 translate spanish hear_hear_7c0e5bc7:
 
     # p nulla "It's a miracle he came out of it mostly unscathed..."
-    p nulla ""
+    p nulla "Es un milagro que él saliera de eso casi ileso..."
 
 # game/script/story/st_04.rpy:374
 translate spanish hear_hear_72ed2ce5:
 
     # d nulla "No miracle.{w=0.3} Just good planning, and an overwhelming technological advantage."
-    d nulla ""
+    d nulla "No fue un milagro.{w=0.3} Solo un buen plan, y una abrumadora ventaja tecnologica."
 
 # game/script/story/st_04.rpy:377
 translate spanish hear_hear_03b97305:
 
     # d nulla "But I wonder {i}who{/i} exactly is saying that, right now..."
-    d nulla ""
+    d nulla "Pero me pregunto {i}quién{/i} exactamente está diciendo eso, justo ahora..."
 
 # game/script/story/st_04.rpy:379
 translate spanish hear_hear_48aa6c3f:
 
     # py nulla "Let's say {b}both of us...{/b}{w=0.5} It would've been sweet, two for two with the Butchers of Beacon."
-    py nulla ""
+    py nulla "Digamos que {b}nosotros dos...{/b}{w=0.5} Hubiera sido genial, dos contra dos con los Carniceros de Beacon."
 
 # game/script/story/st_04.rpy:380
 translate spanish hear_hear_6ee92c23:
 
     # z nulla "The Butchers of Beacon?"
-    z nulla ""
+    z nulla "Los Carniceros de Beacon?"
 
 # game/script/story/st_04.rpy:384
 translate spanish hear_hear_2dcd91c7:
 
     # z nulla "Uhm, little help, here?{w=0.3} I know she's trying to say something but..."
-    z nulla ""
+    z nulla "Uhm, algo de ayuda, aquí?{w=0.3} Sé que ella está tratando de decir algo pero..."
 
 # game/script/story/st_04.rpy:386
 translate spanish hear_hear_d2c9ae9a:
 
     # p nulla "It's what they've been calling Adam Taurus...{w=0.5} Pyrrha uses it to refer to both him and the other masterminds behind the attack, so we adopted it too."
-    p nulla ""
+    p nulla "Es como le han estado dicendo a Adam Taurus...{w=0.5} Pyrrha lo usa para referirse a él y otras mentes maestras detrás del ataque, así que nosotros lo hacemos también."
 
 # game/script/story/st_04.rpy:388
 translate spanish hear_hear_6587b3ef:
 
     # d nulla "Even called him that to his face...{w=0.5} Knowing the character, he probably got a kick out of it."
-    d nulla ""
+    d nulla "Incluso se lo dije en la cara...{w=0.5} Conociendo su caracter, probablemente le gustó."
 
 # game/script/story/st_04.rpy:390
 translate spanish hear_hear_11836647:
 
     # d nulla "Although...{w=0.5} They never found {b}Cinder's body{/b}."
-    d nulla ""
+    d nulla "Sin embargo...{w=0.5} Nunca encontraron el {b}cuerpo de Cinder{/b}."
 
 # game/script/story/st_04.rpy:397
 translate spanish hear_hear_a417d3f3:
 
     # d nulla "No, bestie, I doubt she got charred up.{w=0.3} There wasn't nearly as big of a fire at the tower of Beacon, as {b}Ozpin's body{/b} proved."
-    d nulla ""
+    d nulla "No, bestie, dudo que se haya quemado.{w=0.3} No había ni de cerca un fuego tan grande en la torre de Beacon, como lo probó el {b}cuerpo de Ozpin{/b}."
 
 # game/script/story/st_04.rpy:399
 translate spanish hear_hear_892ea6b3:
 
     # py nulla "Peh, whatever.{w=0.3} After what we did to her, even if she survived the process and the tower crumbling on her, she can't have gone far."
-    py nulla ""
+    py nulla "Peh, como sea.{w=0.3} Despúes de lo que le hicimos, incluso si ella sobrevivió al proceso y la torre se le cayó encima, ella no puede haber ido muy lejos."
 
 # game/script/story/st_04.rpy:400
 translate spanish hear_hear_b87722ae:
 
     # z nulla "Uhm, I'm afraid to ask but...{w=0.5} What did you do to this Cinder person?"
-    z nulla ""
+    z nulla "Uhm, tengo miedo de preguntar pero...{w=0.5} Qué le hiciste a ese persona llamada Cinder?"
 
 # game/script/story/st_04.rpy:402
 translate spanish hear_hear_9c5c9f5f:
 
     # py nulla "Reckon ye can visualize a body's supply of blood being forcefully extracted through every single pore, wrecking up organs, muscles and nerves on the way out?"
-    py nulla ""
+    py nulla "Creo que puedes visualizar el suministro de sangre de un cuerpo siendo forzosamente extraído por cada uno de los poros, destruyendo organos, músculos y nervios en el camino?"
 
 # game/script/story/st_04.rpy:405
 translate spanish hear_hear_8c94cc5f:
 
     # z nulla "Ehm...!{w=0.5} N-{w=0.15}No, I don't think I can."
-    z nulla ""
+    z nulla "Ehm...!{w=0.5} N-{w=0.15}No, no creo que pueda."
 
 # game/script/story/st_04.rpy:407
 translate spanish hear_hear_21a6c037:
 
     # p nulla "I can ask Gemma to make a simulation, if you'd like!"
-    p nulla ""
+    p nulla "Puedo preguntarle a Gemma para que haga una simulación, si es que quieres."
 
 # game/script/story/st_04.rpy:408
 translate spanish hear_hear_9f1581bc:
 
     # z nulla "Pass!{w=0.3} Very much pass!{w=0.3} I can barely stomach {b}Nora's{/b} horror flicks when we have movie nights!"
-    z nulla ""
+    z nulla "Paso!{w=0.3} con mucho gusto paso!{w=0.3} Apenas puedo aguantar las películas de terror de {b}Nora{/b} cuando tenemos noche de películas!"
 
 # game/script/story/st_04.rpy:419
 translate spanish hear_hear_c33355d4:
 
     # e amused "Well, didn't expect you of all people to be melancholic.{w=0.3} Or was Penny's mead too strong?"
-    e amused ""
+    e amused "Bueno, no espera que tú de todas las personas ser una melancolica.{w=0.3} O era la cerveza de Penny muy fuerte?"
 
 # game/script/story/st_04.rpy:421
 translate spanish hear_hear_cd7fd5a0:
 
     # aq nulla "Hah, you wish I was that much of a light-weight, ears.{w=0.3} This is ginger beer."
-    aq nulla ""
+    aq nulla "Hah, ya quisieras que fuera una peso ligero, escucha.{w=0.3} esto es cerveza de gengibre."
 
 # game/script/story/st_04.rpy:428
 translate spanish hear_hear_0d1934d0:
 
     # e nulla "Unalcoholic.{w=0.3} Proving my point~"
-    e nulla ""
+    e nulla "Sin alcohol.{w=0.3} Probando mi punto~"
 
 # game/script/story/st_04.rpy:429
 translate spanish hear_hear_3df76129:
 
     # j nulla "You sure you're alright?"
-    j nulla ""
+    j nulla "Estás segura de que estas bien?"
 
 # game/script/story/st_04.rpy:431
 translate spanish hear_hear_62f42936:
 
     # aq nulla "I'm fine.{w=0.3} I went over that hill last year, already.{w=0.3} That was technically when we were gonna graduate, you know?"
-    aq nulla ""
+    aq nulla "Estoy bien.{w=0.3} Pasé por esa montaña el año pasdado, ya.{w=0.3} Eso fue técnicamente cuando ibamos a graduarnos, sabes?"
 
 # game/script/story/st_04.rpy:433
 translate spanish hear_hear_a5b536cb:
 
     # aq nulla "And honestly, it's not so much the fact that we failed to make it work...{w=0.5} It's the fact we let that dick {b}Roux{/b} push us around for so long."
-    aq nulla ""
+    aq nulla "Y honestamente, no es tanto el hecho de que fallaramos al hacerlo funcionar...{w=0.5} Es el hecho de que dejaramos que el imbécil de {b}Roux{/b} nos llevara con el durante tanto tiempo."
 
 # game/script/story/st_04.rpy:436
 translate spanish hear_hear_bcda1402:
 
     # aq nulla "I'm more angry at myself than I am at him...{w=0.3} And a bit sorry for {b}Myriam{/b}."
-    aq nulla ""
+    aq nulla "Estoy mas enojada sobre mi misma de lo que estoy con él...{w=0.3} Y un poco triste por {b}Myriam{/b}."
 
 # game/script/story/st_04.rpy:438
 translate spanish hear_hear_fd17c2da:
 
     # j nulla "You still haven't heard back from her?"
-    j nulla ""
+    j nulla "Todavía no has escuchado algo de ella?"
 
 # game/script/story/st_04.rpy:439
 translate spanish hear_hear_8bdc0f13:
 
     # aq nulla "Neither of us have.{w=0.3} Sierra is the last person to have seen her, during the Vytal Festival...{w=0.5} If I had to take a guess, her Scroll has long been de-activated.{w=0.3} So is Roux's."
-    aq nulla ""
+    aq nulla "Ninguna de nosotras lo hizo.{w=0.3} Sierra es la última persona que la vió, durante el Festival Vytal...{w=0.5} Si tuviera que adivinar, su Scroll ha sido desactiva hace un largo rato.{w=0.3} Así que es el de Roux."
 
 # game/script/story/st_04.rpy:441
 translate spanish hear_hear_d988ef38:
 
     # e nulla "I'm sure she's fine."
-    e nulla ""
+    e nulla "Estoy segura de que ella está bien."
 
 # game/script/story/st_04.rpy:443
 translate spanish hear_hear_d2730b88:
 
     # aq nulla "I'm sure she's alive.{w=0.3} Fine, I don't know.{w=0.3} Not if she couldn't quit Roux."
-    aq nulla ""
+    aq nulla "Estoy segura de que está viva.{w=0.3} Bien, no lo sé-{w=0.3} No si ella no pudo dejar a Roux."
 
 # game/script/story/st_04.rpy:444
 translate spanish hear_hear_8e10ed8e:
 
     # aq nulla "And that's what's mainly needling me.{w=0.3} Thinking if me and Sierra should've, could've done more.{w=0.3} If not for team...{w=0.5} For her."
-    aq nulla ""
+    aq nulla "Y eso es lo que mayormente me ha estado molestando.{w=0.3} Pensar que yo y Sierra podrpiamos, deberiamos haver hecho mas.{w=0.3} Si no por el equipo...{w=0.5} Por ella."
 
 # game/script/story/st_04.rpy:450
 translate spanish hear_hear_93c9e25e:
 
     # j nulla "Where do you think they went...?"
-    j nulla ""
+    j nulla "A dónde crees que fueron...?"
 
 # game/script/story/st_04.rpy:452
 translate spanish hear_hear_16796628:
 
     # aq nulla "I'm sure he started immediately cozying up to his new atlesian overlords when they came to Vale.{w=0.3} What with his family's connections and all."
-    aq nulla ""
+    aq nulla "Estoy segura que él inmediatamente empezó a amigarse con sus nuevos señores atlesianos cuando llegaron a Vale.{w=0.3} Con sus conexiones familiares y todo."
 
 # game/script/story/st_04.rpy:454
 translate spanish hear_hear_392e8897:
 
     # aq nulla "A militaristic, technologically advanced nation in need of fresh blood and reform coming to take over everything?{w=0.3} Must have been a wet dream for him."
-    aq nulla ""
+    aq nulla "Una nación militarista, técnologicamente avanzada en necesidad de sangre fresa y reforma para tomar el mando de todo?{w=0.3} Debe haber sido un sueño húmedo para él."
 
 # game/script/story/st_04.rpy:456
 translate spanish hear_hear_da5b26fd:
 
     # aq nulla "And if they graduated last year, he then probably asked to be assigned..."
-    aq nulla ""
+    aq nulla "Y si se graduaron el año pasado, él probablemente pidió ser asignado a..."
 
 # game/script/story/st_04.rpy:459
 translate spanish hear_hear_d9db27fc:
 
     # aq nulla "You going to be travelling now, correct?"
-    aq nulla ""
+    aq nulla "Van a estar viajando ahora, correcto?"
 
 # game/script/story/st_04.rpy:462
 translate spanish hear_hear_483fbe5b:
 
     # j nulla "Quite a lot, we hope.{w=0.3} Want us to keep an eye out?"
-    j nulla ""
+    j nulla "Un montón, o eso esperamos.{w=0.3} Quieres que tengamos un ojo abierto?"
 
 # game/script/story/st_04.rpy:463
 translate spanish hear_hear_4866facd:
 
     # aq nulla "Please."
-    aq nulla ""
+    aq nulla "Por favor."
 
 # game/script/story/st_04.rpy:475
 translate spanish hear_hear_28084ab7:

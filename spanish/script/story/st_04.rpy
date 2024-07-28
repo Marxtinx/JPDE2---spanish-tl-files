@@ -1012,307 +1012,307 @@ translate spanish hear_hear_4866facd:
 translate spanish hear_hear_28084ab7:
 
     # d smile sera "Reached the end of your social battery?"
-    d smile sera ""
+    d smile sera "Llegaste al finla de tu bateria social?"
 
 # game/script/story/st_04.rpy:483
 translate spanish hear_hear_1d7eb206:
 
     # ja nulla "Hey, hypocrite.{w=0.3} A little..."
-    ja nulla ""
+    ja nulla "Hey, hipocrita.{w=0.3} Un poco..."
 
 # game/script/story/st_04.rpy:486
 translate spanish hear_hear_f90f6160:
 
     # d nulla "Party's winding down, don't worry.{w=0.3} Titania is bundling up your mom to carry her home and Tip seems about ready to go, too."
-    d nulla ""
+    d nulla "Esta bajando el ritmo de la fiesta, no te preocupes.{w=0.3} Titana está empaquetando a tu máma para llevarla a su casa y Tip parece estar listo para irse. también."
 
 # game/script/story/st_04.rpy:488
 translate spanish hear_hear_6a55b972:
 
     # ja nulla "Ugh, I hope we weren't too much!{w=0.3} Maybe inviting them wasn't such a great idea..."
-    ja nulla ""
+    ja nulla "Ugh, espero que no hayamos sido demasiado molestos!{w=0.3} Quizás invitarlas no fue una gran idea..."
 
 # game/script/story/st_04.rpy:491
 translate spanish hear_hear_7ab1062e:
 
     # d nulla "Uhm, listen, I wanted to apologize for this morning.{w=0.3} You're right, I am a bit of a hypocrite, and I didn't want to...{w=0.5} Shame you into making friends or anything."
-    d nulla ""
+    d nulla "Uhm, escucha, quería disculparme por lo de esta mañana.{w=0.3} Tienes razón, soy un poco hipocrita, y no quería...{w=0.3} Avergonzarte para que hagas a amigos o algo asi."
 
 # game/script/story/st_04.rpy:494
 translate spanish hear_hear_b749ff4c:
 
     # ja nulla "I know.{w=0.3} But I appreciate your apology anyway."
-    ja nulla ""
+    ja nulla "Lo sé.{w=0.3} Pero aprecio tus disculpas de todas formas."
 
 # game/script/story/st_04.rpy:496
 translate spanish hear_hear_3a536aee:
 
     # d nulla "We just...{w=0.5} I guess we're worried you'll start to feel lonely, now that..."
-    d nulla ""
+    d nulla "Nosotros solo...{w=0.3} Supongo que estamos preoupados de que empieces a sentirte sola, ahora que..."
 
 # game/script/story/st_04.rpy:498
 translate spanish hear_hear_787bd911:
 
     # ja nulla "Now that everyone's leaving me behind?"
-    ja nulla ""
+    ja nulla "Ahora que todo el mundo me está dejando atrás?"
 
 # game/script/story/st_04.rpy:504
 translate spanish hear_hear_2e886a00:
 
     # ja nulla "Sorry, that's very much unfair...{w=0.5} You're not leaving anyone behind, you're just...{w=0.5} Living your lives."
-    ja nulla ""
+    ja nulla "Perdón, eso es bastante injusto...{w=0.5} No están dejando a nadie atrás, ustedes están solo...{w=0.5} Viviendo sus vidas."
 
 # game/script/story/st_04.rpy:506
 translate spanish hear_hear_06adcc14:
 
     # ja nulla "I know that.{w=0.3} It's just, it's still difficult, trying to adapt to...{w=0.5} A normal human life."
-    ja nulla ""
+    ja nulla "Yo sé eso.{w=0.3} Es solo, que aún asi es dificil, tratar de adaptarse a...{w=0.5} una vida humana normal."
 
 # game/script/story/st_04.rpy:508
 translate spanish hear_hear_1028705d:
 
     # ja nulla "And I can't help but wonder if this is what {b}she{/b} was referring to.{w=0.3} She said it'd take three years, and look where we are now."
-    ja nulla ""
+    ja nulla "Y no puedo evitar preguntarme si esto es a lo que {b}ella{/b} se estaba refiriendo.{w=0.3} Ella dijo que tomaría tres años, y mira donde estamos ahora."
 
 # game/script/story/st_04.rpy:512
 translate spanish hear_hear_3cd1a158:
 
     # d nulla "You really shouldn't trust anything {b}Salem{/b} said to you."
-    d nulla ""
+    d nulla "De verdad no creeras nada de lo que {b}Salem{/b} te dijo."
 
 # game/script/story/st_04.rpy:513
 translate spanish hear_hear_c67d49d7:
 
     # ja nulla "It's not a matter of trusting, [p_n]...{w=0.5} It's just that, I can't help but think:{w=0.3} I'm feeling so displaced and this is just from Titania getting a job."
-    ja nulla ""
+    ja nulla "No es una cuestión de creer, [p_n]...{w=0.5} Es solo que, no puedo evitar pensar:{w=0.3} Me siento tan fuera de lugar y esto es solo porque Titania consiguió un trabajo."
 
 # game/script/story/st_04.rpy:517
 translate spanish hear_hear_c2ddb404:
 
     # ja_w nulla "What happens when I need to face the other things that set me apart?"
-    ja_w nulla ""
+    ja_w nulla "Qué pasará cuando necesite enfrentar las otras cosas que me diferencian de los demas?"
 
 # game/script/story/st_04.rpy:518
 translate spanish hear_hear_4381836f:
 
     # d nulla "Nothing.{w=0.3} Nothing needs to happen."
-    d nulla ""
+    d nulla "Nada.{w=0.3} No necesita pasar nada."
 
 # game/script/story/st_04.rpy:520
 translate spanish hear_hear_ee284a44:
 
     # ja_w nulla "Should I just ignore them, then?{w=0.3} Try and keep them in check forever, hoping they go away like you do?"
-    ja_w nulla ""
+    ja_w nulla "Debería solo ignorarlas, entonces?{w=0.3} Intentar mantenerlas a raya para siempre, esperando que se vaya al igual que tú lo haces?"
 
 # game/script/story/st_04.rpy:522
 translate spanish hear_hear_2bb230c1:
 
     # ja_w nulla "Maybe your thing will go away if you kill the Fire God...{w=0.5} Maybe they won't.{w=0.3} I really doubt mine ever will.{w=0.3} What then?"
-    ja_w nulla ""
+    ja_w nulla "Tal vez lo tuyo se vaya si matas al Dios del Fuego...{w=0.5} Tal vez no.{w=0.3} Yo realmente dudo que lo mio lo haga.{w=0.3} Entonces qué?"
 
 # game/script/story/st_04.rpy:526
 translate spanish hear_hear_38d270da:
 
     # d nulla ".{w=0.3}.{w=0.3}.{w=0.5}I don't know.{w=0.3} I really don't know how to answer that."
-    d nulla ""
+    d nulla ".{w=0.3}.{w=0.3}.{w=0.5}No lo sé-{w=0.3} Realmente no sé como responder a eso."
 
 # game/script/story/st_04.rpy:528
 translate spanish hear_hear_d0aae4c2:
 
     # d nulla "What I do know, though, is that whatever happens we'll be there for you.{w=0.3} Us and whoever else you {i}choose{/i} to befriend.{w=0.3} No questions asked."
-    d nulla ""
+    d nulla "Lo que se, sin embargo, es que lo que sea que pase estaremos allí para ti.{w=0.3} Nosotros y quienquiera tu {i}elijas{/i} hacerte amiga de.{w=0.3} Sin hacer preguntas."
 
 # game/script/story/st_04.rpy:532
 translate spanish hear_hear_8ab43b75:
 
     # ja nulla "I know."
-    ja nulla ""
+    ja nulla "Lo sé"
 
 # game/script/story/st_04.rpy:533
 translate spanish hear_hear_04365a06:
 
     # d nulla "Speaking of...{w=0.5} We didn't really get the story of how you met Tip.{w=0.3} How did that go?"
-    d nulla ""
+    d nulla "Hablando de...{w=0.5} Realmente no escuchamos la historia de como conociste a Tip.{w=0.3} Como pasó eso?"
 
 # game/script/story/st_04.rpy:535
 translate spanish hear_hear_b7b5f4cf:
 
     # ja nulla "Hmmm...{w=0.5} Well, we were at orientation this morning, right?"
-    ja nulla ""
+    ja nulla "Hmmm...{w=0.5} Bueno, estabamos en la orientación esta mañana, verdad?"
 
 # game/script/story/st_04.rpy:539
 translate spanish hear_hear_220c0488:
 
     # ja smile sera "Pyrrha and Neopolitan were giving their speech..."
-    ja smile sera ""
+    ja smile sera "Pyrrha y Neopolitan estaban dando su charla..."
 
 # game/script/story/st_04.rpy:542
 translate spanish hear_hear_b94f4cfd:
 
     # py smile "What do you see when you look at me, students?"
-    py smile ""
+    py smile "Qué es lo que ven cuando miran hacia mi, estudiantes?"
 
 # game/script/story/st_04.rpy:551
 translate spanish hear_hear_dad14cf9:
 
     # py nulla "Don't be shy.{w=0.3} It's your first day so, for now, there are no wrong answers to my questions.{w=0.3} First thing that comes to your mind."
-    py nulla ""
+    py nulla "No sean timidos.{w=0.3} Es su primer día así que, por ahora, no hay respuestas incorrectas a mis preguntas.{w=0.3} La primera cosa que se les venga a la mente."
 
 # game/script/story/st_04.rpy:554
 translate spanish hear_hear_fbb59cf7:
 
     # py nulla "Preferably before miss Neopolitan becomes annoyed by the awkward silence."
-    py nulla ""
+    py nulla "Preferiblemente antes de que la señorita Neopolitan se sienta molesta por el silencio incomodo."
 
 # game/script/story/st_04.rpy:555
 translate spanish hear_hear_5dc63165:
 
     # stu_f "Uhm, a...{w=0.3} Nice lady in a wheelchair, miss Nikos?"
-    stu_f ""
+    stu_f "Uhm, una...{w=0.3} Linda señorita en una silla de ruedas, profesora Nikos?"
 
 # game/script/story/st_04.rpy:556
 translate spanish hear_hear_453f38cb:
 
     # py nulla "Descriptive.{w=0.3} Does any of you perceive me as a threat?"
-    py nulla ""
+    py nulla "Descriptivo.{w=0.3} Alguno de ustedes me percibe como una amenaza?"
 
 # game/script/story/st_04.rpy:560
 translate spanish hear_hear_d16d87cd:
 
     # py nulla "Thought so.{w=0.3} Well, then..."
-    py nulla ""
+    py nulla "Eso pensaba.{w=0.3} Bueno, entonces..."
 
 # game/script/story/st_04.rpy:571
 translate spanish hear_hear_f7819e52:
 
     # py nulla "What about now?"
-    py nulla ""
+    py nulla "Qué tal ahora?"
 
 # game/script/story/st_04.rpy:572
 translate spanish hear_hear_594bbe3e:
 
     # stu_m "A-Aaaah!"
-    stu_m ""
+    stu_m "A-Aaaah!"
 
 # game/script/story/st_04.rpy:573
 translate spanish hear_hear_b551b3de:
 
     # ja_i shock sweat "(Ugh...! I think I'm going to puke!)"
-    ja_i shock sweat ""
+    ja_i shock sweat "(Ugh...! Creo que voy a vomitar!)"
 
 # game/script/story/st_04.rpy:574
 translate spanish hear_hear_135cea37:
 
     # py nulla "From your reactions, I can see that the most surprised ones among you are those who already have experience with Aura...{w=0.5} Good, keep that surprise in mind."
-    py nulla ""
+    py nulla "Por sus reacciones, puedo ver que los sorprendidos entre ustedes son aquellos que ya tienen experiencia con Aura...{w=0.5} Bien, mantengan esa sopresa en mente."
 
 # game/script/story/st_04.rpy:576
 translate spanish hear_hear_3f59bbfe:
 
     # py nulla "And no, miss Neopolitan, you can't give it a try yourself.{w=0.3} You'll have to terrorize our students the old fashioned way."
-    py nulla ""
+    py nulla "Y no, señorita Neopolitan, no puedes intentarlo también.{w=0.3} Tendrás que aterrorizar a nuestros estudiantes a la manera antigua."
 
 # game/script/story/st_04.rpy:586
 translate spanish hear_hear_807dfc5e:
 
     # py nulla "As it's plain to see, I am confined to a wheelchair.{w=0.3} Miss Neopolitan is, instead, mute.{w=0.3} Our bodies are impaired..."
-    py nulla ""
+    py nulla "Como es evidente, estoy confinada en una silla de ruedas.{w=0.3} La señorita Neopolitan es, en cambio, muda.{w=0.3} Nuestros cuerpos tienen problemas..."
 
 # game/script/story/st_04.rpy:588
 translate spanish hear_hear_4d0698d8:
 
     # py nulla "But that don't mean nuthin' when Aura is involved, and the same goes for Grimm:{w=0.15} trust your senses at your own risk."
-    py nulla ""
+    py nulla "Pero eso no significa nada cuando el Aura esta involuctrada, y lo mismo va para los Grimm.{w=0.25} confíen en sus sentidos a su propio riesgo."
 
 # game/script/story/st_04.rpy:590
 translate spanish hear_hear_b400b6dc:
 
     # py nulla "Some will show endurance and strength beyond their looks.{w=0.3} Others will possess abilities you wouldn't even think existed.{w=0.3} Others still may hide their strength until they got you flatfooted, like I did earlier."
-    py nulla ""
+    py nulla "Algunos mostrarán fuerza y resistencia mas alla de su apariencia.{w=0.3} Otros poseeran habilidades que ni siquiera pensaron que existían.{w=0.3} Otros podrían ocultar su fuerza para sorprenderlos, como yo hice antes."
 
 # game/script/story/st_04.rpy:593
 translate spanish hear_hear_1f676918:
 
     # py nulla "Coming fall and throughout the seven years curriculum, me and miss Neopolitan will tutor you in combat and Aura control.{w=0.3} Our aim, though, won't be to turn you into awesome heroic warriors:{w=0.3} we want to turn you into survivors."
-    py nulla ""
+    py nulla "En este curriculum de siete años, yo y la señorita Neopolitan les enseñaremos en combate y Aura control.{w=0.3} Nuestro objetivo, sin embargo, no es convertirlos en increíbles guerreros heroicos:{w=0.3} queremos convertirlos en supervivientes."
 
 # game/script/story/st_04.rpy:595
 translate spanish hear_hear_b37e76da:
 
     # py nulla "We want to give you all the tools you'll need so that, together with your future team-mates, you will be able to face the unexpected.{w=0.3} Defeat the overwhelming.{w=0.3} And survive to fight another day."
-    py nulla ""
+    py nulla "Queremos darles todas las herramietnas que necesitan para que, juntos con sus futuros miembros de equipo, sean capaces de enfrentarse a lo inesperado.{w=0.3} Vencer a lo abrumador.{w=0.3} Y sobrevivir para pelear otro día."
 
 # game/script/story/st_04.rpy:598
 translate spanish hear_hear_ce6ef905:
 
     # py nulla "Or retire to a teaching job.{w=0.3} Specializations exist for a reason...{w=0.5} And it's the wish of the Headmistress and Duchess that you will be all able to retire from active duty, one day."
-    py nulla ""
+    py nulla "O retirarse a un trabajo de enseñanza.{w=0.3} Las especializaciones existen por una razón...{w=0.5} Y es el deseo de la Directora y la Duquesa que sean capaces de retirarse del deber activo, un día."
 
 # game/script/story/st_04.rpy:600
 translate spanish hear_hear_bc0cb631:
 
     # py nulla "The Royal Academy of Peak was founded with one purpose in mind:{w=0.3} {b}to create the last generation of Hunters{/b}.{w=0.3} The generation which will be able to do away with the threat of the Grimm once and for all."
-    py nulla ""
+    py nulla "La Academia Real de Peak fue fundada con un proposito en mente:{w=0.3} {b}para crear la última generación de Cazadores{/b}.{w=0.3} La generación que será capaz de acabar con la amenaza de los Grimm de una vez por todas."
 
 # game/script/story/st_04.rpy:602
 translate spanish hear_hear_e7f86f9c:
 
     # py nulla "That generation might just be yours, students...{w=0.5} Thus, we will be expecting nothing but your best from all of you."
-    py nulla ""
+    py nulla "Esa generación podrían ser ustedes, estudiantes...{w=0.5} Por eso, no esperaremos nada excepto lo mejor de todos ustedes."
 
 # game/script/story/st_04.rpy:604
 translate spanish hear_hear_a5e05921:
 
     # py nulla "Anything you'd like me to add, miss Neopolitan?"
-    py nulla ""
+    py nulla "Algo que quieras que añada, señorita Neopolitan?"
 
 # game/script/story/st_04.rpy:609
 translate spanish hear_hear_9a3e7e89:
 
     # py nulla "Seriously?{w=0.3} Ye really wanna go with that?"
-    py nulla ""
+    py nulla "En serio?{w=0.3} Realmente quieres ir con eso?"
 
 # game/script/story/st_04.rpy:612
 translate spanish hear_hear_d914d5e7:
 
     # py_no nulla "*sigh*{w=0.5}\"Fine, no skin off me back anyway.{w=0.3} Ahem, miss Neopolitan would like to say to all y'all..."
-    py_no nulla ""
+    py_no nulla "*sigh*{w=0.5}\"De acuerdo, no me quita el sueño de todos modos.{w=0.3} Ahem, la señorita Neopolitan quiere decirle a todos y todas."
 
 # game/script/story/st_04.rpy:614
 translate spanish hear_hear_3f7d6d3d:
 
     # py nulla "'If you die on me and make me look bad, I'll kill you.'{w=0.3} Make of that what you will."
-    py nulla ""
+    py nulla "'Si se mueren y me hacen ver mal, los mataré.'{w=0.3} Interprentenlo como quieran."
 
 # game/script/story/st_04.rpy:616
 translate spanish hear_hear_ce9fd44c:
 
     # stu_f_i "(.{w=0.3}.{w=0.3}.{w=0.5}and yet I feel like she means it.)"
-    stu_f_i ""
+    stu_f_i "(.{w=0.3}.{w=0.3}.{w=0.5}y sin embargo siento que lo dice en serio.)"
 
 # game/script/story/st_04.rpy:617
 translate spanish hear_hear_1714fe05:
 
     # stu_m_i "(Who {i}are{/i} these teachers?)"
-    stu_m_i ""
+    stu_m_i "(Quienes {i}son{/i} esas maestras?)"
 
 # game/script/story/st_04.rpy:618
 translate spanish hear_hear_abdebc39:
 
     # stu_f_i "(Does she have an accent or doesn't she?)"
-    stu_f_i ""
+    stu_f_i "(Tiene ella un acento o no lo tiene?)"
 
 # game/script/story/st_04.rpy:619
 translate spanish hear_hear_b85c1b32:
 
     # stu_m_i "(How does she hide an Aura so strong that well?!)"
-    stu_m_i ""
+    stu_m_i "(Cómo oculta un Aura tan fuerte así de bien?!)"
 
 # game/script/story/st_04.rpy:622
 translate spanish hear_hear_211a6c8f:
 
     # py nulla "Now, we'd like you to pair up.{w=0.3} You will only be put into teams from year four, so be sure to make as many connections as you can.{w=0.3} Faculty is counting on it."
-    py nulla ""
+    py nulla "Ahora, nos gustaría emparejarlos.{w=0.3} Los pondremos en equipo recién desde su cuarto año, así que asegurense de hacerse cuantos conexiones puedan.{w=0.3} La facultad cuenta en ello."
 
 # game/script/story/st_04.rpy:623
 translate spanish hear_hear_6f6578b2:

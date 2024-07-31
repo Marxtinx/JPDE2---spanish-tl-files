@@ -2506,499 +2506,499 @@ translate spanish destination_menagerie_dc6a0419:
 translate spanish destination_menagerie_8175fe2e:
 
     # e nulla "Aaaaaah~{w=0.5} Finally gone."
-    e nulla ""
+    e nulla "Aaaaaah~{w=0.5} FInalmente se fueron."
 
 # game/script/story/st_04.rpy:1198
 translate spanish destination_menagerie_bf681204:
 
     # d nulla "You {i}wanted{/i} them gone?"
-    d nulla ""
+    d nulla "Tú {i}querías{/i} que se vayan?"
 
 # game/script/story/st_04.rpy:1200
 translate spanish destination_menagerie_ed7bbd01:
 
     # e nulla "Duh.{w=0.3} We haven't been able to spend any alone time in almost four days, mister.{w=0.3} You owe me a date."
-    e nulla ""
+    e nulla "Duh.{w=0.3} No hemos podido tener tiempo a solas en casi cuatros días, señor.{w=0.3} Me debes una cita."
 
 # game/script/story/st_04.rpy:1203
 translate spanish destination_menagerie_a6ac3b62:
 
     # d nulla "Sneaky little byun...{w=0.5} You're lucky you're cute."
-    d nulla ""
+    d nulla "Pequeña y escurridiza byun...{w=0.5} Tienes suerte de ser linda."
 
 # game/script/story/st_04.rpy:1205
 translate spanish destination_menagerie_5cf959ad:
 
     # e nulla "Hmmm, yeeees, I'm bad~{w=0.5} Wanna talk about how bad I've been, later?"
-    e nulla ""
+    e nulla "Hmmm, siii, soy mala~{w=0.5} Quieres hablar de que tan mal he sido, después?"
 
 # game/script/story/st_04.rpy:1207
 translate spanish destination_menagerie_88e1e7d0:
 
     # d nulla "Well, we do have some time before departure..."
-    d nulla ""
+    d nulla "Bueno, tenemos algo de tiempo antes de irnos..."
 
 # game/script/story/st_04.rpy:1208
 translate spanish destination_menagerie_d8e362b0:
 
     # e nulla "Might as well occupy it pleasurably, then.{w=0.3} Now let's go!"
-    e nulla ""
+    e nulla "Podríamos ocuparlo placenteramente, entonces.{w=0.3} Vamos ahora!"
 
 # game/script/story/st_04.rpy:1220
 translate spanish sunscreen_f9bea32f:
 
     # d surprise "...why do you need a new swimsuit?"
-    d surprise ""
+    d surprise "...Por qué necesitas un nuevo traje de baño?"
 
 # game/script/story/st_04.rpy:1221
 translate spanish sunscreen_b3a88d6f:
 
     # e amused "What, you don't wanna see me try on a few?"
-    e amused ""
+    e amused "Qué, no quieres verme probando unos cuantos?"
 
 # game/script/story/st_04.rpy:1228
 translate spanish sunscreen_b5abb4f3:
 
     # d nulla "Evelyn, you possess two mechanical tonfas which are also guns.{w=0.3} If I ever say no to that question, I want you to use them on me."
-    d nulla ""
+    d nulla "Evelyn, posees dos tonfas mécanicas que también son armas.{w=0.3} Si alguna vez digo que no a esa pregunta, quiero que las uses contra mi."
 
 # game/script/story/st_04.rpy:1230
 translate spanish sunscreen_ff7a7277:
 
     # e nulla "Flatterer~{w=0.5} And, uhm..."
-    e nulla ""
+    e nulla "Halagador~{w=0.5} And, uhm..."
 
 # game/script/story/st_04.rpy:1232
 translate spanish sunscreen_767668f1:
 
     # e nulla "I may have, ehr, grown in a couple places since I last put the other one on..."
-    e nulla ""
+    e nulla "Puede que haya, ehr, crecido en un par de lugares desde que me puse el antiguo..."
 
 # game/script/story/st_04.rpy:1234
 translate spanish sunscreen_41708b0b:
 
     # d nulla "Oh, that?{w=0.3} I barely noticed."
-    d nulla ""
+    d nulla "Oh, eso?{w=0.3} apenas lo he notado."
 
 # game/script/story/st_04.rpy:1236
 translate spanish sunscreen_0dd34366:
 
     # e nulla "Yeah, yeah, you adore me no matter what and love pawing at my squishies.{w=0.3} I don't enjoy spilling out of my bikini, so come on in."
-    e nulla ""
+    e nulla "Si, si, me adoras sin importar que y amas manosear mis blanditas.{w=0.3} No me gusta que se salga de mi bikini, asi que vamos."
 
 # game/script/story/st_04.rpy:1244
 translate spanish sunscreen_82adbbea:
 
     # d smile blush "Here's hoping we actually do get some time to spend on the beach..."
-    d smile blush ""
+    d smile blush "Solo espero que realmente tengamos un tiempo para ir a la playa..."
 
 # game/script/story/st_04.rpy:1245
 translate spanish sunscreen_d8aa9697:
 
     # e amused "I know, right?"
-    e amused ""
+    e amused "Lo sé, cierto?"
 
 # game/script/story/st_04.rpy:1253
 translate spanish sunscreen_3bbae01f:
 
     # e nulla "But I do hope you'll look at more than me when we're there.{w=0.3} From what I've seen on the network, the Menagerie coastline is something else."
-    e nulla ""
+    e nulla "Pero espero que mires mas que a mi cuando estemos allí.{w=0.3} Por lo que he visto en linea, la costa Menageriana es algo mas."
 
 # game/script/story/st_04.rpy:1255
 translate spanish sunscreen_9ec4dbdc:
 
     # e nulla "White sand, crystal waters, palms...!{w=0.3} And the sea-food is to die for!{w=0.3} Best of all, completely Grimm-free!"
-    e nulla ""
+    e nulla "Arena blanca, agua cristalina, palmeras...!{w=0.3} Y la comida marina es para morirse!{w=0.3} Lo mejor de todo, completamente libre de Grimm!"
 
 # game/script/story/st_04.rpy:1257
 translate spanish sunscreen_6d7fd321:
 
     # d nulla "As in, they never have Grimm randomly wander in?"
-    d nulla ""
+    d nulla "Como en, nunca tienen Grimm rondando aleatoriamente dentro?"
 
 # game/script/story/st_04.rpy:1259
 translate spanish sunscreen_44f0b6ed:
 
     # e nulla "Not a single recorded incident in more than twenty years!{w=0.3} Menagerie's beaches are literally the safest in the world!"
-    e nulla ""
+    e nulla "Sin un solo incidente grabado en mas de veinte años!{w=0.3} Las playas de Menagerie son literalmente las mas seguras en el mundo!"
 
 # game/script/story/st_04.rpy:1261
 translate spanish sunscreen_76a9965c:
 
     # e nulla "Which is kind of amusing, considering the species that populate the inland areas like the Outback."
-    e nulla ""
+    e nulla "Lo que es increible, considerando las especies que pueblan las areas de la isla como las Afueras."
 
 # game/script/story/st_04.rpy:1262
 translate spanish sunscreen_d7b06ebe:
 
     # d nulla "Interesting...{w=0.5} How do they manage that?"
-    d nulla ""
+    d nulla "Interesante...{w=0.5} Cómo consiguen hacerlo?"
 
 # game/script/story/st_04.rpy:1264
 translate spanish sunscreen_9f21c4be:
 
     # e nulla "That doesn't seem to have a general consensus.{w=0.3} A lot of theories figure that it has something to do with the location, whatever that means."
-    e nulla ""
+    e nulla "Eso no parece tener un consenso general.{w=0.3} Un montón de teorías suponen que tiene algo que ver con la localización, lo que sea que signifique eso."
 
 # game/script/story/st_04.rpy:1266
 translate spanish sunscreen_cb776d44:
 
     # d nulla "Possible?{w=0.3} Although maybe it has something to do with the population?{w=0.3} I remember professor Port once saying-"
-    d nulla ""
+    d nulla "Posible?{w=0.3} Aunque quizás tiene algo que ver con la población?{w=0.3} Recuerdo que el profesor Port dijo una vez-"
 
 # game/script/story/st_04.rpy:1267
 translate spanish sunscreen_c1bcc652:
 
     # ph smile "My, aren't you a cute couple."
-    ph smile ""
+    ph smile "Oh, no son ustedes una linda pareja."
 
 # game/script/story/st_04.rpy:1275
 translate spanish sunscreen_dc3f76d3:
 
     # e nulla "Weeeeell, while it's very much self-evident to me, my honey, and everyone with eyeballs, thank you~{w=0.5} It never gets old to hear."
-    e nulla ""
+    e nulla "Bueeeno, mientras es bastante evidente para mi, mi cariño, y cualquiera con ojos, gracias~{w=0.5} Nunca me canso de oirlo."
 
 # game/script/story/st_04.rpy:1277
 translate spanish sunscreen_a8ee4636:
 
     # ph nulla "Widespread knowledge, then!{w=0.3} Apologies, I have arrived but yesterday so I don't know all the ins and outs of Peak yet."
-    ph nulla ""
+    ph nulla "Conocimiento general, entonces!{w=0.3} Disculpa, he llegado ayer así que no conozco todos los detalles de Peak aún."
 
 # game/script/story/st_04.rpy:1279
 translate spanish sunscreen_5748f065:
 
     # ph nulla "Still, would've been rude to come looking for you unannounced."
-    ph nulla ""
+    ph nulla "Aún asi, sería rudo venir buscandolos sin avisar."
 
 # game/script/story/st_04.rpy:1280
 translate spanish sunscreen_9babb77a:
 
     # d nulla "Come...{w=0.5} Looking for us?{w=0.3} Do we know each other?"
-    d nulla ""
+    d nulla "Venir...{w=0.5} a buscarnos?{w=0.3} Nos conocemos?"
 
 # game/script/story/st_04.rpy:1281
 translate spanish sunscreen_c533e519:
 
     # ph nulla "Not at all.{w=0.3} But as you are, indeed, a very cute couple, I was wondering if you could do me a favour."
-    ph nulla ""
+    ph nulla "Para nada.{w=0.3} Pero como son, en efecto, una pareja muy linda, estaba pensando si podrían hacerme un favor."
 
 # game/script/story/st_04.rpy:1283
 translate spanish sunscreen_b8db4bd3:
 
     # e nulla "A...{w=0.5} Favour?{w=0.5} What kind of favour, miss?"
-    e nulla ""
+    e nulla "Un...{w=0.5} Favor?{w=0.5} Qué tipo de favor, señorita?"
 
 # game/script/story/st_04.rpy:1284
 translate spanish sunscreen_216a40a4:
 
     # ph nulla "My name is Philo Tiogonia.{w=0.3} I'm apprenticed to the local metalsmith so I was wondering if you could help me convince him of something."
-    ph nulla ""
+    ph nulla "Mi nombre es Philo Tiogonia.{w=0.3} Soy aprediz de el herrero local asi que me estaba preguntando si pudieran ayudarme a convencerlo sobre algo."
 
 # game/script/story/st_04.rpy:1287
 translate spanish sunscreen_f1160ef0:
 
     # d nulla "I am confused...{w=0.5} I know of the metalsmith, but I don't {i}know{/i} the metalsmith so..."
-    d nulla ""
+    d nulla "Estoy confundido...{w=0.5} Conozco la herrerería, pero no {i}conozco{/i} al herrero asi que..."
 
 # game/script/story/st_04.rpy:1288
 translate spanish sunscreen_29e02ca3:
 
     # e nulla "And what does that have to do with us being a cute couple?"
-    e nulla ""
+    e nulla "Y que tiene eso que ver con nosotros siendo una linda pareja?"
 
 # game/script/story/st_04.rpy:1301
 translate spanish sunscreen_33b96c0b:
 
     # e nulla "Ohmigosh, they're so pretty!"
-    e nulla ""
+    e nulla "Ohpordios, son hermosos!"
 
 # game/script/story/st_04.rpy:1303
 translate spanish sunscreen_98309abc:
 
     # ph nulla "My specialty is actually in jewels but the owner doesn't feel like it's a worthwhile endeavour..."
-    ph nulla ""
+    ph nulla "Mi especialidad en realidad es la joyería pero el dueño no cree que sea un esfuerzo que valga la pena..."
 
 # game/script/story/st_04.rpy:1305
 translate spanish sunscreen_2ee52951:
 
     # ph nulla "But if people start coming to the shop to ask about them..."
-    ph nulla ""
+    ph nulla "Pero si la gente empieza a venir a la tienda preguntando por ello..."
 
 # game/script/story/st_04.rpy:1307
 translate spanish sunscreen_a7868cc9:
 
     # d nulla "Gotcha, you want to turn us into walking mannequins...{w=0.5} Thing is, we're Hunters.{w=0.3} We're not going to be in Peak that much."
-    d nulla ""
+    d nulla "Lo tengo, quieres convertirnos en maniquies caminantes...{w=0.5} La cosa es, somos Cazadores.{w=0.3} No vamos a estar en Peak mucho tiempo."
 
 # game/script/story/st_04.rpy:1310
 translate spanish sunscreen_b742af16:
 
     # e nulla "My love, you are NOT trying to come up with reasons to {i}not{/i} accept the nicely offered rings, are you?!"
-    e nulla ""
+    e nulla "Mi amor, NO estas intendando buscar razones para {i}no{/i} aceptar los anillos que nos están ofreciendo amablemente, lo estás?!"
 
 # game/script/story/st_04.rpy:1312
 translate spanish sunscreen_dbe24111:
 
     # d nulla "I'm just being honest!"
-    d nulla ""
+    d nulla "Solo estoy siendo honesto!"
 
 # game/script/story/st_04.rpy:1314
 translate spanish sunscreen_6e0fda4b:
 
     # ph nulla "Even better.{w=0.3} The way I hear it, it's in everyone's interest to make it so that other nations want to further trade with Peak, isn't it?"
-    ph nulla ""
+    ph nulla "Mejor aún.{w=0.3} Por lo que escucho, es en el interés de todos hacer que las otras naciones quieran comerciar mas con Peak, no lo es?"
 
 # game/script/story/st_04.rpy:1316
 translate spanish sunscreen_eb2d65e0:
 
     # e nulla "Exactly!{w=0.3} We will spread the merits of Philo the jeweler wherever we go!"
-    e nulla ""
+    e nulla "Exactamente!{w=0.3} Podemos extender los méritos de Philo la joyera a donde sea que vayamos!"
 
 # game/script/story/st_04.rpy:1318
 translate spanish sunscreen_07da1762:
 
     # e nulla "Woooooooon't weeeeeeee~?"
-    e nulla ""
+    e nulla "Noooooo lo hareeeeemoos~?"
 
 # game/script/story/st_04.rpy:1321
 translate spanish sunscreen_1e970dba:
 
     # d nulla "Aaah, what the hell.{w=0.3} We'll take them."
-    d nulla ""
+    d nulla "Aaah, que demonios.{w=0.3} Los tomaremos."
 
 # game/script/story/st_04.rpy:1323
 translate spanish sunscreen_b94e3f31:
 
     # e nulla "Yay!{w=0.3} I'm taking the one with the white gem!"
-    e nulla ""
+    e nulla "Yay!{w=0.3} Me llevo el que tiene una gema blanca!"
 
 # game/script/story/st_04.rpy:1325
 translate spanish sunscreen_08c8cb06:
 
     # ph nulla "A wise choice.{w=0.3} It suits your colours much better."
-    ph nulla ""
+    ph nulla "Una sabia elección.{w=0.3} Queda con tus colores mucho mejor"
 
 # game/script/story/st_04.rpy:1328
 translate spanish sunscreen_f841bbb2:
 
     # d nulla "I'll take the one with the red gem, then.{w=0.3} Thank you, miss Philo."
-    d nulla ""
+    d nulla "Tomaré el que tiene una gema roja, entonces.{w=0.3} Gracias, señorita Philo."
 
 # game/script/story/st_04.rpy:1333
 translate spanish sunscreen_9241cf28:
 
     # d_i nulla "(Huh.{w=0.3} This ring...?)"
-    d_i nulla ""
+    d_i nulla "(Huh.{w=0.3} Este anillo...?)"
 
 # game/script/story/st_04.rpy:1338
 translate spanish sunscreen_ee74a43e:
 
     # e nulla "It fits perfectly!"
-    e nulla ""
+    e nulla "Me queda perfecto!"
 
 # game/script/story/st_04.rpy:1340
 translate spanish sunscreen_54428994:
 
     # ph nulla "Of course they do.{w=0.3} I have an eye for these things..."
-    ph nulla ""
+    ph nulla "Por supuesto que lo hacen.{w=0.3} Tengo ojo para esas cosas..."
 
 # game/script/story/st_04.rpy:1342
 translate spanish sunscreen_68160b63:
 
     # ph nulla "Well, I've taken enough of your time.{w=0.3} Please, don't hesitate to come see me if you find any problems with them."
-    ph nulla ""
+    ph nulla "Bueno, he tomado suficiente de su tiempo.{w=0.3} Por favor, no duden en venir a verme si encuentran algún problema con ellos."
 
 # game/script/story/st_04.rpy:1345
 translate spanish sunscreen_7b8b82e5:
 
     # e nulla "Of course!{w=0.3} Thank you so much!"
-    e nulla ""
+    e nulla "Por supuesto!{w=0.3} Muchas gracias!"
 
 # game/script/story/st_04.rpy:1346
 translate spanish sunscreen_2aa26561:
 
     # d nulla "Have a nice day."
-    d nulla ""
+    d nulla "Ten un buen día."
 
 # game/script/story/st_04.rpy:1350
 translate spanish sunscreen_c3a3412e:
 
     # e nulla "What a nice girl."
-    e nulla ""
+    e nulla "Qué chica tan agradable."
 
 # game/script/story/st_04.rpy:1352
 translate spanish sunscreen_40fe3592:
 
     # d nulla "Yeah.{w=0.3} I'm not a particularly big fan of jewelry but, you know..."
-    d nulla ""
+    d nulla "Si.{w=0.3} No soy particularmente un fan de la joyería pero, ya sabes..."
 
 # game/script/story/st_04.rpy:1354
 translate spanish sunscreen_7399815c:
 
     # d nulla "A set of two, from the same maker, similar but different..."
-    d nulla ""
+    d nulla "Un set de dos, por la misma fabricante, similar pero diferente..."
 
 # game/script/story/st_04.rpy:1356
 translate spanish sunscreen_f664dfb4:
 
     # e nulla "I know...{w=0.5} Kinda makes it feel really official, hmm?"
-    e nulla ""
+    e nulla "Lo sé...{w=0.5} Lo hace medio sentir como si fuera realmente oficial, hmm?"
 
 # game/script/story/st_04.rpy:1359
 translate spanish sunscreen_3ea46b33:
 
     # e nulla "So, uhm...{w=0.5} While we're on the subject of, official stuff...{w=0.5} You think...?"
-    e nulla ""
+    e nulla "Asi que, uhm...{w=0.5} Mientras estamos en el tema de, cosa oficial...{w=0.5} Tú crees...?"
 
 # game/script/story/st_04.rpy:1361
 translate spanish sunscreen_29963717:
 
     # d nulla "Think what?"
-    d nulla ""
+    d nulla "Creer qué?"
 
 # game/script/story/st_04.rpy:1363
 translate spanish sunscreen_c00f007b:
 
     # e nulla "Hmm, you're going to make me say it...{w=0.5} I mean, we're still pretty young, but eventually...{w=0.5} I..."
-    e nulla ""
+    e nulla "Hmm, vas a hacer que lo diga...{w=0.5} Quiero decir, aún somos bastante jovenes, pero eventualmente...{w=0.5} Yo..."
 
 # game/script/story/st_04.rpy:1365
 translate spanish sunscreen_2af190d1:
 
     # e nulla "I would like to settle down...{w=0.5} And have a family.{w=0.3} You?"
-    e nulla ""
+    e nulla "Me gustaría sentar cabeza...{w=0.5} Y tener una familia.{w=0.3} Tú?"
 
 # game/script/story/st_04.rpy:1369
 translate spanish sunscreen_1fb50bb9:
 
     # d nulla "I...{w=0.5} I never really thought about it."
-    d nulla ""
+    d nulla "Yo...{w=0.5} Nunca pensé acerca de eso."
 
 # game/script/story/st_04.rpy:1371
 translate spanish sunscreen_ca97a30b:
 
     # d nulla "These last few years have been a whirlwind...{w=0.5} And honestly, I don't even know what a family is really like or supposed to be...{w=0.3} Like, a standard one, so I don't know if I would be a good..."
-    d nulla ""
+    d nulla "Estos últimos años han sido como un torbellino...{w=0.5} Y honestamente, ni siquiera sé como realmente una familia es o se supone que debe ser...{w=0.3} Como, una estandar, asi qué no se si sería una buena..."
 
 # game/script/story/st_04.rpy:1373
 translate spanish sunscreen_3d5a6508:
 
     # d nulla "Or a good...{w=0.5} You know what I mean?"
-    d nulla ""
+    d nulla "O una buena...{w=0.5} tú sabes a lo que me refiero?"
 
 # game/script/story/st_04.rpy:1375
 translate spanish sunscreen_c0644f21:
 
     # e nulla "I know...{w=0.5} But, since it's kind of important to me, give it a thought and, uhm, let me know?"
-    e nulla ""
+    e nulla "Lo sé...{w=0.5} Pero, desde que es importante para mi, piensalo y, uhm, avisame?"
 
 # game/script/story/st_04.rpy:1378
 translate spanish sunscreen_e82ca23e:
 
     # d nulla "Promise."
-    d nulla ""
+    d nulla "Lo prometo."
 
 # game/script/story/st_04.rpy:1392
 translate spanish dust_suit_magic_7725f26a:
 
     # d smile "Good morning, doctor.{w=0.3} Aqua."
-    d smile ""
+    d smile "Buenos días, doctor.{w=0.3} Aqua."
 
 # game/script/story/st_04.rpy:1393
 translate spanish dust_suit_magic_16ad0418:
 
     # en smile "Good morning, [p_n].{w=0.3} We have been impatiently waiting."
-    en smile ""
+    en smile "Buenos días, [p_n].{w=0.3} Te hemos estado esperando impacientemente."
 
 # game/script/story/st_04.rpy:1402
 translate spanish dust_suit_magic_21fd2d50:
 
     # d nulla "You have?"
-    d nulla ""
+    d nulla "Lo han hecho?"
 
 # game/script/story/st_04.rpy:1404
 translate spanish dust_suit_magic_81633c83:
 
     # aq nulla "Oh, yes.{w=0.3} The doctor may not have the most spontaneous of body languages but right now he is pretty much giddy."
-    aq nulla ""
+    aq nulla "Oh, si.{w=0.3} El doctor no tiene el lenguaje corporal mas espontaneo pero justo ahora está bastante contento."
 
 # game/script/story/st_04.rpy:1406
 translate spanish dust_suit_magic_7514e01f:
 
     # en nulla "Unnecessarily detailed, Aqua...{w=0.5} But accurate."
-    en nulla ""
+    en nulla "Innecesariamente detallada, Aqua...{w=0.5} Pero precisa."
 
 # game/script/story/st_04.rpy:1408
 translate spanish dust_suit_magic_52934f71:
 
     # aq nulla "See?"
-    aq nulla ""
+    aq nulla "Ves?"
 
 # game/script/story/st_04.rpy:1409
 translate spanish dust_suit_magic_311c747f:
 
     # d nulla "I'll take your word for it."
-    d nulla ""
+    d nulla "Te tomaré la palabra en ello."
 
 # game/script/story/st_04.rpy:1411
 translate spanish dust_suit_magic_8323ca55:
 
     # en nulla "Now, out of those clothes and into the pod you go, young man.{w=0.3} We have history to make."
-    en nulla ""
+    en nulla "Ahora, fuera de esa ropa y dentro de la cápsula, joven.{w=0.3} Tenemos historia por hacer."
 
 # game/script/story/st_04.rpy:1417
 translate spanish dust_suit_magic_6182d773:
 
     # en laugh "Hah!{w=0.3} First theory, confirmed."
-    en laugh ""
+    en laugh "Hah!{w=0.3} Primera teoría, confirmada."
 
 # game/script/story/st_04.rpy:1418
 translate spanish dust_suit_magic_51d018d5:
 
     # aq smile "Look at those readings!"
-    aq smile ""
+    aq smile "Mira esas lecturas!"
 
 # game/script/story/st_04.rpy:1419
 translate spanish dust_suit_magic_07d449c2:
 
     # d_i c_half surprise "(I've rarely seen Enrico or Aqua this excited over anything...)"
-    d_i c_half surprise ""
+    d_i c_half surprise "(Raramente he visto a Enrico o Aqua así de excitados sobre cualquier cosa...)"
 
 # game/script/story/st_04.rpy:1420
 translate spanish dust_suit_magic_4024f877:
 
     # en frown "Although, I wish we could have gotten data about..."
-    en frown ""
+    en frown "Aunque, desearía que hubieramos podido obtener datos sobre..."
 
 # game/script/story/st_04.rpy:1421
 translate spanish dust_suit_magic_fd4cedfe:
 
     # aq neutral "Not happening.{w=0.3} You know why."
-    aq neutral ""
+    aq neutral "No va a pasar.{w=0.3} Ya sabes por que."
 
 # game/script/story/st_04.rpy:1422
 translate spanish dust_suit_magic_a1b3eb6f:
 
     # en neutral "Quite...{w=0.5} This will have to do."
-    en neutral ""
+    en neutral "Totalmente...{w=0.5} Esto tendrá que hacerlo."
 
 # game/script/story/st_04.rpy:1423
 translate spanish dust_suit_magic_0cc7f3e6:
 
     # en smile "And theory number two is also confirmed.{w=0.3} The experiment is a success."
-    en smile ""
+    en smile "Y la teoría número dos también está confirmada.{w=0.3} El experimento es un éxito."
 
 # game/script/story/st_04.rpy:1424
 translate spanish dust_suit_magic_5908bfb7:
 
     # aq amused "More than that, doctor!{w=0.3} You said it yourself:{w=0.15} this is history!"
-    aq amused ""
+    aq amused "Mas que eso, doctor!{w=0.3} Lo dijiste tu mismo:{w=0.15} esto es historia!"
 
 # game/script/story/st_04.rpy:1425
 translate spanish dust_suit_magic_b6720e94:
 
     # d c_half surprise "Uhm, are you going to tell me what exactly is going on anytime soon?"
-    d c_half surprise ""
+    d c_half surprise "Uhm, van a contarme que está pasando exactamente en algún momento?"
 
 # game/script/story/st_04.rpy:1426
 translate spanish dust_suit_magic_724869d2:

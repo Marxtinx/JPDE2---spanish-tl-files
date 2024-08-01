@@ -3004,505 +3004,505 @@ translate spanish dust_suit_magic_b6720e94:
 translate spanish dust_suit_magic_724869d2:
 
     # aq laugh "In a few minutes!"
-    aq laugh ""
+    aq laugh "En unos minutos!"
 
 # game/script/story/st_04.rpy:1440
 translate spanish dust_suit_magic_85b3753f:
 
     # d nulla "So...{w=0.5} Explain?{w=0.3} Because so far I'm more confused than a homeless person under house arrest."
-    d nulla ""
+    d nulla "Asi que...{w=0.5} Expliquen?{w=0.3} Por que hasta ahora estoy mas pérdido que un vagabundo con arresto domiciliario."
 
 # game/script/story/st_04.rpy:1441
 translate spanish dust_suit_magic_9f50dd5f:
 
     # aq nulla "Hehehe~{w=0.5} So, [p_n], you've had Violet as a teacher, haven't you?"
-    aq nulla ""
+    aq nulla "Hehehe~{w=0.5} Asi que, [p_n], tuviste a violet como maestra, no?"
 
 # game/script/story/st_04.rpy:1443
 translate spanish dust_suit_magic_6eb554df:
 
     # d nulla "Yes?{w=0.5} And?"
-    d nulla ""
+    d nulla "Si?{w=0.5} Y?"
 
 # game/script/story/st_04.rpy:1445
 translate spanish dust_suit_magic_76548c06:
 
     # en nulla "Did she happen to ever mention {b}Textile Dust Enchantment{/b} as a concept?"
-    en nulla ""
+    en nulla "Ella alguna vez ha mencionado el {b}Encantamiento Textil con Dust{/b} como un concepto?"
 
 # game/script/story/st_04.rpy:1448
 translate spanish dust_suit_magic_450a41d4:
 
     # d nulla "It does sound familiar, yeah...{w=0.5} It was a process where clothes got lined with Dust?"
-    d nulla ""
+    d nulla "Suena familiar, si...{w=0.5} Era un proceso en el que las ropas eran forradas con Dust?"
 
 # game/script/story/st_04.rpy:1450
 translate spanish dust_suit_magic_41a4c9f1:
 
     # aq nulla "More or less, yeah.{w=0.3} The logic was to try and do with people's clothes what they have done with engines and the like:{w=0.3} make it so that Dust doesn't blast itself to bits after one use."
-    aq nulla ""
+    aq nulla "Mas o menos, si.{w=0.3} La lógica era intentar hacer con la ropa de la gente lo que han hecho con moteres y parecidos:{w=0.3} hacerlo de tal manera que el Dust no se explote en pedazos luego de un uso."
 
 # game/script/story/st_04.rpy:1451
 translate spanish dust_suit_magic_423db324:
 
     # en nulla "An interesting attempt at tackling scarcity of Dust, deemed unreliable after the Great War.{w=0.3} No materials able to withstand the process of usage for long were available at the time."
-    en nulla ""
+    en nulla "Un intento interesante de enfrentar la escasez de DUst, estimada poco confiable después de la Gran Guerra.{w=0.3} No había materiales capaces de soportar el proceso de uso largo disponibles en ese tiempo."
 
 # game/script/story/st_04.rpy:1453
 translate spanish dust_suit_magic_e4f5b8a6:
 
     # en nulla "And, unsurprisingly, it was totally buried once the {b}Schnee Company{/b} started supplying all of Remnant with cheap Dust...{w=0.5} Back in Atlas, there was no interest in funding this kind of research by the military, either."
-    en nulla ""
+    en nulla "Y, para sopresa de nadie, fue totalmente sepultado una vez la {b}Compañia Schnee{/b} empezó a suplir a todo Remnant con Dust barato...{w=0.5} Antes en Atlas, no había interes en financiar este tipo de investigación por parte del ejercito, tampoco."
 
 # game/script/story/st_04.rpy:1455
 translate spanish dust_suit_magic_30471011:
 
     # aq nulla "Back when they still had to come to some agreements with civil society, hm?"
-    aq nulla ""
+    aq nulla "Cúando ellos aún tenían que ocuparse de algunos acuerdos con la sociedad civil, hm?"
 
 # game/script/story/st_04.rpy:1456
 translate spanish dust_suit_magic_b20cb983:
 
     # en nulla "Indeed...{w=0.5} Point being."
-    en nulla ""
+    en nulla "En efecto...{w=0.5} Siendo el punto."
 
 # game/script/story/st_04.rpy:1458
 translate spanish dust_suit_magic_4eca8dd6:
 
     # en nulla "The concept has always interested me.{w=0.3} The research was always on my mind and, through the birth of Penny and Gemma, I've unlocked a number of advanced materials and computing processes which proved themselves quite fitting for the task."
-    en nulla ""
+    en nulla "El concepto siempre me ha interesado.{w=0.3} La investigación siempre estuvo en mi cabeza y, a traves del nacimiento de Penny y Genma, he desbloqueado un número de materiales avanzados y procesos informaticos que probaron ser bastante apropiados para la tarea."
 
 # game/script/story/st_04.rpy:1461
 translate spanish dust_suit_magic_9f3d975e:
 
     # en nulla "And as luck would have it...{w=0.5} Among the many minerals and metals which richly populate the surroundings of Peak, the ones we needed were bountiful."
-    en nulla ""
+    en nulla "Y como la suerte lo quiso...{w=0.5} Entre esos tantos minerales y metales que populan ricamente los alrededores de Peak, los que necesitabamos eran abundantes."
 
 # game/script/story/st_04.rpy:1462
 translate spanish dust_suit_magic_de922d3f:
 
     # d nulla "So you're telling me that the Dust Suit is an attempt at successfully making textile enchantment happen?{w=0.3} But I wasn't able to do anything like that."
-    d nulla ""
+    d nulla "Asi que me estás diciendo que el Traje de Dust es un intento de hacer el encantamiento textil un éxito?{w=0.3} Pero no he sido capaz de hacer nada como eso."
 
 # game/script/story/st_04.rpy:1463
 translate spanish dust_suit_magic_84c1a549:
 
     # aq nulla "It's not {i}just{/i} that.{w=0.3} First and foremost, the Dust Suit is support equipment, which we planned to be able to {b}adapt to the needs of the individual Hunter{/b}."
-    aq nulla ""
+    aq nulla "Es no {i}solo/i} eso.{w=0.3} Primero y principal, el Traje de Dust es un equipo de soporte, el cual está planeado para ser capaz de {b}adaptarse a las necesidades de un Cazador individual{/b}."
 
 # game/script/story/st_04.rpy:1467
 translate spanish dust_suit_magic_72e9e7af:
 
     # aq nulla "What you're wearing doesn't just give further protection from damage and elements, it will support everything your body does.{w=0.3} Make it easier and better.{w=0.3} Running, jumping, breathing, even digesting.{w=0.3} It's not a second skin, it's a brand new organ."
-    aq nulla ""
+    aq nulla "Lo que estás vistiendo no solo te da mayor protección del daño y el clima, va a ayudar a todo lo que tu cuerpo haga.{w=0.3} Hacerlo mas fácil y mejor.{w=0.3} Correr, saltar, respirar, incluso la digestión.{w=0.3} No es una segunda piel, es un completo nuevo órgano."
 
 # game/script/story/st_04.rpy:1469
 translate spanish dust_suit_magic_721f2a43:
 
     # aq nulla "Before unlocking the advanced stuff, though, it first needed a period of acclimatizing itself to the user.{w=0.3} Now it has, which means we can talk about slinging fireballs."
-    aq nulla ""
+    aq nulla "Antes de desbloquear las cosas avanzadas, sin embargo, primero necesita un periodo de aclimatización con el usuario.{w=0.3} Ahora lo tiene, lo que significa que podemos hablar acerca de lanzar bolas de fuego."
 
 # game/script/story/st_04.rpy:1472
 translate spanish dust_suit_magic_03a39219:
 
     # d nulla "Fireballs...?{w=0.5} Wait, you mean to tell me that professor Peach...?"
-    d nulla ""
+    d nulla "Bolas de fuego...?{w=0.5} Espera, intentas decirme que la profesora Peach...?"
 
 # game/script/story/st_04.rpy:1473
 translate spanish dust_suit_magic_933f502b:
 
     # en nulla "When Aqua brought her that Dust Crystal, she almost burst into tears.{w=0.3} And she thought of no better use for it than to immortalize it in a {b}Dust Core{/b}."
-    en nulla ""
+    en nulla "Cuando Aqua le trajo ese Cristal de Dust, ella casi rompea a llorar.{w=0.3} Y ella pensó que no había mejor uso para el que inmortalizarlo en un {b}Núcleo de Dust{/b}."
 
 # game/script/story/st_04.rpy:1475
 translate spanish dust_suit_magic_b47e85ad:
 
     # aq nulla "That's the brain of the outfit, so to speak.{w=0.3} Or the bullet in the chamber.{w=0.3} Depending on the Dust Core, you'll be able to do {b}different things{/b}."
-    aq nulla ""
+    aq nulla "Ese es el cerebro del traje, si quieres decirlo.{w=0.3} O la bala en la recamara.{w=0.3} Dependiendo del Núcleo de Dust, serás capaz de hacer {b}cosas diferentes{/b}."
 
 # game/script/story/st_04.rpy:1478
 translate spanish dust_suit_magic_a1f27a17:
 
     # aq nulla "The one they made out of that Dust Crystal, as hinted, allows you to sling fireballs.{w=0.3} Just pop this bad boy in the side-slot in your arm and replace the base one."
-    aq nulla ""
+    aq nulla "El que hiceron con ese Cristal de Dust, como sugerimos, te permite lanzar bolas de fuego.{w=0.3} Solo coloca a este chico malo en el hueco al lado de tu brazo y reemplaza el básico."
 
 # game/script/story/st_04.rpy:1481
 translate spanish dust_suit_magic_6b77a3c2:
 
     # d nulla "This sounds...{w=0.5} Alright, now I get why you were this excited!{w=0.3} This honestly sounds incredible!"
-    d nulla ""
+    d nulla "Esto suena...{w=0.5} Muy bien, ahora entiendo porque estaban tan excitados!{w=0.3} Esto honestamente suena increíble!"
 
 # game/script/story/st_04.rpy:1485
 translate spanish dust_suit_magic_49868381:
 
     # d_i nulla "(And it will compensate for my inability to use my Semblance!)"
-    d_i nulla ""
+    d_i nulla "(Y va a compensar mi inhabilidad de usar mi Semblanza!)"
 
 # game/script/story/st_04.rpy:1489
 translate spanish dust_suit_magic_c39a1229:
 
     # d nulla "So when does mass production start?"
-    d nulla ""
+    d nulla "Asi que cuando comienza la produccióon en masa?"
 
 # game/script/story/st_04.rpy:1492
 translate spanish dust_suit_magic_90ce3098:
 
     # en nulla "Unfortunately, not anytime soon...{w=0.5} First of all, there's the matter of needing data on {b}growth{/b}."
-    en nulla ""
+    en nulla "Desafortunadamente, no será pronto...{w=0.5} Primero que todo, está el asunto de necesitar datos en el {b}crecimiento{/b}."
 
 # game/script/story/st_04.rpy:1494
 translate spanish dust_suit_magic_2a2d1003:
 
     # en nulla "Theoretically, now that the Dust Suit has adjusted itself to you, {b}the more experience you gain with a Dust Core, the stronger and more varied its abilities will become.{/b}"
-    en nulla ""
+    en nulla "Teoricamente, ahora que el Traje de DUst se ha ajustado a ti, {b}mientras mas experiencia ganes con un Núcleo de Dust, mas fuertes y variadas se volverán sus habilidades.{/b}"
 
 # game/script/story/st_04.rpy:1495
 translate spanish dust_suit_magic_613bc1cc:
 
     # aq nulla "And second, to make Dust Cores we need {i}extremely{/i} pure Dust.{w=0.3} Purer than anything we can get in Peak, right now.{w=0.3} Was the main reason why we pulled in Violet, hoping she could help with that."
-    aq nulla ""
+    aq nulla "Y segundo, para hacer Núcleos de Dust necesitamos Dust {i}extremadamente{/i} puro.{w=0.3} Mas puro de lo que podemos conseguir en Peak, en estos momentos.{w=0.3} Fue la razón principal de porque invitamos a Viole, esperando que ella pueda ayudar con eso."
 
 # game/script/story/st_04.rpy:1498
 translate spanish dust_suit_magic_1bf5bdcb:
 
     # aq nulla "So until trade opens up, we can only hope you {b}find more Dust Crystals in the wild or decide to splurge on some during your travels{/b}."
-    aq nulla ""
+    aq nulla "Asi que hasta que el comercio vuelva, solo podemos tener esperanza de que {b}encuentres mas Cristales de Dust en la naturaleza o derroches en algunos durante tus viajes{/b}."
 
 # game/script/story/st_04.rpy:1499
 translate spanish dust_suit_magic_ca90a0d0:
 
     # d nulla "Ah, I get it...{w=0.5} Bummer."
-    d nulla ""
+    d nulla "Ah, lo tengo...{w=0.5} Que mal."
 
 # game/script/story/st_04.rpy:1500
 translate spanish dust_suit_magic_e93ead70:
 
     # en nulla "Indeed.{w=0.3} So, as the first and sole owner of a Dust Suit on Remnant, we're counting on you to help us advance this technology, [p_n]."
-    en nulla ""
+    en nulla "En efecto.{w=0.3} Asi que, como el primero y único dueño de un Traje de Dust en Remnant, estamos contando con tu ayuda en avanzar esta tecnología, [p_n]."
 
 # game/script/story/st_04.rpy:1502
 translate spanish dust_suit_magic_dfe4052b:
 
     # aq nulla "And pleaaaaaaaaaaaaaase bring us some more Dust!{w=0.3} I am finally allowed to make cores and I can't wait!"
-    aq nulla ""
+    aq nulla "Y por favooooooooooooor traenos un poco mas de Dust!{w=0.3} Finalmente me permitieron hacer núcleos y no puedo esperar!"
 
 # game/script/story/st_04.rpy:1504
 translate spanish dust_suit_magic_d3a1fde3:
 
     # d nulla "I will do my best.{w=0.3} And thanks."
-    d nulla ""
+    d nulla "Voy a hacer todo lo que pueda.{w=0.3} Y gracias."
 
 # game/script/story/st_04.rpy:1507
 translate spanish dust_suit_magic_9f4efe58:
 
     # d nulla "Now, I should probably get dressed and head back.{w=0.3} They're waiting on me for lunch."
-    d nulla ""
+    d nulla "Ahora, debería probablemente vestirme y regresar.{w=0.3} Me están esperando para el almuerzo"
 
 # game/script/story/st_04.rpy:1508
 translate spanish dust_suit_magic_98c416a8:
 
     # en nulla "Go with my blessings.{w=0.3} We're very much done, just make sure to check in with us when possible.{w=0.3} Or with Gemma if you're away on mission."
-    en nulla ""
+    en nulla "Ve con mis bendiciones.{w=0.3} Ya hemos terminado, solo asegurate de pasar para chequearte cuando sea posible.{w=0.3} O con Genma si estás lejos en una misión"
 
 # game/script/story/st_04.rpy:1511
 translate spanish dust_suit_magic_06645b91:
 
     # d nulla "Thank you kindly.{w=0.3} Have a good day."
-    d nulla ""
+    d nulla "Muchas gracias.{w=0.3} Tengan un buen día."
 
 # game/script/story/st_04.rpy:1516
 translate spanish dust_suit_magic_9b61dbce:
 
     # aq nulla "Talk with Gemma?{w=0.3} Seriously?"
-    aq nulla ""
+    aq nulla "Hablar con Genma?{w=0.3} En serio?"
 
 # game/script/story/st_04.rpy:1518
 translate spanish dust_suit_magic_a44b27c3:
 
     # en nulla "She can at least collect the data, no?"
-    en nulla ""
+    en nulla "Ella puede al menos recoletar los datos, no?"
 
 # game/script/story/st_04.rpy:1519
 translate spanish dust_suit_magic_3ec0bc19:
 
     # aq nulla "But she can't transmit it.{w=0.3} By the time she does, he will already have fresher data.{w=0.3} This is unacceptable."
-    aq nulla ""
+    aq nulla "Pero no puede transmitirlos.{w=0.3} Cuando ella lo haga, ya tendremos datos mas frescos.{w=0.3} Esto es inaceptable."
 
 # game/script/story/st_04.rpy:1520
 translate spanish dust_suit_magic_c002f353:
 
     # en nulla "Well, what would you propose, then?"
-    en nulla ""
+    en nulla "Bueno, que propondrías tú, entonces?"
 
 # game/script/story/st_04.rpy:1531
 translate spanish departure_4de04285:
 
     # tc neutral "Commander in Chief on the deck!"
-    tc neutral ""
+    tc neutral "Comandante en Jefe en la cubierta!"
 
 # game/script/story/st_04.rpy:1541
 translate spanish departure_a746bdec:
 
     # gl nulla "Requesting permission to come on-board, Commander."
-    gl nulla ""
+    gl nulla "Pidiendo permiso para ir a bordo, Comandante."
 
 # game/script/story/st_04.rpy:1543
 translate spanish departure_b1cb0989:
 
     # tc nulla "Granted.{w=0.3} Welcome on board, your grace."
-    tc nulla ""
+    tc nulla "Permitido.{w=0.3} Bienvenida a bordo, su gracia."
 
 # game/script/story/st_04.rpy:1545
 translate spanish departure_233d3df8:
 
     # tc nulla "And...{w=0.5} Entourage."
-    tc nulla ""
+    tc nulla "Y...{w=0.5} Séquito."
 
 # game/script/story/st_04.rpy:1556
 translate spanish departure_42f4de1c:
 
     # tc nulla "A pleasure to have you back on board so soon, di Kabegis.{w=0.3} Ivory.{w=0.3} Damerot.{w=0.5} And welcome on board, miss Polendina."
-    tc nulla ""
+    tc nulla "Un placer tenerlo de nuevo a bordo tan pronto, di Kabegis.{w=0.3} Ivory.{w=0.3} Damerot.{w=0.5} Y bienvenida a bordo, señorita Polendina."
 
 # game/script/story/st_04.rpy:1557
 translate spanish departure_4f09829b:
 
     # j nulla "Commander."
-    j nulla ""
+    j nulla "Comandante."
 
 # game/script/story/st_04.rpy:1558
 translate spanish departure_ede796f3:
 
     # d nulla "Hm."
-    d nulla ""
+    d nulla "Hm."
 
 # game/script/story/st_04.rpy:1559
 translate spanish departure_320227d0:
 
     # d_i nulla "(The ease with which you put on the skin of a military commander after being a crook your entire life sickens me, you bastard.)"
-    d_i nulla ""
+    d_i nulla "(La facilidad con la cual te pones en la piel de un comandante militar después de ser un ladrón tu vida entera me enferma, tú bastardo.)"
 
 # game/script/story/st_04.rpy:1560
 translate spanish departure_661093b8:
 
     # tc nulla "Heh."
-    tc nulla ""
+    tc nulla "Heh."
 
 # game/script/story/st_04.rpy:1562
 translate spanish departure_9a670ad6:
 
     # tc_i nulla "(You keep being the single most entertaining little Hunter, mister bestie.{w=0.3} Never change.)"
-    tc_i nulla ""
+    tc_i nulla "(Sigues siendo el pequeño Cazador mas entretenido, señor bestie.{w=0.3} Nunca canbies.)"
 
 # game/script/story/st_04.rpy:1564
 translate spanish departure_4b9533fe:
 
     # tc nulla "The crew will show you to your quarters.{w=0.3} You'll also be happy to know that the kitchens are up and running."
-    tc nulla ""
+    tc nulla "La tripulación los llevará hasta sus cuartos.{w=0.3} También estarán felices de saber que las cocinas están listas y funcionales."
 
 # game/script/story/st_04.rpy:1566
 translate spanish departure_a73fbd4c:
 
     # gl nulla "Quite.{w=0.3} But I will be having dinner in my quarters.{w=0.3} Care to join me, commander?"
-    gl nulla ""
+    gl nulla "Bastante.{w=0.3} Pero estaré teniendo la cena en mi cuarto.{w=0.3} Le importaría unisere, comandante?"
 
 # game/script/story/st_04.rpy:1567
 translate spanish departure_f5927a31:
 
     # tc nulla "It would be my honour."
-    tc nulla ""
+    tc nulla "Sería un honor."
 
 # game/script/story/st_04.rpy:1579
 translate spanish departure_117cc6bf:
 
     # e_n nulla "*whisper*\"Hey, you don't think...?"
-    e_n nulla ""
+    e_n nulla "Susurro*\"Hey, no crees...?"
 
 # game/script/story/st_04.rpy:1580
 translate spanish departure_39d12448:
 
     # d_n nulla "*whisper*\"Don't be ridiculous.{w=0.3} Miss Goodwitch and that guy?{w=0.3} Please."
-    d_n nulla ""
+    d_n nulla "*susurro*\"No seas rídicula.{w=0.3} La señorita Goodwitch y ese tipo?{w=0.3} Por favor."
 
 # game/script/story/st_04.rpy:1582
 translate spanish departure_a2dd6d1f:
 
     # p_no nulla "*whisper*\"They probably need to discuss things.{w=0.3} And who else would she have dinner with, on board?"
-    p_no nulla ""
+    p_no nulla "*susurro*\"Probablemente necesitan discutir cosas.{w=0.3} Y con quien mas podría ella tener una cena, a bordo?"
 
 # game/script/story/st_04.rpy:1584
 translate spanish departure_e7fdf0d6:
 
     # j_n nulla "*whisper*\"Still fun to imagine."
-    j_n nulla ""
+    j_n nulla "*susurro*\"Aún es graciso de imaginar."
 
 # game/script/story/st_04.rpy:1585
 translate spanish departure_f37c8f75:
 
     # g c_mili smile "Welcome on board, everyone."
-    g c_mili smile ""
+    g c_mili smile "Bienvenidos a bordo, a todos."
 
 # game/script/story/st_04.rpy:1593
 translate spanish departure_8d7812bf:
 
     # d nulla "Gem-One."
-    d nulla ""
+    d nulla "Gem-Uno-"
 
 # game/script/story/st_04.rpy:1594
 translate spanish departure_4522df08:
 
     # g nulla "Heheh...{w=0.5} Welcome back, Gem-Two."
-    g nulla ""
+    g nulla "Heheh...{w=0.5} Bienvenido de vuelta, Gem-Dos."
 
 # game/script/story/st_04.rpy:1596
 translate spanish departure_51be8b81:
 
     # j nulla "Gem what, now?"
-    j nulla ""
+    j nulla "Gem qué, ahora?"
 
 # game/script/story/st_04.rpy:1597
 translate spanish departure_9d0efb19:
 
     # p nulla "I believe those are their callsigns for remote communication during missions."
-    p nulla ""
+    p nulla "Creo que esos son sus nombre en clave para la comunicación remota durante las misiones."
 
 # game/script/story/st_04.rpy:1598
 translate spanish departure_413bb9cf:
 
     # e nulla "Ooooh~{w=0.5} Do we get those too?"
-    e nulla ""
+    e nulla "Ooooh~{w=0.5} Nos darán de esos también?"
 
 # game/script/story/st_04.rpy:1600
 translate spanish departure_8c4b3102:
 
     # g nulla "No."
-    g nulla ""
+    g nulla "No."
 
 # game/script/story/st_04.rpy:1605
 translate spanish departure_cb537fb5:
 
     # e nulla "What do you mean, no?"
-    e nulla ""
+    e nulla "Qué quieres decir con, no?"
 
 # game/script/story/st_04.rpy:1606
 translate spanish departure_9cc8d421:
 
     # g nulla "I'm only [p_n]'s operator, ergo I will be only exchanging directives with him on the field.{w=0.3} You don't need a callsign."
-    g nulla ""
+    g nulla "Soy la operadora de [p_n], ergo solo estaré intercambiando directrices con él en terreno.{w=0.3} No necesitan un nombre en clave."
 
 # game/script/story/st_04.rpy:1607
 translate spanish departure_1dc316ea:
 
     # j nulla "Hm...{w=0.5} I guess that makes sense, but it would be useful to be able to communicate with you too."
-    j nulla ""
+    j nulla "Hm...{w=0.5} Supongo que tiene sentido, pero sería útil poder comunicarse contigo también."
 
 # game/script/story/st_04.rpy:1608
 translate spanish departure_27a8462b:
 
     # g nulla "You can apply for a communicator but we don't have that many available, so the chance of the request being granted is slim."
-    g nulla ""
+    g nulla "Puedes aplicar para un comunicador pero no tenemos demasiados disponibles, así que las chances de la petición siendo aprobada son escasas."
 
 # game/script/story/st_04.rpy:1610
 translate spanish departure_456eee50:
 
     # g nulla "And [p_n]'s prosthetic arm is better than any communicator we have on board, anyway.{w=0.3} It would be redundant."
-    g nulla ""
+    g nulla "Y el brazo prostetico de [p_n] es mejor que cualquier comunicador que tenemos a bordo, de todos modos.{w=0.3} Sería redundante."
 
 # game/script/story/st_04.rpy:1613
 translate spanish departure_38693ccb:
 
     # d nulla "Heh.{w=0.3} Polendina technology, am I right?"
-    d nulla ""
+    d nulla "Heh.{w=0.3} Tecnología Polendina, estoy en lo cierto?"
 
 # game/script/story/st_04.rpy:1615
 translate spanish departure_afff3537:
 
     # p nulla "Yup!"
-    p nulla ""
+    p nulla "Yup!"
 
 # game/script/story/st_04.rpy:1616
 translate spanish departure_8c85039b:
 
     # g nulla "Umu.{w=0.3} Now let me show you to your room.{w=0.3} Then I have a surpr-"
-    g nulla ""
+    g nulla "Umu.{w=0.3} Ahora dejenme mostrarles su cuarto.{w=0.3} Entonces tengo una sorpre-"
 
 # game/script/story/st_04.rpy:1617
 translate spanish departure_07ee9254:
 
     # aq sweat shock eye_up "WAITWAITWAITWAITFORME!{w=0.3} GENIUS COMING THROUGH!{w=0.3} DON'T CLOSE THE HATCH YET!"
-    aq sweat shock eye_up ""
+    aq sweat shock eye_up "ESPERENESPERENESPERENESPERNPORMI!{w=0.3} GENIA LLEGANDO!{w=0.3} NO CIERREN LA PUERTA AUN!"
 
 # game/script/story/st_04.rpy:1632
 translate spanish departure_8665ff7a:
 
     # aq nulla "Jeez, my heart!{w=0.3} I gotta do more cardio!"
-    aq nulla ""
+    aq nulla "Jeez, mi corazón!{w=0.3} Necesito hacer mas cardio!"
 
 # game/script/story/st_04.rpy:1633
 translate spanish departure_63e08246:
 
     # j nulla "Aqua?!{w=0.3} What are you doing here?!"
-    j nulla ""
+    j nulla "Aqua?!{w=0.3} Qué estás haciendo aquí?!"
 
 # game/script/story/st_04.rpy:1635
 translate spanish departure_b60bb93f:
 
     # aq nulla "Heh...{w=0.5} Heheh...{w=0.5} I have officially been...{w=0.5} Assigned as...{w=0.5} Mission support to your team."
-    aq nulla ""
+    aq nulla "Heh...{w=0.5} Heheh...{w=0.5} He sido oficialmente...{w=0.5} Asignada como...{w=0.5} Soporte para la misión de tu equipo."
 
 # game/script/story/st_04.rpy:1641
 translate spanish departure_7d3195c1:
 
     # e nulla "You what?"
-    e nulla ""
+    e nulla "Tú qué?"
 
 # game/script/story/st_04.rpy:1642
 translate spanish departure_4ab45330:
 
     # g nulla "But...!"
-    g nulla ""
+    g nulla "Pero...!"
 
 # game/script/story/st_04.rpy:1644
 translate spanish departure_81099fd8:
 
     # aq nulla "Gotta keep a close eye...{w=0.5} On our prototype...{w=0.5} Huuuuff..."
-    aq nulla ""
+    aq nulla "Necesito mantener revisado...{w=0.5} Nuestro prototipo...{w=0.5} Huuuuff..."
 
 # game/script/story/st_04.rpy:1646
 translate spanish departure_bb1cac2a:
 
     # aq nulla "Now...{w=0.5} These guys better have loaded my stuff as ordered.{w=0.3} Hey, who can I chew out about cargo?!"
-    aq nulla ""
+    aq nulla "Ahora...{w=0.5} Espero que esos tipos hayan cargado mis cosas como les ordené.{w=0.3} Hey, con quién puedo quejarme acerca de cargamento?!"
 
 # game/script/story/st_04.rpy:1650
 translate spanish departure_52947b1e:
 
     # j nulla "Well, this trip certainly won't be boring."
-    j nulla ""
+    j nulla "Bueno, este viaje ciertamente no va a ser aburrido."
 
 # game/script/story/st_04.rpy:1653
 translate spanish departure_290a242f:
 
     # d nulla "I guess she {i}really{/i} cares about the project."
-    d nulla ""
+    d nulla "Supongo que a ella {i}realmente{/i} le importa el proyecto."
 
 # game/script/story/st_04.rpy:1655
 translate spanish departure_7f832a1c:
 
     # e nulla "Workaholic and all that!{w=0.3} Or maybe she just wanted to be away from the professor for a while!"
-    e nulla ""
+    e nulla "Adicta al trabajo y todo eso!{w=0.3} O quizás ella solo quería estar lejos del profesor por un tiempo!"
 
 # game/script/story/st_04.rpy:1660
 translate spanish departure_6b0ec1d1:
 
     # p nulla "Oh, papa...{w=0.5} Come on, Gemma."
-    p nulla ""
+    p nulla "Oh, pápa...{w=0.3} Vamos, Genma."
 
 # game/script/story/st_04.rpy:1664
 translate spanish departure_5368fa9d:
 
     # g nulla "But I'm mission support..."
-    g nulla ""
+    g nulla "Pero yo soy el soporte para la misión..."
 
 # game/script/story/st_04.rpy:1671
 translate spanish departure_6edb251b:

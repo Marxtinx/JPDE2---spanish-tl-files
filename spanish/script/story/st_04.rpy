@@ -3508,403 +3508,403 @@ translate spanish departure_5368fa9d:
 translate spanish departure_6edb251b:
 
     # j surprise "Oh...{w=0.5} Oh, wow, this brings me back."
-    j surprise ""
+    j surprise "Oh...{w=0.5} Oh, wow, esto me trae recuerdos."
 
 # game/script/story/st_04.rpy:1674
 translate spanish departure_1c33eb9a:
 
     # e smile "The beds, you mean?"
-    e smile ""
+    e smile "Las camas, a eso te refieres?"
 
 # game/script/story/st_04.rpy:1675
 translate spanish departure_3899686f:
 
     # j surprise "Yeah...{w=0.5} Last time all our beds were in the same room we were still in Beacon."
-    j surprise ""
+    j surprise "Si...{w=0.5} La última vez que nuetras camas estuvieron en la misma habitación aún estabamos en Beacon."
 
 # game/script/story/st_04.rpy:1686
 translate spanish departure_e03363df:
 
     # j nulla "Remember when our worries were less existential and world-ending?"
-    j nulla ""
+    j nulla "Recuerdas cuando nuestras preocupaciones eran menos sobre el fin del mundo y existenciales?"
 
 # game/script/story/st_04.rpy:1687
 translate spanish departure_b335af50:
 
     # p nulla "When I still had to learn how to actually fall asleep..."
-    p nulla ""
+    p nulla "Cuando yo aún tenía que aprender como dormir de verdad..."
 
 # game/script/story/st_04.rpy:1688
 translate spanish departure_30b1364b:
 
     # e nulla "When I first snuck in our dorm room and found this guy conked out..."
-    e nulla ""
+    e nulla "Cuando yo entré a escondidas a nuestro dormitorio y encontré a este tipo durmiendo..."
 
 # game/script/story/st_04.rpy:1689
 translate spanish departure_d4fe3ea7:
 
     # d nulla "And then Ruby and Penny walked in and the latter almost body-slammed you..."
-    d nulla ""
+    d nulla "Y luego Ruby y Penny llegaron y la última casi te taclea..."
 
 # game/script/story/st_04.rpy:1691
 translate spanish departure_7fceb372:
 
     # j nulla "Aaaaah, the naivety of youth...{w=0.5} Anyway, Evelyn, you're sleeping in the bunk over mine."
-    j nulla ""
+    j nulla "Aaaaah, la inocencia de la juventud...{w=0.5} De todos modos, Evely, dormirás en la litera arriba de la mía."
 
 # game/script/story/st_04.rpy:1693
 translate spanish departure_7967fb03:
 
     # e nulla "Aaaaw, I was actually thinking I might sleep under [p_n]'s~"
-    e nulla ""
+    e nulla "Aaaaw, en realidad estaba pensando que debería dormir en la de abaja de la de [p_n]~"
 
 # game/script/story/st_04.rpy:1695
 translate spanish departure_363b0a25:
 
     # j nulla "Ahahahah, I see..."
-    j nulla ""
+    j nulla "Ahahahah, ya veo..."
 
 # game/script/story/st_04.rpy:1697
 translate spanish departure_f96d1e70:
 
     # j nulla "IT WASN'T A REQUEST!"
-    j nulla ""
+    j nulla "NO ERA UNA SUGERENCIA!"
 
 # game/script/story/st_04.rpy:1707
 translate spanish departure_eb27db19:
 
     # j nulla "ONE:{w=0.3} YOU ALREADY HAD PLENTY OF HIM EARLIER TODAY!{w=0.3} TWO:{w=0.3} I'M PUTTING A MORATORIUM ON PHYSICAL INTIMACY IN ANY SITUATION WHERE WE SHARE A ROOM!"
-    j nulla ""
+    j nulla "UNO:{w=0.3} YA TUVISTE BASTANTE DE EL MAS TEMPRANO HOY!{w=0.3} DOS:{w=0.3} ESTOY PONIENDO UNA MORATORIA A LA INTIMIDAD FISICA EN CUALQUIER SITUACION EN LA QUE COMPARTAMOS UN CUARTO!"
 
 # game/script/story/st_04.rpy:1708
 translate spanish departure_c7bf9454:
 
     # p nulla "J-{w=0.15}Jack, I don't think-"
-    p nulla ""
+    p nulla "J-{w=0.15}Jack, no creo-"
 
 # game/script/story/st_04.rpy:1710
 translate spanish departure_3f956c7b:
 
     # j nulla "NO!{w=0.3} SHUT UP!{w=0.3} YOU CAN LITERALLY TURN OFF YOUR HEARING, I CAN'T!"
-    j nulla ""
+    j nulla "NO!{w=0.3} CALLATE!{w=0.3} TU PUEDES LITERALMENTE APAGAR TU AUDICION, YO NO!"
 
 # game/script/story/st_04.rpy:1714
 translate spanish departure_2ac90d40:
 
     # j nulla "I WILL {b}NOT{/b} BE COLLATERAL DAMAGE TO YOUR BROTHERS DAMNED LIBIDOS EVER AGAIN!{w=0.3} AND YOU'RE NOT ALLOWED TO SNEAK AROUND BEFORE THE START OF ANY MISSION, EITHER!{w=0.3} KEEP YOUR ENERGY FOR THE FIELD!{w=0.3} NO IF, ANDS OR BUTS!"
-    j nulla ""
+    j nulla "YO {b}NO{/b} SERE DAÑO COLATERAL DE SU LIBIDO MALDITO POR LOS HERMANOS NUNCA MAS!{b}NOT{/b} Y NO TIENEN PERMITIDO ESCABULLIRSE ANTES DEL INICIO DE ALGUNA MISION, TAMPOCO!{w=0.3} GUARDEN SU ENERGIA PARA EL CAMPO DE BATALLA!{w=0.3} SIN 'Y SI', 'Y' O 'PEROS'."
 
 # game/script/story/st_04.rpy:1717
 translate spanish departure_ca2ef87e:
 
     # e nulla "But-"
-    e nulla ""
+    e nulla "Pero-"
 
 # game/script/story/st_04.rpy:1720
 translate spanish departure_2f7c6366:
 
     # j nulla "NO BUTS!{w=0.3} OR BREASTS!{w=0.3} OR VAGINAS OR ANYTHING ELSE!{w=0.3} IF I SEE ANY OF YOU TWO ANYWHERE BUT WHERE YOU'RE SUPPOSED TO BE AFTER LIGHTS OUT, {i}I WILL PUNT YOU OFF THIS SHIP!{/i}"
-    j nulla ""
+    j nulla "SIN PEROS NI TRASEROS{w=0.3} O PECHOS!{w=0.3} O VAGINAS O CUALQUIER OTRA COSA!{w=0.3} SI VEO A ALGUNO DE USTEDES DOS EN CUALQUIER LUGAR EXCEPTO DONDE SE SUPONE QUE DEBEN ESTAR DESPUES DE QUE LAS LUCES SE APAGUEN,{i}VOY A LANZARLOS DESDE LA NAVE!{/i}  "
 
 # game/script/story/st_04.rpy:1721
 translate spanish departure_93bfb432:
 
     # d nulla "Well, I mean...{w=0.5} I did that once and I survived...?"
-    d nulla ""
+    d nulla "Bueno, quiero decir...{w=0.5} Yo hice eso una vez y sobreviví...?"
 
 # game/script/story/st_04.rpy:1724
 translate spanish departure_7a1d8262:
 
     # j nulla "{i}Oh, we're feeling lucky, punk?{w=0.5} Please, make my day.{/i}"
-    j nulla ""
+    j nulla "{i}Oh, te sientes con suerte, vándalo?{w=0.5} Por favor, hazme el día.{/i}"
 
 # game/script/story/st_04.rpy:1729
 translate spanish departure_bc7ea3bd:
 
     # j nulla "That's what I thought.{w=0.3} Now unpack and let's get some dinner."
-    j nulla ""
+    j nulla "Eso es lo que pensaba.{w=0.3} Ahora desempaquen y vamos a por la cena."
 
 # game/script/story/st_04.rpy:1735
 translate spanish departure_8899a19b:
 
     # e nulla "She...{w=0.5} Got so much scarier over the years, huh?"
-    e nulla ""
+    e nulla "Ella...{w=0.5} Se hizo mucho mas aterradora con los años, huh?"
 
 # game/script/story/st_04.rpy:1736
 translate spanish departure_21cfef3a:
 
     # d nulla "How long is our trip to Menagerie going to last?"
-    d nulla ""
+    d nulla "Cuán largo va a ser nuestro viaje a Menagerie?"
 
 # game/script/story/st_04.rpy:1737
 translate spanish departure_ff069af4:
 
     # p nulla "19 hours.{w=0.3} 19 long hours."
-    p nulla ""
+    p nulla "19 horas.{w=0.3} 19 largas horas."
 
 # game/script/story/st_04.rpy:1739
 translate spanish departure_613afa7c:
 
     # d nulla "Well...{w=0.5} Let's all try and not arouse her anger-"
-    d nulla ""
+    d nulla "Bueno...{w=0.5} Intentemos no depertar su ira-"
 
 # game/script/story/st_04.rpy:1740
 translate spanish departure_fdf31a46:
 
     # j angry "What the FUCK DID YOU JUST SAY?!"
-    j angry ""
+    j angry "Qué DEMONIOS ACABAS DE DECIR?!"
 
 # game/script/story/st_04.rpy:1742
 translate spanish departure_d74b15ec:
 
     # d nulla "NOTHING!"
-    d nulla ""
+    d nulla "NADA!"
 
 # game/script/story/st_04.rpy:1754
 translate spanish departure_0daf3aa3:
 
     # ka_x darko frown "When did this arrive?"
-    ka_x darko frown ""
+    ka_x darko frown "Cúando llego esto?"
 
 # game/script/story/st_04.rpy:1755
 translate spanish departure_fc6e91a7:
 
     # me_aide "But a few minutes ago through the secured line, {b}lady Belladonna{/b}."
-    me_aide ""
+    me_aide "Hace unos minutos desde la linea segura, {b}señora Belladonna{/b}."
 
 # game/script/story/st_04.rpy:1759
 translate spanish departure_b684681b:
 
     # ka nulla "And it was transmitted directly from the Valesian Council?"
-    ka nulla ""
+    ka nulla "Y fue transmitido directamente desde el Consejo Valesiano?"
 
 # game/script/story/st_04.rpy:1760
 translate spanish departure_de528235:
 
     # me_aide "Yes, milady.{w=0.3} We were just as surprised.{w=0.3} They hadn't contacted us since the Fall of Beacon."
-    me_aide ""
+    me_aide "Si, mi señora.{w=0.3} Nosotros estuvimos igualmente sorprendidos.{w=0.3} No nos han contactado desde la Caída de Beacon"
 
 # game/script/story/st_04.rpy:1761
 translate spanish departure_e7e8b59e:
 
     # ka nulla ".{w=0.3}.{w=0.3}.{w=0.5}I wonder if it's something they concerted with Atlas, still, or..."
-    ka nulla ""
+    ka nulla ".{w=0.3}.{w=0.3}.{w=0.5}Me pregunto si es algo que han coordinado con Atlas, o..."
 
 # game/script/story/st_04.rpy:1765
 translate spanish departure_a319997e:
 
     # ka nulla "One less empty chair, then.{w=0.3} {b}A valesian envoy is going to attend the conference{/b}."
-    ka nulla ""
+    ka nulla "Una silla vacía menos, entonces.{w=0.3} {b}Un enviado valesiano va a asistir a la conferencia{/b}."
 
 # game/script/story/st_04.rpy:1773
 translate spanish departure_0cf43056:
 
     # aq amused "Sooooo?{w=0.3} What do you think?"
-    aq amused ""
+    aq amused "Asi queeeeee?{w=0.3} Qué es lo que piensas?"
 
 # game/script/story/st_04.rpy:1777
 translate spanish departure_987cd7d2:
 
     # p surprise "Well, uhm, it's...{w=0.5} Pretty much identical to papa's lab?"
-    p surprise ""
+    p surprise "Bueno, uhm, es...{w=0.5} Bastante identico al laboratorio de pápa?"
 
 # game/script/story/st_04.rpy:1778
 translate spanish departure_e96a0621:
 
     # aq frown "Is not!{w=0.3} Look at the wall in front of us!"
-    aq frown ""
+    aq frown "No lo es!{w=0.3} Mira a la pared en frente de nosotros!"
 
 # game/script/story/st_04.rpy:1787
 translate spanish departure_e36cb40c:
 
     # aq nulla "It's got much more style~{w=0.5} The Skyver style."
-    aq nulla ""
+    aq nulla "Tiene mucho mas estilo~{w=0.5} El estilo Skyver."
 
 # game/script/story/st_04.rpy:1788
 translate spanish departure_bd811118:
 
     # p nulla "If...{w=0.5} If you say so."
-    p nulla ""
+    p nulla "Si...{w=0.5} Si tu lo dices."
 
 # game/script/story/st_04.rpy:1790
 translate spanish departure_035e0ccc:
 
     # d nulla "Okay, fine, it's got style.{w=0.3} What else can it do for us, though?"
-    d nulla ""
+    d nulla "Okay, bien, tiene estilo.{w=0.3} Pero qué mas puede hacer por nosotros?"
 
 # game/script/story/st_04.rpy:1792
 translate spanish departure_8606987c:
 
     # aq nulla "Anything the lab in Peak can and more!{w=0.3} Just swing by whenever you got enough mileage out of your suit and we'll see about processing it through your Dust core."
-    aq nulla ""
+    aq nulla "Cualquier cosa que el laboratorio de Peak y mas!{w=0.3} Solo pasate cuando consigas suficientes millas en el traje y veremos como procesarlo mediante tu núcleo de Dust."
 
 # game/script/story/st_04.rpy:1794
 translate spanish departure_5d7aa5df:
 
     # aq nulla "Aaaaah, I can't wait, I can't wait, I can't wait!{w=0.3} The projections I've made...{w=0.5} Hurry up and get into some fights, already!"
-    aq nulla ""
+    aq nulla "Aaaaah, no puedo esperar, no puedo esperar, no puedo esperar!{w=0.3} Los pronosticos que he hecho...{w=0.5} Apurate y metete en algunas peleas, ya!"
 
 # game/script/story/st_04.rpy:1796
 translate spanish departure_d13a8b76:
 
     # p nulla "Uhm, he will only when necessary.{w=0.3} There's more to being a Hunter than fighting Grimm, you know?"
-    p nulla ""
+    p nulla "Uhm, el solo lo hará cuando sea necesario.{w=0.3} Hay mas acerca de ser un Cazador que pelear con los Grimm, sabes?"
 
 # game/script/story/st_04.rpy:1799
 translate spanish departure_ae9bca2d:
 
     # aq nulla "Oh, it doesn't need to be a Grimm!{w=0.3} Maybe you could wrangle some boars or something!{w=0.3} Char them up real good!"
-    aq nulla ""
+    aq nulla "Oh, no necesitan ser Grimm!{w=0.3} Tal vez podrías pelear con algunos jablies o algo!{w=0.3} Chamuscarlos bien!"
 
 # game/script/story/st_04.rpy:1801
 translate spanish departure_729d462d:
 
     # p nulla "Absolutely not!"
-    p nulla ""
+    p nulla "Absolutamente no!"
 
 # game/script/story/st_04.rpy:1803
 translate spanish departure_86d7d508:
 
     # aq nulla "Aw, why not?"
-    aq nulla ""
+    aq nulla "Aw, por qué no?"
 
 # game/script/story/st_04.rpy:1805
 translate spanish departure_dd450314:
 
     # p nulla "First of all, there's no native purcines to Menagerie!{w=0.3} Second of all, because I said so!"
-    p nulla ""
+    p nulla "Primero que nada, no hay porcinos nativos en Menagerie!{w=0.3} Segundo, porque yo lo digo!"
 
 # game/script/story/st_04.rpy:1807
 translate spanish departure_4e947c07:
 
     # d nulla "Penny...{w=0.5} It's fine, she doesn't really mean it."
-    d nulla ""
+    d nulla "Penny...{w=0.5} Esta bien, ella realmente no lo dice en serio."
 
 # game/script/story/st_04.rpy:1809
 translate spanish departure_586a0a83:
 
     # p_i nulla "(Doesn't she?)"
-    p_i nulla ""
+    p_i nulla "(No lo hace?)"
 
 # game/script/story/st_04.rpy:1810
 translate spanish departure_367ab3e5:
 
     # d nulla "Anyway, thanks for the tour.{w=0.3} I'll be sure to swing by regularly...{w=0.5} But now we need to go check Gemma's surprise."
-    d nulla ""
+    d nulla "De cualquier modo, gracias por el tour.{w=0.3} Me aseguraré de pasarme por aquí regularmente...{w=0.5} Pero ahora necesitamos ir a ver la sopresa de Genma."
 
 # game/script/story/st_04.rpy:1812
 translate spanish departure_0e21cd59:
 
     # aq nulla "Speaking of which, any idea what that's all about?{w=0.3} I heard you mention it and I asked, but she's been quite tight-lipped."
-    aq nulla ""
+    aq nulla "Hablando de, alguna idea sobre que es eso?{w=0.3} Escuché que lo mencionaste y le pregunté, pero ella ha sido bastante hemética al respecto."
 
 # game/script/story/st_04.rpy:1814
 translate spanish departure_6cedb416:
 
     # p nulla "From what I understand, she was actually going to show it to us yesterday but after you came on-board she decided she needed to...{w=0.5} Fine-tune it more."
-    p nulla ""
+    p nulla "Por lo que entiendo, ella en realidad iba a mostrarnoslo ayer pero después de que vinieras a bordo ella decidió que necesitaba...{w=0.5} Pulirlo mas."
 
 # game/script/story/st_04.rpy:1816
 translate spanish departure_390efced:
 
     # aq nulla "Aw, really?{w=0.3} See how having a genius like me on board is beneficial?{w=0.3} I'm already inspiring younglings to reach for greater heights just by being around."
-    aq nulla ""
+    aq nulla "Aw, en serio?{w=0.3} Ves como tener una genio como yo a bordo es beneficioso?{w=0.3} Ya estoy inspirado a los jovenes a alcanzar nuevas alturas solo por estar alrededor."
 
 # game/script/story/st_04.rpy:1818
 translate spanish departure_a8c635de:
 
     # d nulla "Ehm, sure...{w=0.5} Let's go with that.{w=0.3} Anyway, they're waiting for us, sooo..."
-    d nulla ""
+    d nulla "Ehm, claro...{w=0.5} Vayamos con eso.{w=0.3} De todos modos, están esperando por nosotros, asi queeee..."
 
 # game/script/story/st_04.rpy:1820
 translate spanish departure_3341f906:
 
     # aq nulla "Oh, don't let me keep you!{w=0.3} Have fun and say hi to my little apprentice!"
-    aq nulla ""
+    aq nulla "Oh, no queiro detenerte!{w=0.3} Diviertanse y diganle hola a mi pequeña aprendiz!"
 
 # game/script/story/st_04.rpy:1824
 translate spanish departure_f81af0cc:
 
     # d nulla ".{w=0.3}.{w=0.3}.{w=0.5}I didn't get if that last part was a joke or...?"
-    d nulla ""
+    d nulla ".{w=0.3}.{w=0.3}.{w=0.5}No sé si la última parte era una broma o...?"
 
 # game/script/story/st_04.rpy:1825
 translate spanish departure_98bb31d3:
 
     # p nulla "I'm starting to understand why papa took her on as an apprentice."
-    p nulla ""
+    p nulla "Estoy empezando a entender porque pápa la tomó como su aprendiz."
 
 # game/script/story/st_04.rpy:1826
 translate spanish departure_92c496ce:
 
     # d nulla "Because of her talent?"
-    d nulla ""
+    d nulla "Por su talento?"
 
 # game/script/story/st_04.rpy:1828
 translate spanish departure_70b11b6f:
 
     # p nulla "To contain her ego.{w=0.3} He knows a thing or two about that."
-    p nulla ""
+    p nulla "Para contener su ego.{w=0.3} Él sabe una cosa o dos sobre eso."
 
 # game/script/story/st_04.rpy:1843
 translate spanish departure_42f87514:
 
     # p smile "We're here!{w=0.3} Sorry to have kept you waiting!"
-    p smile ""
+    p smile "Aquí estamos!{w=0.3} Perdón por hacerlos esperar!"
 
 # game/script/story/st_04.rpy:1844
 translate spanish departure_930ad9e3:
 
     # e nulla "Hey, dears~{w=0.5} You will not believe what Gemma has prepared for us."
-    e nulla ""
+    e nulla "Hey, carños~{w=0.5} No van a creer lo que Genma ha preparado para nosotros."
 
 # game/script/story/st_04.rpy:1851
 translate spanish departure_1fc4edff:
 
     # p nulla "Intriguing.{w=0.3} Is it a personal project of yours you want to show us?"
-    p nulla ""
+    p nulla "Intrigante.{w=0.3} Es un proyecto personal tuyo que quieres mostrarnos?"
 
 # game/script/story/st_04.rpy:1852
 translate spanish departure_baf31b21:
 
     # g nulla "Yes.{w=0.5} It already was in a functioning state yesterday, but..."
-    g nulla ""
+    g nulla "Si.{w=0.5} Ya estaba en un estado funcional ayer, pero..."
 
 # game/script/story/st_04.rpy:1854
 translate spanish departure_61175299:
 
     # g nulla "Unexpected developments made it necessary to prepare a more personalized experience."
-    g nulla ""
+    g nulla "Acontecimientos inesperados hicieron necesario preparar una experiencia mas personalizada."
 
 # game/script/story/st_04.rpy:1856
 translate spanish departure_8c3089bc:
 
     # d nulla "A personalized experience...?{w=0.5} Is it like, a game or something?"
-    d nulla ""
+    d nulla "Una experiencia personalizada...?{w=0.5} Es como, un juego o algo parecido?"
 
 # game/script/story/st_04.rpy:1860
 translate spanish departure_362f2116:
 
     # j nulla "You could call it that, I guess...{w=0.5} Gemma, you gotta tell them the same way you told us."
-    j nulla ""
+    j nulla "Puedes llamarlo asi, supongo...{w=0.5} Genma, tienes que decirselo de la misma manera que a nosotras."
 
 # game/script/story/st_04.rpy:1862
 translate spanish departure_3c56f633:
 
     # g nulla "Okay.{w=0.3} Uhm, Penny, [p_n]..."
-    g nulla ""
+    g nulla "Okay.{w=0.3} Uhm, Penny, [p_n]..."
 
 # game/script/story/st_04.rpy:1864
 translate spanish departure_4c477dcf:
 
     # g nulla "Would you like to have {b}a rematch with Howard Tarangi{/b}?"
-    g nulla ""
+    g nulla "Les gustaría tener {b}una revancha con Howard Tarangi{/b}"
 
 # game/script/story/st_04.rpy:1873
 translate spanish departure_0d4cd453:
 
     # d nulla "Tell me more."
-    d nulla ""
+    d nulla "Dime mas."
 
 # game/script/story/st_04.rpy:1890
 translate spanish departure_3b8e75bb:
@@ -3912,7 +3912,7 @@ translate spanish departure_3b8e75bb:
     # voice "audio/vo/narrator/021.ogg"
     # na "With a mission and a plan, Team JPDE is now on the trail of Maria Calavera and Ruby Rose.{w=0.3} At the same time, Glynda Goodwitch is set to challenge the world order for the Duchy's right to exist."
     voice "audio/vo/narrator/021.ogg"
-    na ""
+    na "Con una mision y un plan, el Equipo JPDE está ahora en camino hacia Maria Calavera y Ruby Rose.{w=0.3} Al mismo tiempo, Glynda Goodwitch está decidida a desafiar al orden mundial por el derecho de existir del Ducado,"
 
 # game/script/story/st_04.rpy:1893
 translate spanish departure_4c49a3b6:
@@ -3920,7 +3920,7 @@ translate spanish departure_4c49a3b6:
     # voice "audio/vo/narrator/022.ogg"
     # na "What will be the outcome of the Security Conference?{w=0.3} And will the team succeed in their primary assignment of recruiting the Grimm Reaper?"
     voice "audio/vo/narrator/022.ogg"
-    na ""
+    na "Cúal será el resultado de la Conferencia de Seguridad?{w=0.3} Y podrá el equipo tener éxito en su misión primaria de reclutar a la Segadora de Grimm?"
 
 # game/script/story/st_04.rpy:1895
 translate spanish departure_84112707:
@@ -3928,79 +3928,79 @@ translate spanish departure_84112707:
     # voice "audio/vo/narrator/023.ogg"
     # na "Find out in the next beach-adjacent episode of {b}JPDE2: Adagio of Darkness{/b}!"
     voice "audio/vo/narrator/023.ogg"
-    na ""
+    na "Descubrelo en el próximo episodio cerca de la playa de {b}JPDE2: Adagio of Darkness{/b}!"
 
 # game/script/story/st_04.rpy:1902
 translate spanish departure_eede1678:
 
     # ma_ma "Menagerie ground control receives us, Commander."
-    ma_ma ""
+    ma_ma "El control terrestre de Menagerie nos recibe, Comandante."
 
 # game/script/story/st_04.rpy:1903
 translate spanish departure_30d362af:
 
     # ma_mi "They're asking us to change our direction of approach.{w=0.3} From north-north west to east."
-    ma_mi ""
+    ma_mi "Están solicitandonos que cambienos nuestra dirección por la que nos acercamos.{w=0.3} De norte a norte a oesto a este."
 
 # game/script/story/st_04.rpy:1910
 translate spanish departure_79996ed9:
 
     # tc nulla "Curious.{w=0.3} Any reason given?"
-    tc nulla ""
+    tc nulla "Curioso.{w=0.3} Nos dieron alguna razón?"
 
 # game/script/story/st_04.rpy:1911
 translate spanish departure_16fd37e2:
 
     # ma_ma "Well, in one sentence, sir...{w=0.5} They'd like if we could avoid parking too close to the Atlas delegation airship."
-    ma_ma ""
+    ma_ma "Bueno, en oración, señort...{w=0.5} A ellos les gustaría si pudieramos evitar estacionarnos muy cerca de la aeronave de la delegación de Atlas."
 
 # game/script/story/st_04.rpy:1915
 translate spanish departure_4e73cf88:
 
     # tc nulla "Heh.{w=0.3} I see...{w=0.5} Well, we wouldn't want to inconvenience our hosts yet, would we?"
-    tc nulla ""
+    tc nulla "Heh.{w=0.3} Ya veo...{w=0.5} Bueno, no querríamos incomodar a nuestros anfitriones aún, verdad?"
 
 # game/script/story/st_04.rpy:1917
 translate spanish departure_db362cea:
 
     # tc nulla "Adjust course.{w=0.3} We will be taking a little scenic tour of the Outback, then."
-    tc nulla ""
+    tc nulla "Ajusten el curso.{w=0.3} Necesitaremos tomar un pequeño tour escenico de las Afueras, entonces."
 
 # game/script/story/st_04.rpy:1923
 translate spanish departure_ce4f8f72:
 
     # ru surprise darko g_down "...?{w=0.3} An airship...?"
-    ru surprise darko g_down ""
+    ru surprise darko g_down "...?{w=0.3} Una aeronave...?"
 
 # game/script/story/st_04.rpy:1925
 translate spanish departure_8ffa9ce9:
 
     # ru frown darko g_down "Oh no, you don't!"
-    ru frown darko g_down ""
+    ru frown darko g_down "Oh no, no lo harás!"
 
 # game/script/story/st_04.rpy:1933
 translate spanish departure_0205953d:
 
     # ru nulla "Hm.{w=0.3} Cool design."
-    ru nulla ""
+    ru nulla "Hm.{w=0.3} Diseño genial."
 
 # game/script/story/st_04.rpy:1949
 translate spanish departure_47a92216:
 
     # g c_mili neutral "Welcome to {b}Holodeck GP01{/b}."
-    g c_mili neutral ""
+    g c_mili neutral "Bienvenido a {b}Holodeck GP01{/b}."
 
 # game/script/story/st_04.rpy:1950
 translate spanish departure_724c6ffc:
 
     # p neutral "GP...{w=0.5} So the entire project is yours, Gemma?"
-    p neutral ""
+    p neutral "GP...{w=0.5} Asi que el proyecto es enteramente tuyo, Genma?"
 
 # game/script/story/st_04.rpy:1951
 translate spanish departure_727ecd74:
 
     # g c_mili smile "Hmm, sort of...{w=0.5} The original ship had a limited holocommunication system, which was used for secure messaging between vessels."
-    g c_mili smile ""
+    g c_mili smile "Hmm, mas o menos...{w=0.5} La aeronave original tenía un sistema de holocomunicación limitado, el cúal era usado para enviar mensajes seguros entre embarcaciones."
 
 # game/script/story/st_04.rpy:1952
 translate spanish departure_c5114195:

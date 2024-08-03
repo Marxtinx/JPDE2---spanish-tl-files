@@ -4,7 +4,7 @@ translate spanish strings:
 
     # game/script/credits.rpy:7
     old "Episode 06 - The Ties That Bind"
-    new "Episodio 06 - Las Lazos Que Detienen"
+    new "Episodio 06 - Los Lazos Que Detienen"
 
     # game/script/credits.rpy:19
     old "PRODUCER, DIRECTOR"

@@ -4006,337 +4006,337 @@ translate spanish departure_727ecd74:
 translate spanish departure_c5114195:
 
     # g c_mili neutral "When it came time to to reinstate it, I suggested to apply a Hard Light Dust array...{w=0.5} With the result that the room can now produce {b}solid constructs{/b}."
-    g c_mili neutral ""
+    g c_mili neutral "Cuando llegó el tiempo de reinstaurarlo, sugerí aplicarle desplegar un set de Dust de Luz Sólido...{w=0.5} Con el resultado de que el cuarto ahora puede producir {b}constructo sólido{/b}."
 
 # game/script/story/st_04.rpy:1953
 translate spanish departure_e6948189:
 
     # j surprise "Meaning that anything that is created in here can be touched?"
-    j surprise ""
+    j surprise "Significanndo que cualquier cosa creada aquí puede ser tocada?"
 
 # game/script/story/st_04.rpy:1966
 translate spanish departure_3fe4f0a8:
 
     # g nulla "It can also touch back...{w=0.5} Within limits.{w=0.3} It's already able to run a number of basic battle scenarios, plus the custom one I've created."
-    g nulla ""
+    g nulla "También puede tocarlos a ustedes...{w=0.5} Con algunos limites.{w=0.3} Ya es capaz de realizar un número basico de escenarios de batalla, plus el personalizado que he creado."
 
 # game/script/story/st_04.rpy:1967
 translate spanish departure_678d7c36:
 
     # d nulla "And that would be an {b}Oppel{/b} type of Grimm?"
-    d nulla ""
+    d nulla "Y eso sería un tipo de Grimm {b}Oppel{/b}?"
 
 # game/script/story/st_04.rpy:1969
 translate spanish departure_3dc2eab5:
 
     # g nulla "Correct...{w=0.5} I don't have enough data to reproduce any of your other encounters with Howard Tarangi.{w=0.3} But any of the Grimm he's shapeshifted in..."
-    g nulla ""
+    g nulla "Correcto...{w=0.5} No tengo suficientes datos para reproducir ningún otro de sus encuentros con Howard Tarangi.{w=0.3} Pero cualquiera de los Grimm en los que se ha convertido..."
 
 # game/script/story/st_04.rpy:1971
 translate spanish departure_9b830a7c:
 
     # e nulla "An Oppel is close enough.{w=0.3} Do try and not blow yourself up this time, love!"
-    e nulla ""
+    e nulla "Un Oppel está lo suficientemente cerca.{w=0.3} Intentalo y no te explotes a ti mismo esta vez, amor!"
 
 # game/script/story/st_04.rpy:1974
 translate spanish departure_07c36683:
 
     # d nulla "No promises."
-    d nulla ""
+    d nulla "No prometo nada."
 
 # game/script/story/st_04.rpy:1976
 translate spanish departure_918a6baa:
 
     # p nulla "Uhm, can I fight too?"
-    p nulla ""
+    p nulla "Uhm, puedo pelear también?"
 
 # game/script/story/st_04.rpy:1983
 translate spanish departure_a1c619d5:
 
     # g nulla "Of course.{w=0.3} I just need to recalibrate some parameters."
-    g nulla ""
+    g nulla "Por supuesto.{w=0.3} Solo necesito recalibrar algunos parametros."
 
 # game/script/story/st_04.rpy:1986
 translate spanish departure_3111a42e:
 
     # d nulla "Are you sure, Penny...?"
-    d nulla ""
+    d nulla "Estás segura, Penny...?"
 
 # game/script/story/st_04.rpy:1988
 translate spanish departure_66364701:
 
     # p nulla "I doubt we're going to find a more controlled environment than this...{w=0.5} I'd rather dip my feet again here than in Menagerie."
-    p nulla ""
+    p nulla "Dudo que vayamos a encontrar un ambiente mas controlado que este...{w=0.5} Prefiero sumergir mi pie de nuevo aquí que en Menagerie."
 
 # game/script/story/st_04.rpy:1990
 translate spanish departure_96ac98a3:
 
     # p nulla "And I got cleared for active duty, anyway.{w=0.3} Remember?"
-    p nulla ""
+    p nulla "Y yo estoy aprobada para el deber activo, de todos modos.{w=0.3} Recuerdas?"
 
 # game/script/story/st_04.rpy:1999
 translate spanish departure_95c9bbbe:
 
     # d nulla "So you did.{w=0.3} Let's do this, then."
-    d nulla ""
+    d nulla "Si lo estás.{w=0.3} Hagamos esto, entonces."
 
 # game/script/story/st_04.rpy:2000
 translate spanish departure_bd16b96b:
 
     # g c_mili smile "If you'd like, {b}the system can account for up to three people{/b}."
-    g c_mili smile ""
+    g c_mili smile "Si les gustaría, {b}el sistema puede hacerse cargo hasta de tres personas{/b}."
 
 # game/script/story/st_04.rpy:2001
 translate spanish departure_949df811:
 
     # j nulla "Hmm...{w=0.5} A team battle, then?"
-    j nulla ""
+    j nulla "Hmm...{w=0.5} Una pelea en equipo, entonces?"
 
 # game/script/story/st_04.rpy:2003
 translate spanish departure_ec0f9e7d:
 
     # e nulla "Only three, though...{w=0.5} So who goes?"
-    e nulla ""
+    e nulla "Solo tres, sin embargo...{w=0.5} Asi que quién va?"
 
 # game/script/story/st_04.rpy:2005
 translate spanish departure_468ba1cf:
 
     # j nulla "Hm, good question...{w=0.5} Eh, either is fine by me."
-    j nulla ""
+    j nulla "Hm, buena pregunta...{w=0.5} Eh, por mi cualquiera esta bien."
 
 # game/script/story/st_04.rpy:2007
 translate spanish departure_68918397:
 
     # e nulla "Why don't you choose, [p_n]?"
-    e nulla ""
+    e nulla "Por qué no eliges, [p_n]?"
 
 # game/script/story/st_04.rpy:2009
 translate spanish departure_0befa169:
 
     # d nulla "Me?{w=0.5} Hmmm..."
-    d nulla ""
+    d nulla "Yo?{w=0.5} Hmmm..."
 
 # game/script/story/st_04.rpy:2028
 translate spanish evelyn_team_fight_f3fa0189:
 
     # e nulla "Alright!{w=0.3} I owe that creep a dislocated shoulder, after all!"
-    e nulla ""
+    e nulla "Muy bien!{w=0.3} Le debo a ese asqueroso un hombro dislocado, después de todo!"
 
 # game/script/story/st_04.rpy:2029
 translate spanish evelyn_team_fight_13ceb8ec:
 
     # g c_mili neutral "The program is ready.{w=0.3} Let me know when you want to begin."
-    g c_mili neutral ""
+    g c_mili neutral "El programa está listo.{w=0.3} Dejenme saber cuando quieran empezar."
 
 # game/script/story/st_04.rpy:2031
 translate spanish evelyn_team_fight_1dcbf143:
 
     # j nulla "Break a leg, guys.{w=0.3} I'll be watching from the observation room with Gemma."
-    j nulla ""
+    j nulla "Rompanse una pierna, chicos.{w=0.3} Los estaré viendo desde el cuarto de observación con Genma."
 
 # game/script/story/st_04.rpy:2044
 translate spanish jack_team_fight_70b86cf6:
 
     # j nulla "You like winning easy, then...{w=0.5} Let's do this."
-    j nulla ""
+    j nulla "Te gusta ganar fácil, entonces...{w=0.5} Hagamos esto."
 
 # game/script/story/st_04.rpy:2045
 translate spanish jack_team_fight_8837c8be:
 
     # g c_mili neutral "The program is ready.{w=0.3} Let me know when you're ready to begin."
-    g c_mili neutral ""
+    g c_mili neutral "El programa está listo.{w=0.3} Dejenme saber cuando quieran empezar."
 
 # game/script/story/st_04.rpy:2047
 translate spanish jack_team_fight_69719a57:
 
     # e nulla "I'll be watching the fight happen once again, then.{w=0.3} Have fun~"
-    e nulla ""
+    e nulla "Estaré viendo la pelea ocurrir otra vez, entonces.{w=0.3} Divertanse~"
 
 # game/script/story/st_04.rpy:2055
 translate spanish oppel_team_fight_2a1d4c0b:
 
     # p nulla "Shall we, then?"
-    p nulla ""
+    p nulla "Deberíamos, entonces?"
 
 # game/script/story/st_04.rpy:2061
 translate spanish oppel_team_fight_36e53a67:
 
     # d neutral "Whenever you want, Gemma."
-    d neutral ""
+    d neutral "Cuando quieras, Genma."
 
 # game/script/story/st_04.rpy:2062
 translate spanish oppel_team_fight_442aab56:
 
     # g_st c_mili neutral "Acknowledged.{w=0.3} Hard Light Array activating..."
-    g_st c_mili neutral ""
+    g_st c_mili neutral "Reconocido.{w=0.3} activando Despliegue de Luz Sólida..."
 
 # game/script/story/st_04.rpy:2074
 translate spanish oppel_team_fight_e91d7706:
 
     # d smile "Hmmm, it doesn't have his smug aura...{w=0.5} But it will do."
-    d smile ""
+    d smile "Hmmm, no tiene su aura de engreído...{w=0.5} Pero servirá."
 
 # game/script/story/st_04.rpy:2076
 translate spanish oppel_team_fight_4749f093:
 
     # d neutral "Let's go!"
-    d neutral ""
+    d neutral "Vamos!"
 
 # game/script/story/st_04.rpy:2148
 translate spanish oppel_team_fight_end_9ae14777:
 
     # g_st c_mili smile "Simulation complete.{w=0.3} Good job, everyone."
-    g_st c_mili smile ""
+    g_st c_mili smile "Simulación completada.{w=0.3} Buen trabajo, a todos."
 
 # game/script/story/st_04.rpy:2152
 translate spanish oppel_team_fight_end_2a2a8bea:
 
     # j_st smile "Amazing form, everyone.{w=0.3} It's like you never stopped fighting together."
-    j_st smile ""
+    j_st smile "Una forma increíble, todos.{w=0.3} Es como si nunca hubieran parado de luchar juntos."
 
 # game/script/story/st_04.rpy:2154
 translate spanish oppel_team_fight_end_ec37798c:
 
     # e_st laugh "That's my team!{w=0.3} Way to show that digital simulacrum who's boss!"
-    e_st laugh ""
+    e_st laugh "Ese es mi equipo!{w=0.3} Que manera de mostrarle a ese simulacro digital quien es el jefe!"
 
 # game/script/story/st_04.rpy:2179
 translate spanish oppel_team_fight_end_50276830:
 
     # g nulla "I hope the reproduction was close enough...?"
-    g nulla ""
+    g nulla "Espero que la reproduction fuera lo suficientemente cercana...?"
 
 # game/script/story/st_04.rpy:2180
 translate spanish oppel_team_fight_end_17ab5f78:
 
     # d nulla "Close enough is a way of putting it, yes."
-    d nulla ""
+    d nulla "Suficientemente cercana es una manera de ponerlo, si."
 
 # game/script/story/st_04.rpy:2181
 translate spanish oppel_team_fight_end_5faa328e:
 
     # p nulla "It was a great program, Gemma.{w=0.3} There were almost zero artefacts."
-    p nulla ""
+    p nulla "Fue un gran programa, Genma.{w=0.3} Hubo casi cero artefactos."
 
 # game/script/story/st_04.rpy:2182
 translate spanish oppel_team_fight_end_b35396e7:
 
     # j nulla "And seems like team synergy is running high.{w=0.3} Good job, Penny."
-    j nulla ""
+    j nulla "Y parace que la sinergia del equipo es bastante alta.{w=0.3} Buen trabajo, Penny."
 
 # game/script/story/st_04.rpy:2184
 translate spanish oppel_team_fight_end_549ac1e7:
 
     # e nulla "Still, kicking this one's digital ass just made me realize how much I want to smack that guy's face for real.{w=0.3} Shapeshifted or not."
-    e nulla ""
+    e nulla "Aún asi, patear este trasero digital solo me hizo darme cuenta de cuanto quiero pegarle en la cara a ese tipo de verdad.{w=0.3} Transformado o no. "
 
 # game/script/story/st_04.rpy:2186
 translate spanish oppel_team_fight_end_da2ebd6e:
 
     # d nulla "A woman after my own heart...{w=0.5} But I'm sure we'll have occasion in the future."
-    d nulla ""
+    d nulla "Una mujer con un corazón como el mío...{w=0.5} Pero estoy seguro que tendremos la oportunidad en el futuro."
 
 # game/script/story/st_04.rpy:2188
 translate spanish oppel_team_fight_end_8e985809:
 
     # d nulla "We're going to track down Howard and his pals to whichever dark hovel they holed up into...{w=0.5} And then we'll end this."
-    d nulla ""
+    d nulla "Vamos a rastrear a Howard y sus amigos a cualquier choza oscura en la que se hayan ocultado...{w=0.5} Y entonces terminaremos esto."
 
 # game/script/story/st_04.rpy:2199
 translate spanish oppel_team_fight_end_7cb600e9:
 
     # na "Meanwhile, somewhere in the {b}South of the Vacuo-Valesian Continent{/b}..."
-    na ""
+    na "Mientras tanto, en algún lugar al {b}Sur del continente Vacuo-Valesiano{/b}..."
 
 # game/script/story/st_04.rpy:2206
 translate spanish oppel_team_fight_end_bc52cc34:
 
     # an_x darko shock "..ward!{w=0.3} Howard!"
-    an_x darko shock ""
+    an_x darko shock "..ward!{w=0.3} Howard!"
 
 # game/script/story/st_04.rpy:2208
 translate spanish oppel_team_fight_end_373c62c8:
 
     # ho nulla "Hmmm...?"
-    ho nulla ""
+    ho nulla "Hmm...?"
 
 # game/script/story/st_04.rpy:2209
 translate spanish oppel_team_fight_end_312da4d2:
 
     # an_x darko angry "Stop spacing out and get your ass moving!{w=0.3} The old man is ready to go to the market!"
-    an_x darko angry ""
+    an_x darko angry "Deja de distraerte y mueve tu trasero!{w=0.3} El viejo está listo para ir al mercado!"
 
 # game/script/story/st_04.rpy:2211
 translate spanish oppel_team_fight_end_45e6c88b:
 
     # ho nulla "I see...{w=0.5} Be right there."
-    ho nulla ""
+    ho nulla "Ya veo...{w=0.5} Estaré allí"
 
 # game/script/story/st_04.rpy:2218
 translate spanish oppel_team_fight_end_eede1678:
 
     # ma_ma "Menagerie ground control receives us, Commander."
-    ma_ma ""
+    ma_ma "El control terrestre de Menagerie nos recibe, Comandante."
 
 # game/script/story/st_04.rpy:2219
 translate spanish oppel_team_fight_end_30d362af:
 
     # ma_mi "They're asking us to change our direction of approach.{w=0.3} From north-north west to east."
-    ma_mi ""
+    ma_mi "Están solicitandonos que cambienos nuestra dirección por la que nos acercamos.{w=0.3} De norte a norte a oesto a este."
 
 # game/script/story/st_04.rpy:2226
 translate spanish oppel_team_fight_end_79996ed9:
 
     # tc nulla "Curious.{w=0.3} Any reason given?"
-    tc nulla ""
+    tc nulla "Curioso.{w=0.3} Nos dieron alguna razón?"
 
 # game/script/story/st_04.rpy:2227
 translate spanish oppel_team_fight_end_16fd37e2:
 
     # ma_ma "Well, in one sentence, sir...{w=0.5} They'd like if we could avoid parking too close to the Atlas delegation airship."
-    ma_ma ""
+    ma_ma "Bueno, en oración, señort...{w=0.5} A ellos les gustaría si pudieramos evitar estacionarnos muy cerca de la aeronave de la delegación de Atlas"
 
 # game/script/story/st_04.rpy:2231
 translate spanish oppel_team_fight_end_4e73cf88:
 
     # tc nulla "Heh.{w=0.3} I see...{w=0.5} Well, we wouldn't want to inconvenience our hosts yet, would we?"
-    tc nulla ""
+    tc nulla "Heh.{w=0.3} Ya veo...{w=0.5} Bueno, no querríamos incomodar a nuestros anfitriones aún, verdad?"
 
 # game/script/story/st_04.rpy:2233
 translate spanish oppel_team_fight_end_db362cea:
 
     # tc nulla "Adjust course.{w=0.3} We will be taking a little scenic tour of the Outback, then."
-    tc nulla ""
+    tc nulla "Ajusten el curso.{w=0.3} Necesitaremos tomar un pequeño tour escenico de las Afueras, entonces."
 
 # game/script/story/st_04.rpy:2239
 translate spanish oppel_team_fight_end_ce4f8f72:
 
     # ru surprise darko g_down "...?{w=0.3} An airship...?"
-    ru surprise darko g_down ""
+    ru surprise darko g_down "...?{w=0.3} Una aeronave...?"
 
 # game/script/story/st_04.rpy:2241
 translate spanish oppel_team_fight_end_8ffa9ce9:
 
     # ru frown darko g_down "Oh no, you don't!"
-    ru frown darko g_down ""
+    ru frown darko g_down "Oh no, no lo harás!"
 
 # game/script/story/st_04.rpy:2249
 translate spanish oppel_team_fight_end_0205953d:
 
     # ru nulla "Hm.{w=0.3} Cool design."
-    ru nulla ""
+    ru nulla "Hm.{w=0.3} Diseño genial."
 
 translate spanish strings:
 
     # game/script/story/st_04.rpy:2010
     old "In that case..."
-    new ""
+    new "En ese caso..."
 
     # game/script/story/st_04.rpy:2010
     old "Evelyn, I choose you."
-    new ""
+    new "Evelyn, yo te elijo."
 
     # game/script/story/st_04.rpy:2010
     old "You're up, partner."
-    new ""
+    new "Te toca, compañera."
 

@@ -4,523 +4,523 @@
 translate spanish menagerie_arrival_63363df1:
 
     # d_i surprise "(Yeah...{w=0.5} This is completely different.)"
-    d_i surprise ""
+    d_i surprise "(Si...{w=0.5} Esto es completamente diferente.)"
 
 # game/script/story/st_05.rpy:18
 translate spanish menagerie_arrival_9ab4c2a5:
 
     # d_i nulla "(The scents in the air, the height of the sun, the colour of the earth...{w=0.5} We're in the southern-most inhabited continent of Remnant.)"
-    d_i nulla ""
+    d_i nulla "(El aroma en el aire, la altura del sol, el color de la tierra...{w=0.5} Estamos en continente sureño mas inhabitado de Remnant.)"
 
 # game/script/story/st_05.rpy:19
 translate spanish menagerie_arrival_c053953f:
 
     # ka smile "Greetings, Duchess.{w=0.3} Welcome to Menagerie."
-    ka smile ""
+    ka smile "Saludos, Duquesa.{w=0.3} Bienvenida a Menagerie"
 
 # game/script/story/st_05.rpy:27
 translate spanish menagerie_arrival_72cdfe15:
 
     # ka nulla "Our apologies for the last minute ask regarding your docking procedures."
-    ka nulla ""
+    ka nulla "Mis mas sinceras disculpas por las preguntas de último minuto referentes a los procedimientos de aterrizaje."
 
 # game/script/story/st_05.rpy:28
 translate spanish menagerie_arrival_54920f8a:
 
     # gl nulla "Greetings, lady Belladonna.{w=0.3} And please, no need to apologize.{w=0.3} Brothers know our presence already inconveniences you enough."
-    gl nulla ""
+    gl nulla "Saludos, señora Belladonna.{w=0.3} Y por favor, no hay necesidad de disculparse.{w=0.3} Los Hermanos saben que nuestra presencia ya la incomodan lo suficiente."
 
 # game/script/story/st_05.rpy:30
 translate spanish menagerie_arrival_778319c8:
 
     # ka nulla "Indeed...{w=0.5} But it is a choice we made."
-    ka nulla ""
+    ka nulla "En efecto...{w=0.5} Pero es una decisión que hemos tomado."
 
 # game/script/story/st_05.rpy:32
 translate spanish menagerie_arrival_2e8b0065:
 
     # j_i nulla "(Ohmygosh.{w=0.3} Oh my actual...{w=0.5} It's her.{w=0.3} It's really Kali Belladonna.{w=0.3} I'm going to freak out.)"
-    j_i nulla ""
+    j_i nulla "(Ohpordios.{w=0.3} Oh por mi...{w=0.5} Es ella.{w=0.3} Es realmente Kali Belladonna.{w=0.3} Me van a entrar los nervíos.)"
 
 # game/script/story/st_05.rpy:33
 translate spanish menagerie_arrival_6552fd4d:
 
     # e_i amused "(Pffft, it looks like her ponytail is about to stand up!)"
-    e_i amused ""
+    e_i amused "(Pffft, parece como si su coleta está a punto de ponerse de punta!)"
 
 # game/script/story/st_05.rpy:35
 translate spanish menagerie_arrival_53799bfd:
 
     # ka nulla "And are all these young Hunters your escort?"
-    ka nulla ""
+    ka nulla "Y todos esos jovenes Cazadores son tu escolta?"
 
 # game/script/story/st_05.rpy:36
 translate spanish menagerie_arrival_35785b56:
 
     # gl nulla "Just the ones in uniform, lady Belladonna.{w=0.3} These four have a mission that has taken them to Menagerie."
-    gl nulla ""
+    gl nulla "Solo aquellos en uniforme, señora Belladonna.{w=0.3} Aquellos cuatro tienen una misión que los ha traído hasta Menagerie."
 
 # game/script/story/st_05.rpy:38
 translate spanish menagerie_arrival_4cc78dae:
 
     # ka nulla "A mission, you say?"
-    ka nulla ""
+    ka nulla "Una misión, dices?"
 
 # game/script/story/st_05.rpy:41
 translate spanish menagerie_arrival_aa8ea4c2:
 
     # d nulla "A-hem.{w=0.3} I believe they're waiting for our introduction, team leader?"
-    d nulla ""
+    d nulla "A-hem.{w=0.3} Creo que están esperando por nuestra introducción, líder de equipo?"
 
 # game/script/story/st_05.rpy:45
 translate spanish menagerie_arrival_2ed2d604:
 
     # j nulla "Ah, uhm, of course!{w=0.3} Greeting, lady Belladonna!{w=0.3} I-{w=0.15}I mean, we!{w=0.3} Team JPDE!"
-    j nulla ""
+    j nulla "Ah, uhm, por supuesto!{w=0.3} Saludos, señora Belladonna!{w=0.3} Yo-{w=0.15} Quiero decir, nosotros!{w=0.3} el Equipo JPDE!"
 
 # game/script/story/st_05.rpy:47
 translate spanish menagerie_arrival_72fdea60:
 
     # j nulla "We are here to look for a person, by your leave.{w=0.3} We promise to be on our best behaviour and destroy as many Grimm as possible."
-    j nulla ""
+    j nulla "Nosotros estamos aquí para buscar a una persona, con su permiso.{w=0.3} Nosotros prometemos hacer nuestro mejor esfuerzo y destruir tantos Grimm como sea posible."
 
 # game/script/story/st_05.rpy:48
 translate spanish menagerie_arrival_24b6352b:
 
     # p smile "In case we run into any."
-    p smile ""
+    p smile "En caso de que nos encontremos con alguno."
 
 # game/script/story/st_05.rpy:50
 translate spanish menagerie_arrival_cd48b769:
 
     # ka nulla "Goodness, you certainly don't need my leave.{w=0.3} You will, though, be beholden to the same rules and laws as any foreigner who sets foot in Menagerie."
-    ka nulla ""
+    ka nulla "Dios mio, ciertamente no necesitan mi permiso.{w=0.3} Estarán, sin embargo, sujetos a las mismas reglas y leyes que cualquier extranjero que pone pie en Menagerie."
 
 # game/script/story/st_05.rpy:52
 translate spanish menagerie_arrival_aae9ef7a:
 
     # ka nulla "Also...{w=0.5} Team JPDE, you say?{w=0.3} That's a familiar-sounding name."
-    ka nulla ""
+    ka nulla "También...{w=0.5} Equipo JPDE, dices?{w=0.3} Es un nombre que suena familiar."
 
 # game/script/story/st_05.rpy:54
 translate spanish menagerie_arrival_3b5c0c44:
 
     # e smile "We were originally named JADE, if that helps."
-    e smile ""
+    e smile "El nombre originalmente era JADE, si eso ayuda."
 
 # game/script/story/st_05.rpy:55
 translate spanish menagerie_arrival_a440d1ca:
 
     # d_i nulla "(Kali Belladonna...)"
-    d_i nulla ""
+    d_i nulla "(Kali Belladonna...)"
 
 # game/script/story/st_05.rpy:70
 translate spanish no_relation_c171b666:
 
     # ka nulla "Oh...{w=0.5} You took part in the last Vytal Festival."
-    ka nulla ""
+    ka nulla "Oh...{w=0.5} Ustedes formaron parte del último Festival Vytal."
 
 # game/script/story/st_05.rpy:71
 translate spanish no_relation_ff47dcda:
 
     # j nulla "We did.{w=0.3} It feels like a lifetime ago, though."
-    j nulla ""
+    j nulla "Lo hicimos.{w=0.3} Se siente como hace una eternidad, sin embargo."
 
 # game/script/story/st_05.rpy:73
 translate spanish no_relation_5ba48cef:
 
     # ka nulla "Many things have changed since then...{w=0.5} It might as well be."
-    ka nulla ""
+    ka nulla "Muchas cosas han cambiado desde entonces...{w=0.5} Bien podría serlo."
 
 # game/script/story/st_05.rpy:85
 translate spanish blake_relation_3397759e:
 
     # ka nulla "[p_n]...{w=0.5} I almost couldn't recognize you."
-    ka nulla ""
+    ka nulla "[p_n]...{w=0.5} Casi no pude reconocerte"
 
 # game/script/story/st_05.rpy:88
 translate spanish blake_relation_e4b9ffd6:
 
     # d nulla "I don't blame you, what with the hair and the eye...{w=0.5} It's a pleasure to see you again, lady Belladonna."
-    d nulla ""
+    d nulla "No te culpo, con lo del cabello y el ojo...{w=0.5} Es un placer verte de nuevo, señora Belladonna."
 
 # game/script/story/st_05.rpy:90
 translate spanish blake_relation_25351924:
 
     # ka nulla "Same...{w=0.5} And now that I think about it, there's something we should talk about."
-    ka nulla ""
+    ka nulla "Igualmente...{w=0.5} Y ahora que lo pienso, hay algo sobre lo que deberiamos hablar."
 
 # game/script/story/st_05.rpy:93
 translate spanish blake_relation_a58fc858:
 
     # d nulla "There...{w=0.5} There is?"
-    d nulla ""
+    d nulla "Es...{w='.5} Es así?"
 
 # game/script/story/st_05.rpy:94
 translate spanish blake_relation_5345fb72:
 
     # ka nulla "Indeed...{w=0.5} But later.{w=0.3} I will send for you once the Duchess has settled in."
-    ka nulla ""
+    ka nulla "En efecto...{w=0.5} Pero mas tarde.{w=0.3} Enviaré alguien a buscarte cuando la Duquesa se haya asentado."
 
 # game/script/story/st_05.rpy:107
 translate spanish kali_relation_6a889b9f:
 
     # ka nulla "Goodness gracious, [p_n]...{w=0.5} You've grown."
-    ka nulla ""
+    ka nulla "Por la gracia de Dios, [p_n]...{w=0.5} Has crecido."
 
 # game/script/story/st_05.rpy:111
 translate spanish kali_relation_8f429ab8:
 
     # d nulla "Ehm, hello again, K...{w=0.5} Lady Belladonna."
-    d nulla ""
+    d nulla "Ehm, hola de nuevo, k...{w=0.5} Señora Belladonna"
 
 # game/script/story/st_05.rpy:112
 translate spanish kali_relation_40f217ba:
 
     # ka nulla "Calling me lady, now?{w=0.3} How I despise protocol, at times."
-    ka nulla ""
+    ka nulla "LLamandome señora, ahora?{w=0.3} Como detesto el protocolo, a veces."
 
 # game/script/story/st_05.rpy:113
 translate spanish kali_relation_56cd01e9:
 
     # gl nulla "I...{w=0.5} Wasn't aware you knew one of my Hunters personally, lady Belladonna."
-    gl nulla ""
+    gl nulla "Yo...{w=0.5} No estaba al tanto de que conocía a uno de mis Cazadores personalmente, señora Belladonna."
 
 # game/script/story/st_05.rpy:115
 translate spanish kali_relation_62d800fe:
 
     # ka nulla "Oh, indeed.{w=0.3} [p_n] here is a very close friend of my daughter...{w=0.5} And of mine as well, I want to believe."
-    ka nulla ""
+    ka nulla "Oh, en efecto.{w=0.3} [p_n] es un amigo muy cercano de mi hija...{w=0.5} Y mío también, quiero creer."
 
 # game/script/story/st_05.rpy:117
 translate spanish kali_relation_5b61220d:
 
     # j_i nulla "(Lucky bastard...)"
-    j_i nulla ""
+    j_i nulla "(Bastardo suertudo...)"
 
 # game/script/story/st_05.rpy:119
 translate spanish kali_relation_8a15e390:
 
     # ka nulla "We absolutely must catch up.{w=0.3} Let's say I will send for you after the Duchess has settled in?"
-    ka nulla ""
+    ka nulla "Debemos absolutamente ponernos al día.{w=0.3} Digamos que enviaré a alguien por tí luego de que la Duquesa se haya asentado?"
 
 # game/script/story/st_05.rpy:121
 translate spanish kali_relation_d1561523:
 
     # d nulla "Ah, uhm, I...{w=0.5} Of course!{w=0.3} Of course."
-    d nulla ""
+    d nulla "Ah, uhm, Yo...{w=0.5} Por supuesto!{w=0.3} Por supuesto."
 
 # game/script/story/st_05.rpy:126
 translate spanish menagerie_arrival_continued_5da39061:
 
     # ka nulla "We will leave you to your mission, then.{w=0.3} Duchess, if you please."
-    ka nulla ""
+    ka nulla "Los dejaremos ir a su misión, entonces.{w=0.3} Duquesa, si le gustaría."
 
 # game/script/story/st_05.rpy:128
 translate spanish menagerie_arrival_continued_377a6b13:
 
     # gl nulla "Of course.{w=0.3} Good luck with your mission, Hunters.{w=0.3} You have fortyeight hours."
-    gl nulla ""
+    gl nulla "Por supuesto.{w=0.3} Buena suerte cpn su misión, Cazadores.{w=0.3} Tienen cuarenta y ocho horas."
 
 # game/script/story/st_05.rpy:138
 translate spanish menagerie_arrival_continued_d7347d89:
 
     # p nulla "That was {b}Blake's{/b} mom, wasn't it?{w=0.3} She's so pretty..."
-    p nulla ""
+    p nulla "Es era la mama de {b}Blake{/b}, verdad?{w=0.3} Ella es tan bonita..."
 
 # game/script/story/st_05.rpy:139
 translate spanish menagerie_arrival_continued_806210d4:
 
     # e nulla "Indeed...{w=0.5} Did you know she was a dancing prodigy, growing up?"
-    e nulla ""
+    e nulla "En efecto...{w=0.5} Sabías que ella era una prodigo en la danza, mientras crecía?"
 
 # game/script/story/st_05.rpy:141
 translate spanish menagerie_arrival_continued_1c761f29:
 
     # d nulla "Was she, now?{w=0.3} I guess that's how she keeps so youthful..."
-    d nulla ""
+    d nulla "Ella lo era, ahora?{w=0.3} Supongo que así es como se mantiene tan joven..."
 
 # game/script/story/st_05.rpy:143
 translate spanish menagerie_arrival_continued_9352c9d4:
 
     # j nulla "Oh, you'd know about that better than any of us, wouldn't you?"
-    j nulla ""
+    j nulla "Oh, tu sabrías eso mejor que ninguno de nosotros, o no?"
 
 # game/script/story/st_05.rpy:145
 translate spanish menagerie_arrival_continued_cacf0576:
 
     # d nulla "EHM!{w=0.3} I mean, that was...{w=0.5} A long time ago."
-    d nulla ""
+    d nulla "EHM!{w=0.3} Quiero decir, eso fue...{w=0.5} Hace mucho tiempo."
 
 # game/script/story/st_05.rpy:147
 translate spanish menagerie_arrival_continued_05f7cd20:
 
     # j nulla "Three years is not a long time, you walking, talking wang.{w=0.3} Let's just get this mission started..."
-    j nulla ""
+    j nulla "Tres años no es mucho tiempo, tú, virilidad caminante y partlante.{w=0.3} Solo empecemos está misión..."
 
 # game/script/story/st_05.rpy:152
 translate spanish menagerie_arrival_continued_f4afc061:
 
     # j nulla "She was known for her reflexes and flexibility...{w=0.5} Does Blake take after her, then?"
-    j nulla ""
+    j nulla "Ella era conocida por sus reflejos y flexibilidad...{w=0.5} Entonces Blake lo sacó de ella, entonces?"
 
 # game/script/story/st_05.rpy:154
 translate spanish menagerie_arrival_continued_d9249ce0:
 
     # d nulla "EHM!{w=0.3} I wouldn't know about that..."
-    d nulla ""
+    d nulla "EHM!{w=0.3} No sabría sobre eso..."
 
 # game/script/story/st_05.rpy:155
 translate spanish menagerie_arrival_continued_6c7fba8d:
 
     # j nulla "Sure you don't.{w=0.3} Now, what about we get this mission started?"
-    j nulla ""
+    j nulla "Seguro que no lo haces.{w=0.3} Ahora, que tal si empezamos esta misión?"
 
 # game/script/story/st_05.rpy:159
 translate spanish menagerie_arrival_continued_c3a1b5b1:
 
     # j nulla "Yup.{w=0.3} She created a number of new routines that are still used to this day..."
-    j nulla ""
+    j nulla "Yup.{w=0.3} Ella creó un número de nuevas rutinas que aún son usadas hoy en día..."
 
 # game/script/story/st_05.rpy:161
 translate spanish menagerie_arrival_continued_fd9ed28c:
 
     # d nulla "Well, we have an expert among us...{w=0.5} Or maybe just someone with a pretty big folder on her Scroll."
-    d nulla ""
+    d nulla "Bueno, tenemos a un experto entre nosotros...{w=0.5} O quizás solo alguien con una carpeta bastante grande en su Scroll."
 
 # game/script/story/st_05.rpy:163
 translate spanish menagerie_arrival_continued_fd923dc1:
 
     # j nulla "You can't prove ANYTHING!{w=0.3} Now, what about that mission?!{w=0.3} Let's go already!"
-    j nulla ""
+    j nulla "No puedes probar NADA!{w=0.3}Ahora, que tal esa misión?!{w=0.3} Vamonos de una vez!"
 
 # game/script/story/st_05.rpy:178
 translate spanish menagerie_investigation_choice_d0df4565:
 
     # e surprise "The hustle and bustle is unreal!{w=0.3} Holy shit!"
-    e surprise ""
+    e surprise "El bullicio y actividad es irreal!{w=0.3} Santa mierda!"
 
 # game/script/story/st_05.rpy:179
 translate spanish menagerie_investigation_choice_ac76fcbc:
 
     # p surprise "According to the information I possess, the last three years have seen upward trends in terms of population and economics...{w=0.5} But they're running out of living space."
-    p surprise ""
+    p surprise "De acuerdo a la información que poseo, los últimos tres años han visto un incremento en terminos de población y economia...{w=0.5} Pero se están quedando sin espacios habitables."
 
 # game/script/story/st_05.rpy:193
 translate spanish menagerie_investigation_choice_cf6f86fe:
 
     # j nulla "Guess the Outback still hasn't been tamed, huh?{w=0.3} I wonder if that's what brought Maria here in the first place."
-    j nulla ""
+    j nulla "Supongo que Las Afueras aún no han sido conquistadas, huh?{w=0.3} Me pregunto si eso es lo que ha traído a Maria hasta aquí en primer lugar."
 
 # game/script/story/st_05.rpy:194
 translate spanish menagerie_investigation_choice_e3334485:
 
     # d nulla "On one hand:{w=0.3} someone {i}must{/i} have seen her around.{w=0.3} On the other, I wouldn't know where to begin."
-    d nulla ""
+    d nulla "En una mano:{w=0.3} alguien {i}debe{/i} haberla visto por aquí.{w=0.3} En la otra, no sabría por donde empezar."
 
 # game/script/story/st_05.rpy:196
 translate spanish menagerie_investigation_choice_a7e8f835:
 
     # j nulla "Hmmm, alright.{w=0.3} Let's go with the assumption that, indeed, Maria came for expeditions in the Outback.{w=0.3} That's where the Grimm are, after all."
-    j nulla ""
+    j nulla "Hmmm, muy bien.{w=0.3} Iremos asumiendo que, en efecto, Maria vino por expediciones in Las Afueras.{w=0.3} Allí es donde los Grimm están, después de todo."
 
 # game/script/story/st_05.rpy:200
 translate spanish menagerie_investigation_choice_700129f8:
 
     # j nulla "In three years, she must have had to come around town for supplies often, maybe some odd jobs for funds.{w=0.3} I'd say merchants are our best bet."
-    j nulla ""
+    j nulla "En tres años, ella debe haber tenido que venir cerca del pueblo por provisiones seguido, quizás algunos trabajos varios para los fondos.{w=0.3} Diría que los mercaderes son nuestra mejor apuesta."
 
 # game/script/story/st_05.rpy:201
 translate spanish menagerie_investigation_choice_30aed9a1:
 
     # e nulla "Fair...{w=0.5} But I also wouldn't discount the rumour mill.{w=0.3} And if we want gossip, our best bet would be the more touristy parts of town."
-    e nulla ""
+    e nulla "Es justo...{w=0.5} Pero yo tampoco descartaría la fábrica de rumores.{w=0.3} Y si queremos chismes, nuestra mejor apuesta sería las partes mas turísticas del pueblo."
 
 # game/script/story/st_05.rpy:202
 translate spanish menagerie_investigation_choice_b6691725:
 
     # p nulla "The logic is sound...{w=0.5} Let us split up, then.{w=0.3} We'll be more thorough and faster."
-    p nulla ""
+    p nulla "TIene sentido...{w=0.5} Separemosnos, entonces.{w=0.3} Así seremos mas detallados y rápidos."
 
 # game/script/story/st_05.rpy:205
 translate spanish menagerie_investigation_choice_8c56197d:
 
     # p nulla "Me and Evelyn can check out the tourist-oriented areas, while Jack and [p_n] can stay here and scout out the markets?"
-    p nulla ""
+    p nulla "Yo y Evelyn podemos chequear las areas orientadas a turistas, mientras que Jack y [p_n] pueden quedarse aquí y explorar los mercados?"
 
 # game/script/story/st_05.rpy:209
 translate spanish menagerie_investigation_choice_78ea0238:
 
     # e nulla "And if we just so happen to end up on the beach, so be it~"
-    e nulla ""
+    e nulla "Y si solo pasa que terminamos en la playa, que asi sea~"
 
 # game/script/story/st_05.rpy:211
 translate spanish menagerie_investigation_choice_a9687386:
 
     # d nulla "Penny, do me a favour and make sure she keeps her ears dry...{w=0.5} Let's say we reconvene in an hour?"
-    d nulla ""
+    d nulla "Penny, hazme un favor y asegurate de que mantenga sus orejas secas...{w=0.5} Digamos que nos reuniremos en una hora?"
 
 # game/script/story/st_05.rpy:212
 translate spanish menagerie_investigation_choice_f9fb25cf:
 
     # j nulla "Sounds good to me.{w=0.3} Back here, same spot."
-    j nulla ""
+    j nulla "Suena bien por mi.{w=0.3} Aquí, en el mismo lugar."
 
 # game/script/story/st_05.rpy:214
 translate spanish menagerie_investigation_choice_e40cd7f2:
 
     # p nulla "60 minutes countdown active.{w=0.3} Let the mission start!"
-    p nulla ""
+    p nulla "Cuenta atrás de 60 minutos activa.{w=0.3} Que la misión empiece!"
 
 # game/script/story/st_05.rpy:249
 translate spanish menagerie_investigate_market_edf3e842:
 
     # d nulla "So, who do we start with?"
-    d nulla ""
+    d nulla "Asi que, por quién comenzamos?"
 
 # game/script/story/st_05.rpy:255
 translate spanish menagerie_investigate_market_ee16f10a:
 
     # j nulla "Honestly, let's just go with the ones who look like they could give us the time of day.{w=0.3} It'll probably help if we buy something, too."
-    j nulla ""
+    j nulla "Honestamente, solo vayamos con los que parezcan que nos darán el tiempo.{w=0.3} Probalbemente ayudará si compramos algo, también"
 
 # game/script/story/st_05.rpy:263
 translate spanish mena_market_food_inv_bb80874e:
 
     # d_i surprise "(Oh, wow, that...{w=0.5} That smell is...!)"
-    d_i surprise ""
+    d_i surprise "(Oh, wow, ese...{w=0.5} Ese olor es...!)"
 
 # game/script/story/st_05.rpy:268
 translate spanish mena_market_food_inv_ff9e81ea:
 
     # d_i surprise "(A bunch of skewers are roasting on an open flame.{w=0.3} The scent of slowly grilled chicken and an unfamiliar topping wafts in my direction...{w=0.5} And it's absolutely enrapturing.)"
-    d_i surprise ""
+    d_i surprise "(Un montón de pinchos se están asando en un fuego al aire libre.{w=0.3} El aroma de pollo asado lentamente a la parilla y un ingrediente desconocido viene en mi dirección...{w=0.5} y es absolutamente extasiante.)"
 
 # game/script/story/st_05.rpy:269
 translate spanish mena_market_food_inv_d000b702:
 
     # me_sta "Now there's the face of someone who's never smelled peanut sauce before."
-    me_sta ""
+    me_sta "Ahora esa es la cara de alguien que nunca ha olido la salsa de maní antes."
 
 # game/script/story/st_05.rpy:278
 translate spanish mena_market_food_inv_b0ff72c7:
 
     # me_sta "You should obey that feeling and put one of these in your gut, young man!{w=0.3} Two skewers for 900 Lien, just because I like you and your girlfriend!"
-    me_sta ""
+    me_sta "Deberías obedecer ese sentimiento y poner uno de estos en tu estomago, joven!{w=0.3} Dos pinchos por 900 Lien, solo porque me gustas tú y tu novia!"
 
 # game/script/story/st_05.rpy:280
 translate spanish mena_market_food_inv_37fcf9f1:
 
     # d nulla "Not my girlfriend.{w=0.3} But I'm absolutely sold!"
-    d nulla ""
+    d nulla "No es mi novia.{w=0.3} Pero estoy absolutamente comprado!"
 
 # game/script/story/st_05.rpy:283
 translate spanish mena_market_food_inv_23518f7c:
 
     # j nulla "We're actually Hunters from overseas.{w=0.3} We've just arrived."
-    j nulla ""
+    j nulla "En realidad somos Cazadores del extranjero.{w=0.3} Hemos llegado hace poco."
 
 # game/script/story/st_05.rpy:287
 translate spanish mena_market_food_inv_50425ad1:
 
     # me_sta "Thank you kindly~{w=0.3} And foreign Hunters, huh?{w=0.3} Can't say we get many of those around here..."
-    me_sta ""
+    me_sta "Muchas gracias~{w=0.3} Y Cazadores extranjeros, huh?{w=0.3} No puedo decir que tenemos muchos de esos por aquí..."
 
 # game/script/story/st_05.rpy:289
 translate spanish mena_market_food_inv_f03de8fc:
 
     # j nulla "We're actually looking for one of our own.{w=0.3} Her name's Maria Calavera."
-    j nulla ""
+    j nulla "En realidad estamos buscando a uno de nosotros.{w=0.3} Su nombre es Maria Calavera."
 
 # game/script/story/st_05.rpy:293
 translate spanish mena_market_food_inv_d1d316dc:
 
     # d_i nulla "(Oh my brothers, this is amazing!{w=0.3} I never thought you could use peanuts as a base for sauces!{w=0.3} And it goes this well with meat?!)"
-    d_i nulla ""
+    d_i nulla "(Oh por mis Hermanos, esto es increívle!(w=0.3) Nunca pensé que pudieras usar maní como base para salsas!{w=0.3} Y va tan bien con la carne?!)"
 
 # game/script/story/st_05.rpy:297
 translate spanish mena_market_food_inv_3eb345d6:
 
     # me_sta "Hmm, can't say that name rings a bell..."
-    me_sta ""
+    me_sta "Hmm, no puedo decir que ese nombre suena una campana..."
 
 # game/script/story/st_05.rpy:298
 translate spanish mena_market_food_inv_2ee3653a:
 
     # j nulla "She's a very tall woman, carries around a mask...{w=0.5} Also, she's blind."
-    j nulla ""
+    j nulla "Es una mujer muy alta, y lleva con ella una mascara...{w=0.5} También, ella es ciega."
 
 # game/script/story/st_05.rpy:299
 translate spanish mena_market_food_inv_f0052da4:
 
     # me_sta "A {i}blind{/i} Hunter?!{w=0.3} Damn, now that's someone I'd like to see!{w=0.3} Is she good?"
-    me_sta ""
+    me_sta "Una Cazadora {i}ciega{/i}?!{w=0.3} Demonios, ahora es alguien que me gustaría ver!{w=0.3} Es ella buena?"
 
 # game/script/story/st_05.rpy:301
 translate spanish mena_market_food_inv_ace28ef4:
 
     # d nulla "Very good!"
-    d nulla ""
+    d nulla "Muy buena!"
 
 # game/script/story/st_05.rpy:304
 translate spanish mena_market_food_inv_d26e98b5:
 
     # j nulla "What he said...{w=0.5} Well, thanks anyway."
-    j nulla ""
+    j nulla "Lo que el dijo...{w=0.5} Bueno, gracias de todos modos."
 
 # game/script/story/st_05.rpy:305
 translate spanish mena_market_food_inv_3a317574:
 
     # d nulla "Also for the food!"
-    d nulla ""
+    d nulla "Tambipen por la comida!"
 
 # game/script/story/st_05.rpy:306
 translate spanish mena_market_food_inv_8139da37:
 
     # me_sta "Come back soon!{w=0.3} Enjoy your stay in Menagerie!"
-    me_sta ""
+    me_sta "Vuelvan pronto!{w=0.3} Y disfruten su estadía en Menagerie!"
 
 # game/script/story/st_05.rpy:307
 translate spanish mena_market_food_inv_039a533b:
 
     # j_i nulla "(So they don't get a lot of foreign Hunters around here but she still couldn't remember someone as peculiar as Maria?{w=0.3} Hmm...)"
-    j_i nulla ""
+    j_i nulla "(Así que ellos no ven muchos Cazadores extranjeros por aquí pero ella aún asi no pudo recordad a alguien tan peculiar como Maria?{w=0.3} Hmm...)"
 
 # game/script/story/st_05.rpy:318
 translate spanish mena_market_black_inv_9848a45f:
 
     # d_i surprise "(The stall features a lot of items and tools for various uses...{w=0.5} I see carving knives, tongs and some pretty impressive-looking kettles, for some reason.)"
-    d_i surprise ""
+    d_i surprise "(Este puesto tiene un montón de objetos y herramientas para varios usos...{w=0.5} Puedo ver cuchillos para tallar, pinzas y unas teteras con aspecto bastante impresionante, por alguna razón.)"
 
 # game/script/story/st_05.rpy:319
 translate spanish mena_market_black_inv_0477597b:
 
     # me_bla "Something catch your eye, stranger?"
-    me_bla ""
+    me_bla "Algo que atraiga tu interes, extraño?"
 
 # game/script/story/st_05.rpy:323
 translate spanish mena_market_black_inv_d9da21f2:
 
     # d nulla "Honestly?{w=0.3} Those kettles.{w=0.3} Don't get me wrong, your other stuff looks good too, but those are {i}polished{/i}."
-    d nulla ""
+    d nulla "Honestamente?{w=0.3} Esas teteras.{w=0.3} No me malentiendas, las otras cosas se ven bien también, pero esas están {i}pulidas{/i}."
 
 # game/script/story/st_05.rpy:324
 translate spanish mena_market_black_inv_9cc632c5:
 
     # me_bla "Hah!{w=0.3} Leave it to an outsider to recognize the cratmanship!{w=0.3} You from Mistral?"
-    me_bla ""
+    me_bla "Hah!{w=0.3} Dejale a un forastero el reconocer el trabajo artesanal!{w=0.3} Eres de Mistral?"
 
 # game/script/story/st_05.rpy:326
 translate spanish mena_market_black_inv_1b193a58:
 
     # d nulla "Nah, I'm from Peak.{w=0.3} But we do have a big tea-drinking culture back home so I've seen enough."
-    d nulla ""
+    d nulla "Nah, soy de Peak.{w=0.3} Pero tenemos una gran cultura acerca del consumo del té en casa así que he visto suficiente."
 
 # game/script/story/st_05.rpy:327
 translate spanish mena_market_black_inv_f2dfc1d8:
 
     # me_bla "Peak...?{w=0.5} Wait, isn't that the breakway territory from Vale?"
-    me_bla ""
+    me_bla "Peak...?"
 
 # game/script/story/st_05.rpy:328
 translate spanish mena_market_black_inv_d4770023:

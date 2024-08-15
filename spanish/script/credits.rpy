@@ -4,7 +4,7 @@ translate spanish strings:
 
     # game/script/credits.rpy:7
     old "Episode 06 - The Ties That Bind"
-    new "Episodio 06 - Los Lazos Que Detienen"
+    new "Episodio 06 - Las Lazos Que Detienen"
 
     # game/script/credits.rpy:19
     old "PRODUCER, DIRECTOR"
@@ -96,7 +96,7 @@ translate spanish strings:
 
     # game/script/credits.rpy:187
     old "SPECIAL THANKS"
-    new "AGRADECIMIENTOS ESPECIALES"
+    new "AGRADECIMIENTOS ESPCIALES"
 
 # TODO: Translation updated at 2024-07-26 12:56
 
@@ -104,5 +104,5 @@ translate spanish strings:
 
     # game/script/credits.rpy:7
     old "Episode 07 - Returns"
-    new "Episode 07 - Regresos"
+    new "Episodio 07 - Regresos"
 

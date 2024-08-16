@@ -8,7 +8,7 @@ translate spanish strings:
 
     # game/screens/other_screens.rpy:37
     old "Version [config.version!t]\n"
-    new ""
+    new "Version [config.version!t]\n"
 
     # game/screens/other_screens.rpy:115
     old "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n[renpy.license!t]"

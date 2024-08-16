@@ -4,21 +4,21 @@ translate spanish strings:
 
     # game/battle/pcs_files/guest_cards.rpy:3
     old "Soul to Ribbons"
-    new ""
+    new "Alma a Jirones"
 
     # game/battle/pcs_files/guest_cards.rpy:3
     old "They say that if Grimm had a soul, the Grimm Reaper would cut through those as well. Such is her skill."
-    new ""
+    new "Dicen que si los Grimm tuvieran un alma, la Segadora de Grimm podría cortarlas también. así de buena es."
 
     # game/battle/pcs_files/guest_cards.rpy:12
     old "[ca_maria_guest.title]"
-    new ""
+    new "[ca_maria_guest.title]"
 
     # game/battle/pcs_files/guest_cards.rpy:13
     old "[ca_maria_guest.desc]"
-    new ""
+    new "[ca_maria_guest.desc]"
 
     # game/battle/pcs_files/guest_cards.rpy:20
     old "[ca_maria_guest.element]"
-    new ""
+    new "[ca_maria_guest.element]"
 

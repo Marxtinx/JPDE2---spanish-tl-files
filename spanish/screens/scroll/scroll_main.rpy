@@ -4,33 +4,33 @@ translate spanish strings:
 
     # game/screens/scroll/scroll_main.rpy:25
     old "Quest"
-    new ""
+    new "Misión"
 
     # game/screens/scroll/scroll_main.rpy:29
     old "Party"
-    new ""
+    new "Equipo"
 
     # game/screens/scroll/scroll_main.rpy:33
     old "Items"
-    new ""
+    new "Objetos"
 
     # game/screens/scroll/scroll_main.rpy:37
     old "Hunt Log"
-    new ""
+    new "Diario de Cacería"
 
     # game/screens/scroll/scroll_main.rpy:42
     old "Dust Suit"
-    new ""
+    new "Traje de Dust"
 
     # game/screens/scroll/scroll_main.rpy:50
     old "Calendar"
-    new ""
+    new "Calendario"
 
     # game/screens/scroll/scroll_main.rpy:54
     old "verUPDATE"
-    new ""
+    new "ActualizarVer"
 
     # game/screens/scroll/scroll_main.rpy:77
     old "[main_screen_tooltip]"
-    new ""
+    new "[main_screen_tooltip]"
 

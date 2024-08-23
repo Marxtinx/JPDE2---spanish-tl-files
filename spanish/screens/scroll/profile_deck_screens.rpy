@@ -4,5 +4,5 @@ translate spanish strings:
 
     # game/screens/scroll/profile_deck_screens.rpy:30
     old "10"
-    new ""
+    new "10"
 

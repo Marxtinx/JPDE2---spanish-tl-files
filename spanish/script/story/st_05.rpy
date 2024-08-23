@@ -520,169 +520,169 @@ translate spanish mena_market_black_inv_1b193a58:
 translate spanish mena_market_black_inv_f2dfc1d8:
 
     # me_bla "Peak...?{w=0.5} Wait, isn't that the breakway territory from Vale?"
-    me_bla "Peak...?"
+    me_bla "Peak...?{w=0.5} Espera, no es ese territori disidente de Vale?"
 
 # game/script/story/st_05.rpy:328
 translate spanish mena_market_black_inv_d4770023:
 
     # d nulla "Something like that."
-    d nulla ""
+    d nulla "Algo como eso."
 
 # game/script/story/st_05.rpy:329
 translate spanish mena_market_black_inv_2a843183:
 
     # me_bla "Hmmm...{w=0.5} Maybe I'm still in time to submit that application."
-    me_bla ""
+    me_bla "Hmmm...{w=0.5} Tal vez aún estoy a tiempo de subir esa aplicación."
 
 # game/script/story/st_05.rpy:332
 translate spanish mena_market_black_inv_8cf63e50:
 
     # d nulla "I'm sorry?"
-    d nulla ""
+    d nulla "Disculpa?"
 
 # game/script/story/st_05.rpy:333
 translate spanish mena_market_black_inv_5eed7bfa:
 
     # me_bla "Eeeh, don't worry about it...{w=0.5} And what brings you to our little corner of paradise?"
-    me_bla ""
+    me_bla "Eeeh, no te preocupes acerba de eso...{w=0.5} Y que te trae a nuestro pequeña esquina del paraiso?"
 
 # game/script/story/st_05.rpy:335
 translate spanish mena_market_black_inv_792edb33:
 
     # d nulla "I'm a Hunter, looking for a colleague.{w=0.3} Name's Maria Calavera.{w=0.3} Tall woman, has a mask, blind in both eyes?"
-    d nulla ""
+    d nulla "Soy un Cazador, estoy buscando a una colega.{w=0.3} Su nombre es Maria Calavera.{w=0.3} Mujer alta, tiene una mascara, ciega en los dos ojos?"
 
 # game/script/story/st_05.rpy:336
 translate spanish mena_market_black_inv_13876e74:
 
     # me_bla "Whew!{w=0.3} She sounds like a character.{w=0.3} Can't say I'm aware of anyone like that in town.{w=0.3} And I'm usually pretty good at keeping track of potential clients..."
-    me_bla ""
+    me_bla "Whew!{w=0.3} Ella suena como todo un personaje.{w=0.3} No puedo decir que estoy al tanto de alguien así en el pueblo.{w=0.3} Y yo soy realmente bueno en recordar a potenciales clientes..."
 
 # game/script/story/st_05.rpy:338
 translate spanish mena_market_black_inv_18de88d0:
 
     # d nulla "Bummer...{w=0.5} Thanks anyway."
-    d nulla ""
+    d nulla "Que mal...{w=0.5} Gracias de todas formas."
 
 # game/script/story/st_05.rpy:339
 translate spanish mena_market_black_inv_20b808a6:
 
     # me_bla "Thanks to you for the tip!{w=0.3} Happy Hunting!{w=0.3} Hahahahaha!"
-    me_bla ""
+    me_bla "Gracias por la propina!{w=0.3} Feliz Cacería!{w=0.3} Hahahahaha!"
 
 # game/script/story/st_05.rpy:340
 translate spanish mena_market_black_inv_943afb3e:
 
     # d_i nulla "(I mean, I guess she's learned to remain incospicuous, being a loner and all, but...)"
-    d_i nulla ""
+    d_i nulla "(Quiero decir, supongo que ella aprendió a mantenerse discreta, siendo una solitaria y todo, pero...)"
 
 # game/script/story/st_05.rpy:351
 translate spanish mena_market_dust_inv_ee40918c:
 
     # j surprise "Uhm, good afternoon, ma'am."
-    j surprise ""
+    j surprise "Uhm, buenas tardes, señora."
 
 # game/script/story/st_05.rpy:355
 translate spanish mena_market_dust_inv_3aafc3e4:
 
     # j nulla "You wouldn't happen to sell any Hunter-grade Dust crystals, would you?"
-    j nulla ""
+    j nulla "No llegaría a vender algunos cristales de dust de grado-Cazador, o no?"
 
 # game/script/story/st_05.rpy:356
 translate spanish mena_market_dust_inv_3898f596:
 
     # me_dus "Hunter-grade?{w=0.3} Brothers, no.{w=0.3} Way too expensive to import, and we don't have nearly enough buyers."
-    me_dus ""
+    me_dus "Grado-Cazador?{w=0.3} Por los Hermanos, no.{w=0.3} Demasiado caro para importar, y no tenemos casi suficientes compradores."
 
 # game/script/story/st_05.rpy:358
 translate spanish mena_market_dust_inv_f87a512e:
 
     # j nulla "Yeah, prices have skyrocketed since the start of the civil war in Mistral...{w=0.5} By the way, has any other foreign Hunter ever asked for any?"
-    j nulla ""
+    j nulla "Si, los precios han llegado al cielo desde el comienzo de la guerra civil en Mistra..{w=0.5} De paso, ha habido algún otro Cazador extranjero alguna vez preguntado por ello?"
 
 # game/script/story/st_05.rpy:359
 translate spanish mena_market_dust_inv_ccab0d17:
 
     # me_dus "You're looking for someone...?"
-    me_dus ""
+    me_dus "Estás buscando a alguien...?"
 
 # game/script/story/st_05.rpy:361
 translate spanish mena_market_dust_inv_d365f85f:
 
     # j nulla "A colleague.{w=0.3} Her name's Maria Calavera, tall woman.{w=0.3} Blind.{w=0.3} Do you know her, perhaps?"
-    j nulla ""
+    j nulla "Una colega.{w=0.3} Su nombre es Maria Calavera, mujer alta.{w=0.3} Ciega.{w=0.3} La conoces, quizas?"
 
 # game/script/story/st_05.rpy:362
 translate spanish mena_market_dust_inv_7b115125:
 
     # me_dus "And why are you looking for her?"
-    me_dus ""
+    me_dus "Y por que la estas buscando?"
 
 # game/script/story/st_05.rpy:366
 translate spanish mena_market_dust_inv_c222141d:
 
     # j nulla "Oh...{w=0.5} Well, it's to make her a job offer, basically."
-    j nulla ""
+    j nulla "Oh...{w=0.5} Bueno, es para hacerle una oferta de trabajo, basicamente."
 
 # game/script/story/st_05.rpy:367
 translate spanish mena_market_dust_inv_583dfc49:
 
     # me_dus "Sure...{w=0.5} Honestly, girl, I don't know this Maria.{w=0.3} And even if I did know of her, I wouldn't exactly rat her out to the first {b}toothless{/b} fresh off the boat."
-    me_dus ""
+    me_dus "Seguro...{w=0.5} Honestamente, chica, no conozco a esta Maria.{w=0.3} Y incluso si lo hicera, no la acusaría a los primeros {b}sin dientes{/b} recién salidos del bote."
 
 # game/script/story/st_05.rpy:370
 translate spanish mena_market_dust_inv_c79729fd:
 
     # j nulla "Point taken...{w=0.5} Have a good day, then."
-    j nulla ""
+    j nulla "Buen punto...{w=0.5} Tenga un buen día, entonces."
 
 # game/script/story/st_05.rpy:371
 translate spanish mena_market_dust_inv_35b31712:
 
     # me_dus "Whatever.{w=0.3} Just scram, already."
-    me_dus ""
+    me_dus "Lo que sea.{w=0.3} Solo vayanse, de una vez."
 
 # game/script/story/st_05.rpy:384
 translate spanish mena_market_meeting_081d0a3e:
 
     # d surprise "I guess two Hunters from overseas asking a lot of question about the same person can be quite suspicious, huh?"
-    d surprise ""
+    d surprise "Supongo que dos Cazadores de fuera preguntando un montón de preguntas acerca de la misma persona puede ser un poco sospechoso, huh?"
 
 # game/script/story/st_05.rpy:385
 translate spanish mena_market_meeting_897bb5cc:
 
     # j sad "Yeah...{w=0.5} Honestly, I can't blame her."
-    j sad ""
+    j sad "Si...{w=0.5} Honestamente, no puedo culparla."
 
 # game/script/story/st_05.rpy:392
 translate spanish mena_market_meeting_b544cee3:
 
     # j nulla "The lady looked old enough to be alive when rich 'employers' still hired freelance Hunters to track down escapees...{w=0.5} And with the wind blowing after the Fall, no wonder distrust is high."
-    j nulla ""
+    j nulla "La señora paracía ser lo suficientemente mayor para estar viva cuando los 'empleadores' ricos aún contrataban Cazadores autonomos para rastrear fugitivos...{w=0.5} Y con los vientos soplandos después de la Caída, no hay duda de porque la desconfianza está en alza."
 
 # game/script/story/st_05.rpy:393
 translate spanish mena_market_meeting_a06c2988:
 
     # e sad "Distrust is putting it lightly.{w=0.3} You should've seen the way people in the touristy area kept us at arm's length."
-    e sad ""
+    e sad "Desconfianza es ponerlo ligero.{w=0.3} Deberías haber visto la manera en la que la gente de la area turistica nos mantenía a distancia de un brazo."
 
 # game/script/story/st_05.rpy:403
 translate spanish mena_market_meeting_dc2b375f:
 
     # e nulla "All fake smiles and pleasantries with the rich guys sipping on overpriced cocktails, of course...{w=0.5} But we barely got anyone to even pay attention to us."
-    e nulla ""
+    e nulla "Todo sonrisas falsas y cumplidos con los chicos ricos sorbiendo los cocteles con sobreprecios, por supuesto...{w=0.5} Pero nosotras apenas conseguimos que alguien nos preste atención."
 
 # game/script/story/st_05.rpy:404
 translate spanish mena_market_meeting_d6b768cb:
 
     # p nulla "And all we got was a rough rebuff.{w=0.3} They didn't have time for Evelyn and they {i}especially{/i} didn't have time for me."
-    p nulla ""
+    p nulla "Y todo lo que conseguimos fue fuertes burlas.{w=0.3} Ellos no tenían tiempo para Evelyn y ellos {i}especialmente{/i} no tenía tiempo para mi."
 
 # game/script/story/st_05.rpy:406
 translate spanish mena_market_meeting_94b4aa57:
 
     # j nulla "Sorry you had to go through that but, going off our own experience, it wouldn't have mattered."
-    j nulla ""
+    j nulla "Perdón que hayan tenido pasar por eso pero, viendo por nuestra propia experiencia, no habría importado."
 
 # game/script/story/st_05.rpy:408
 translate spanish mena_market_meeting_c97eae67:

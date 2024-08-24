@@ -688,319 +688,319 @@ translate spanish mena_market_meeting_94b4aa57:
 translate spanish mena_market_meeting_c97eae67:
 
     # d nulla "We have found people more willing to talk to us, here, but they still had no intel on Maria whatsoever."
-    d nulla ""
+    d nulla "Nosotros encontramos gente con mas ganas de hablar con nosotros, aqui, pero ellos aún no tenían inteligencia sobre Maria."
 
 # game/script/story/st_05.rpy:410
 translate spanish mena_market_meeting_68ab9a1c:
 
     # e nulla "Hmmm...{w=0.5} I guess it does make it a little better.{w=0.3} But how is that possible?"
-    e nulla ""
+    e nulla "Hmmm...{w=0.5} Supongo que eso lo hace un poco mejor.{w=0.3} Pero cómo es eso posible?"
 
 # game/script/story/st_05.rpy:412
 translate spanish mena_market_meeting_a18274aa:
 
     # p nulla "With how long Maria has been in Menagerie, she must have had regular interactions with the city and its denizens.{w=0.3} There's literally no other source of supplies on the entire island."
-    p nulla ""
+    p nulla "Con todo el tiempo que Maria ha estado en Menagerie, ella debería tener interacciones regulares con la ciudad y sus moradores.{w=0.3} No ha literalmente ninguan otra fuente de suministros en la enteridad de la isla."
 
 # game/script/story/st_05.rpy:415
 translate spanish mena_market_meeting_94f53760:
 
     # j nulla "So she either found a way around it..."
-    j nulla ""
+    j nulla "Así que o ella encontró una manera alrededor de eso..."
 
 # game/script/story/st_05.rpy:417
 translate spanish mena_market_meeting_c4404bc7:
 
     # d nulla "Or she has someone else do her shopping for her, when it's needed..."
-    d nulla ""
+    d nulla "O tiene a alguien mas haciendo sus compras por ella, cuando lo necesita..."
 
 # game/script/story/st_05.rpy:426
 translate spanish mena_market_meeting_eed31555:
 
     # dnp "Ruby!"
-    dnp ""
+    dnp "Ruby!"
 
 # game/script/story/st_05.rpy:429
 translate spanish mena_market_meeting_ead38b02:
 
     # j nulla "What about-!{w=0.5} Of course!"
-    j nulla ""
+    j nulla "Qué pasa co-!{w=0.5} Por supuesto!"
 
 # game/script/story/st_05.rpy:431
 translate spanish mena_market_meeting_2f91262a:
 
     # e nulla "Apprentice is only one step removed from errand girl, after all!{w=0.3} We should ask about her!"
-    e nulla ""
+    e nulla "Aprendiz está solo a un paso de chica de los recados, después de todo!{w=0.3} Necesitamos preguntar sobre ella!"
 
 # game/script/story/st_05.rpy:433
 translate spanish mena_market_meeting_e9ce02e8:
 
     # j nulla "Hoping she didn't meet the same reception we did..."
-    j nulla ""
+    j nulla "Esperemos que ella no haya encontrado la misma recepción que nosostros..."
 
 # game/script/story/st_05.rpy:436
 translate spanish mena_market_meeting_4cc4ffaa:
 
     # d nulla "Well, she arrived here much earlier, for one.{w=0.3} But also..."
-    d nulla ""
+    d nulla "Bueno, ella llego aquí mucho antes, por un lado.{w=0.3} Pero también..."
 
 # game/script/story/st_05.rpy:437
 translate spanish mena_market_meeting_3127c185:
 
     # p nulla "This is Ruby we're talking about.{w=0.3} Give her enough time, she can worm her way into anyone's heart.{w=0.3} And she's been here more than two years!"
-    p nulla ""
+    p nulla "Es Ruby de quien estamos hablando.{w=0.3} Dale suficiento tiempo, y ella puede llegar al corazón de cualquiera.{w=0.3} Y ella ha estado aquí por mas de dos años!"
 
 # game/script/story/st_05.rpy:439
 translate spanish mena_market_meeting_3cc7f7ca:
 
     # j nulla "I guess it's our best shot...{w=0.5} Let's split up again, then."
-    j nulla ""
+    j nulla "Supongo que es nuestra mejor apuesta...{w=0.5} Separemonos de nuevo, entonces."
 
 # game/script/story/st_05.rpy:444
 translate spanish mena_market_meeting_f7653c32:
 
     # me_sta "Oh, her!{w=0.3} Of course I remember her!{w=0.3} Such a dearie!"
-    me_sta ""
+    me_sta "Oh, ella!{w=0.3} Por supuesto que la recuerdo!{w=0.3} Es una dulzura!"
 
 # game/script/story/st_05.rpy:451
 translate spanish mena_market_meeting_b12d6c66:
 
     # me_sta "She always swings by whenever she has a couple days in town!{w=0.3} Making orders for supplies, once a month or so!{w=0.3} Always asking if we happen to have strawberries..."
-    me_sta ""
+    me_sta "Ella siempre se pasa por aquí siempre que tiene un par de días en el pueblo!{w=0.3} Haciendo ordenes para suministros, una vez al mes o asi!{w=0.3} Siempre preguntando si por algún casual tenemos fresas..."
 
 # game/script/story/st_05.rpy:452
 translate spanish mena_market_meeting_36c09821:
 
     # p nulla "Her favourite food!{w=0.3} Is she due back anytime soon?"
-    p nulla ""
+    p nulla "Su comida favorita!{w=0.3} Crees que ella volverá pronto?"
 
 # game/script/story/st_05.rpy:453
 translate spanish mena_market_meeting_dae61505:
 
     # me_sta "She has actually just come back but two days ago.{w=0.3} You barely missed her..."
-    me_sta ""
+    me_sta "Ella en realidad vino de nuevo dos días atrás.{w=0.3} Te la perdiste por poco..."
 
 # game/script/story/st_05.rpy:459
 translate spanish mena_market_meeting_ca3eede1:
 
     # me_bla "Wait, you're telling me that kid's a Hunter?!{w=0.3} I thought she was an engineer!"
-    me_bla ""
+    me_bla "Espera, me estás diciendo que esa niña es una Cazadora?!{w=0.3} Yo pensé que era una ingeniera!"
 
 # game/script/story/st_05.rpy:460
 translate spanish mena_market_meeting_54f06911:
 
     # d nulla "Technically she never graduated but...{w=0.5} Why do you say so?"
-    d nulla ""
+    d nulla "Técnicamente ella nunca se graduó pero...{w=0.5} Porque dices eso?"
 
 # game/script/story/st_05.rpy:461
 translate spanish mena_market_meeting_1661eb40:
 
     # me_bla "Because she's got {i}skills{/i}, man.{w=0.3} I've never seen a young girl so at ease with machinery.{w=0.3} I think she repaired half the water filters in town."
-    me_bla ""
+    me_bla "Porque ella tiene {i}habilidades{/i} hombre.{w=0.3} Nunca he visto a una chica tan joven tanta soltura con la maquinaria.{w=0.3} Creo que ella reparó la mitad de los filtros de agua en el pueblo."
 
 # game/script/story/st_05.rpy:463
 translate spanish mena_market_meeting_84148d3b:
 
     # d nulla "She did?"
-    d nulla ""
+    d nulla "Lo hizo?"
 
 # game/script/story/st_05.rpy:471
 translate spanish mena_market_meeting_0db5bf7f:
 
     # me_dus "She doesn't always have enough money to cover her orders.{w=0.5} So she does repairs, sometimes sells me Dust she finds in the Outback...{w=0.5} But I have it on good authority that she did more than one repair for free."
-    me_dus ""
+    me_dus "Ella no siempre tiene suficiente dinero para cubrir sus ordenes.{w=0.5} Así que hace reparaciones, a veces ella me vende Dust que encuentra en las Afueras...{w=0.5} Pero estoy segura que ella hizo mas de una reparación gratis."
 
 # game/script/story/st_05.rpy:473
 translate spanish mena_market_meeting_f3f13ea3:
 
     # j nulla "Let me guess:{w=0.3} it happened that the client didn't have enough money to cover the costs, and she did it anyway."
-    j nulla ""
+    j nulla "Dejame adivinar:{w=0.3} Pasó que el cliente no tenía suficiente dinero para cubrir los gastos, y ella lo hizo de todos modos."
 
 # game/script/story/st_05.rpy:474
 translate spanish mena_market_meeting_11989f8f:
 
     # me_dus "Indeed...{w=0.5} Bless her heart.{w=0.3} I swear, if you're thinking of doing anything to hurt her-"
-    me_dus ""
+    me_dus "En efecto...{w=0.5} Bendito su corazon.{w=0.3} Juro, que si estas pensando en hacer cualquier cosa para lastimarla-"
 
 # game/script/story/st_05.rpy:476
 translate spanish mena_market_meeting_107b5c8a:
 
     # e nulla "I swear, Ruby Rose is our friend.{w=0.3} We even attended Beacon together."
-    e nulla ""
+    e nulla "Lo juro, Ruby Rose es nuestra amiga.{w=0.3} Nosotros incluso atendimos a Beacon juntos."
 
 # game/script/story/st_05.rpy:477
 translate spanish mena_market_meeting_2cc1aa1d:
 
     # me_dus "...!{w=0.3} You mean...?"
-    me_dus ""
+    me_dus "...!{w=0.3} Quieres decir...?"
 
 # game/script/story/st_05.rpy:479
 translate spanish mena_market_meeting_d52b9073:
 
     # j nulla "Let's just say that I wasn't born with this patch around my eye."
-    j nulla ""
+    j nulla "Digamos que no nací con esta mancha alrededor de mi ojo"
 
 # game/script/story/st_05.rpy:481
 translate spanish mena_market_meeting_3367cc85:
 
     # e nulla "And my honey over there wasn't born without an arm.{w=0.3} Or that scar on his eye."
-    e nulla ""
+    e nulla "Y mi cariño que esta por allí no nació sin un brazo.{w=0.3} O esa cicatriz en su ojo."
 
 # game/script/story/st_05.rpy:483
 translate spanish mena_market_meeting_a07a1572:
 
     # me_dus ".{w=0.3}.{w=0.3}.{w=0.5}hmph.{w=0.5} That girl is strong enough to survive in the Outback for two years and a half.{w=0.3} She'll see you coming a mile away if you're not well intentioned."
-    me_dus ""
+    me_dus ".{w=0.3}.{w=0.3}.{w=0.5}hmph.{w=0.5} Esa chica es lo suficientemente fuerte para sobrevivir en las Afueras por dos años y medio.{w=0.3} Los vería venir desde una milla de distancia si no son bien intencionados."
 
 # game/script/story/st_05.rpy:486
 translate spanish mena_market_meeting_089cd564:
 
     # me_dus "I don't know exactly where she spends her time.{w=0.3} But I do know that the drivers always drop her and any supplies off in the same spot."
-    me_dus ""
+    me_dus "No sé exactamente donde ella pasa el tiempo.{w=0.3} Pero yo conozco que los conductores siempre la dejan a ella y cualquier suminstro en el mismo punto."
 
 # game/script/story/st_05.rpy:492
 translate spanish mena_market_meeting_f35a1626:
 
     # p laugh "The Ruby Rose strategy has been a success!"
-    p laugh ""
+    p laugh "La estrategia Ruby Rose ha sido un éxito!"
 
 # game/script/story/st_05.rpy:493
 translate spanish mena_market_meeting_6e411fe7:
 
     # e laugh "God bless the Roobes!"
-    e laugh ""
+    e laugh "Dios bendiga a Roobes!"
 
 # game/script/story/st_05.rpy:494
 translate spanish mena_market_meeting_50a654ca:
 
     # j laugh "Hear hear!{w=0.3} Alright, to sum it up."
-    j laugh ""
+    j laugh "Escuchen escuchen!{w=0.3} Muy bien, para resumirlo."
 
 # game/script/story/st_05.rpy:506
 translate spanish mena_market_meeting_ef71efdf:
 
     # j nulla "Ruby has been getting dropped off in the same area of the Outback alongside monthly supplies.{w=0.3} So, if we go there and track down the apprentice..."
-    j nulla ""
+    j nulla "Rubya ha estado siendo dejada en la misma area de las Afueras con los suministros mensuales.{w=0.3} Así que, si vamos allí y rastreamos a la aprendiz..."
 
 # game/script/story/st_05.rpy:507
 translate spanish mena_market_meeting_ee558959:
 
     # d nulla "We'll also track down the master.{w=0.3} Now we just need to book passage to that same area."
-    d nulla ""
+    d nulla "También rastrearemos a la maestra.(w=0.3) Ahora solo necesitamos comprar el pasaje a esa misma area."
 
 # game/script/story/st_05.rpy:509
 translate spanish mena_market_meeting_2c7ccfb2:
 
     # e nulla "Do we?{w=0.3} We could just use a transport ship from the Red Shark."
-    e nulla ""
+    e nulla "Debemos?{w=0.3} Podríamos solo usar la nave de transporte del Red Shark."
 
 # game/script/story/st_05.rpy:510
 translate spanish mena_market_meeting_34693e7b:
 
     # g_st c_mili neutral glitch "I'm afraid that will be impossible."
-    g_st c_mili neutral glitch ""
+    g_st c_mili neutral glitch "Me temo que eso sera imposible."
 
 # game/script/story/st_05.rpy:515
 translate spanish mena_market_meeting_90eef93e:
 
     # p nulla "Gemma!{w=0.3} Were you listening in?"
-    p nulla ""
+    p nulla "Gemma!{0=0.3} Estabas escuchandonos?"
 
 # game/script/story/st_05.rpy:516
 translate spanish mena_market_meeting_ea74209c:
 
     # g_st c_mili smile glitch "Of course I was.{w=0.3} I'm your team's operator, remember?"
-    g_st c_mili smile glitch ""
+    g_st c_mili smile glitch "Por supuesto que lo estaba.{w=0.3} Soy la operadora de tu equipo, recuerdas?"
 
 # game/script/story/st_05.rpy:517
 translate spanish mena_market_meeting_6a71a0f0:
 
     # g_st c_mili neutral glitch "Anyway, we are expressely forbidden from flying any crafts over Menagerian territory for the duration of the conference.{w=0.3} Even the Red Shark itself is moored til new orders."
-    g_st c_mili neutral glitch ""
+    g_st c_mili neutral glitch "De todos modso, tenemos expresamente prohibido el volar cualquier nave sobre el territorio Menageriano durante la duración de la conferencia.{w=0.3} Incluso el Red Shar está amarrado hasta que tengamos nuevas ordenes."
 
 # game/script/story/st_05.rpy:519
 translate spanish mena_market_meeting_47a38b17:
 
     # e nulla "Aw...{w=0.5} Oh well, public transport it is."
-    e nulla ""
+    e nulla "Aw...{w=0.5} Oh bueno, transporte público es entonces."
 
 # game/script/story/st_05.rpy:521
 translate spanish mena_market_meeting_d8d67277:
 
     # d nulla "Doubt it'll be that easy, hon...{w=0.5} But we'll manage."
-    d nulla ""
+    d nulla "Dudo que sea tan fácil, cari...{w=0.5} Pero nos las arreglaremos."
 
 # game/script/story/st_05.rpy:522
 translate spanish mena_market_meeting_75b7b8cb:
 
     # j nulla "Would you be able to help with that particular aspect, Gemma?"
-    j nulla ""
+    j nulla "Serías capaz de ayudar con ese aspecto en particular, Gemma?"
 
 # game/script/story/st_05.rpy:523
 translate spanish mena_market_meeting_0d1373b6:
 
     # g_st c_mili smile glitch "Affirmative.{w=0.3} Let me browse the network and I'll have an affordable contact for you in a few minutes."
-    g_st c_mili smile glitch ""
+    g_st c_mili smile glitch "Afirmativo.{w=0.3} Dejenme buscar en la red y tendré a un contacto asequible para ustedes en unos pocos minutos."
 
 # game/script/story/st_05.rpy:539
 translate spanish mena_market_meeting_0914036d:
 
     # gh_x nulla "Seeking an audience with the host the day before the conference is highly irregular, duchess."
-    gh_x nulla ""
+    gh_x nulla "Buscando una audiencia con el anfitrión el día antes de la conferencia es bastante irregular, duquesa."
 
 # game/script/story/st_05.rpy:544
 translate spanish mena_market_meeting_219e4077:
 
     # gh nulla "Some may think you're trying to elicit my favour.{w=0.3} Undermine my vow of neutrality before the proceedings."
-    gh nulla ""
+    gh nulla "Algunos podrían pensar que estás intentando obtener mi favor.{w=0.3} Socavar mi promesa de neutralidad antes de proceso."
 
 # game/script/story/st_05.rpy:546
 translate spanish mena_market_meeting_bdec71b2:
 
     # gl nulla "It would be a terrible thing to do, I'm sure...{w=0.5} But that's not why I asked for this private meeting, lord Belladonna."
-    gl nulla ""
+    gl nulla "Sería una terrible cosa hacer eso, estoy segura...{w=0.5} Pero eso no es porque pregunté por esta reunión privada, lord Belladonna."
 
 # game/script/story/st_05.rpy:549
 translate spanish mena_market_meeting_68bfdce1:
 
     # gl nulla "I'm here only as a courier.{w=0.3} I have a letter to hand over."
-    gl nulla ""
+    gl nulla "Estoy aquí solo como mensajera.{w=0.3} Tengo una carta para entregar."
 
 # game/script/story/st_05.rpy:551
 translate spanish mena_market_meeting_d31b9ba2:
 
     # gh nulla "A letter?{w=0.5} From...?"
-    gh nulla ""
+    gh nulla "Una carta?{w=0.5} De...?"
 
 # game/script/story/st_05.rpy:553
 translate spanish mena_market_meeting_08915e8c:
 
     # gl nulla "Our common acquaintance."
-    gl nulla ""
+    gl nulla "Nuestra conocida en común."
 
 # game/script/story/st_05.rpy:561
 translate spanish mena_market_meeting_499c1ef2:
 
     # gl nulla "It has not been opened, if that's what you fear."
-    gl nulla ""
+    gl nulla "No ha sido abierta, si eso es lo que temes."
 
 # game/script/story/st_05.rpy:562
 translate spanish mena_market_meeting_f279e827:
 
     # gh nulla "Thank your for the reassurance...{w=0.5} And thank you for bringing this to me."
-    gh nulla ""
+    gh nulla "Gracias por la seguridad...{w=0.5} Y gracias por traerme esto a mi."
 
 # game/script/story/st_05.rpy:567
 translate spanish mena_market_meeting_e9860222:
 
     # gh nulla "Nonetheless, I shall read it after the proceedings.{w=0.3} Better to keep my focus on the conference only, for the time being."
-    gh nulla ""
+    gh nulla "No obstante, deberé leerla después de los procedimientos.{w=0.3} Es mejor mantener mi concentración solo en la conferencia, por ahora."
 
 # game/script/story/st_05.rpy:568
 translate spanish mena_market_meeting_e34dc149:
 
     # gl nulla "I understand there's been a last minute addition...?"
-    gl nulla ""
+    gl nulla "Entiendo que ha habido una adición de último minuto...?"
 
 # game/script/story/st_05.rpy:569
 translate spanish mena_market_meeting_0fae4bf3:

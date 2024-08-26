@@ -1006,997 +1006,997 @@ translate spanish mena_market_meeting_e34dc149:
 translate spanish mena_market_meeting_0fae4bf3:
 
     # gh nulla "Indeed.{w=0.3} The Valesian Council has broken their two-years deference to Atlas in matters of foreign policy, and sent an envoy to represent them."
-    gh nulla ""
+    gh nulla "En efecto.{w=0.3} EL Consejo Valesiano ha roto su deferencia de dos años hacia Atlas en cuestiones de política extranjera, y enviaron un representante."
 
 # game/script/story/st_05.rpy:571
 translate spanish mena_market_meeting_1c3c8bb4:
 
     # gh nulla "A wild card, if I've ever seen one.{w=0.3} The youngest and newest member, joined to public acclaim after the death of her predecessor.{w=0.3} With an important name..."
-    gh nulla ""
+    gh nulla "Una rara invitación, si alguna vez he visto una.{w=0.3} La miembro mas joven, se unió al aclomo público después de la muerte de su predecesor. {w=0.3} Con un nombre importante..."
 
 # game/script/story/st_05.rpy:573
 translate spanish mena_market_meeting_890967e7:
 
     # gl nulla "An important name...?"
-    gl nulla ""
+    gl nulla "Un nombre importante...?"
 
 # game/script/story/st_05.rpy:576
 translate spanish mena_market_meeting_49e7684a:
 
     # gh nulla "The valesian envoy is {b}Amber Talia Valesianis{/b}.{w=0.3} Last of the Valesiani, abdicated royal family of Vale."
-    gh nulla ""
+    gh nulla "La enviada valesiana es {b}Amber Talia Valesianis{/b}.{w=0.3} Ultima de los Valesiani, la abdicada familia real de Vale."
 
 # game/script/story/st_05.rpy:598
 translate spanish kali_beach_intimate_e47f82f0:
 
     # d_i surprise "(Meow Meow Bar...?)"
-    d_i surprise ""
+    d_i surprise "{Meow Meow Bar...?}"
 
 # game/script/story/st_05.rpy:599
 translate spanish kali_beach_intimate_b39baae7:
 
     # ka amused "A pratical joke.{w=0.3} It was actually Blake who named it."
-    ka amused ""
+    ka amused "Una broma práctica..{w=0.3} En realidada fue Blake quién lo nombró."
 
 # game/script/story/st_05.rpy:608
 translate spanish kali_beach_intimate_76e30c31:
 
     # ka nulla "We needed to stake our claim on the beach...{w=0.5} Thus, the idea of a cabana bar.{w=0.3} And we made the mistake of having a very young Blake offer her input."
-    ka nulla ""
+    ka nulla "Necesitabamos tomar parte en nuestro reclamo de la playa...{=0.5} Asi, la idea de un cabana bar.{w=0.3} Y hemos hecho el error de tener una Blake demasiado joven ofreciendo su aporte."
 
 # game/script/story/st_05.rpy:610
 translate spanish kali_beach_intimate_b9dc591f:
 
     # d nulla "Heh, I see.{w=0.5} It's very cute, honestly.{w=0.3} Endearing."
-    d nulla ""
+    d nulla "Heh, ya veo.{w=0.5} Es muy lindo, honestamente.{w=0.3} Encantador."
 
 # game/script/story/st_05.rpy:612
 translate spanish kali_beach_intimate_26140a03:
 
     # ka nulla "Guests always seem to think so, yes...{w=0.5} Although it barely gets used, nowadays, barring some events we host."
-    ka nulla ""
+    ka nulla "Los invitamos siempre parecen pensar asi, si...{w=0.5} A pesar de que raramente se usa, estos días, quitando algunos eventos que anfitrionamos."
 
 # game/script/story/st_05.rpy:616
 translate spanish kali_beach_intimate_4de4176c:
 
     # ka nulla "It's...{w=0.5} Great to see you again, [p_n].{w=0.3} You seem to be doing well, despite everything."
-    ka nulla ""
+    ka nulla "Es...{w=.5} Genial verte de nuevo [p_n].{w=0.3} Pareces estar haciendolo bien, a pesar de todo."
 
 # game/script/story/st_05.rpy:618
 translate spanish kali_beach_intimate_c179da9e:
 
     # d nulla "Not as well as I would like...{w=0.5} But I am surviving."
-    d nulla ""
+    d nulla "No tan bien como me gustaría...{w=0.5} Pero estoy sobreviviendo."
 
 # game/script/story/st_05.rpy:620
 translate spanish kali_beach_intimate_42a56798:
 
     # ka nulla "Sounds like a story.{w=0.3} Care to tell me about it over a drink, like old times?"
-    ka nulla ""
+    ka nulla "Suena como una historia.{w=0.3} Te importaría contarme con una bebida, como en los viejos tiempos?"
 
 # game/script/story/st_05.rpy:630
 translate spanish kali_beach_intimate_d3cd08d7:
 
     # ka surprise "Goodness...{w=0.5} You're the one who was sent to rescue Sienna."
-    ka surprise ""
+    ka surprise "Por la bondad de...{w=0.5} Tú eres quién fue enviado a rescatar a Sienna."
 
 # game/script/story/st_05.rpy:631
 translate spanish kali_beach_intimate_6c82c8c1:
 
     # d smile "Quite the graduation exam, wouldn't you say?"
-    d smile ""
+    d smile "Buen examen de gracduación, no crees?"
 
 # game/script/story/st_05.rpy:638
 translate spanish kali_beach_intimate_cbafc46a:
 
     # ka nulla "All by yourself?{w=0.3} It boggles the mind that miss Goodwitch would make such a request."
-    ka nulla ""
+    ka nulla "Todo por tu cuenta?{w=0.3} Es dificil de imaginar que miss Goodwitch hicera tal solicitud."
 
 # game/script/story/st_05.rpy:640
 translate spanish kali_beach_intimate_edade38d:
 
     # d nulla "I was also surprised but, the mission wouldn't have succeeded if I hadn't gone in alone...{w=0.5} I dare say no more, lest I betray someone's secrets."
-    d nulla ""
+    d nulla "Yo también estaba sorprendido pero, la misión no hubiera sido un éxito si no hubiera ido solo...{w=0.5} No me atrevo a decir mas, para no traicionar los secretos de alguien."
 
 # game/script/story/st_05.rpy:643
 translate spanish kali_beach_intimate_c3c20c82:
 
     # ka nulla "I see...{w=0.5} You still have a way with words, don't you?"
-    ka nulla ""
+    ka nulla "Ya veo...{w=0.5} Todavía tienes un don con las palabras, no es así?"
 
 # game/script/story/st_05.rpy:645
 translate spanish kali_beach_intimate_3f13b4e1:
 
     # d nulla "Something like that...{w=0.5} And I want to believe that I've gained some levels of self-awareness since we last met."
-    d nulla ""
+    d nulla "Algo como eso...{w=0.5} Y yo quiero creer que he ganado algunos niveles de autoconciencia desde la última que nos vimos."
 
 # game/script/story/st_05.rpy:647
 translate spanish kali_beach_intimate_3c919ec8:
 
     # ka nulla "Alongside a few centimeters in height, a bit of an attitude...{w=0.5} And a lot of confidence.{w=0.3} You're still in a relationship with your team-mate Evelyn, am I correct?"
-    ka nulla ""
+    ka nulla "Junto a unos cuantos centimetros en altura, un poco de actitud...(w=0.5) Y un montón de confianza.{w=0.3} Aún sigues en una relación con tu compañera de equipo Evelyn, estoy en lo correcto?"
 
 # game/script/story/st_05.rpy:649
 translate spanish kali_beach_intimate_9d485404:
 
     # d nulla "Yes..."
-    d nulla ""
+    d nulla "Si..."
 
 # game/script/story/st_05.rpy:651
 translate spanish kali_beach_intimate_02ab8c72:
 
     # ka nulla "As I thought.{w=0.3} You exude the confidence of a man in a loving relationship."
-    ka nulla ""
+    ka nulla "Como pensé.{w=0.3} Exudas la confianza de un hombre en una relación amorosa."
 
 # game/script/story/st_05.rpy:653
 translate spanish kali_beach_intimate_ff4d4495:
 
     # ka nulla "And I do mean 'man'."
-    ka nulla ""
+    ka nulla "Y digo 'hombre'."
 
 # game/script/story/st_05.rpy:655
 translate spanish kali_beach_intimate_8f131a04:
 
     # d nulla "Ehm, thank you...{w=0.5} Although, I should probably mention right now:{w=0.15} I didn't come here prepared for any 'extra' activities."
-    d nulla ""
+    d nulla "Ehm, gracias...{w=0.5} Aunque, debería probablemente mencionar esto justo ahroa:{w=0.15} No vine aquí preparado para ninguna actividad 'extra'."
 
 # game/script/story/st_05.rpy:659
 translate spanish kali_beach_intimate_11115706:
 
     # ka nulla "Oooh?{w=0.3} That implies than you and Evelyn...?"
-    ka nulla ""
+    ka nulla "Oooh?{w=0.3} Eso implica que tu y Evelyn...?"
 
 # game/script/story/st_05.rpy:661
 translate spanish kali_beach_intimate_a3bd078d:
 
     # d nulla "Yes.{w=0.3} Just not tonight.{w=0.3} We have a big day tomorrow, going into the Outback and all."
-    d nulla ""
+    d nulla "Si.{w=0.3} Solo no esta noche.{w=0.3} Tenemos un gran dia mañana, yendo hacia las Afueras y todo."
 
 # game/script/story/st_05.rpy:664
 translate spanish kali_beach_intimate_29d86b4e:
 
     # ka nulla "Responsible and with his priorities straight...{w=0.5} Definitely a man."
-    ka nulla ""
+    ka nulla "Responsable y con sus prioridades fijas...{w=0.5} Definitivamente un hombre."
 
 # game/script/story/st_05.rpy:666
 translate spanish kali_beach_intimate_22527a8f:
 
     # ka nulla "Do not fret, though.{w=0.3} I'm similarly impaired, as the workings of the security conference await me...{w=0.5} Much to my chagrin."
-    ka nulla ""
+    ka nulla "No te preocupes, entonces.{w=0.3} Estoy similarmente en problemas, como los trabajos de la conferencia de seguridad me esperan...{w=0.5} Para mi disgusto."
 
 # game/script/story/st_05.rpy:668
 translate spanish kali_beach_intimate_0eca2d5e:
 
     # ka nulla "You say the Outback...{w=0.5} I suppose that's where you've tracked down your quarry to?"
-    ka nulla ""
+    ka nulla "Dijiste las Afueras...{w=0.5} Supongo que allí es donde han rastreado su marca?"
 
 # game/script/story/st_05.rpy:670
 translate spanish kali_beach_intimate_41430740:
 
     # d nulla "Indeed.{w=0.3} Well, we've actually tracked down someone who keeps their company.{w=0.3} An old friend, Ruby Rose."
-    d nulla ""
+    d nulla "En efecto.{w=0.3} Bueno, en realidad hemos rastrado a alguien que les hace compañia.{w=0.3} Una vieja amiga, Ruby Rose."
 
 # game/script/story/st_05.rpy:673
 translate spanish kali_beach_intimate_05e511e3:
 
     # ka nulla "Oh!{w=0.3} Indeed, one of Blake's old team-mates...{w=0.5} I haven't had the pleasure of hosting her yet but I do know she's been here for a while, now."
-    ka nulla ""
+    ka nulla "Oh!{w=0.3} En efecto, una de las antiguas compañeras de equipo de Blake...{w=0.5} No he tenido el placer de atenderla aún pero sé que ha estado aquí por un rato, ahora."
 
 # game/script/story/st_05.rpy:677
 translate spanish kali_beach_intimate_a06b46fc:
 
     # ka nulla "Which actually brings me to the reason I sought you out...{w=0.5} There's something you should know."
-    ka nulla ""
+    ka nulla "Lo cuál en realidad me recuerda la razón por la que te busqué...(w=0.5) Hay algo que deberías saber."
 
 # game/script/story/st_05.rpy:679
 translate spanish kali_beach_intimate_bf60b243:
 
     # d nulla "What is it...?"
-    d nulla ""
+    d nulla "Qué es...?"
 
 # game/script/story/st_05.rpy:683
 translate spanish kali_beach_intimate_d1bd9153:
 
     # ka nulla "You haven't had any contact with my daughter since the Fall of Beacon, have you?"
-    ka nulla ""
+    ka nulla "No has tenido ningún contacto con mi hija desde la Caída de Beacon, o no?"
 
 # game/script/story/st_05.rpy:687
 translate spanish kali_beach_intimate_15725cd3:
 
     # d nulla "No.{w=0.3} I don't even know if she's dead or alive...{w=0.5} It's been three years."
-    d nulla ""
+    d nulla "No.{w=0.3} Ni siquiera se si ella esta muerta o viva...{w=0.5} Han sido tres años."
 
 # game/script/story/st_05.rpy:689
 translate spanish kali_beach_intimate_e9a0eede:
 
     # ka nulla "I know the feeling.{w=0.3} The lack of information, lack of closure...{w=0.5} After we had no more tears to cry, there were the nights spent up and wondering.{w=0.3} Years of heartache, regret, when we had barely reconnected..."
-    ka nulla ""
+    ka nulla "Conozco el sentimiento.{w=0.3} La falta de información, falta de asimilación...{w=0.5} Después de que no tuvimos mas lagrimas para llorar, estuvieron las noches gastadas despiertas y pensando.{w=0.3} Años de dolor, lamentos, cuando aoenas habiamos reconectado..."
 
 # game/script/story/st_05.rpy:691
 translate spanish kali_beach_intimate_b12a74ce:
 
     # ka nulla "So you can imagine our surprise when, two months ago, {b}she showed up in our family home in the middle of the night{/b}."
-    ka nulla ""
+    ka nulla "Así que puedes imaginar nuestra sorpresa cuando, dos meses atras, {b}Ella llegó a nuestra casa familiar en medio de la noche{/b}."
 
 # game/script/story/st_05.rpy:697
 translate spanish kali_beach_intimate_b01cddea:
 
     # d nulla "She WHAT?!"
-    d nulla ""
+    d nulla "Ella hizo QUE?!"
 
 # game/script/story/st_05.rpy:698
 translate spanish kali_beach_intimate_aa577282:
 
     # ka nulla "Completely out of the blue.{w=0.3} Undetected by any of our guards or security systems."
-    ka nulla ""
+    ka nulla "Completamente de la nada.{w=0.3} Sin ser detectada por ninguno de nuestros guardias o sistemas de seguridad."
 
 # game/script/story/st_05.rpy:700
 translate spanish kali_beach_intimate_e063a0f6:
 
     # ka nulla "While certainly impressive, Ghira almost attacked her."
-    ka nulla ""
+    ka nulla "Mientras ciertamente impresionante, Ghira casi la atacó."
 
 # game/script/story/st_05.rpy:712
 translate spanish kali_beach_intimate_7ce2619e:
 
     # ka neutral "With that out of the way, she then proceeded to completely ignore our shock and tirade of questions.{w=0.3} And informed us that Adam Taurus was planning to assassinate Sienna and take over the Fang."
-    ka neutral ""
+    ka neutral "Con eso fuera del camino, ella entonces procedió a completamente ignorar nuestro shock y diatriba de preguntas.{w=0.3} Y nos informó que Adam Taurus estaba planeando asesinar a Sienna y tomar el cargo del Fang."
 
 # game/script/story/st_05.rpy:713
 translate spanish kali_beach_intimate_cad40680:
 
     # d surprise sweat "...!{w=0.3} You mean the entire reason why you even knew-?!"
-    d surprise sweat ""
+    d surprise sweat "...!{w=0.3} Quieres decir que la única razón por la que incluso sabías-?!"
 
 # game/script/story/st_05.rpy:714
 translate spanish kali_beach_intimate_12f9937b:
 
     # ka neutral "Was because our daughter suddenly decided it was time to show herself again...{w=0.5} For a handful of minutes."
-    ka neutral ""
+    ka neutral "Fue porque nuestra hija de repende decidió que era tiempo de mostrarse de nuevo...{w=0.5} Por un puñado de minutos."
 
 # game/script/story/st_05.rpy:723
 translate spanish kali_beach_intimate_4cdd70c5:
 
     # ka nulla "After dropping that bombshell on top of her own, she disappeared again.{w=0.3} No head or ear could be found on Menagerie, of course...{w=0.5} But she's alive.{w=0.3} And well enough to actively spy on the Fang and ruin Adam's plans."
-    ka nulla ""
+    ka nulla "Después de dejar esa bomba arriba de su misma existencia, ella despareció de nuevo.{w=0.3} Ni cabeza o oreja pudo ser encontrado en Menagerie, por supuesto...{w=0.5} Pero ella está viva.{w=0.3} Y lo suficientemente bien para espiar activamente al Fang y arruinar los planes de Adam."
 
 # game/script/story/st_05.rpy:725
 translate spanish kali_beach_intimate_f44e5fce:
 
     # ka nulla "You were close, in Beacon...{w=0.5} So, if there's anyone else who deserves to know, it's you and her team-mates.{w=0.3} Please do pass this information along when you meet miss Rose."
-    ka nulla ""
+    ka nulla "Eran cercanos, en Beacon...{w=0.5} Asi que, si hay alguien mas que merece saber, eres tú y sus compañeras de equipo.{w=0.3} Por favor pasa esta información cuando te encuentres con la señorita Rose."
 
 # game/script/story/st_05.rpy:729
 translate spanish kali_beach_intimate_9d61c7a8:
 
     # d nulla "I.{w=0.3} Am going.{w=0.3} To murder her."
-    d nulla ""
+    d nulla "Yo.{w=0.3} Voy.{w=0.3} A matarla."
 
 # game/script/story/st_05.rpy:731
 translate spanish kali_beach_intimate_19237d36:
 
     # ka nulla "I hope it's in a metaphorical sense, [p_n].{w=0.3} I believe the privilege rests with those who put her on Remnant."
-    ka nulla ""
+    ka nulla "Espero que sea en un sentido metaforico, [p_n].{w=0.3} Yo creo que el privilegio cae en aquellos que la pusieron en Remnant"
 
 # game/script/story/st_05.rpy:733
 translate spanish kali_beach_intimate_91fb7ebc:
 
     # d nulla "Ugh, maybe we can all take turns killing her?{w=0.3} Honesly, that...!{w=0.3} What was she thinking?{w=0.3} Where did she go?!{w=0.3} We barely know what happened to her during the Fall thanks to {b}Yang{/b}, and then...?!"
-    d nulla ""
+    d nulla "Ugh, tal vez todos podemos tomar turnos en matarla?{w=0.3} Honestamente, eso...!{w=0.3} Qué era lo que ella estaba pensando?{w=0.3} A donde se fue?!{w=0.3} Nosotros apenas sabemos que fue lo que le pasó durante la Caída gracias a {b}Yang{/b}, y entonces...?!"
 
 # game/script/story/st_05.rpy:737
 translate spanish kali_beach_intimate_40eb3a96:
 
     # d nulla "Still...{w=0.5} I'm glad she's alive.{w=0.3} Thanks for telling me, Kali."
-    d nulla ""
+    d nulla "Aún asi...{w=0.5} Me alegro de que este viva.{w=0.3} Gracias por contarmelo, Kali."
 
 # game/script/story/st_05.rpy:751
 translate spanish kali_beach_e47f82f0:
 
     # d_i surprise "(Meow Meow Bar...?)"
-    d_i surprise ""
+    d_i surprise "(Meow Meow Bar...?)"
 
 # game/script/story/st_05.rpy:752
 translate spanish kali_beach_b39baae7:
 
     # ka amused "A pratical joke.{w=0.3} It was actually Blake who named it."
-    ka amused ""
+    ka amused "Una broma práctica..{w=0.3} En realidada fue Blake quién lo nombró."
 
 # game/script/story/st_05.rpy:761
 translate spanish kali_beach_76e30c31:
 
     # ka nulla "We needed to stake our claim on the beach...{w=0.5} Thus, the idea of a cabana bar.{w=0.3} And we made the mistake of having a very young Blake offer her input."
-    ka nulla ""
+    ka nulla "Necesitabamos tomar parte en nuestro reclamo de la playa...{=0.5} Asi, la idea de un cabana bar.{w=0.3} Y hemos hecho el error de tener una Blake demasiado joven ofreciendo su aporte."
 
 # game/script/story/st_05.rpy:763
 translate spanish kali_beach_b9dc591f:
 
     # d nulla "Heh, I see.{w=0.5} It's very cute, honestly.{w=0.3} Endearing."
-    d nulla ""
+    d nulla "Heh, ya veo.{w=0.5} Es muy lindo, honestamente.{w=0.3} Encantador."
 
 # game/script/story/st_05.rpy:765
 translate spanish kali_beach_26140a03:
 
     # ka nulla "Guests always seem to think so, yes...{w=0.5} Although it barely gets used, nowadays, barring some events we host."
-    ka nulla ""
+    ka nulla "Los invitamos siempre parecen pensar asi, si...{w=0.5} A pesar de que raramente se usa, estos días, quitando algunos eventos que anfitrionamos."
 
 # game/script/story/st_05.rpy:769
 translate spanish kali_beach_7e382a64:
 
     # ka nulla "I'm glad to see you again, [p_n].{w=0.3} I almost didn't recognize you..."
-    ka nulla ""
+    ka nulla "Me alegro de verte de nuevo, [p_n].{w=0.3} Casi no te reconocí..."
 
 # game/script/story/st_05.rpy:771
 translate spanish kali_beach_a2f5252c:
 
     # d nulla "The Fall affected each of us in a different way...{w=0.5} Mine just happens to be outwardly noticeable."
-    d nulla ""
+    d nulla "La Caída nos afectó a todos en diferentes maneras...{w=0.5} Solo que las mías son notables en apariencia."
 
 # game/script/story/st_05.rpy:773
 translate spanish kali_beach_51f0a99c:
 
     # ka nulla "Sounds like a story.{w=0.3} Care to tell me about it over a drink, then?"
-    ka nulla ""
+    ka nulla "Suena como una historia.{w=0.3} Te importaría contarme con una bebida, como en los viejos tiempos?"
 
 # game/script/story/st_05.rpy:775
 translate spanish kali_beach_5705aaac:
 
     # d nulla "I'll say what I can...{w=0.5} And it'd be my pleasure."
-    d nulla ""
+    d nulla "Te diré lo que pueda...{w=0.5} Y sería un placer."
 
 # game/script/story/st_05.rpy:785
 translate spanish kali_beach_d3cd08d7:
 
     # ka surprise "Goodness...{w=0.5} You're the one who was sent to rescue Sienna."
-    ka surprise ""
+    ka surprise "Por la bondad de...{w=0.5} Tú eres quién fue enviado a rescatar a Sienna."
 
 # game/script/story/st_05.rpy:786
 translate spanish kali_beach_6c82c8c1:
 
     # d smile "Quite the graduation exam, wouldn't you say?"
-    d smile ""
+    d smile "Buen examen de gracduación, no crees?"
 
 # game/script/story/st_05.rpy:793
 translate spanish kali_beach_cbafc46a:
 
     # ka nulla "All by yourself?{w=0.3} It boggles the mind that miss Goodwitch would make such a request."
-    ka nulla ""
+    ka nulla "Todo por tu cuenta?{w=0.3} Es dificil de imaginar que miss Goodwitch hicera tal solicitud."
 
 # game/script/story/st_05.rpy:795
 translate spanish kali_beach_edade38d:
 
     # d nulla "I was also surprised but, the mission wouldn't have succeeded if I hadn't gone in alone...{w=0.5} I dare say no more, lest I betray someone's secrets."
-    d nulla ""
+    d nulla "Yo también estaba sorprendido pero, la misión no hubiera sido un éxito si no hubiera ido solo...{w=0.5} No me atrevo a decir mas, para no traicionar los secretos de alguien."
 
 # game/script/story/st_05.rpy:798
 translate spanish kali_beach_e9d63fd8:
 
     # ka nulla "I suppose that someone would be Sienna...{w=0.5} You've gotten that close, in the short time you spent together?"
-    ka nulla ""
+    ka nulla "Supongo que ese alguien sería Sienna...{w=0.5} Se han vuelto tan cercanos, en el corto tiempo que pasaron juntos?"
 
 # game/script/story/st_05.rpy:800
 translate spanish kali_beach_3f89bbd6:
 
     # d nulla "I wouldn't say close but...{w=0.5} We certainly left an impression on each other."
-    d nulla ""
+    d nulla "No diría cercanos pero...{w=0.5} Nosotros ciertamente dejamos una impresión en el otro."
 
 # game/script/story/st_05.rpy:802
 translate spanish kali_beach_02fd263c:
 
     # d nulla "She's a woman of conviction and she cares dearly about her people...{w=0.5} She might have made some mistakes but, I couldn't find it in my heart to hate her."
-    d nulla ""
+    d nulla "Ella es una mujer de convicción y le importa muchisimo su gente...{w=0.5} Ella puede haber cometido algunos erroes pero, no puedo encontrar en mi corazón para odiarla."
 
 # game/script/story/st_05.rpy:803
 translate spanish kali_beach_ef69c3eb:
 
     # ka nulla "Most people, especially if they had lost what you have, wouldn't have given her the benefit of the doubt...{w=0.5} But I'm sure she already said as much."
-    ka nulla ""
+    ka nulla "La mayoría de las personas, especialmente si han perdido lo que tú, lo le hubieran dado el beneficio de la duda...{w=0.5} Pero estoy segura que ella ya ha dicho lo mismo."
 
 # game/script/story/st_05.rpy:805
 translate spanish kali_beach_00a7c57f:
 
     # ka nulla "Maybe it's that you have a thing for fauni women?{w=0.3} You're still in a relationship with your team-mate Evelyn?"
-    ka nulla ""
+    ka nulla "Tal vez es que tienes un fetiche por las mujeres Fauno?{w=0.3} Aún estás en una relación con tu compañera de equipo Evelyn?"
 
 # game/script/story/st_05.rpy:807
 translate spanish kali_beach_9d485404:
 
     # d nulla "Yes..."
-    d nulla ""
+    d nulla "Si..."
 
 # game/script/story/st_05.rpy:809
 translate spanish kali_beach_02ab8c72:
 
     # ka nulla "As I thought.{w=0.3} You exude the confidence of a man in a loving relationship."
-    ka nulla ""
+    ka nulla "Como pensé.{w=0.3} Exudas la confianza de un hombre en una relación amorosa."
 
 # game/script/story/st_05.rpy:810
 translate spanish kali_beach_480e0c8b:
 
     # d nulla "Thank you...{w=0.5} Last couple years haven't been easy for me and my team, but I can't imagine what they would've been like without her around."
-    d nulla ""
+    d nulla "Gracias...{w=0.5} Los últmos par de años no han sido faciles para mi y me equipo, pero no puedo imaginar que hubieran sido sin ella alrededor."
 
 # game/script/story/st_05.rpy:811
 translate spanish kali_beach_3ba6b32c:
 
     # ka nulla "Hmm...{w=0.5} Would you like a refill?"
-    ka nulla ""
+    ka nulla "Hmm...{w=0.5} Te gustaría rellenar?"
 
 # game/script/story/st_05.rpy:813
 translate spanish kali_beach_f55fcfe0:
 
     # d nulla "Please, but it will be the last one.{w=0.3} We have a big day tomorrow, going into the Outback and all."
-    d nulla ""
+    d nulla "Por favor, pero será el último.{w=0.3} Tenemos un gran día mañana, yendo hacia las Afueras y todo"
 
 # game/script/story/st_05.rpy:816
 translate spanish kali_beach_a3935799:
 
     # ka nulla "Responsible and with his priorities straight...{w=0.5} I approve."
-    ka nulla ""
+    ka nulla "Responsable y con las prioridades fijas...{w=0.5} Lo apruebo."
 
 # game/script/story/st_05.rpy:818
 translate spanish kali_beach_5bf252b5:
 
     # ka nulla "I'm similarly impaired, as the workings of the security conference await me..."
-    ka nulla ""
+    ka nulla "Estoy similarmente en problas, como los trabjos de la conferencia de seguridad me esperan..."
 
 # game/script/story/st_05.rpy:820
 translate spanish kali_beach_0eca2d5e:
 
     # ka nulla "You say the Outback...{w=0.5} I suppose that's where you've tracked down your quarry to?"
-    ka nulla ""
+    ka nulla "Dijiste las Afueras...{w=0.5} Supongo que allí es donde han rastreado su marca?"
 
 # game/script/story/st_05.rpy:822
 translate spanish kali_beach_41430740:
 
     # d nulla "Indeed.{w=0.3} Well, we've actually tracked down someone who keeps their company.{w=0.3} An old friend, Ruby Rose."
-    d nulla ""
+    d nulla "En efecto.{w=0.3} Bueno, en realidad hemos rastrado a alguien que les hace compañia.{w=0.3} Una vieja amiga, Ruby Rose."
 
 # game/script/story/st_05.rpy:825
 translate spanish kali_beach_05e511e3:
 
     # ka nulla "Oh!{w=0.3} Indeed, one of Blake's old team-mates...{w=0.5} I haven't had the pleasure of hosting her yet but I do know she's been here for a while, now."
-    ka nulla ""
+    ka nulla "Oh!{w=0.3} En efecto, una de las antiguas compañeras de equipo de Blake...{w=0.5} No he tenido el placer de atenderla aún pero sé que ha estado aquí por un rato, ahora."
 
 # game/script/story/st_05.rpy:829
 translate spanish kali_beach_a06b46fc:
 
     # ka nulla "Which actually brings me to the reason I sought you out...{w=0.5} There's something you should know."
-    ka nulla ""
+    ka nulla "Lo cuál en realidad me recuerda la razón por la que te busqué...(w=0.5) Hay algo que deberías saber."
 
 # game/script/story/st_05.rpy:831
 translate spanish kali_beach_bf60b243:
 
     # d nulla "What is it...?"
-    d nulla ""
+    d nulla "Qué es...?"
 
 # game/script/story/st_05.rpy:835
 translate spanish kali_beach_d1bd9153:
 
     # ka nulla "You haven't had any contact with my daughter since the Fall of Beacon, have you?"
-    ka nulla ""
+    ka nulla "No has tenido ningún contacto con mi hija desde la Caída de Beacon, o no?"
 
 # game/script/story/st_05.rpy:839
 translate spanish kali_beach_15725cd3:
 
     # d nulla "No.{w=0.3} I don't even know if she's dead or alive...{w=0.5} It's been three years."
-    d nulla ""
+    d nulla "No.{w=0.3} Ni siquiera se si ella esta muerta o viva...{w=0.5} Han sido tres años."
 
 # game/script/story/st_05.rpy:841
 translate spanish kali_beach_e9a0eede:
 
     # ka nulla "I know the feeling.{w=0.3} The lack of information, lack of closure...{w=0.5} After we had no more tears to cry, there were the nights spent up and wondering.{w=0.3} Years of heartache, regret, when we had barely reconnected..."
-    ka nulla ""
+    ka nulla "Conozco el sentimiento.{w=0.3} La falta de información, falta de asimilación...{w=0.5} Después de que no tuvimos mas lagrimas para llorar, estuvieron las noches gastadas despiertas y pensando.{w=0.3} Años de dolor, lamentos, cuando aoenas habiamos reconectado..."
 
 # game/script/story/st_05.rpy:843
 translate spanish kali_beach_b12a74ce:
 
     # ka nulla "So you can imagine our surprise when, two months ago, {b}she showed up in our family home in the middle of the night{/b}."
-    ka nulla ""
+    ka nulla "Así que puedes imaginar nuestra sorpresa cuando, dos meses atras, {b}Ella llegó a nuestra casa familiar en medio de la noche{/b}."
 
 # game/script/story/st_05.rpy:849
 translate spanish kali_beach_b01cddea:
 
     # d nulla "She WHAT?!"
-    d nulla ""
+    d nulla "Ella hizo QUE?!"
 
 # game/script/story/st_05.rpy:850
 translate spanish kali_beach_aa577282:
 
     # ka nulla "Completely out of the blue.{w=0.3} Undetected by any of our guards or security systems."
-    ka nulla ""
+    ka nulla "Completamente de la nada.{w=0.3} Sin ser detectada por ninguno de nuestros guardias o sistemas de seguridad."
 
 # game/script/story/st_05.rpy:852
 translate spanish kali_beach_e063a0f6:
 
     # ka nulla "While certainly impressive, Ghira almost attacked her."
-    ka nulla ""
+    ka nulla "Mientras ciertamente impresionante, Ghira casi la atacó."
 
 # game/script/story/st_05.rpy:864
 translate spanish kali_beach_7ce2619e:
 
     # ka neutral "With that out of the way, she then proceeded to completely ignore our shock and tirade of questions.{w=0.3} And informed us that Adam Taurus was planning to assassinate Sienna and take over the Fang."
-    ka neutral ""
+    ka neutral "Con eso fuera del camino, ella entonces procedió a completamente ignorar nuestro shock y diatriba de preguntas.{w=0.3} Y nos informó que Adam Taurus estaba planeando asesinar a Sienna y tomar el cargo del Fang."
 
 # game/script/story/st_05.rpy:865
 translate spanish kali_beach_cad40680:
 
     # d surprise sweat "...!{w=0.3} You mean the entire reason why you even knew-?!"
-    d surprise sweat ""
+    d surprise sweat "...!{w=0.3} Quieres decir que la única razón por la que incluso sabías-?!"
 
 # game/script/story/st_05.rpy:866
 translate spanish kali_beach_12f9937b:
 
     # ka neutral "Was because our daughter suddenly decided it was time to show herself again...{w=0.5} For a handful of minutes."
-    ka neutral ""
+    ka neutral "Fue porque nuestra hija de repende decidió que era tiempo de mostrarse de nuevo...{w=0.5} Por un puñado de minutos."
 
 # game/script/story/st_05.rpy:875
 translate spanish kali_beach_4cdd70c5:
 
     # ka nulla "After dropping that bombshell on top of her own, she disappeared again.{w=0.3} No head or ear could be found on Menagerie, of course...{w=0.5} But she's alive.{w=0.3} And well enough to actively spy on the Fang and ruin Adam's plans."
-    ka nulla ""
+    ka nulla "Después de dejar esa bomba arriba de su misma existencia, ella despareció de nuevo.{w=0.3} Ni cabeza o oreja pudo ser encontrado en Menagerie, por supuesto...{w=0.5} Pero ella está viva.{w=0.3} Y lo suficientemente bien para espiar activamente al Fang y arruinar los planes de Adam."
 
 # game/script/story/st_05.rpy:877
 translate spanish kali_beach_f44e5fce:
 
     # ka nulla "You were close, in Beacon...{w=0.5} So, if there's anyone else who deserves to know, it's you and her team-mates.{w=0.3} Please do pass this information along when you meet miss Rose."
-    ka nulla ""
+    ka nulla "Eran cercanos, en Beacon...{w=0.5} Asi que, si hay alguien mas que merece saber, eres tú y sus compañeras de equipo.{w=0.3} Por favor pasa esta información cuando te encuentres con la señorita Rose."
 
 # game/script/story/st_05.rpy:881
 translate spanish kali_beach_9d61c7a8:
 
     # d nulla "I.{w=0.3} Am going.{w=0.3} To murder her."
-    d nulla ""
+    d nulla "Yo.{w=0.3} Voy.{w=0.3} A matarla."
 
 # game/script/story/st_05.rpy:883
 translate spanish kali_beach_19237d36:
 
     # ka nulla "I hope it's in a metaphorical sense, [p_n].{w=0.3} I believe the privilege rests with those who put her on Remnant."
-    ka nulla ""
+    ka nulla "Espero que sea en un sentido metaforico, [p_n].{w=0.3} Yo creo que el privilegio cae en aquellos que la pusieron en Remnant"
 
 # game/script/story/st_05.rpy:885
 translate spanish kali_beach_91fb7ebc:
 
     # d nulla "Ugh, maybe we can all take turns killing her?{w=0.3} Honesly, that...!{w=0.3} What was she thinking?{w=0.3} Where did she go?!{w=0.3} We barely know what happened to her during the Fall thanks to {b}Yang{/b}, and then...?!"
-    d nulla ""
+    d nulla "Ugh, tal vez todos podemos tomar turnos en matarla?{w=0.3} Honestamente, eso...!{w=0.3} Qué era lo que ella estaba pensando?{w=0.3} A donde se fue?!{w=0.3} Nosotros apenas sabemos que fue lo que le pasó durante la Caída gracias a {b}Yang{/b}, y entonces...?!"
 
 # game/script/story/st_05.rpy:889
 translate spanish kali_beach_40eb3a96:
 
     # d nulla "Still...{w=0.5} I'm glad she's alive.{w=0.3} Thanks for telling me, Kali."
-    d nulla ""
+    d nulla "Aún asi...{w=0.5} Me alegro de que este viva.{w=0.3} Gracias por contarmelo, Kali."
 
 # game/script/story/st_05.rpy:912
 translate spanish outback_arrival_fa6adbf8:
 
     # e surprise "Hooooly crap I can't see where it ends."
-    e surprise ""
+    e surprise "Saaaanta mierda no puedo ver donde termina."
 
 # game/script/story/st_05.rpy:913
 translate spanish outback_arrival_2943986f:
 
     # me_dri "That's the thing.{w=0.3} It doesn't."
-    me_dri ""
+    me_dri "Esa es la cosa.{w=0.3} No lo hace."
 
 # game/script/story/st_05.rpy:924
 translate spanish outback_arrival_8e72e3b5:
 
     # me_dri "The Outback literally extends all the way to the southern end of the island.{w=0.3} Most of it is still unexplored, no thanks to the local Grimm population."
-    me_dri ""
+    me_dri "Las Afueras literalmente se extienden todo el camino hacia la parte sur de la isla.{w=0.3} La mayor parte aún sigue sin explorar, no gracias a la población local de Grimm."
 
 # game/script/story/st_05.rpy:925
 translate spanish outback_arrival_6be92139:
 
     # p nulla "So it's virtually unspoiled?{w=0.3} Fascinating!"
-    p nulla ""
+    p nulla "Así que está práctimaente en su belleza natural?{w=0.3} Fascinante!"
 
 # game/script/story/st_05.rpy:926
 translate spanish outback_arrival_17c9120a:
 
     # me_dri "Fascinating, yeah...{w=0.5} And deadly, if you're unprepared.{w=0.3} Hunter or not."
-    me_dri ""
+    me_dri "Fascinante, claro...{w=0.5} Y mortal, si no estas preparado.{w=0.3} Cazador o no."
 
 # game/script/story/st_05.rpy:927
 translate spanish outback_arrival_98c715f2:
 
     # e nulla "Huff, I'm just glad we can use Aura to protect ourselves from the sun beating on our heads...{w=0.5} And hooray sunscreen!"
-    e nulla ""
+    e nulla "Huff, solo estoy contenta de que podamos usar Aura para protegernos del sol golpeando nuestras cabezas...{w=0.5} Y hooray por el bloqueador solar!"
 
 # game/script/story/st_05.rpy:928
 translate spanish outback_arrival_42012727:
 
     # me_dri "Well then, you got my contact.{w=0.3} When you're getting tired of traipsing around the wild, just give me a heads-up.{w=0.3} But it must be before sunset, got it?"
-    me_dri ""
+    me_dri "Bueno entonces, tienen mi contacto.{w=0.3} Cuando se aburran de andar de un lado a otro en la naturaleza, solo denme una llamada.{w=0.3} Pero tiene que ser antes de que se ponga el sol, entendido?"
 
 # game/script/story/st_05.rpy:930
 translate spanish outback_arrival_61d1b51d:
 
     # me_dri "No one is going to come to the Outback after sundown.{w=0.3} If you overstay your welcome, you're on your own."
-    me_dri ""
+    me_dri "Nadie va a venir a las Afueras después de la puesta de sol.{w=0.3} Si se quedan mas de lo que son bienvenidos, están a su suerte."
 
 # game/script/story/st_05.rpy:931
 translate spanish outback_arrival_ba033194:
 
     # d nulla "I guess that's why you wanted full payment in advance...?"
-    d nulla ""
+    d nulla "Supongo que es por eso que querías el pago completo en avance...?"
 
 # game/script/story/st_05.rpy:932
 translate spanish outback_arrival_a3329d77:
 
     # me_dri "With the price your friend commanded, you're lucky I even got you this far, toothless."
-    me_dri ""
+    me_dri "Con el precio que puso tu amiga, tienes suerte que te traiga tan lejos, sin dientes."
 
 # game/script/story/st_05.rpy:933
 translate spanish outback_arrival_fdf291de:
 
     # j nulla "We appreciate your candor.{w=0.3} Any suggestions on where we should begin our search?"
-    j nulla ""
+    j nulla "Apreciamos su sinceridad.{w=0.3} Algunas sugerencias sobre donde deberíamos empezar nuestra busqueda?"
 
 # game/script/story/st_05.rpy:934
 translate spanish outback_arrival_97d5ee6f:
 
     # me_dri "Hmmm...{w=0.5} Well, if someone were to stay around here that long, they'd want to secure a water source before anything else."
-    me_dri ""
+    me_dri "Hmmm...{w=0.5} Bueno, si alguien fuera a quedarse en los alrededores tanto tiempo, les gustaría asegurar una fuente de agua antes que nada."
 
 # game/script/story/st_05.rpy:936
 translate spanish outback_arrival_66e3a5f9:
 
     # me_dri "I'd say the {b}cliffs to the east{/b} are your best bet."
-    me_dri ""
+    me_dri "Diría que los {b}Cañones al este{/b} son su mejor apuesta."
 
 # game/script/story/st_05.rpy:937
 translate spanish outback_arrival_a54eea41:
 
     # e nulla "Thank you kindly, {b}plamie{/b}~{w=0.5} We'll be sure to leave you a good review."
-    e nulla ""
+    e nulla "Muchisimas gracias, {b}plamie{/b}~{w=0.5} Nos aseguraremos de dejarte una buena reseña."
 
 # game/script/story/st_05.rpy:938
 translate spanish outback_arrival_b7dedb0a:
 
     # me_dri "Hmmm...{w=0.5} Ah, and, one last thing."
-    me_dri ""
+    me_dri "Hmmm...{w=0.5} Ah, y, una última cosa."
 
 # game/script/story/st_05.rpy:943
 translate spanish outback_arrival_d188809e:
 
     # me_dri "Stay way from any areas {b}that feature black trees or bushes{/b}.{w=0.3} Whereverer those are, Grimm are never that far away."
-    me_dri ""
+    me_dri "Mantengase lejos de cualquier ares {b}que tenga arboles o arbustos negros{/b}.{w=0.3} Donde sea que esos esten, los Grimm nunca están muy lejos."
 
 # game/script/story/st_05.rpy:946
 translate spanish outback_arrival_f351a260:
 
     # j nulla "Black...{w=0.5} Trees?"
-    j nulla ""
+    j nulla "Arboles...{w=0.5} Negros?"
 
 # game/script/story/st_05.rpy:947
 translate spanish outback_arrival_a092bbd8:
 
     # d nulla "I don't think trees can actually be black?{w=0.3} Penny, correct me if I'm wrong."
-    d nulla ""
+    d nulla "No creo que los arboles puedan en realidad ser negros?{w=0.3} Penny, corrijeme si estoy equivocado."
 
 # game/script/story/st_05.rpy:948
 translate spanish outback_arrival_8cedd814:
 
     # p nulla "No, you're right.{w=0.3} It's an impossibility, unless they're sick...?"
-    p nulla ""
+    p nulla "No, estas en lo cierto.{w=0.3} Es una imposibilidad, a menos que estén enfermos...?"
 
 # game/script/story/st_05.rpy:949
 translate spanish outback_arrival_5841ddc7:
 
     # g_st c_mili neutral glitch "I will search our database for any information on such an affliction.{w=0.3} In the meantime, I'd suggest following his advice."
-    g_st c_mili neutral glitch ""
+    g_st c_mili neutral glitch "Buscaré en nuestra base de datos por cualquier información en dicha aflicción.{w=0.3} Mientras tanto, sugiero seguir su consejo."
 
 # game/script/story/st_05.rpy:951
 translate spanish outback_arrival_66e9bc08:
 
     # e nulla "There's our little remote support.{w=0.3} Found us a path already?"
-    e nulla ""
+    e nulla "Allí está nuestra pequeña soporte remoto.{w=0.3} Nos encontraste un camino ya?"
 
 # game/script/story/st_05.rpy:953
 translate spanish outback_arrival_d0d57304:
 
     # g_st c_mili smile glitch "Affirmative.{w=0.3} Uploading it to [p_n]'s arm as we speak."
-    g_st c_mili smile glitch ""
+    g_st c_mili smile glitch "Afirmativo.{w=0.3} Lo estoy subiendo al brzo de [p_n] mientras hablamos."
 
 # game/script/story/st_05.rpy:955
 translate spanish outback_arrival_ada24d82:
 
     # j nulla "That's what I like to hear.{w=0.3} Be on your guard, Hunters.{w=0.3} Let's go find us a Ruby!"
-    j nulla ""
+    j nulla "Eso es lo que me gusta oir.{w=0.3} En guardia, Cazadores.{w=0.3} Vayamos a encontrar una Ruby!"
 
 # game/script/story/st_05.rpy:957
 translate spanish outback_arrival_9b57480d:
 
     # p nulla "Yes, ma'am!"
-    p nulla ""
+    p nulla "Si, señora!"
 
 # game/script/story/st_05.rpy:975
 translate spanish outback_progress_01_025dee0c:
 
     # j surprise "This way seems it will take us in a half circle, Gemma...{w=0.5} You sure it's the shortest road?"
-    j surprise ""
+    j surprise "Este camino parace que nos llevara en un semi circulo, Gemma...{w=0.5} Estás segura que este es el camino mas corto?"
 
 # game/script/story/st_05.rpy:976
 translate spanish outback_progress_01_de46d789:
 
     # g_st neutral c_mili glitch "It's not."
-    g_st neutral c_mili glitch ""
+    g_st neutral c_mili glitch "No lo es."
 
 # game/script/story/st_05.rpy:983
 translate spanish outback_progress_01_e72d1c1c:
 
     # j nulla "Beg your pardon?"
-    j nulla ""
+    j nulla "Perdona?"
 
 # game/script/story/st_05.rpy:984
 translate spanish outback_progress_01_799cf777:
 
     # g_st neutral c_mili glitch "This is the optimal path.{w=0.3} It will take you where you need to go in an acceptable time while also providing you the most amount of shade in the area.{w=0.3} Time of arrival is only one aspect."
-    g_st neutral c_mili glitch ""
+    g_st neutral c_mili glitch "Este es el camino optimo.{w=0.3} Los llevará donde necesitan en una cantidad aceptable de tiempi mientras los provee con la mayor cantidad de sombra en el area.{w=0.3} El tiempo de llega es solo un aspecto."
 
 # game/script/story/st_05.rpy:987
 translate spanish outback_progress_01_17b907ad:
 
     # j nulla "Oh, of course...{w=0.5} Sorry, I guess my question was a bit too specific."
-    j nulla ""
+    j nulla "Oh, por supuesto...{w=0.5} Perdon, supongo que mi pregunta fue un poco demasiado especifica."
 
 # game/script/story/st_05.rpy:988
 translate spanish outback_progress_01_966e853f:
 
     # g_st smile c_mili glitch "It's alright.{w=0.3} I will update you if further data scans reveal anything else."
-    g_st smile c_mili glitch ""
+    g_st smile c_mili glitch "Está bien.{w=0.3} Voy a informarte si mas escaneos de datos revelan algo mas."
 
 # game/script/story/st_05.rpy:990
 translate spanish outback_progress_01_5c5417f9:
 
     # d nulla "She's taking the job very seriously, isn't she?"
-    d nulla ""
+    d nulla "Ella se está tomando el trabajo muy seriamente, no?"
 
 # game/script/story/st_05.rpy:992
 translate spanish outback_progress_01_4a7c487d:
 
     # j nulla "And I couldn't be more grateful.{w=0.3} I'm surprised we can get her signal here..."
-    j nulla ""
+    j nulla "Y no podría estar mas agradecida.{w=0.3} Me sorprende que podamos tener su señar aquí..."
 
 # game/script/story/st_05.rpy:993
 translate spanish outback_progress_01_1962fd04:
 
     # d nulla "Not a lot of mountains to interfere.{w=0.3} And apparently, the Red Shark's transmission systems are special."
-    d nulla ""
+    d nulla "No hay muchas montañas para interferir.{w=0.3} Y aparentemente, el sistema de transmision del Red Shark es especial."
 
 # game/script/story/st_05.rpy:995
 translate spanish outback_progress_01_45c17458:
 
     # j nulla "Probably something to do with Ambient Aura, like the engines...{w=0.5} Can't believe Atlas was having the professor sit on so much good stuff."
-    j nulla ""
+    j nulla "Probablemente tiene algo que ver con el Aura Ambiental, como los motores...{w=0.5} No puedo creer que Atlas tenía al profesor sentado en tantas cosas buenas."
 
 # game/script/story/st_05.rpy:997
 translate spanish outback_progress_01_a5c4a9ce:
 
     # d nulla "They had other priorities...{w=0.5} For all the good it did.{w=0.3} Speaking of Atlas, the Security Conference should be starting right about now, shouldn't it?"
-    d nulla ""
+    d nulla "Ellos tenían otras prioridades...{w=0.5} Para todo el bien que hizo.{w=0.3} Hablando de Atlas, la Conferencia de Seguridad debería estar empezando justo ahora, o no?"
 
 # game/script/story/st_05.rpy:999
 translate spanish outback_progress_01_01e0e107:
 
     # j nulla "Yeah...{w=0.5} And, honestly?"
-    j nulla ""
+    j nulla "Si...{w=0.5} Y, honestamente?"
 
 # game/script/story/st_05.rpy:1004
 translate spanish outback_progress_01_6cf14095:
 
     # j frown "Between us and miss Goodwitch, I think she's going to be staring down the more dangerous foes."
-    j frown ""
+    j frown "Entre nosotros y la señorita Goodwitch, creo que ella va a estar viendo a los enemigos mas peligrosos."
 
 # game/script/story/st_05.rpy:1014
 translate spanish security_conference_01_1ac07a42:
 
     # gh neutral "I see everyone's present...{w=0.5} Let us commence, then."
-    gh neutral ""
+    gh neutral "Veo que todos están presentes...{w=0.5} Empecemos, entonces."
 
 # game/script/story/st_05.rpy:1018
 translate spanish security_conference_01_f93e85e3:
 
     # gh neutral "As host, I will be also be assuming the role of Moderator.{w=0.3} Do any of you take issue with this?"
-    gh neutral ""
+    gh neutral "Como anfitrión, también estaré asumiendo el rol de Moderador.{w=0.3} Alguno tiene algún problema con esto?"
 
 # game/script/story/st_05.rpy:1020
 translate spanish security_conference_01_648f3819:
 
     # gh neutral "Very well, then."
-    gh neutral ""
+    gh neutral "Muy bien, entonces."
 
 # game/script/story/st_05.rpy:1026
 translate spanish security_conference_01_536f42d0:
 
     # gh neutral "I thus declare open the works of the Fifth Menagerie Security Conference.{w=0.3} Attending, representatives from Atlas, Vale, Vacuo, plus a honoured guest.{w=0.3} The Mistrali seat remains vacant."
-    gh neutral ""
+    gh neutral "Yo por lo tanto declaro abierto los trabajos de la quinta Conferencia de Seguridad Menageriana.{w=0.3} Atendiendo, representativos de Atlas, Vale, Vacuo, plus un honrado invitado.{w=0.3} La silla Mistraliana sigue vacante."
 
 # game/script/story/st_05.rpy:1027
 translate spanish security_conference_01_12a7a685:
 
     # gl_i neutral glasses sweat "(.{w=0.3}.{w=0.3}.{w=0.5}James...)"
-    gl_i neutral glasses sweat ""
+    gl_i neutral glasses sweat "(.{w=0.3}.{w=0.3}.{w=0.5}James...)"
 
 # game/script/story/st_05.rpy:1028
 translate spanish security_conference_01_217e0bbf:
 
     # gh neutral "We shall now go around the table, starting from my right, for a brief round of introductions.{w=0.3} State your full name and title."
-    gh neutral ""
+    gh neutral "Ahora iremos alrededor de la mesa, empezando por mi derecha, para una breve ronda de introducciones.{w=0.3} Digan su nombre completo y titulo."
 
 # game/script/story/st_05.rpy:1037
 translate spanish security_conference_01_bb2aac40:
 
     # gl nulla "Glynda Goodwitch the First, Duchess of the Royal Duchy of Peak."
-    gl nulla ""
+    gl nulla "Glynda Goodwithc la Primera, Duquesa del Ducado Real de Peak."
 
 # game/script/story/st_05.rpy:1042
 translate spanish security_conference_01_1dd3ab92:
 
     # am nulla "Amber Talia Valesianis, High Councillor of the Kingdom of Vale."
-    am nulla ""
+    am nulla "Amber Talia Valesianis, Granc Canciller del Reino de Vale."
 
 # game/script/story/st_05.rpy:1047
 translate spanish security_conference_01_7f992934:
 
     # isi nulla "{b}Isis Ozma{/b}, Sovereign of the Vacuosi Federation."
-    isi nulla ""
+    isi nulla "{b}Isis Ozma{/b}, Soberana de la Federación Vacuosi."
 
 # game/script/story/st_05.rpy:1052
 translate spanish security_conference_01_52439e57:
 
     # jm nulla "{b}James Ironwood{/b}, Supreme Commander and Interim President of the Republic of Atlas."
-    jm nulla ""
+    jm nulla "{b}James Ironwood{/b} Comandante Supremo y Presidente Interino de la Republica de Atlas."
 
 # game/script/story/st_05.rpy:1053
 translate spanish security_conference_01_7731e30b:
 
     # gh nulla "Ghira Belladonna, Lord of Menagerie.{w=0.5} Now, does any of you want to raise any issues with the agenda?"
-    gh nulla ""
+    gh nulla "Ghira Belladonna, Lord de Menagerie.{w=0.5} Ahora, alguno de ustedes quiere levantar alguna cuestión con la agenda?"
 
 # game/script/story/st_05.rpy:1054
 translate spanish security_conference_01_2a3957be:
 
     # jm nulla "I have an issue to raise, lord Belladonna."
-    jm nulla ""
+    jm nulla "Tengo una cuestión a levantar, lord Belladonna."
 
 # game/script/story/st_05.rpy:1067
 translate spanish security_conference_01_0336642b:
 
     # gl_i nulla "(Here we go.)"
-    gl_i nulla ""
+    gl_i nulla "(Aquí vamos.)"
 
 # game/script/story/st_05.rpy:1068
 translate spanish security_conference_01_a2bbaacf:
 
     # gh nulla "The floor is yours, President Ironwood.{w=0.3} What issue do you wish to raise?"
-    gh nulla ""
+    gh nulla "Tiene la palabra, Presidente Ironwood.{w=0.3} Qué cuestión le gustaría levantar?"
 
 # game/script/story/st_05.rpy:1069
 translate spanish security_conference_01_f26c1dc5:
 
     # jm nulla "I wish to raise an issue of legitimacy with item one on the agenda."
-    jm nulla ""
+    jm nulla "Me gustaría levantar una cuestión de ligitimidad con un item en la agenda."
 
 # game/script/story/st_05.rpy:1073
 translate spanish security_conference_01_54ba703d:
 
     # jm nulla "'Prospective recognition of statehood in the case of the Royal Duchy of Peak'.{w=0.5} It is the opinion of the Republic of Atlas that the item is illegitimate, and must be stricken from the conference's agenda."
-    jm nulla ""
+    jm nulla "'Prospectivo reconocimiento de categoría de estado en el caso del Ducado Real de Peak'.{w=0.5} Es la opinión de la Republica de Atlas que el item es ilegitimo, y debe ser quitado de la agenda de la conferencia."
 
 # game/script/story/st_05.rpy:1075
 translate spanish security_conference_01_5645b17b:
 
     # gh nulla "And on what grounds do you make this request, President Ironwood?"
-    gh nulla ""
+    gh nulla "Y con que fundamentos haces está petición, Presidente Ironwood?"
 
 # game/script/story/st_05.rpy:1076
 translate spanish security_conference_01_50e74f64:
 
     # jm nulla "We are not talking about a new state being formed out of a newly discovered or tamed patch of land.{w=0.3} This is a breakaway territory, which has historically been under the control of the Kingdom of Vale."
-    jm nulla ""
+    jm nulla "No estamos hablando acerca de un nuevo estado siendo formado desde una recientemente decubierta o una parte de tierra colonizada.{w=0.3} Este es un terriotio separatista, que historicamente ha estado bajo el control del Reino de Vale."
 
 # game/script/story/st_05.rpy:1078
 translate spanish security_conference_01_5d6d4662:
 
     # jm nulla "Even entertaining the thought would equate to meddling in the internal affairs of an ally.{w=0.3} A gross violation of international law.{w=0.3} We question how the matter was even brought up..."
-    jm nulla ""
+    jm nulla "Incluso es divertido el pensar que podría equiparar a intrometerse en los asuntos internos de un aliado.{w=0.3} Un fea violación de la ley internacional.{w=0.3} Nos preguntamos como el asunto incluso llego aqui..."
 
 # game/script/story/st_05.rpy:1080
 translate spanish security_conference_01_09ac006a:
 
     # jm nulla "And the leader of the breakaway territory invited to this conference as a 'honoured guest'."
-    jm nulla ""
+    jm nulla "Y el lider del territorio separatista invitado a esta conferencia como un 'invitado de honor'."
 
 # game/script/story/st_05.rpy:1081
 translate spanish security_conference_01_3bf096b4:
 
     # gh nulla "A sound reasoning.{w=0.3} I thank you for your contribution, President Ironwood."
-    gh nulla ""
+    gh nulla "Un razonamiento aceptable.{w=0.3} Le agradezco por su contribución, Presidente Ironwood."
 
 # game/script/story/st_05.rpy:1083
 translate spanish security_conference_01_ea2e3474:
 
     # gh nulla "Sovereign Ozma, as the item was added and the consequent invite forwarded at your behest, would you care to address the claim?"
-    gh nulla ""
+    gh nulla "Soberana Ozma, como el item fue añadido y la consecuente invitación adelanta a su petición, le importaría responder a la llamada?"
 
 # game/script/story/st_05.rpy:1084
 translate spanish security_conference_01_8b31e7d8:
 
     # isi hat frown "Vacuo would, yes.{w=0.3} Thank you, lord Belladonna."
-    isi hat frown ""
+    isi hat frown "Vacuo lo hara, si.{w=0.3} Grcias, lord Belladonna."
 
 # game/script/story/st_05.rpy:1095
 translate spanish security_conference_01_eb12032a:
 
     # isi nulla "President Ironwood's knowledge and recitation of international law is impeccable.{w=0.3} Would that his recollection of the details at hand was similarly flawless."
-    isi nulla ""
+    isi nulla "El conocimiento y recitación de la ley internacional por parte del Presidente Ironwood es impecable.{w=0.3} Si tan solo la recolección de los detalles a mano fueran similiarmente sin fallas."
 
 # game/script/story/st_05.rpy:1097
 translate spanish security_conference_01_418f6d1b:
 
     # isi nulla "The Royal Duchy of Peak claims no more and no less than the territory that was once of the city of Peak.{w=0.3} Territory that was, thirteen years ago, declared no man's land following a still as of yet unsolved incident."
-    isi nulla ""
+    isi nulla "El Ducado Real de Peak reclama no mas y no menos que el territorio que una vez fue la ciudad de Peak.{w=0.3} Territorio que fue, trece años atrás, declarado tierra de nadie seguido por un incidente aún sin resolver."
 
 # game/script/story/st_05.rpy:1099
 translate spanish security_conference_01_49ce2c30:
 
     # isi nulla "In so doing, the Kingdom of Vale renounced their claim for all intents, purposes and treaties."
-    isi nulla ""
+    isi nulla "Al hacerlo, el Reino de Vale renunció a sus reclamos para todas las intenciones, propositos y tratados."
 
 # game/script/story/st_05.rpy:1101
 translate spanish security_conference_01_05db221d:
 
     # jm nulla "The Kingdom of Vale refutes this version of the facts.{w=0.3} The declaration was never meant to be a permanent renounce of claim but a warning to would-be adventurers to steer clear, as the state's ability to protect them would be impaired."
-    jm nulla ""
+    jm nulla "El Reino de Vale refuta esta version de los hechos.{w=0.3} La declaración nunca quiso significar una renuncia permanente a los derechos sino una advertencia a los aventureros para dejarlo claro, debido a que la habilidad del estado de protegerlos estaría en problemas."
 
 # game/script/story/st_05.rpy:1103
 translate spanish security_conference_01_55951f10:
 
     # isi nulla "The burecrautic equivalent of retroactive 'backsies'."
-    isi nulla ""
+    isi nulla "El equivalente bureocratico de 'vueltas atrás' retroactivos."
 
 # game/script/story/st_05.rpy:1105
 translate spanish security_conference_01_45bbcc9a:
 
     # jm nulla "A tried and true convention which all of our countries have used at one point or the other.{w=0.3} Menagerie uses it in the Outback, Atlas in the {b}Great North{/b}, Vacuo uses it in the most inospitable parts of the Federation...{w=0.5} And in {b}Vodrunum{/b}."
-    jm nulla ""
+    jm nulla "Una verdadera y probada convención que todos nuestros paises han usado en un punto u otro.{w=0.3} Menagerie lo usa en las Afueras, Atlas en el {b}Gran Norte{/b}, Vacuo lo usa en las areas mas inospitables de la Federación...{w=0.5} Y en {b}Vodrunum{/b}."
 
 # game/script/story/st_05.rpy:1110
 translate spanish security_conference_01_bb9ccdf8:
 
     # isi nulla "Granted.{w=0.3} It is the opinion of the Federation to not be the case in this instance.{w=0.3} We also have a hard time finding validity in claims not delivered by the interested party, but by a proxy."
-    isi nulla ""
+    isi nulla "Cierto.{w=0.3} Es en la opinión de la Federación que este no sea el caso en esta instancia.{w=0.3} Nosotros también hemos tenido un tiempo duro encontrando validez en peticiones no llevadas a cabo por la parte interesada, sino por un representante."
 
 # game/script/story/st_05.rpy:1111
 translate spanish security_conference_01_15c5a2e4:
 
     # jm nulla "The Kingdom of Vale has, in its state of emergency and transitionary period from a seminal incident, deferred to the assistance of Atlas in matters of foreign policy.{w=0.3} Our claims are theirs."
-    jm nulla ""
+    jm nulla "El Reino de Vale ha, en su estado de emergencia y periodo transicionario por un incidente seminal, diferido a la asistencia de Atlas en asuntos de politica extranjera.{w=0.3} Nuestros reclamos son suyos."
 
 # game/script/story/st_05.rpy:1112
 translate spanish security_conference_01_0a18aa63:
 
     # am neutral "Vale would comment on that, lord Moderator."
-    am neutral ""
+    am neutral "A Vale le gustaría comentar sobre eso, lord Moderador."
 
 # game/script/story/st_05.rpy:1118
 translate spanish security_conference_01_0eac04b7:
 
     # gl_i surprise glasses "(Amber...{w=0.5} It really is you, isn't it?)"
-    gl_i surprise glasses ""
+    gl_i surprise glasses "(Amber...{w=0.5} Realmente eres tu, verdad?)"
 
 # game/script/story/st_05.rpy:1119
 translate spanish security_conference_01_ca411711:
 
     # gh neutral "The floor is yours, High Councillor."
-    gh neutral ""
+    gh neutral "La palabra es suya, Gran Canciller."
 
 # game/script/story/st_05.rpy:1122
 translate spanish security_conference_01_6dbfa897:
 
     # am nulla "Thank you, lord moderator.{w=0.3} I begin with apologies for my last minute notification of attendance, and any incovenience it may have caused to you and yours."
-    am nulla ""
+    am nulla "Gracias, lord moderador.{w=0.3} Empezaré con mis disculpas por la notificación de último minuto sobre mi asistencia, y cualquier inconveniente le haya causado a usted y ustedes."
 
 # game/script/story/st_05.rpy:1124
 translate spanish security_conference_01_6bfa464f:

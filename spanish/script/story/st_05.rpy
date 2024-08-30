@@ -2974,241 +2974,241 @@ translate spanish conference_voting_peak_c48186b8:
 translate spanish conference_voting_peak_64f5bb41:
 
     # gl_i surprise sweat glasses "(Amber, I was truly shocked to see you here, in this role…{w=0.5} James was too.)"
-    gl_i surprise sweat glasses ""
+    gl_i surprise sweat glasses "(Amber, estaba realmente shockeada de verte aquí, en este rol…{w=0.5} James también lo estuvo.)"
 
 # game/script/story/st_05.rpy:1819
 translate spanish conference_voting_peak_9a8cbab3:
 
     # gl_i neutral sweat glasses "(Are you an enemy?{w=0.3} An ally? {w=0.3} Or…?)"
-    gl_i neutral sweat glasses ""
+    gl_i neutral sweat glasses "(Eres una enemiga?{w=0.3} Una aliada? {w=0.3} O…?)"
 
 # game/script/story/st_05.rpy:1821
 translate spanish conference_voting_peak_51276ccb:
 
     # am nulla "Salutary neglect…{w=0.5} Such hipocrisy, in those words."
-    am nulla ""
+    am nulla "Neglicencia saludable.{w=0.5} Tanta hipocresia, en esas palabras."
 
 # game/script/story/st_05.rpy:1823
 translate spanish conference_voting_peak_81cb4914:
 
     # am nulla "There's nothing salutary in the way the Kingdom acted towards the people of Peak, its own Hunters...{w=0.5} People who suffered and lost just as much as the civilians, in the Fall."
-    am nulla ""
+    am nulla "No hay nada saludable en la manera que el Reino actuó hacia la gente de Peak, sus propios Cazadores...{w=0.5} Personas que sufrieron y perdieron tanto como los civiles, en la Caída."
 
 # game/script/story/st_05.rpy:1825
 translate spanish conference_voting_peak_32e23ace:
 
     # am nulla "Neglect?{w=0.3} Our actions have been actively, aggressively hostile.{w=0.3} Happily sending as many Mistrali refugees their way, to try and break them…"
-    am nulla ""
+    am nulla "Neglicencia?{w=0.3} Nuestras acciones han sido activvas, agresivamente hostiles.{w=0.3} Enviando felizmente tantos refugiados de Mistral a su puerta, para intentar romperlos…"
 
 # game/script/story/st_05.rpy:1827
 translate spanish conference_voting_peak_3b2a04df:
 
     # am nulla "Only to resent them when they instead thrived.{w=0.3} While before my time in office, such conduct fills me with shame.{w=0.3} The Kingdom has much to atone for…"
-    am nulla ""
+    am nulla "Solo para resentirlos cuando ellos en su lugar florecieron.{w=0.3} Mientras que antes de mi timepo en la oficina, dichas conductas me llenan de vergüenza.{w=0.3} El reino tiene mucho por lo que expiarse."
 
 # game/script/story/st_05.rpy:1828
 translate spanish conference_voting_peak_fdcf91f9:
 
     # gl_i surprise "(Then…?!)"
-    gl_i surprise ""
+    gl_i surprise "(Entonces…?!)"
 
 # game/script/story/st_05.rpy:1830
 translate spanish conference_voting_peak_8705dd41:
 
     # am nulla "And we'll never be able to do so if we allow our conduct to push away some of our best and brightest."
-    am nulla ""
+    am nulla "Y nunca seremos capaces de hacerlo si permitimos nuestra conducta alejar algunos de nuestros mejores y mas brillantes."
 
 # game/script/story/st_05.rpy:1831
 translate spanish conference_voting_peak_a999b23c:
 
     # jm_i amused "(Hmph…{w=0.5} I see.)"
-    jm_i amused ""
+    jm_i amused "(Hmph…{w=0.3} Ya veo.)"
 
 # game/script/story/st_05.rpy:1832
 translate spanish conference_voting_peak_c86ca769:
 
     # am nulla "The Kingdom of Vale votes against the recognition of the Royal Duchy of Peak as a sovereign state.{w=0.3} And it vows to amend our relationship, whatever the cost."
-    am nulla ""
+    am nulla "El Reino de Vale vota en contra de el reconocimiento del Ducado Real de Peak como un estado soberano.{w=0.3} Y juera amendar nuestras relaciones, sin importar el costo."
 
 # game/script/story/st_05.rpy:1833
 translate spanish conference_voting_peak_122997f6:
 
     # gl_i sad glasses "(Well…{w=0.5} I guess it would have been too easy.)"
-    gl_i sad glasses ""
+    gl_i sad glasses "(Bueno…{w=0.5} Supongo que hubiera sido demasiado fácil.)"
 
 # game/script/story/st_05.rpy:1834
 translate spanish conference_voting_peak_bcf18089:
 
     # gh neutral "Your vote is registered.{w=0.3} Thank you, High Councillor."
-    gh neutral ""
+    gh neutral "Su voto ha sido registrado.{w=0.3} Gracias, Gran Canciller."
 
 # game/script/story/st_05.rpy:1837
 translate spanish conference_voting_peak_0dc585fc:
 
     # gh smile "Actually, before you sit:{w=0.15} may I instead ask you to come take my place for but a few minutes?"
-    gh smile ""
+    gh smile "En realidad, antes de que te sientes:{w=0.15} Te podría pedir que tomes mi lugar por unos pocos minutos?"
 
 # game/script/story/st_05.rpy:1838
 translate spanish conference_voting_peak_7c5b2bbf:
 
     # jm surprise "Hmm…?"
-    jm surprise ""
+    jm surprise "Hmm…?"
 
 # game/script/story/st_05.rpy:1839
 translate spanish conference_voting_peak_a8395189:
 
     # am surprise "I'm sorry…?"
-    am surprise ""
+    am surprise "Disculpe…?"
 
 # game/script/story/st_05.rpy:1849
 translate spanish conference_voting_peak_857c8c24:
 
     # gh nulla "It is very much against protocol for me to record my own vote."
-    gh nulla ""
+    gh nulla "Está muy en contra del protocolo que registre mi propio voto."
 
 # game/script/story/st_05.rpy:1855
 translate spanish conference_voting_peak_d272282f:
 
     # am nulla "WHAT?!"
-    am nulla ""
+    am nulla "QUE?!"
 
 # game/script/story/st_05.rpy:1856
 translate spanish conference_voting_peak_8201a4b7:
 
     # jm nulla "You intend to cast a vote?!{w=0.3} Lord Belladonna!"
-    jm nulla ""
+    jm nulla "Tiene la intención de formar parte de las votaciones?!{w=0.3} Lord Belladonna?"
 
 # game/script/story/st_05.rpy:1858
 translate spanish conference_voting_peak_39ea3350:
 
     # jm nulla "As host and moderator, role which ascribes you to the utmost neutrality, it is grossly inopportune!"
-    jm nulla ""
+    jm nulla "Como anfitrión y moderador, rol el cual le atribuye la mayor neutralidad, es feamente inoportuno!"
 
 # game/script/story/st_05.rpy:1860
 translate spanish conference_voting_peak_f7c8557d:
 
     # gh nulla "I am very much aware, President Ironwood…{w=0.5} Just as I'm aware that exemptions are permitted, in case an item pertains to matters of national security."
-    gh nulla ""
+    gh nulla "Estoy muy al tanto, Presidente Ironwood…{w=0.5} Al igual que estoy al tanto que las excepciones están permitidas, en caso de que un objeto tome parte a motivos de seguridad nacional."
 
 # game/script/story/st_05.rpy:1861
 translate spanish conference_voting_peak_c070d780:
 
     # jm nulla "The sovereignty plea of a breakaway Valesian territory pertains to the national security of {i}Menagerie{/i}?!"
-    jm nulla ""
+    jm nulla "La suplica de soberenidad de un territorio Valesiano separatista toma parte de la seguridad nacional de {i}Menagerie{/i}?!"
 
 # game/script/story/st_05.rpy:1862
 translate spanish conference_voting_peak_ee00f1b8:
 
     # gh nulla "Very much so, as I will detail in my declaration.{w=0.3} If my motives won't meet with your approval, you are welcome to move to strike with another vote."
-    gh nulla ""
+    gh nulla "Así es, como voy a detallar en mi declaración.{w=0.3} Si mis motivos no ganan tu aprobación, eres libre de golpear con otro voto."
 
 # game/script/story/st_05.rpy:1865
 translate spanish conference_voting_peak_de950e45:
 
     # am nulla "Lord Moderator, I…{w=0.5} As Peak is, as President Ironwood aptly put it, a Valesian territory, I fear my taking over as moderator would be inopportune."
-    am nulla ""
+    am nulla "Lord Moderador, Yo…{w=0.5} Como Peak es, como el Presidente Ironwood lo dijo, un territorio Valesiano, temo que mi toma como moderadora sería inoportuna."
 
 # game/script/story/st_05.rpy:1868
 translate spanish conference_voting_peak_5504049e:
 
     # gh nulla "It is indeed…{w=0.5} But you also have been calling me Lord Moderator only, from the start of the proceedings."
-    gh nulla ""
+    gh nulla "Lo es en efecto…{w=0.5} Pero también me has estado llamando Lord Moderador únicamente, desde el comienzo de los procedimientos."
 
 # game/script/story/st_05.rpy:1870
 translate spanish conference_voting_peak_04813f9a:
 
     # gh nulla "Your words have shown the most respect for the institution of this conference out of anyone in this room.{w=0.3} I have no doubt you will perform your duty fairly, however brief it may be."
-    gh nulla ""
+    gh nulla "Tus palabras han mostrado el mayor respeto por la institución de esta conferencia de todos los que están en este cuarto.{w=0.3} No tengo dudas de que harás tus tareas justamente, sin importar lo breves que sean."
 
 # game/script/story/st_05.rpy:1874
 translate spanish conference_voting_peak_87e01b19:
 
     # am nulla "Very well, then."
-    am nulla ""
+    am nulla "Muy bien, entonces."
 
 # game/script/story/st_05.rpy:1876
 translate spanish conference_voting_peak_2a4d48e5:
 
     # am nulla "The switching in role is registered.{w=0.3} Lord Belladonna of Menagerie intends to declare a vote, citing matters of national security."
-    am nulla ""
+    am nulla "El cambio de rol ha sido registrado.{w=0.3} Lord Belladonna de Menagerie tiene intención de declarar un voto, citando motivos de seguridad nacional."
 
 # game/script/story/st_05.rpy:1878
 translate spanish conference_voting_peak_d70d2c1a:
 
     # am nulla "The floor is yours."
-    am nulla ""
+    am nulla "La palabra es suya."
 
 # game/script/story/st_05.rpy:1879
 translate spanish conference_voting_peak_f8835b87:
 
     # gh nulla "Thank you…{w=0.5} Lord Moderator."
-    gh nulla ""
+    gh nulla "Gracias…{w=0.5} Lord Moderador."
 
 # game/script/story/st_05.rpy:1884
 translate spanish conference_voting_peak_d4eedc82:
 
     # gh nulla "The Fall of Beacon is, as President Ironwood said, a seminal incident.{w=0.3} Not just for Vale but for Remnant as a whole, acting as a catalyst for many things.{w=0.3} The civil war in Mistral being but one of them…"
-    gh nulla ""
+    gh nulla "La Caída de Beacon es, como el Presidente Ironwood dijo, un incidente de enorme trascendencia.{w=0.3} No solo para Vale pero para Remnant como un todo, actuando como un catalizador para muchas cosas.{w=0.3} La guerra civil en Mistrar siendo solo una de ellas."
 
 # game/script/story/st_05.rpy:1888
 translate spanish conference_voting_peak_998d24fe:
 
     # gh nulla "But as always…{w=0.5} Fauni seem to have paid a most disproportionate price in the process."
-    gh nulla ""
+    gh nulla "Pero como siempre…{W=0.5} Los Faunos parecen haber pagado los precios mas desproporcionados en el proceso."
 
 # game/script/story/st_05.rpy:1892
 translate spanish conference_voting_peak_ef8c6cad:
 
     # gh nulla "Due to the Fang's involvement in the event, anti-Fauni sentiment has been on the rise all over Remnant.{w=0.3} If they're refugees from Mistral, they're turned away..."
-    gh nulla ""
+    gh nulla "Debido a la participación del Fang en el evento, el sentimiento anti-Fauno ha estado en la alza por todo Remnant.{w=0.3} Si son refugiados de MIstral, ellos son echados..."
 
 # game/script/story/st_05.rpy:1894
 translate spanish conference_voting_peak_657ac924:
 
     # gh nulla "If they live in Vale, they're increasingly scrutinized and profiled.{w=0.3} If they're from Atlas, they see their rights eroded."
-    gh nulla ""
+    gh nulla "Si ellos viven en Vale, son incrementalmente escrutinados y registrados.{w=0.3} Si ellos son de Atlas, ellos ven sus derechos erosionados."
 
 # game/script/story/st_05.rpy:1896
 translate spanish conference_voting_peak_bdb638f4:
 
     # gh nulla "Vacuo's administrative structure is its saving grace…{w=0.5} But also the source of the related problems they now struggle with."
-    gh nulla ""
+    gh nulla "La estructura administrativa de Vacuo es su gracia salvadora…{w=0.5} Pero también la fuente de los problemas relacionados con los que tienen problemas ahora."
 
 # game/script/story/st_05.rpy:1897
 translate spanish conference_voting_peak_2c5a7a38:
 
     # isi_i neutral hat sweat "(Brothers…{w=0.5} He's something else, isn't he?)"
-    isi_i neutral hat sweat ""
+    isi_i neutral hat sweat "(Por los Hermanos…{w=0.5} El realmente esta a otro nivel, no?)"
 
 # game/script/story/st_05.rpy:1898
 translate spanish conference_voting_peak_c46f529d:
 
     # gh nulla "New Fauni come to my shores daily, looking for safety and acceptance.{w=0.3} Turning Menagerie into something we never wanted it to be…"
-    gh nulla ""
+    gh nulla "Nuevos Faunos vienen a mis costas diariamente, buscando seguridad y aceptación.{w=0.3} Volviendo a Menagerie en algo que nunca quisimos que sea…"
 
 # game/script/story/st_05.rpy:1900
 translate spanish conference_voting_peak_80c169f4:
 
     # gh nulla "Our people's hideaway from the rest of the world.{w=0.5} But not a home, never their home, for their homes are what they had to leave behind."
-    gh nulla ""
+    gh nulla "El escondite de nuestra gente del resto del mundo.{w=0.5} Pero no un hogar, nunca su hogar, ya que sus hogares son lo que han tenido que dejar atrás."
 
 # game/script/story/st_05.rpy:1904
 translate spanish conference_voting_peak_b66493ab:
 
     # gh nulla "What first piqued my interest in the Royal Duchy was that they had been accepting more Fauni refugees than any other place on Remnant."
-    gh nulla ""
+    gh nulla "Lo que primeor picó mi interes en el Ducado Real es que ellos han estado aceptando mas refugiados Faunos que ningún otro lugar en Remnant."
 
 # game/script/story/st_05.rpy:1907
 translate spanish conference_voting_peak_9b92ff27:
 
     # gh nulla "That is when I first approached the Duchess.{w=0.3} From our meetings, I perceived she understood our plight.{w=0.3} Understood what was at stake…{w=0.5} And how to go forward."
-    gh nulla ""
+    gh nulla "Así fue como me acerqué por primera vez a la Duquesa.{w=0.3} De nuestros encuentros, Pude percibir que ella entendía nuestra situación.{w=0.3} Entendía que estaba en juego…{w=0.5} Y como seguir adelante."
 
 # game/script/story/st_05.rpy:1909
 translate spanish conference_voting_peak_c7f27337:
 
     # gh nulla "I heard talks of unity, and yet your actions enable your people's worst instincts.{w=0.3} Vows to make amends, but only if on your terms.{w=0.3} The burden of leadership is not a light one..."
-    gh nulla ""
+    gh nulla "He escuchado charlas de unidad, y aún así sus acciones posibilitan los peores instintos de tu gente.{w=0.3} Promesas para enmendar, pero solo si es en tus términos.{w=0.3} La carga del liderazgo no es una ligera..."
 
 # game/script/story/st_05.rpy:1911
 translate spanish conference_voting_peak_387d4628:
@@ -3220,449 +3220,449 @@ translate spanish conference_voting_peak_387d4628:
 translate spanish conference_voting_peak_d457fecf:
 
     # gh nulla "The Duchy of Peak has a vision for the future that we see as beneficial for the nation of Menagerie, and the Fauni people.{w=0.3} They've already proven their committment to our satisfaction..."
-    gh nulla ""
+    gh nulla "El Ducado de Peak tiene una visión para el futuro que nosotros vemos beneficioso para la nación de Menagerie, y la gente Fauno.{w=0.3} Ellos ya han probado su compromiso es de nuestra satisfacción..."
 
 # game/script/story/st_05.rpy:1915
 translate spanish conference_voting_peak_4b36f108:
 
     # gh nulla "Thus:{w=0.5} the Nation of Menagerie votes to recognize the Royal Duchy of Peak as a sovereign state."
-    gh nulla ""
+    gh nulla "Dicho esto:{w=0.5} la Nación de Menagerie vota a favor de reconocer el Ducado Real de Peak como estado soberano."
 
 # game/script/story/st_05.rpy:1918
 translate spanish conference_voting_peak_c56b0dd0:
 
     # jm nulla "Preposterous...!!!"
-    jm nulla ""
+    jm nulla "Absurdo...!!!"
 
 # game/script/story/st_05.rpy:1919
 translate spanish conference_voting_peak_6ffbde57:
 
     # am nulla "Two...{w=0.5} Two to two.{w=0.3} A draw.{w=0.3} Which means-"
-    am nulla ""
+    am nulla "Dos...{w=0.5} Dos a dos.{w=0.3} Un empate.{w=0.3} Lo que significa-"
 
 # game/script/story/st_05.rpy:1920
 translate spanish conference_voting_peak_7eb1f22c:
 
     # jm nulla "I won't stand for this mockery!{w=0.3} Lord Belladonna, your declaration didn't justify an exemption!"
-    jm nulla ""
+    jm nulla "No voy a permitir esta farsa!{w=0.3} Lord Belladonna, su declaración no justifica una excepción!"
 
 # game/script/story/st_05.rpy:1923
 translate spanish conference_voting_peak_5e984672:
 
     # gh nulla "I suppose you would request further details, President Ironwood?"
-    gh nulla ""
+    gh nulla "Supongo que pedirá mas detalles, Presidente Ironwood?"
 
 # game/script/story/st_05.rpy:1925
 translate spanish conference_voting_peak_82cb75a2:
 
     # jm nulla "I would call for striking your vote down on-"
-    jm nulla ""
+    jm nulla "Yo llamaría para llamar su vetar su voto debido a-"
 
 # game/script/story/st_05.rpy:1926
 translate spanish conference_voting_peak_87d90f7d:
 
     # gl neutral glasses "Would a temporary position suit you, President Ironwood?"
-    gl neutral glasses ""
+    gl neutral glasses "Le gustaría una posición temporal, Presidente Ironwood?"
 
 # game/script/story/st_05.rpy:1934
 translate spanish conference_voting_peak_74c0b945:
 
     # jm nulla "What...?"
-    jm nulla ""
+    jm nulla "Qué...?"
 
 # game/script/story/st_05.rpy:1935
 translate spanish conference_voting_peak_2af079c4:
 
     # gl nulla "The vote is a tie.{w=0.3} Which means that the resolution is non-binding, and the ratification of it left up to the individual states."
-    gl nulla ""
+    gl nulla "El voto es un empate.{w=0.3} Lo que significa que la resolución es no vinculante, y la ratificación es dejada a los estados individuales."
 
 # game/script/story/st_05.rpy:1937
 translate spanish conference_voting_peak_7bb2ce3e:
 
     # gl nulla "But if it helps smooth out your concerns, I'm willing to let it be a temporary resolution.{w=0.3} We shall wait {b}until the seat of Mistral is once again filled{/b}, and have them be the tie breaker."
-    gl nulla ""
+    gl nulla "Pero si eso ayuda a suavizar sus preocupaciones, estoy dispuesto a dejarlo ser una resolución temporal.{w=0.3} Esperaremos {b}Hasta que la silla de Mistral sea llenada una vez mas{/b}, y los dejaremos ser los que rompan el empate."
 
 # game/script/story/st_05.rpy:1944
 translate spanish conference_voting_peak_d2c0edfe:
 
     # jm nulla ".{w=0.3}.{w=0.3}.{w=0.5}in exchange for what?"
-    jm nulla ""
+    jm nulla ".{w=0.3}.{w=0.3}.{w=0.5}A cambio de qué?"
 
 # game/script/story/st_05.rpy:1946
 translate spanish conference_voting_peak_3243b1f0:
 
     # gl nulla "A non-voting seat at this table.{w=0.3} All I ask is a venue to let my concerns be heard unfiltered."
-    gl nulla ""
+    gl nulla "Un puesto sin derecho de voto en esta mesa.{w=0.3} Todo lo que pido es un lugar para dejar mis preocupaciones ser oídas sin filtros."
 
 # game/script/story/st_05.rpy:1950
 translate spanish conference_voting_peak_5d3277fd:
 
     # jm nulla "I'll need to consult with my advisors.{w=0.3} And the rest of the Cabinet."
-    jm nulla ""
+    jm nulla "Necesitaré consultarlo con mis asesores.{w=0.3} Y el resto del Cabinete."
 
 # game/script/story/st_05.rpy:1954
 translate spanish conference_voting_peak_c762c947:
 
     # gh nulla "I think we would all benefit from a recess...{w=0.5} Lord Moderator, what says you?"
-    gh nulla ""
+    gh nulla "Creo que todos nos beneficiariamos de un receso...{w=0.5} Lord Moderador, qué dice usted?"
 
 # game/script/story/st_05.rpy:1955
 translate spanish conference_voting_peak_b0814561:
 
     # am nulla "The Moderator is in agreement..."
-    am nulla ""
+    am nulla "El Moderador está de acuerdo..."
 
 # game/script/story/st_05.rpy:1958
 translate spanish conference_voting_peak_9a3f7a03:
 
     # am nulla "I call for a recess of three hours.{w=0.3} I trust that will be ample time."
-    am nulla ""
+    am nulla "Llamo a un receso de tres horas.{w=0.3} Confío en que sea tiempo abundante."
 
 # game/script/story/st_05.rpy:1967
 translate spanish conference_voting_peak_59f42b6c:
 
     # gh nulla "Good work, Duchess."
-    gh nulla ""
+    gh nulla "Buen trabajo, Duquesa."
 
 # game/script/story/st_05.rpy:1971
 translate spanish conference_voting_peak_6d47e9a8:
 
     # gl_i nulla "(Well, that was absolutely nervewracking.)"
-    gl_i nulla ""
+    gl_i nulla "(Bueno, eso fue absolutamente angustioso.)"
 
 # game/script/story/st_05.rpy:1973
 translate spanish conference_voting_peak_5f2936c1:
 
     # am nulla "Uhm, Gl...{w=0.5} Duchess Glynda, would you mind having a bilateral over lunch?"
-    am nulla ""
+    am nulla "Uhm, Gl...{w=0.5} Duquesa Glynda, Le gustaria tener un bilateral con el almuerzo?"
 
 # game/script/story/st_05.rpy:1976
 translate spanish conference_voting_peak_6adde1b9:
 
     # gl nulla "Huh?"
-    gl nulla ""
+    gl nulla "Huh?"
 
 # game/script/story/st_05.rpy:1978
 translate spanish conference_voting_peak_034aad1a:
 
     # am nulla "Please, I...{w=0.5} Think we have much to discuss.{w=0.3} Both as representatives and as people."
-    am nulla ""
+    am nulla "Por favor, yo...{w=0.5} Creo que tenemos mucho por discutir.{w=0.3} Ambos como representativos y como personas."
 
 # game/script/story/st_05.rpy:1990
 translate spanish mena_JPDE_camp_c97e6719:
 
     # p neutral "A hover-vehicle powered by a Levitation Dust circuit...!{w=0.3} No wonder I couldn't find any traces of a transport!{w=0.3} Did you build this, Ruby?"
-    p neutral ""
+    p neutral "Un Vehiculo-levitante impulsado por un circuito de Dust Levitatnte...!{w=0.3} No es una sorpresa que no haya podido encontrar rastros de un transporte!{w=0.3} Tú construiste esto, Ruby?"
 
 # game/script/story/st_05.rpy:1991
 translate spanish mena_JPDE_camp_bab58bae:
 
     # ru smile g_down "You know it!{w=0.3} Alongside a few other things~{w=0.5} And we're here!"
-    ru smile g_down ""
+    ru smile g_down "Adivinaste!{w=0.3} Junto unas cuantas otras cosas~{w=0.5} Y aquí estamos!"
 
 # game/script/story/st_05.rpy:2000
 translate spanish mena_JPDE_camp_bfda3aee:
 
     # ru nulla "Welcome to Maria and Ruby's Spectacular Camp of Science and Death!"
-    ru nulla ""
+    ru nulla "Bienvenidos a el Espectacular campamento de Ciencia y Muerte de Maria y Ruby!"
 
 # game/script/story/st_05.rpy:2001
 translate spanish mena_JPDE_camp_512a89ae:
 
     # e surprise "Science and-"
-    e surprise ""
+    e surprise "Ciencia y-"
 
 # game/script/story/st_05.rpy:2002
 translate spanish mena_JPDE_camp_fc73bc6f:
 
     # d surprise "Death?!"
-    d surprise ""
+    d surprise "Muerte?!"
 
 # game/script/story/st_05.rpy:2007
 translate spanish mena_JPDE_camp_605c4f96:
 
     # ru nulla "Indeed.{w=0.3} Science for us and death for our enemies!{w=0.3} Kukukukuku~"
-    ru nulla ""
+    ru nulla "En efecto.{w=0.3} Ciencia para nosotros y muerte para nuestros enemigos!{w=0.3} Kukukukuku~"
 
 # game/script/story/st_05.rpy:2009
 translate spanish mena_JPDE_camp_e3f268d0:
 
     # ru nulla "Well, mostly science for me!{w=0.3} Maria is an amazing Hunter, but she doesn't know a hydraulic spanner from a torx screwdriver!"
-    ru nulla ""
+    ru nulla "Bueno, mayormente ciencia para mi!{w=0.3} Maria es una asombrosa Cazadora, pero ella no puede reconocer la diferencia entre una llave hidraulica y un desatornillador en estrella."
 
 # game/script/story/st_05.rpy:2010
 translate spanish mena_JPDE_camp_6f566fdd:
 
     # j shock "Her and most of Remnant, I'd say?"
-    j shock ""
+    j shock "Ella y la mayoría de Remnant, diría yo?"
 
 # game/script/story/st_05.rpy:2012
 translate spanish mena_JPDE_camp_0c0783fa:
 
     # m nulla "I see someone is forgetting herself...?"
-    m nulla ""
+    m nulla "Veo que alguien se olvidando de algo...?"
 
 # game/script/story/st_05.rpy:2015
 translate spanish mena_JPDE_camp_6dd4e17a:
 
     # ru nulla "H-{w=0.15}Hah!{w=0.3} Sorry, master, it's just we haven't had guests in...{w=0.5} Well, never!"
-    ru nulla ""
+    ru nulla "H-{w=0.15}Hah!{w=0.3} Perdón, maestra, es solo que no hemos tenido invitados en...{w=0.5} Bueno, nunca!"
 
 # game/script/story/st_05.rpy:2016
 translate spanish mena_JPDE_camp_3dd1ba50:
 
     # m nulla "Indeed we haven't.{w=0.3} So, how about you show them around while I get started on lunch, instead of clucking about inconsequentials?"
-    m nulla ""
+    m nulla "En efecto no hemos tenido.{w=0.3} Asi que, que tal si les muestras el lugar mientras yo empiezo la comida, en lugar de cacarear acerca de cosas sin importancia?"
 
 # game/script/story/st_05.rpy:2019
 translate spanish mena_JPDE_camp_dd04f746:
 
     # ru nulla "Yes!{w=0.3} Of course!{w=0.3} Thank you, master!"
-    ru nulla ""
+    ru nulla "Si!{w=0.3} Por supuesto!{w=0.3} Gracias, maestra!"
 
 # game/script/story/st_05.rpy:2022
 translate spanish mena_JPDE_camp_9298808d:
 
     # ru laugh "Come on, guys!{w=0.3} This way, this way, this way!{w=0.3} You have NO IDEA how long I've been wanting to show this stuff off!"
-    ru laugh ""
+    ru laugh "Vamos, chicos!{w=0.3} Por este lugar, este lugar, este lugar!{w=0.3} No tienen IDEA de cuánto tiempo he estado esperando para mostrar estas cosas!"
 
 # game/script/story/st_05.rpy:2023
 translate spanish mena_JPDE_camp_5fbde821:
 
     # e shock "Woah!{w=0.3} Easy there, I can walk by myself!"
-    e shock ""
+    e shock "Woah!{w=0.3} Tranquila, puedo caminar por mi cuenta!"
 
 # game/script/story/st_05.rpy:2024
 translate spanish mena_JPDE_camp_49aaf740:
 
     # p surprise "Ruby, my goodness!{w=0.3} You built all of these?!{w=0.3} I can't even tell what they are!"
-    p surprise ""
+    p surprise "Ruby, por dios!{w=0.3} Tu construiste todos estos?!{w=0.3} Ni siquiera puedo decir que son!"
 
 # game/script/story/st_05.rpy:2026
 translate spanish mena_JPDE_camp_06ac7c87:
 
     # ru amused "You seen any other engineering prodigy around?{w=0.3} Let me start with my baby Filtry, here.{w=0.3} What he does is..."
-    ru amused ""
+    ru amused "Has visto a algún otro prodigio en la ingenieria alrededor?{w=0.3} Dejame empezar con mi bebe Filtry, aquí.{w=0.3} Lo que hace es..."
 
 # game/script/story/st_05.rpy:2028
 translate spanish mena_JPDE_camp_1ff6df16:
 
     # j neutral "Uhm, can we help with the cooking, ma'am?"
-    j neutral ""
+    j neutral "Uhm, podemos ayudarle con la cocina, señora?"
 
 # game/script/story/st_05.rpy:2029
 translate spanish mena_JPDE_camp_939362d3:
 
     # d smile "It would be our pleasure."
-    d smile ""
+    d smile "Sería nuestro placer."
 
 # game/script/story/st_05.rpy:2037
 translate spanish mena_JPDE_camp_706aae64:
 
     # m nulla "Hmmm...{w=0.5} Not you, girl.{w=0.3} I'll take the boy."
-    m nulla ""
+    m nulla "Hmmm...{w=0.5} No tu, chica.{w=0.3} Tomaré al chico."
 
 # game/script/story/st_05.rpy:2042
 translate spanish mena_JPDE_camp_67f66479:
 
     # m nulla "You can grab water from the pool and bring it to Ruby for filtering."
-    m nulla ""
+    m nulla "Tú puedes sacar agua de la fuetne y llevarsela a Ruby para el filtrado."
 
 # game/script/story/st_05.rpy:2043
 translate spanish mena_JPDE_camp_c5ee827d:
 
     # j nulla "Uhm, sure...{w=0.5} But can I ask why not me, specifically?"
-    j nulla ""
+    j nulla "Uhm, claro...{w=0.5} Pero puedo preguntar porque yo no, especificamente?"
 
 # game/script/story/st_05.rpy:2045
 translate spanish mena_JPDE_camp_f735460a:
 
     # m nulla "Because you don't feel like a particularly confident cook."
-    m nulla ""
+    m nulla "Porque no te ves como una cocinera particularmente segura."
 
 # game/script/story/st_05.rpy:2049
 translate spanish mena_JPDE_camp_8b051bfd:
 
     # d_i nulla "(She can tell that?!)"
-    d_i nulla ""
+    d_i nulla "(Ella puede darse cuenta de eso?!)"
 
 # game/script/story/st_05.rpy:2050
 translate spanish mena_JPDE_camp_ac794020:
 
     # j nulla "Uhm, right...{w=0.5} I'll, ehm, go...{w=0.5} Grab water, then."
-    j nulla ""
+    j nulla "Uhm, cierto...{w=0.5} Yo voy a, ehm, irme a...{w=0.5} Buscar agua, entonces."
 
 # game/script/story/st_05.rpy:2054
 translate spanish mena_JPDE_camp_18301678:
 
     # m nulla "Do you have a steady hand with a knife...?"
-    m nulla ""
+    m nulla "Tienes una mano firme con un cuchillo...?"
 
 # game/script/story/st_05.rpy:2055
 translate spanish mena_JPDE_camp_f4ba2772:
 
     # d nulla "Oh!{w=0.3} Uhm, I would say so, ma'am.{w=0.3} Yes."
-    d nulla ""
+    d nulla "Oh!{w=0.3} Uhm, yo diría eso, señora-{w=0.3} Si."
 
 # game/script/story/st_05.rpy:2056
 translate spanish mena_JPDE_camp_c824e83d:
 
     # m nulla "Hm.{w=0.5} Go to the square tent and grab eight potatoes from the tall, rectangular container.{w=0.3} Peel and chop them, bite sized."
-    m nulla ""
+    m nulla "Hm.{w=0.5} Ve a la tienda en la esquina y agarra ocho papas del alto, contenedor rectangular.{w=0.3} Pelalas y cortalas, en tamaño de bocado."
 
 # game/script/story/st_05.rpy:2066
 translate spanish mena_JPDE_camp_6962baa0:
 
     # ru shock c_half "JAUNE HAS A {b}GIRLFRIEND{/b}, NOW?!"
-    ru shock c_half ""
+    ru shock c_half "JAUNE TIENE UNA {b}NOVIA{/b}, AHORA?!"
 
 # game/script/story/st_05.rpy:2067
 translate spanish mena_JPDE_camp_4b8a84ac:
 
     # e laugh "Ahahaha, that's gotten the biggest reaction out of you so far!"
-    e laugh ""
+    e laugh "Ahahaha, eso te ha sacado la reacción mas grande hasta ahora!"
 
 # game/script/story/st_05.rpy:2081
 translate spanish mena_JPDE_camp_6a920496:
 
     # p nulla "Indeed!{w=0.3} Her name's Zi-Yang, she's from Mistral.{w=0.3} She's amazing."
-    p nulla ""
+    p nulla "En efecto!{w=0l3} Su nombre es Zi-Yang, ella es de Mistral.{w=0.3} Es asombrosa."
 
 # game/script/story/st_05.rpy:2082
 translate spanish mena_JPDE_camp_1123a1fc:
 
     # ru nulla "Jaune Arc has a girlfriend and it's not Weiss or Pyrrha...{w=0.5} It's like the world has gone off the rails since I've been gone!"
-    ru nulla ""
+    ru nulla "Jaune Arc tiene una novia y no es Weiss o Pyrrha...{w=0.5} Es como si el mundo se ha salido de sus railes desde que me fuí!"
 
 # game/script/story/st_05.rpy:2084
 translate spanish mena_JPDE_camp_52e4f786:
 
     # m nulla "Arc...?{w=0.5} Would he happen to be related to {b}Leon Arc{/b}, by any chance?"
-    m nulla ""
+    m nulla "Arc...?{w=0.5} Podría el estar relacionado a {b}Leon Arc{/b}, por algún casual?"
 
 # game/script/story/st_05.rpy:2089
 translate spanish mena_JPDE_camp_4c418d5a:
 
     # p nulla "Oh!{w=0.3} Yes, that is indeed the name of Jaune's grandfather!"
-    p nulla ""
+    p nulla "Oh!{w=0.3} Si, ese es en efecto el nombre del abuelo de Jaune!"
 
 # game/script/story/st_05.rpy:2091
 translate spanish mena_JPDE_camp_b1e9aa67:
 
     # m nulla "Is it, now...{w=0.5} Leon was a first grade Hunter, one of the finest I've ever met.{w=0.3} Does this Jaune measure up?"
-    m nulla ""
+    m nulla "Lo es, ahora...{w=0.5} Leon era un Cazador de primer grado, uno de los mejores que nunca he conocido.{w=0.3} Este Jaune le hace justicia?"
 
 # game/script/story/st_05.rpy:2093
 translate spanish mena_JPDE_camp_2cb587cf:
 
     # j nulla "He had a bit of a rocky start, but he graduated as one of the best in our grade.{w=0.3} They call him the 'Shield of the Duchy'."
-    j nulla ""
+    j nulla "El tuvo un mal comienzo, pero se graduó como uno de los mejores en nuestro grado.{w=0.3} Ellos lo llaman el 'Escudo del Ducado'."
 
 # game/script/story/st_05.rpy:2095
 translate spanish mena_JPDE_camp_dfbeb00e:
 
     # ru nulla "AW, MAN, HE'S EVEN GOT A COOL NICKNAME!"
-    ru nulla ""
+    ru nulla "AW, HOMBRE, EL INCLUSO CONSIGUI UN SOBRENOMBRE GENIAL!"
 
 # game/script/story/st_05.rpy:2098
 translate spanish mena_JPDE_camp_cd855e24:
 
     # ru nulla "Master, when do I get a cool title, too?"
-    ru nulla ""
+    ru nulla "Maestra. cuando conseguiré un titulo genial, también?"
 
 # game/script/story/st_05.rpy:2100
 translate spanish mena_JPDE_camp_c51b8ae1:
 
     # m nulla "Titles aren't something you should concern yourself with, Ruby.{w=0.3} They will come when you've conducted yourself in a certain way for a long enough period of time, anyway."
-    m nulla ""
+    m nulla "Títulos no son algo de lo que deberías preocuparte, Ruby.{w=0.3} Ellos vendran cuando te hayas comportado en una cierta manera por un tiempo lo suficientemente largo, de todos modos."
 
 # game/script/story/st_05.rpy:2101
 translate spanish mena_JPDE_camp_ee93adf8:
 
     # d smile "Easy to say for the infamous Grimm Reaper..."
-    d smile ""
+    d smile "Fácil de decir para la infame Segadora de Grimm..."
 
 # game/script/story/st_05.rpy:2103
 translate spanish mena_JPDE_camp_8e326d96:
 
     # ru nulla "I know, right?!{w=0.3} She's got the coolest title and she never even uses it in introductions!"
-    ru nulla ""
+    ru nulla "Lo sé, verdad?!{w=0.3} Ella tiene el mas genial de los títulos y nunca siquiera lo usa en introducciones!"
 
 # game/script/story/st_05.rpy:2105
 translate spanish mena_JPDE_camp_d661165c:
 
     # m nulla "First of all, I literally haven't left the Outback in years.{w=0.3} Second, it is incredibly haughty and threatening."
-    m nulla ""
+    m nulla "Primero de todo, Yo literalmente no he dejado las AFueras en años.{w=0.3} Segundo, es increiblemente altanero y amenazante."
 
 # game/script/story/st_05.rpy:2107
 translate spanish mena_JPDE_camp_8dde3cbe:
 
     # e_i nulla "(And the skulls and bones motif isn't?)"
-    e_i nulla ""
+    e_i nulla "(Y las calaveras y el tema de los huesos no lo es?)"
 
 # game/script/story/st_05.rpy:2112
 translate spanish mena_JPDE_camp_f33b8ffd:
 
     # m nulla "Lastly...{w=0.5} Your friends seem to know quite enough about me already."
-    m nulla ""
+    m nulla "Por último...{w=0.5} Tus amigos paracen saber lo suficiente acerca de mi ya."
 
 # game/script/story/st_05.rpy:2118
 translate spanish mena_JPDE_camp_69c942fe:
 
     # m nulla "Which brings me to the lingering question...{w=0.5} Why are you here in the Outback?{w=0.3} The thought of owing it to random chance leaves me quite skeptical."
-    m nulla ""
+    m nulla "Lo quue me trae a la pregunta persistente...{w=0.5} Por qué están aquí en las Afueras?{w=0.3} El pensamiento de dejarlo a las chances del azar me deja bastante escéptica."
 
 # game/script/story/st_05.rpy:2122
 translate spanish mena_JPDE_camp_43d50d5d:
 
     # d smile "Well, the main reason we're here is because we need Ruby's help with something."
-    d smile ""
+    d smile "Bueno, la razón principal por la que estamos aquí es porque necesitamos la ayuda de Ruby con algo."
 
 # game/script/story/st_05.rpy:2125
 translate spanish mena_JPDE_camp_02cde81e:
 
     # ru nulla "You do?!"
-    ru nulla ""
+    ru nulla "Lo hacen?!"
 
 # game/script/story/st_05.rpy:2129
 translate spanish mena_JPDE_camp_c82ba5c3:
 
     # j nulla "We do...{w=0.5} But also, we've been given a mission which concerns you, miss Calavera."
-    j nulla ""
+    j nulla "Lo hacemos...{w=0.5} Pero también, se nos ha asignado una misión que le concierne, señora Calavera."
 
 # game/script/story/st_05.rpy:2131
 translate spanish mena_JPDE_camp_34d3f3e9:
 
     # j nulla "On behalf of her grace Glynda Goodwitch the I, Duchess of Peak, we're here to offer you citizenship and membership within the ranks of the Royal Hunters.{w=0.3} We would welcome your strength and skill."
-    j nulla ""
+    j nulla "En nombre de su gracia Glynda Goodwitch la I, Duquesa de Peak, Estamos aquí para ofrecerle ciudadania y membresía entre los rangos de los Cazadores Reales.{w=0.3} Nos gustaría darle la bienvenida a su fuerza y destreza.
 
 # game/script/story/st_05.rpy:2137
 translate spanish mena_JPDE_camp_d52991de:
 
     # ru_i nulla "(Oooooh, nooooo, and it was going so well!{w=0.3} She's going to explode!)"
-    ru_i nulla ""
+    ru_i nulla "(Oooooh, nooooo, y estaba yendo tan bien!{w=0.3} Ella va a explotar!)"
 
 # game/script/story/st_05.rpy:2141
 translate spanish mena_JPDE_camp_1652bae7:
 
     # m nulla "Continue."
-    m nulla ""
+    m nulla "Continua."
 
 # game/script/story/st_05.rpy:2164
 translate spanish mena_JPDE_camp_49a72409:
 
     # na "In a surprise upset, Glynda barely etches out a win for the Duchy of Peak.{w=0.3} Team JPDE, instead, ventures into the Outback and successfully tracks down their quarry!"
-    na ""
+    na "En un disgusto sorpresa, Glynda escasamente consigue una victoria para el Ducado de Peak.{w=0.3} El Equipo JPDE, en cambio, se aventura en las Afueras y éxitosamente siguen los rastros de su marca!"
 
 # game/script/story/st_05.rpy:2166
 translate spanish mena_JPDE_camp_7255444f:
 
     # na "What will be Maria's answer to their offer?{w=0.3} And does the Security Conference offer any further upsets and revelations?"
-    na ""
+    na "Cuál serpa la rspuesta de Maria a su oferta?{w=0.3} Y ofrecerá la Conferencia de Seguridad algunos disgustos mas y revelaciones?"
 
 # game/script/story/st_05.rpy:2168
 translate spanish mena_JPDE_camp_af71ac05:
 
     # na "Find out in the next rule-skirting episode of {b}JPDE2: Adagio of Darkness{/b}!"
-    na ""
+    na "Descubrelo en el próximo episodio esquivando las reglas de {b}JPDE2: Adagio of Darkness{/b}!"
 

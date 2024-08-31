@@ -14,3 +14,11 @@ translate spanish strings:
     old "JPDE2: Adagio of Darkness - EP07"
     new "JPDE2: Adagio of Darkness - EP07"
 
+# TODO: Translation updated at 2024-08-31 15:57
+
+translate spanish strings:
+
+    # game/options.rpy:17
+    old "JPDE2: Adagio of Darkness - EP08"
+    new "JPDE2: Adagio of Darkness - EP08"
+

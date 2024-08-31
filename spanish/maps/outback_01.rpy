@@ -144,3 +144,41 @@ translate spanish outback_talk_02_ac282c96:
     # j nulla "Pffft-!"
     j nulla ""
 
+# TODO: Translation updated at 2024-08-31 15:57
+
+# game/maps/outback_01.rpy:192
+translate spanish outback_talk_01_d120c4ce:
+
+    # e nulla "Oh, I see.{w=0.3} She must have some kind of vehicle or transport to get them to point B after being dropped off here."
+    e nulla ""
+
+# game/maps/outback_01.rpy:247
+translate spanish outback_talk_02_3bf50bfe:
+
+    # j surprise "Hey, Carrots.{w=0.3} Can I ask you something?"
+    j surprise ""
+
+# game/maps/outback_01.rpy:257
+translate spanish outback_talk_02_b173adc9:
+
+    # e nulla "Oh, that?{w=0.3} Easy, my uncle used to make fireworks back when I was young."
+    e nulla ""
+
+translate spanish strings:
+
+    # game/maps/outback_01.rpy:63
+    old "An endless expanse... At least we'll see Grimm coming easily?"
+    new ""
+
+    # game/maps/outback_01.rpy:90
+    old "It's been pretty quiet so far... Too quiet."
+    new ""
+
+    # game/maps/outback_01.rpy:110
+    old "Stupid technologically advanced arm...! I'd better watch my step."
+    new ""
+
+    # game/maps/outback_01.rpy:130
+    old "We should be about arrived. Finally!"
+    new ""
+

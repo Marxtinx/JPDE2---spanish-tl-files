@@ -312,3 +312,61 @@ translate spanish outback_talk_06_81e3d780:
     # j nulla "Please do.{w=0.3} I don't like our chances of finding a part time job around here."
     j nulla ""
 
+# TODO: Translation updated at 2024-08-31 15:57
+
+# game/maps/outback_02.rpy:338
+translate spanish outback_talk_04_3bf50bfe:
+
+    # j surprise "Hey, Carrots.{w=0.3} Can I ask you something?"
+    j surprise ""
+
+# game/maps/outback_02.rpy:403
+translate spanish outback_talk_05_0a5f47d4:
+
+    # ru nulla "Well...{w=0.5} Just a random question that popped into my head, since we're talking family."
+    ru nulla ""
+
+# game/maps/outback_02.rpy:448
+translate spanish outback_talk_06_0c95a041:
+
+    # j nulla "Something wrong, Penny?"
+    j nulla ""
+
+# game/maps/outback_02.rpy:451
+translate spanish outback_talk_06_89d79801:
+
+    # p nulla "As the Red Shark will depart before we're able to get back, we will need to stay overnight somewhere.{w=0.3} Then we will need to book passage on a ship to the Vacuo-Valesian continent...{w=0.5} I'm not sure our current funds cover it."
+    p nulla ""
+
+# game/maps/outback_02.rpy:455
+translate spanish outback_talk_06_9a0d0375:
+
+    # p nulla "Most likely.{w=0.3} But even then, we don't know if it'll be enough...{w=0.5} Should I make a request to the Shark for extra funds before they depart?"
+    p nulla ""
+
+translate spanish strings:
+
+    # game/maps/outback_02.rpy:88
+    old "Dried blood and coal..."
+    new ""
+
+    # game/maps/outback_02.rpy:109
+    old "Mysterious trees that appear seemingly at random..."
+    new ""
+
+    # game/maps/outback_02.rpy:130
+    old "And Grimm always seem to be found around them."
+    new ""
+
+    # game/maps/outback_02.rpy:151
+    old "That's the perimeter secured. Now let's test that theory."
+    new ""
+
+    # game/maps/outback_02.rpy:172
+    old "The Gorge of No Return... Leave it to Ruby to give it such a name."
+    new ""
+
+    # game/maps/outback_02.rpy:232
+    old "Last chance to prepare...! Are we ready?"
+    new ""
+

@@ -48,3 +48,17 @@ translate spanish dialogue_Magenta_596e13b8:
     # d nulla "Knowing him?{w=0.3} Probably both."
     d nulla "Conociendolo?{w=0.3} Probblemente ambas."
 
+# TODO: Translation updated at 2024-08-31 15:57
+
+# game/exploratory/conv/red_command_01.rpy:11
+translate spanish dialogue_Mint_e56245a4:
+
+    # ma_mi "Congratulations on your successful mission...{w=0.5} And on being the first to use the Aura Drop Cannon on an actual mission."
+    ma_mi ""
+
+# game/exploratory/conv/red_command_01.rpy:42
+translate spanish dialogue_Magenta_604fbd59:
+
+    # ma_ma "Hey, if I can go from being on guard duty for someone to taking orders from him in a completely different army but on the same airship, you can get used to that."
+    ma_ma ""
+

@@ -102,3 +102,17 @@ translate spanish jack_outback_cliffs_b506e85c:
     # j nulla "Also, I know she was younger and thus less experienced but...{w=0.5} What kind of enemy could have been able to do that to Maria?"
     j nulla ""
 
+# TODO: Translation updated at 2024-08-31 15:57
+
+# game/maps/conv/jack_convs.rpy:38
+translate spanish jack_outback_cliffs_2f8be57a:
+
+    # d smile "You saw her face when you said you were the one who killed the Gahmera?{w=0.5} I mean, it was still pretty controlled, but I figure that's her equivalent of flabbergastness."
+    d smile ""
+
+# game/maps/conv/jack_convs.rpy:54
+translate spanish jack_outback_cliffs_cd7c4da7:
+
+    # d surprise "Yeah...{w=0.5} She didn't make it sound like she had died but...{w=0.5} What kind of 'price' could she have paid to save Maria's life?"
+    d surprise ""
+

@@ -132,3 +132,29 @@ translate spanish evelyn_outback_cliffs_7056c52e:
     # e nulla "Speaking of Zi-Yan, though...{w=0.5} Oh my oh my oh my, I don't envy Ruby the moment she lays eyes on her outbacked locks."
     e nulla ""
 
+# TODO: Translation updated at 2024-08-31 15:57
+
+# game/maps/conv/evelyn_convs.rpy:37
+translate spanish evelyn_outback_cliffs_f41eeac6:
+
+    # e nulla "Let's just say that I have a theory too...{w=0.5} Well a couple, but the first isn't fully mine."
+    e nulla ""
+
+# game/maps/conv/evelyn_convs.rpy:40
+translate spanish evelyn_outback_cliffs_f0de5b17:
+
+    # d surprise "Oh.{w=0.5} Are you talking about that paper you and Professor Port...?"
+    d surprise ""
+
+# game/maps/conv/evelyn_convs.rpy:54
+translate spanish evelyn_outback_cliffs_67596d33:
+
+    # e nulla "I also used to have a shampoo that was custom made for Fauni fur but...{w=0.5} The makers were from Mistral."
+    e nulla ""
+
+# game/maps/conv/evelyn_convs.rpy:59
+translate spanish evelyn_outback_cliffs_95d116a5:
+
+    # d smile ".{w=0.3}.{w=0.3}.{w=0.5} Yeah."
+    d smile ""
+

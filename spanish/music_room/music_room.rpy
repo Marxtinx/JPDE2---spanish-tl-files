@@ -90,3 +90,19 @@ translate spanish strings:
     old "No song playing"
     new "Ninguna canción sonando"
 
+# TODO: Translation updated at 2024-08-31 15:57
+
+translate spanish strings:
+
+    # game/music_room/music_room.rpy:351
+    old "Layout 1"
+    new ""
+
+    # game/music_room/music_room.rpy:352
+    old "Layout 2"
+    new ""
+
+    # game/music_room/music_room.rpy:353
+    old "Layout 3"
+    new ""
+

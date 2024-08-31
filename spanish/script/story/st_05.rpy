@@ -3634,7 +3634,7 @@ translate spanish mena_JPDE_camp_c82ba5c3:
 translate spanish mena_JPDE_camp_34d3f3e9:
 
     # j nulla "On behalf of her grace Glynda Goodwitch the I, Duchess of Peak, we're here to offer you citizenship and membership within the ranks of the Royal Hunters.{w=0.3} We would welcome your strength and skill."
-    j nulla "En nombre de su gracia Glynda Goodwitch la I, Duquesa de Peak, Estamos aquí para ofrecerle ciudadania y membresía entre los rangos de los Cazadores Reales.{w=0.3} Nos gustaría darle la bienvenida a su fuerza y destreza.
+    j nulla "En nombre de su gracia Glynda Goodwitch la I, Duquesa de Peak, Estamos aquí para ofrecerle ciudadania y membresía entre los rangos de los Cazadores Reales.{w=0.3} Nos gustaría darle la bienvenida a su fuerza y destreza."
 
 # game/script/story/st_05.rpy:2137
 translate spanish mena_JPDE_camp_d52991de:

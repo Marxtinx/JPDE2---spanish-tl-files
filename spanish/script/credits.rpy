@@ -106,3 +106,31 @@ translate spanish strings:
     old "Episode 07 - Returns"
     new "Episodio 07 - Regresos"
 
+# TODO: Translation updated at 2024-08-31 15:57
+
+translate spanish strings:
+
+    # game/script/credits.rpy:7
+    old "Episode 08 - Aberration"
+    new "Episodio 08 - Aberración"
+
+    # game/script/credits.rpy:137
+    old "The Wonderful JPDE Supporters on Patreon and Ko-Fi"
+    new "Los maravillos Supporters en Patreon y Ko-Fi"
+
+    # game/script/credits.rpy:175
+    old "Ren'Py Visual Novel Engine"
+    new "Ren'py motor de novelas visuales"
+
+    # game/script/credits.rpy:188
+    old "Rooster Teeth, for 21 years of adventure."
+    new "Rooster Teeth, por 21 años de aventuras."
+
+    # game/script/credits.rpy:189
+    old "The CRWBY and FNDM."
+    new "El CRWBY y FNDM."
+
+    # game/script/credits.rpy:190
+    old "MONTY OUM. Always, forever."
+    new "MONTY OUM. Siempre, para siempre."
+

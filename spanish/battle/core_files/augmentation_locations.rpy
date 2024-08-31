@@ -66,3 +66,17 @@ translate spanish outback_camp_augmentation_774ddebd:
     # aq_st amused "Back for more, didn't you?{w=0.3} Let Aqua take care of you~"
     aq_st amused "De vuelta por mas, no es asi?{w=0.3} Deja que Aqua se encargue de ti~"
 
+# TODO: Translation updated at 2024-08-31 15:57
+
+# game/battle/core_files/augmentation_locations.rpy:24
+translate spanish outback_camp_augmentation_7e1dde0c:
+
+    # aq_st laugh "No worries, I can {b}reset the allocations back to zero whenever{/b}!"
+    aq_st laugh ""
+
+# game/battle/core_files/augmentation_locations.rpy:37
+translate spanish outback_camp_augmentation_58d97d97:
+
+    # aq_st amused "Back for more, are you?{w=0.3} Let Aqua take care of you~"
+    aq_st amused ""
+

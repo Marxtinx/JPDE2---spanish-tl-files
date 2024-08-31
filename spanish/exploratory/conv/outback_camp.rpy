@@ -408,3 +408,53 @@ translate spanish outback_talk_maria_d5c7ad7e:
     # d_i neutral "(What could she have meant...?)"
     d_i neutral ""
 
+# TODO: Translation updated at 2024-08-31 15:57
+
+# game/exploratory/conv/outback_camp.rpy:6
+translate spanish outback_talk_jack_808b7d07:
+
+    # j nulla "Nice timing with that intervention back there.{w=0.3} Now we have a chance."
+    j nulla ""
+
+# game/exploratory/conv/outback_camp.rpy:24
+translate spanish outback_talk_jack_c2544dbb:
+
+    # j nulla "Yet another fight with a Gargantuan Grimm with way less people than I'm comfortable having..."
+    j nulla ""
+
+# game/exploratory/conv/outback_camp.rpy:69
+translate spanish outback_talk_penny_c1d1f611:
+
+    # p nulla "We could be facing an enemy that we all together could take easily, or someone even Miss Goodwitch may struggle against...{w=0.5} We just don't know."
+    p nulla ""
+
+# game/exploratory/conv/outback_camp.rpy:88
+translate spanish outback_talk_evelyn_09477ae2:
+
+    # d neutral "I guess.{w=0.3} She's older than Miss Goodwitch, though."
+    d neutral ""
+
+# game/exploratory/conv/outback_camp.rpy:112
+translate spanish outback_talk_evelyn_e4f19156:
+
+    # e nulla "A couple.{w=0.3} While making my paper with Professor Port, I've come across some interesting theories."
+    e nulla ""
+
+# game/exploratory/conv/outback_camp.rpy:114
+translate spanish outback_talk_evelyn_a0cc893c:
+
+    # e nulla "One study observed that, while the nature and abilities of a Grimm ultimately depend on the fear they're based on, {b}species that coexist in the region will all share some characteristics{/b}."
+    e nulla ""
+
+# game/exploratory/conv/outback_camp.rpy:117
+translate spanish outback_talk_evelyn_4375741e:
+
+    # e nulla "You got it.{w=0.3} For example, two out of the three species we've faced so far were quite impervious to melee attacks, weren't they?"
+    e nulla ""
+
+# game/exploratory/conv/outback_camp.rpy:118
+translate spanish outback_talk_evelyn_8e0209af:
+
+    # d smile "And two of them were weak to fire damage...{w=0.5} Something to keep in mind."
+    d smile ""
+

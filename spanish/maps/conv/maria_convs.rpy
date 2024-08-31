@@ -96,3 +96,23 @@ translate spanish maria_outback_cliffs_499cc836:
     # m nulla "I see...{w=0.5} Thank you, [p_n]."
     m nulla ""
 
+# TODO: Translation updated at 2024-08-31 15:57
+
+# game/maps/conv/maria_convs.rpy:28
+translate spanish maria_outback_cliffs_d2ad1687:
+
+    # m nulla ".{w=0.3}.{w=0.3}.{w=0.5} [p_n], could I ask you something...{w=0.5} About Ruby?"
+    m nulla ""
+
+# game/maps/conv/maria_convs.rpy:30
+translate spanish maria_outback_cliffs_425d3d82:
+
+    # m nulla "Just what you've observed will do...{w=0.5} I wanted to ask about her relationship with her family."
+    m nulla ""
+
+# game/maps/conv/maria_convs.rpy:32
+translate spanish maria_outback_cliffs_716c1e7e:
+
+    # m nulla "Even before her scroll broke, she didn't exactly seek them out that much.{w=0.3} So I was wondering if there was any bad blood between them...?"
+    m nulla ""
+

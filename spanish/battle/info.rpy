@@ -68,7 +68,7 @@ translate spanish strings:
 
     # game/battle/info.rpy:143
     old "[enemy.nulli]"
-    new "[enemy.nulli]""
+    new "[enemy.nulli]"
 
     # game/battle/info.rpy:155
     old "[enemy.reflect]"

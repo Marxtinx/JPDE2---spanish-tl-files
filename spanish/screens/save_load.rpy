@@ -26,3 +26,11 @@ translate spanish strings:
     old ">"
     new ">"
 
+# TODO: Translation updated at 2024-08-31 15:57
+
+translate spanish strings:
+
+    # game/screens/save_load.rpy:75
+    old "[slot]"
+    new ""
+

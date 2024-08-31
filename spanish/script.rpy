@@ -252,7 +252,7 @@ translate spanish strings:
 
     # game/script.rpy:230
     old "May Zedong"
-    new ""May Zedong"
+    new "May Zedong"
 
     # game/script.rpy:238
     old "Server"
@@ -285,4 +285,48 @@ translate spanish strings:
     # game/script.rpy:293
     old "Morgan Braeburn"
     new "Morgan Braeburn"
+
+# TODO: Translation updated at 2024-08-31 15:57
+
+translate spanish strings:
+
+    # game/script.rpy:44
+    old "Gerda Ivory"
+    new "Gerda Ivory"
+
+    # game/script.rpy:120
+    old "Sierra Taipan"
+    new "Sierra Taipan"
+
+    # game/script.rpy:276
+    old "Andrea&Howard"
+    new "Andrea&Howard"
+
+    # game/script.rpy:288
+    old "Agni"
+    new "Agni"
+
+    # game/script.rpy:300
+    old "Fruitmonger"
+    new "Frutero"
+
+    # game/script.rpy:301
+    old "Carpenter"
+    new "Carpintero"
+
+    # game/script.rpy:302
+    old "Merchant"
+    new "Mercader"
+
+    # game/script.rpy:303
+    old "Benbow Regular"
+    new "Regular de Benbow"
+
+    # game/script.rpy:304
+    old "Benbow Female Regular"
+    new "Regular Femenino de Benbow"
+
+    # game/script.rpy:305
+    old "Regulars"
+    new "Regulares"
 

@@ -186,3 +186,23 @@ translate spanish sienna_redcliffs_waterway_1bdef438:
     # sk nulla "So I will keep on living.{w=0.3} For now.{w=0.3} Let's leave this place together, [p_n]."
     sk nulla ""
 
+# TODO: Translation updated at 2024-08-31 15:57
+
+# game/maps/conv/sienna_khan.rpy:30
+translate spanish sienna_redcliffs_prison_01_3ab5c9ef:
+
+    # d torch neutral "The longer we dally around here, the sooner your former subordinates catch up.{w=0.3} And I can't rocket punch people all the time."
+    d torch neutral ""
+
+# game/maps/conv/sienna_khan.rpy:38
+translate spanish sienna_redcliffs_prison_01_d231b840:
+
+    # sk_i "(.{w=0.3}.{w=0.3}.{w=0.5} Does it, though?)"
+    sk_i ""
+
+# game/maps/conv/sienna_khan.rpy:96
+translate spanish sienna_redcliffs_waterway_4a9b39f0:
+
+    # sk nulla "With the hole we made, the Kataglyphs are definitely going to enter the fortress, now."
+    sk nulla ""
+

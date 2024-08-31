@@ -26,3 +26,11 @@ translate spanish strings:
     old "Settings"
     new "configuracion"
 
+# TODO: Translation updated at 2024-08-31 15:57
+
+translate spanish strings:
+
+    # game/screens/dialogue_screens.rpy:107
+    old "Scroll"
+    new ""
+

@@ -114,3 +114,23 @@ translate spanish penny_outback_cliffs_b4d70d83:
     # p nulla "But with team-mates like you, as they say...{w=0.5} It was easy mode."
     p nulla ""
 
+# TODO: Translation updated at 2024-08-31 15:57
+
+# game/maps/conv/penny_convs.rpy:19
+translate spanish penny_outback_fields_4ff49274:
+
+    # p nulla "Maybe, but the way the driver talked about it it seems to be a systemic enough occurrence...{w=0.5} Also, Grimm old enough to care about territory aren't that common."
+    p nulla ""
+
+# game/maps/conv/penny_convs.rpy:49
+translate spanish penny_outback_cliffs_88a59232:
+
+    # p nulla "We...{w=0.5} Technically, we've completed our first mission, haven't we?{w=0.3} Maria is on board so...{w=0.5} It was a success."
+    p nulla ""
+
+# game/maps/conv/penny_convs.rpy:57
+translate spanish penny_outback_cliffs_d5b702fb:
+
+    # p nulla "But with teammates like you, as they say...{w=0.5} It was easy mode."
+    p nulla ""
+

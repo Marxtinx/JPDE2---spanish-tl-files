@@ -90,3 +90,11 @@ translate spanish ruby_outback_cliffs_cfcd5778:
     # ru nulla "Yay~{w=0.5} Here's hoping they do Hunter grade materials!"
     ru nulla ""
 
+# TODO: Translation updated at 2024-08-31 15:57
+
+# game/maps/conv/ruby_convs.rpy:37
+translate spanish ruby_outback_cliffs_b3e790ac:
+
+    # d surprise "Oh, that?{w=0.3} I mean yeah, but it's been a long time since she made anything other than accessories...{w=0.5} She mostly designs, nowadays.{w=0.3} Why do you ask?"
+    d surprise ""
+

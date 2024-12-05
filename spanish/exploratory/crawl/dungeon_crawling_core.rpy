@@ -8,17 +8,17 @@ translate spanish strings:
 
     # game/exploratory/crawl/dungeon_crawling_core.rpy:320
     old "UP"
-    new ""
+    new "ARRIBA"
 
     # game/exploratory/crawl/dungeon_crawling_core.rpy:321
     old "LEFT"
-    new ""
+    new "IZQUIERDA"
 
     # game/exploratory/crawl/dungeon_crawling_core.rpy:322
     old "RIGHT"
-    new ""
+    new "DERECHA"
 
     # game/exploratory/crawl/dungeon_crawling_core.rpy:323
     old "DOWN"
-    new ""
+    new "ABAJO"
 

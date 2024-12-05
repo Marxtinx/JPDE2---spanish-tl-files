@@ -4,9 +4,9 @@ translate spanish strings:
 
     # game/exploratory/explore_scripts.rpy:76
     old "YES"
-    new ""
+    new "SI"
 
     # game/exploratory/explore_scripts.rpy:77
     old "NO"
-    new ""
+    new "NO"
 

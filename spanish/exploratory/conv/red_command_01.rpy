@@ -54,11 +54,11 @@ translate spanish dialogue_Magenta_596e13b8:
 translate spanish dialogue_Mint_e56245a4:
 
     # ma_mi "Congratulations on your successful mission...{w=0.5} And on being the first to use the Aura Drop Cannon on an actual mission."
-    ma_mi ""
+    ma_mi "Felicidades en el éxito de tu misión...{w=0.5} Y en ser el primero en usar el la Caída del Cañon de Aura en una misión real."
 
 # game/exploratory/conv/red_command_01.rpy:42
 translate spanish dialogue_Magenta_604fbd59:
 
     # ma_ma "Hey, if I can go from being on guard duty for someone to taking orders from him in a completely different army but on the same airship, you can get used to that."
-    ma_ma ""
+    ma_ma "Hey, si yo puedo ir de estar en deber de guardia para alguien a tomar ordenes de él en un ejercito totalmente diferente pero en la misma aeronave, tú puedes acostumbrarte a eso."
 

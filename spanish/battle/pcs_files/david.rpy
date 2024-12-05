@@ -4,7 +4,7 @@ translate spanish strings:
 
     # game/battle/pcs_files/david.rpy:8
     old "{} di Kabegis"
-    new "{ di Kabegis}"
+    new "{} di Kabegis"
 
     # game/battle/pcs_files/david.rpy:10
     old "Fast Whip"
@@ -16,7 +16,7 @@ translate spanish strings:
 
     # game/battle/pcs_files/david.rpy:12
     old "Focus - {}"
-    new ""
+    new "Concentración - {}"
 
     # game/battle/pcs_files/david.rpy:12
     old "\"Those who do not care about life are already dead. And a corpse can't win anything.\"\nRestores Some HP. {b}Cost -{/b} 15 MP"
@@ -24,7 +24,7 @@ translate spanish strings:
 
     # game/battle/pcs_files/david.rpy:14
     old "Rocket Punch"
-    new ""
+    new "Puñetazo Cohete"
 
     # game/battle/pcs_files/david.rpy:14
     old "The Fall of Beacon deprived {} of much, including an arm. The Polendina-grade prosthetic, however, is kinda cool."

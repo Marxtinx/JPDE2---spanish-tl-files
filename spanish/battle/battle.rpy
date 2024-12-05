@@ -88,7 +88,7 @@ translate spanish strings:
 
     # game/battle/battle.rpy:2372
     old "[hand1.mp_dmg]"
-    new ""
+    new "[hand1.mp_dmg]"
 
     # game/battle/battle.rpy:2374
     old "[hand1.mp_cost]"

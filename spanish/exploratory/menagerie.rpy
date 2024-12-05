@@ -4,109 +4,109 @@ translate spanish strings:
 
     # game/exploratory/menagerie.rpy:18
     old "FOOD STALL"
-    new ""
+    new "PUESTO DE COMIDA"
 
     # game/exploratory/menagerie.rpy:24
     old "BLACKSMITH"
-    new ""
+    new "HERRERO"
 
     # game/exploratory/menagerie.rpy:30
     old "DUST VENDOR"
-    new ""
+    new "VENDEDOR DE DUST"
 
     # game/exploratory/menagerie.rpy:36
     old "MEETING SPOT"
-    new ""
+    new "LUGAR DE ENCUENTRO"
 
     # game/exploratory/menagerie.rpy:55
     old "MOVE"
-    new ""
+    new "MOVERSE"
 
     # game/exploratory/menagerie.rpy:146
     old "MARKET STREET"
-    new ""
+    new "CALLE COMERCIAL"
 
     # game/exploratory/menagerie.rpy:148
     old "SUNSET BAY"
-    new ""
+    new "BAHIA ATARDECER"
 
     # game/exploratory/menagerie.rpy:150
     old "BELLADONNA COVE"
-    new ""
+    new "ENSENADA BELLADONNA"
 
     # game/exploratory/menagerie.rpy:152
     old "CITY LIMITS"
-    new ""
+    new "LIMITES DE LA CIUDAD"
 
     # game/exploratory/menagerie.rpy:154
     old "RETURN"
-    new ""
+    new "REGRESAR"
 
     # game/exploratory/menagerie.rpy:166
     old "CHANGE PARTY"
-    new ""
+    new "CAMBIAR EL EQUIPO"
 
     # game/exploratory/menagerie.rpy:170
     old "JACQUELINE"
-    new ""
+    new "JACQUELINE"
 
     # game/exploratory/menagerie.rpy:174
     old "PENNY"
-    new ""
+    new "PENNY"
 
     # game/exploratory/menagerie.rpy:178
     old "EVELYN"
-    new ""
+    new "EVELYN"
 
     # game/exploratory/menagerie.rpy:183
     old "RUBY"
-    new ""
+    new "RUBY"
 
     # game/exploratory/menagerie.rpy:192
     old "MARIA"
-    new ""
+    new "MARIA"
 
     # game/exploratory/menagerie.rpy:197
     old "AUGMENTATION"
-    new ""
+    new "AUGMENTATION"
 
     # game/exploratory/menagerie.rpy:228
     old "JACK & KALI"
-    new ""
+    new "JACK & KALI"
 
     # game/exploratory/menagerie.rpy:235
     old "KALI"
-    new ""
+    new "KALI"
 
     # game/exploratory/menagerie.rpy:245
     old "EVELYN & PENNY"
-    new ""
+    new "EVELYN & PENNY"
 
     # game/exploratory/menagerie.rpy:250
     old "AMBER"
-    new ""
+    new "AMBER"
 
     # game/exploratory/menagerie.rpy:272
     old "It shouldn't be that hard. From what we read, Maria Calavera strikes a pretty distinct figure."
-    new ""
+    new "No debería ser tan dificil. Por lo que hemos leído, Maria Calavere da una impresión bastante distintiva."
 
     # game/exploratory/menagerie.rpy:274
     old "Maybe the weaponsmith might have heard of her, then?"
-    new ""
+    new "Quizás el herrero de armas haya oído de ella, entonces?"
 
     # game/exploratory/menagerie.rpy:276
     old "No luck with food or equipment. But maybe...?"
-    new ""
+    new "No hubo suerte con la comida ni equipamiento. Pero quizás...?"
 
     # game/exploratory/menagerie.rpy:278
     old "We might have burned through our goodwill already. What now?"
-    new ""
+    new "Quizás ya hayamos quemado la buena volundad. Qué ahora?"
 
     # game/exploratory/menagerie.rpy:280
     old "Trying to test us, is she? We'll show her."
-    new ""
+    new "Está intentando probarnos? Le enseñaremos."
 
     # game/exploratory/menagerie.rpy:282
     old "A Gargantuan Grimm awaits us... Better make sure we're as ready as possible."
-    new ""
+    new "Un Grimm Gargantuan nos espera... Mejor asegurarnos de que estamos tan preparados como sea posible."
 
